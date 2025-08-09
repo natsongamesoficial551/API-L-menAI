@@ -96,11 +96,13 @@ def buscar_por_intent(pergunta):
         return None, None
 
     p_limpa = limpar_texto(pergunta)
+    palavras_pergunta = set(p_limpa.split())
 
-    # 1) Busca por palavra-chave nas intents
+    # 1) Busca por palavra-chave nas intents, comparando palavras exatas
     for intent in intents:
         for kw in intent.get("keywords", []):
-            if kw in p_limpa:
+            kw_limpa = limpar_texto(kw)
+            if kw_limpa in palavras_pergunta:
                 resposta = intent.get("response", "")
                 return resposta, None
 
