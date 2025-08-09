@@ -120,7 +120,15 @@
     "resposta": "Usadas pelos povos locais para cura tradicional."
   },
   {
-    "pergunta": "Rios da região",
+    "pergunta": "Rios",
+    "resposta": "Amazonas, Napo, Putumayo e Caquetá."
+  },
+  {
+    "pergunta": "Rios do Amazonas",
+    "resposta": "Amazonas, Napo, Putumayo e Caquetá."
+  },
+  {
+    "pergunta": "Rios da Região",
     "resposta": "Amazonas, Napo, Putumayo e Caquetá."
   },
   {
