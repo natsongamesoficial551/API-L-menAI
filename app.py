@@ -98,15 +98,21 @@ def buscar_por_intent(pergunta):
     p_limpa = limpar_texto(pergunta)
     palavras_pergunta = set(p_limpa.split())
 
-    # 1) Busca por palavra-chave nas intents, comparando palavras exatas
-    for intent in intents:
-        for kw in intent.get("keywords", []):
-            kw_limpa = limpar_texto(kw)
-            if kw_limpa in palavras_pergunta:
-                resposta = intent.get("response", "")
-                return resposta, None
+    # 1) Busca pela intent com maior número de palavras-chave presentes na pergunta
+    max_matches = 0
+    melhor_intent = None
 
-    # 2) Busca por TF-IDF + similaridade cosseno
+    for intent in intents:
+        keywords = [limpar_texto(kw) for kw in intent.get("keywords", [])]
+        matches = sum(1 for kw in keywords if kw in palavras_pergunta)
+        if matches > max_matches:
+            max_matches = matches
+            melhor_intent = intent
+
+    if melhor_intent and max_matches > 0:
+        return melhor_intent.get("response", ""), None
+
+    # 2) Busca por TF-IDF + similaridade cosseno, como fallback
     v_pergunta = vectorizer.transform([p_limpa])
     similares = cosine_similarity(v_pergunta, X)
     idx = similares.argmax()
@@ -116,8 +122,7 @@ def buscar_por_intent(pergunta):
         intent_nome = mapping_intent[idx]
         for intent in intents:
             if intent.get("intent") == intent_nome:
-                resposta = intent.get("response", "")
-                return resposta, None
+                return intent.get("response", ""), None
 
     return None, None
 

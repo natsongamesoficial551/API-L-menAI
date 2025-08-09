@@ -32,7 +32,7 @@
     },
     {
       "intent": "rede_hidrografica",
-      "keywords": ["rede", "hidrografica", "rio", "amazonas", "afluentes", "rios", "bacias", "agua"],
+      "keywords": ["rede", "hidrografica", "rios", "amazonas", "afluentes", "rios", "bacias", "agua"],
       "response": "Formada pelo Rio Amazonas e seus afluentes."
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "intent": "mamiferos_aquaticos_botos",
-      "keywords": ["botos", "mamiferos", "aquaticos", "rios", "amazonicos", "boto", "cor", "rosa", "golfinho"],
+      "keywords": ["botos", "mamiferos", "aquaticos", "rio", "amazonicos", "boto", "cor", "rosa", "golfinho"],
       "response": "Mamíferos aquáticos dos rios amazônicos, incluindo o boto-cor-de-rosa."
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "intent": "reptil_jacare",
-      "keywords": ["jacare", "reptil", "predador", "encontrado", "rios", "lagos", "crocodilo", "agua"],
+      "keywords": ["jacare", "reptil", "predador", "encontrado", "rio", "lagos", "crocodilo", "agua"],
       "response": "Réptil predador encontrado em rios e lagos."
     },
     {
