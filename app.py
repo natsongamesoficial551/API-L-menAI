@@ -8,6 +8,9 @@ import string
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import random
+import threading
+import time
+import requests
 
 app = Flask(__name__)
 CORS(app)  # habilita CORS para todas as rotas
@@ -158,6 +161,24 @@ def adicionar_pergunta_resposta():
 
     return jsonify({"msg": "Pergunta e resposta adicionadas com sucesso!"})
 
+# --- Endpoint para manter o servidor “acordado” ---
+@app.route("/ping", methods=["GET"])
+def ping():
+    return jsonify({"status": "alive"})
+
+# --- Thread para autoping ---
+def autoping():
+    port = int(os.getenv("PORT", 5000))
+    url = f"http://localhost:{port}/ping"
+    while True:
+        try:
+            response = requests.get(url)
+            print(f"Autoping: {response.status_code} - {response.json()}")
+        except Exception as e:
+            print(f"Erro no autoping: {e}")
+        time.sleep(300)  # espera 5 minutos
+
 if __name__ == "__main__":
+    threading.Thread(target=autoping, daemon=True).start()
     port = int(os.getenv("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
