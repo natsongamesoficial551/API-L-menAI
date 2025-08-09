@@ -13,7 +13,7 @@
   },
   {
     "pergunta": "Séculos XIX-XX",
-    "resposta": "Ciclo da borracha, mineração, Construção de estradas, conflitos fundiários, Primeiras áreas de proteção ambiental."
+    "resposta": "Ciclo da borracha, mineração, construção de estradas, conflitos fundiários, primeiras áreas de proteção ambiental."
   },
   {
     "pergunta": "Localização e Extensão",
@@ -28,11 +28,11 @@
     "resposta": "Formada pelo Rio Amazonas e seus afluentes."
   },
   {
-    "pergunta": "Fauna Amazônica",
-    "resposta": "Mais de mil espécies de aves, mamíferos, répteis, insetos, rãs e peixes."
+    "pergunta": "Principais rios da Amazônia",
+    "resposta": "Amazonas, Napo, Putumayo e Caquetá."
   },
   {
-    "pergunta": "Fauna",
+    "pergunta": "Fauna Amazônica",
     "resposta": "Mais de mil espécies de aves, mamíferos, répteis, insetos, rãs e peixes."
   },
   {
@@ -120,18 +120,6 @@
     "resposta": "Usadas pelos povos locais para cura tradicional."
   },
   {
-    "pergunta": "Rios",
-    "resposta": "Amazonas, Napo, Putumayo e Caquetá."
-  },
-  {
-    "pergunta": "Rios do Amazonas",
-    "resposta": "Amazonas, Napo, Putumayo e Caquetá."
-  },
-  {
-    "pergunta": "Rios da Região",
-    "resposta": "Amazonas, Napo, Putumayo e Caquetá."
-  },
-  {
     "pergunta": "Clima Equatorial",
     "resposta": "Quente e úmido o ano todo, sem estação seca."
   },
@@ -165,7 +153,7 @@
   },
   {
     "pergunta": "Flora",
-    "resposta": "Castanheira-do-pará, sumaúma (ceiba)Palmeiras, cipós, bromélias e orquídeasPlantas medicinais usadas pelos povos locais."
+    "resposta": "Castanheira-do-pará, sumaúma (ceiba), palmeiras, cipós, bromélias e orquídeas. Plantas medicinais usadas pelos povos locais."
   },
   {
     "pergunta": "Povos Shuar",
@@ -181,7 +169,7 @@
   },
   {
     "pergunta": "Povos Originários",
-    "resposta": "Povos da colombia e Povos do Equador."
+    "resposta": "Povos da Colômbia e povos do Equador."
   },
   {
     "pergunta": "Colonização",
@@ -244,40 +232,32 @@
     "resposta": "Contém espécies únicas e saberes tradicionais."
   },
   {
-    "pergunta": "Igapós",
-    "resposta": "Alagadas o ano todo, vegetação adaptada."
-  },
-  {
     "pergunta": "Natan",
     "resposta": "Ele me criou para responder perguntas sobre o trabalho de hoje, História e Biologia da Amazônia e Colômbia."
   },
   {
     "pergunta": "Criador",
-    "resposta": "Meu criador foi Natan, Ele é um ótimo Programador!"
+    "resposta": "Meu criador foi Natan, ele é um ótimo programador!"
   },
   {
-    "pergunta": "ecossistemas da Amazônia",
-    "resposta": "são os diferentes tipos de ambientes naturais que existem dentro da Floresta Amazônica."
+    "pergunta": "Ecossistemas da Amazônia",
+    "resposta": "São os diferentes tipos de ambientes naturais que existem dentro da Floresta Amazônica."
   },
   {
     "pergunta": "História e Impactos",
-    "resposta": "São os impactos ambientais e socias na Amazônia."
+    "resposta": "São os impactos ambientais e sociais na Amazônia."
   },
   {
     "pergunta": "Conclusão",
-    "resposta": " A Amazônia Equatoriana e Colombiana é vital para o planeta, abrigando povos, culturas e riquezas naturais únicas."
+    "resposta": "A Amazônia Equatoriana e Colombiana é vital para o planeta, abrigando povos, culturas e riquezas naturais únicas."
   },
   {
     "pergunta": "Problemas Atuais",
-    "resposta": "Mineração ilegal, Rios poluídos, Desmatamento, Queimadas, Grupos armados e mais..."
+    "resposta": "Mineração ilegal, rios poluídos, desmatamento, queimadas, grupos armados e mais..."
   },
   {
     "pergunta": "Clima Amazônico",
-    "resposta": "um dos climas mais quente e chuvoso."
-  },
-  {
-    "pergunta": "Problemas Atuais",
-    "resposta": "Mineração ilegal, Rios poluídos, Desmatamento, Queimadas, Grupos armados e mais..."
+    "resposta": "Um dos climas mais quente e chuvoso."
   },
   {
     "pergunta": "Responsabilidade",
