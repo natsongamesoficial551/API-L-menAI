@@ -65,18 +65,22 @@ def buscar_por_similaridade(pergunta):
 # --- Carregamento das intents ---
 try:
     with open("intents.json", "r", encoding="utf-8") as f:
-        intents = json.load(f)
+        data = json.load(f)
+        intents = data.get("intents", [])
 except FileNotFoundError:
     print("Arquivo intents.json não encontrado. Intents desabilitados.")
     intents = []
 
-# Monta lista de exemplos e mapeia para intents para TF-IDF
+# Monta lista de exemplos (keywords) e mapeia para intents para TF-IDF
 exemplos = []
 mapping_intent = []
 for intent in intents:
-    for example in intent.get("examples", []):
-        exemplos.append(limpar_texto(example))
-        mapping_intent.append(intent["intent"])
+    if isinstance(intent, dict):
+        for kw in intent.get("keywords", []):
+            exemplos.append(limpar_texto(kw))
+            mapping_intent.append(intent.get("intent", "unknown"))
+    else:
+        print(f"Warning: ignorando intent inválido (não é dict): {intent}")
 
 # Inicializa TF-IDF
 if exemplos:
@@ -97,8 +101,8 @@ def buscar_por_intent(pergunta):
     for intent in intents:
         for kw in intent.get("keywords", []):
             if kw in p_limpa:
-                resposta = random.choice(intent.get("responses", [""]))
-                return resposta, intent.get("template", None)
+                resposta = intent.get("response", "")
+                return resposta, None
 
     # 2) Busca por TF-IDF + similaridade cosseno
     v_pergunta = vectorizer.transform([p_limpa])
@@ -109,9 +113,9 @@ def buscar_por_intent(pergunta):
     if similaridade > 0.5:
         intent_nome = mapping_intent[idx]
         for intent in intents:
-            if intent["intent"] == intent_nome:
-                resposta = random.choice(intent.get("responses", [""]))
-                return resposta, intent.get("template", None)
+            if intent.get("intent") == intent_nome:
+                resposta = intent.get("response", "")
+                return resposta, None
 
     return None, None
 
