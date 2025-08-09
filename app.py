@@ -56,7 +56,7 @@ def limpar_texto(texto):
 def buscar_por_similaridade(pergunta):
     p_limpa = limpar_texto(pergunta)
     perguntas_limpa = [limpar_texto(item["pergunta"]) for item in base_qa]
-    melhor_match = difflib.get_close_matches(p_limpa, perguntas_limpa, n=1, cutoff=0.6)
+    melhor_match = difflib.get_close_matches(p_limpa, perguntas_limpa, n=1, cutoff=0.85)
     if melhor_match:
         index = perguntas_limpa.index(melhor_match[0])
         return base_qa[index]["resposta"]
