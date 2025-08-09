@@ -1,0 +1,156 @@
+[
+  {
+    "intent": "localizacao_amazonia",
+    "examples": [
+      "onde fica a amazônia equatoriana e colombiana",
+      "qual a extensão da amazônia na colômbia",
+      "que países fazem parte da amazônia",
+      "onde está localizada a região amazônica",
+      "qual o território da amazônia na colômbia"
+    ],
+    "keywords": ["localização", "onde", "extensão", "países", "território", "amazônia"],
+    "responses": [
+      "A Amazônia Equatoriana e Colombiana fica no norte da América do Sul, abrangendo 42% da Colômbia e partes do Brasil, Peru, Equador e Venezuela.",
+      "A região amazônica cobre uma grande área na Colômbia, cerca de 42% do território nacional."
+    ],
+    "template": "Quer saber sobre a localização da Amazônia Equatoriana e Colombiana? Posso ajudar com mais detalhes."
+  },
+  {
+    "intent": "rios_amazonia",
+    "examples": [
+      "quais são os principais rios da região",
+      "quais rios cortam a amazônia equatorial",
+      "fala dos rios amazônicos",
+      "quais são os rios importantes na região",
+      "rede hidrográfica amazônica"
+    ],
+    "keywords": ["rios", "amazonas", "rede hidrográfica", "navigáveis", "principais rios", "putumayo", "napo", "caquetá"],
+    "responses": [
+      "O Rio Amazonas é o principal rio da região, junto com Napo, Putumayo e Caquetá, formando uma vasta rede hidrográfica.",
+      "A região amazônica é cortada por vários rios importantes que sustentam a biodiversidade local."
+    ],
+    "template": "Quer saber mais sobre os rios da Amazônia? Posso detalhar a rede hidrográfica."
+  },
+  {
+    "intent": "tipos_florestas",
+    "examples": [
+      "o que são florestas de terra firme",
+      "como funcionam as várzeas",
+      "fala sobre os igapós",
+      "tipos de floresta na amazônia",
+      "características das florestas amazônicas"
+    ],
+    "keywords": ["floresta", "terra firme", "várzea", "igapó", "tipos", "alagam", "vegetação"],
+    "responses": [
+      "Florestas de terra firme são áreas que não alagam e possuem árvores gigantes.",
+      "Várzeas são áreas que alagam periodicamente e têm solo fértil por sedimentos dos rios.",
+      "Igapós são áreas alagadas o ano todo, onde a vegetação se adaptou à vida na água."
+    ],
+    "template": "Quer entender os tipos de floresta da Amazônia? Posso explicar melhor."
+  },
+  {
+    "intent": "biodiversidade_amazonia",
+    "examples": [
+      "como é a diversidade biológica da região",
+      "quais animais vivem na amazônia",
+      "fala dos peixes da amazônia",
+      "quais plantas são comuns na floresta",
+      "quantas espécies de aves tem na amazônia"
+    ],
+    "keywords": ["biodiversidade", "animais", "plantas", "espécies", "fauna", "flora", "aves", "mamíferos", "répteis"],
+    "responses": [
+      "A biodiversidade na Amazônia é imensa, com mais de mil espécies de aves, além de mamíferos, répteis, peixes e plantas únicas.",
+      "Entre os animais, destacam-se a onça-pintada, boto-cor-de-rosa, anaconda, jacarés e muitas espécies de macacos.",
+      "As principais árvores incluem a castanheira-do-pará, sumaúma e diversas palmeiras, além de cipós, bromélias e orquídeas."
+    ],
+    "template": "Quer saber mais sobre a biodiversidade amazônica? Posso contar curiosidades."
+  },
+  {
+    "intent": "povos_indigenas",
+    "examples": [
+      "quais povos indígenas vivem na amazônia colombiana",
+      "fala dos tikuna e yucuna",
+      "quem são os achuar e shuar",
+      "como vivem os povos indígenas",
+      "cultura dos indígenas da amazônia"
+    ],
+    "keywords": ["povos indígenas", "tikuna", "yucuna", "uitoto", "achuar", "shuar", "kichwa", "huaorani", "cultura", "vida"],
+    "responses": [
+      "Os Tikuna, Yucuna e Uitoto são alguns dos povos que vivem na Amazônia Colombiana, cada um com sua cultura e tradições.",
+      "No Equador, os Achuar, Shuar, Kichwa e Huaorani mantêm suas tradições, vivendo da pesca, agricultura e coleta.",
+      "A espiritualidade indígena está ligada à natureza, vendo a floresta como algo sagrado."
+    ],
+    "template": "Quer saber mais sobre os povos indígenas da Amazônia? Posso detalhar."
+  },
+  {
+    "intent": "historia_colonizacao",
+    "examples": [
+      "quando os europeus chegaram na amazônia",
+      "fala da colonização na região",
+      "o que aconteceu com os indígenas na colonização",
+      "ciclo da borracha na amazônia",
+      "como foi a mineração e exploração"
+    ],
+    "keywords": ["colonização", "europeus", "história", "ciclo da borracha", "mineração", "exploração", "conflitos"],
+    "responses": [
+      "Os espanhóis e portugueses chegaram durante a colonização, explorando recursos e impondo cultura.",
+      "O ciclo da borracha ocorreu entre 1850 e 1920, com intensa exploração e impactos sociais.",
+      "A mineração foi intensa e causou danos ambientais e sociais às comunidades locais."
+    ],
+    "template": "Quer saber sobre a história e colonização da Amazônia? Posso contar mais."
+  },
+  {
+    "intent": "problemas_atuais",
+    "examples": [
+      "quais são os desafios atuais na amazônia",
+      "fala do desmatamento e queimadas",
+      "como a mineração ilegal afeta a região",
+      "por que tem conflitos armados",
+      "problemas ambientais na amazônia"
+    ],
+    "keywords": ["problemas", "desmatamento", "queimadas", "mineração ilegal", "conflitos armados", "poluição", "crise ambiental"],
+    "responses": [
+      "A mineração ilegal polui rios com mercúrio, destrói ecossistemas e gera conflitos sociais.",
+      "O desmatamento é um problema grave, causado principalmente por agricultura e pecuária.",
+      "Queimadas são frequentemente provocadas para limpar áreas para plantio.",
+      "Conflitos armados na Colômbia envolvem grupos guerrilheiros disputando territórios."
+    ],
+    "template": "Quer saber mais sobre os problemas atuais na Amazônia? Posso explicar."
+  },
+  {
+    "intent": "importancia_ambiental",
+    "examples": [
+      "como a amazônia regula o clima",
+      "quantos oxigênios a amazônia produz",
+      "qual a importância da biodiversidade",
+      "por que proteger a floresta é responsabilidade global",
+      "como a amazônia ajuda a conter o aquecimento global"
+    ],
+    "keywords": ["importância", "clima", "oxigênio", "biodiversidade", "proteção", "aquecimento global", "pulmão do mundo", "CO2"],
+    "responses": [
+      "A Amazônia influencia padrões de chuva e temperatura globalmente, ajudando a regular o clima.",
+      "Produz uma grande quantidade de oxigênio e absorve CO2, por isso é chamada de pulmão do mundo.",
+      "A biodiversidade amazônica é fonte de saberes tradicionais e recursos medicinais importantes.",
+      "A proteção da Amazônia é responsabilidade de todos, pois afeta o clima do planeta."
+    ],
+    "template": "Quer entender a importância ambiental da Amazônia? Posso detalhar."
+  },
+  {
+    "intent": "curiosidades_amazonia",
+    "examples": [
+      "fala uma curiosidade sobre a amazônia",
+      "tem alguma informação interessante",
+      "quero saber um fato curioso da região",
+      "conte algo diferente sobre a floresta",
+      "tem curiosidades sobre a fauna ou flora"
+    ],
+    "keywords": ["curiosidade", "fato", "informação", "interessante", "curioso", "fauna", "flora"],
+    "responses": [
+      "A harpia é uma das aves de rapina mais poderosas e raras da Amazônia.",
+      "O pirarucu é um peixe gigante que pode ultrapassar 2 metros de comprimento e pesar mais de 100kg.",
+      "Os indígenas utilizam rãs venenosas para envenenar flechas, um exemplo da adaptação da fauna local.",
+      "Muitas espécies novas são descobertas na Amazônia toda semana, mostrando sua enorme biodiversidade."
+    ],
+    "template": "Quer ouvir alguma curiosidade sobre a Amazônia? Posso contar várias."
+  }
+]
