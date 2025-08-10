@@ -126,11 +126,6 @@
       "response": "Plantas versáteis usadas para alimento e construção."
     },
     {
-      "intent": "plantas_cipos",
-      "keywords": ["cipos", "plantas", "trepadeiras", "conectam", "arvores", "liana", "vinhas"],
-      "response": "Plantas trepadeiras que conectam árvores."
-    },
-    {
       "intent": "plantas_bromelias",
       "keywords": ["bromelias", "plantas", "acumulam", "agua", "formam", "microecossistemas", "epifitas"],
       "response": "Plantas que acumulam água e formam microecossistemas."
@@ -147,7 +142,7 @@
     },
     {
       "intent": "rios_regiao",
-      "keywords": ["rios", "regiao", "amazonas", "napo", "putumayo", "caqueta", "afluentes", "tributarios"],
+      "keywords": ["Rios", "regiao", "amazonas", "napo", "putumayo", "caqueta", "afluentes", "tributarios"],
       "response": "Amazonas, Napo, Putumayo e Caquetá."
     },
     {
@@ -208,7 +203,7 @@
     {
       "intent": "povos_originarios_geral",
       "keywords": ["povos", "originarios", "colombia", "equador", "indigenas", "nativos", "ancestrais"],
-      "response": "Povos da colombia e Povos do Equador."
+      "response": "São povos da Colômbia e Equador com os, Tikuna, Shuar, Kichwa, Huaorani, Achuar, Uitoto, Yucuna."
     },
     {
       "intent": "historia_colonizacao",
