@@ -1,5 +1,5 @@
 import os
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, abort
 from flask_cors import CORS
 import json
 import difflib
@@ -172,18 +172,27 @@ def adicionar_pergunta_resposta():
 
     return jsonify({"msg": "Pergunta e resposta adicionadas com sucesso!"})
 
-# --- Endpoint para manter o servidor “acordado” ---
+# --- Endpoint para manter o servidor “acordado” protegido por token ---
+PING_TOKEN = os.getenv("PING_TOKEN")
+
 @app.route("/ping", methods=["GET"])
 def ping():
+    token = request.headers.get("Authorization")
+    if PING_TOKEN and token != f"Bearer {PING_TOKEN}":
+        abort(401)
     return jsonify({"status": "alive"})
 
-# --- Thread para autoping ---
+# --- Thread para autoping usando URL pública e token ---
 def autoping():
-    port = int(os.getenv("PORT", 5000))
-    url = f"http://localhost:{port}/ping"
+    url = os.getenv("PING_URL")  # Exemplo: https://meuapp.onrender.com/ping
+    token = os.getenv("PING_TOKEN")
+    headers = {}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
     while True:
         try:
-            response = requests.get(url)
+            response = requests.get(url, headers=headers)
             print(f"Autoping: {response.status_code} - {response.json()}")
         except Exception as e:
             print(f"Erro no autoping: {e}")
