@@ -32,8 +32,13 @@
     },
     {
       "intent": "rede_hidrografica",
-      "keywords": ["rede", "hidrografica", "rios", "amazonas", "afluentes", "rios", "bacias", "agua"],
+      "keywords": ["rede", "hidrografica", "amazonas", "afluentes", "bacias", "agua"],
       "response": "Formada pelo Rio Amazonas e seus afluentes."
+    },
+    {
+      "intent": "rios_região",
+      "keywords": ["rios", "rios da região", "rios do amazonas", "Rios", "Rios do amazonas", "Rios da regiçao"],
+      "response": "Amazonas, Napo, Putumayo e Caquetá."
     },
     {
       "intent": "fauna_amazonica_geral",
@@ -139,11 +144,6 @@
       "intent": "plantas_medicinais",
       "keywords": ["plantas", "medicinais", "usadas", "povos", "locais", "cura", "tradicional", "remedios", "naturais"],
       "response": "Usadas pelos povos locais para cura tradicional."
-    },
-    {
-      "intent": "rios_regiao",
-      "keywords": ["Rios", "regiao", "amazonas", "napo", "putumayo", "caqueta", "afluentes", "tributarios"],
-      "response": "Amazonas, Napo, Putumayo e Caquetá."
     },
     {
       "intent": "clima_equatorial_geral",
