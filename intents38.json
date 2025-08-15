@@ -1,0 +1,214 @@
+{
+  "intents": [
+    {
+      "intent": "como_fazer_pergunta",
+      "patterns": [
+        "como fazer pergunta",
+        "como perguntar",
+        "como devo perguntar",
+        "jeito de perguntar",
+        "forma de perguntar",
+        "modo de fazer pergunta",
+        "como posso perguntar",
+        "qual a forma correta de perguntar",
+        "como pergunto direito",
+        "jeito certo de perguntar"
+      ],
+      "responses": [
+        "Faça perguntas diretas e simples, como 'oq é amazônia' ou 'como são os povos tikuna'. Use pronomes relativos e seja objetivo. Qualquer dúvida, pergunte ao meu dono Natan.",
+        "Use perguntas diretas tipo 'oq é povos originários' ou 'onde fica a amazônia'. Seja simples e claro na sua pergunta. Para dúvidas específicas, fale com meu dono Natan.",
+        "Pergunte de forma direta: 'oq significa...' ou 'como funciona...'. Evite perguntas muito longas. Se tiver dúvida sobre como perguntar, consulte meu dono Natan.",
+        "Faça perguntas objetivas usando 'oq', 'como', 'onde', 'quando'. Exemplo: 'oq é biodiversidade'. Para orientações detalhadas, converse com meu dono Natan."
+      ]
+    },
+    {
+      "intent": "tipo_pergunta_aceita",
+      "patterns": [
+        "que tipo de pergunta posso fazer",
+        "q tipo de pergunta posso fazer",
+        "quais perguntas posso fazer",
+        "que perguntas você responde",
+        "q perguntas você responde",
+        "sobre o que posso perguntar",
+        "que assuntos você sabe",
+        "q assuntos você sabe",
+        "do que você entende",
+        "qual seu conhecimento"
+      ],
+      "responses": [
+        "Posso responder sobre localização amazônica, povos originários, biodiversidade e temas relacionados. Faça perguntas diretas como 'oq é...' ou 'como são...'. Qualquer dúvida, pergunte ao meu dono Natan.",
+        "Entendo sobre amazônia, povos indígenas, geografia e meio ambiente. Use perguntas simples tipo 'onde fica...' ou 'oq significa...'. Para mais informações, fale com meu dono Natan.",
+        "Respondo perguntas sobre amazônia, localização geográfica, culturas indígenas. Seja direto: 'oq é...' 'como funciona...'. Dúvidas específicas? Consulte meu dono Natan.",
+        "Meu foco é amazônia e temas relacionados. Pergunte de forma objetiva: 'qual é...' 'como são...'. Para esclarecimentos adicionais, procure meu dono Natan."
+      ]
+    },
+    {
+      "intent": "exemplo_pergunta_boa",
+      "patterns": [
+        "exemplo de pergunta boa",
+        "exemplos de perguntas boas",
+        "como seria uma pergunta boa",
+        "me dê exemplos de perguntas",
+        "me de exemplos de perguntas",
+        "que pergunta é boa",
+        "pergunta exemplo",
+        "modelo de pergunta",
+        "exemplo pergunta certa",
+        "pergunta correta exemplo"
+      ],
+      "responses": [
+        "Exemplos de boas perguntas: 'oq é amazônia', 'como são os povos tikuna', 'onde fica a floresta amazônica', 'oq são povos originários'. Qualquer dúvida, pergunte ao meu dono Natan.",
+        "Perguntas ideais: 'oq significa biodiversidade', 'como vivem os indígenas', 'qual a localização da amazônia'. Use pronomes relativos e seja direto. Dúvidas? Fale com meu dono Natan.",
+        "Bons exemplos: 'oq é meio ambiente', 'como funciona o ecossistema', 'quais são os povos indígenas'. Mantenha simplicidade. Para orientações, procure meu dono Natan.",
+        "Modelos corretos: 'oq representa a amazônia', 'como são as tradições indígenas', 'onde estão os povos originários'. Seja objetivo. Dúvidas específicas? Consulte meu dono Natan."
+      ]
+    },
+    {
+      "intent": "pergunta_muito_longa",
+      "patterns": [
+        "minha pergunta está muito longa",
+        "pergunta muito grande",
+        "pergunta muito extensa",
+        "como encurtar pergunta",
+        "como fazer pergunta mais curta",
+        "pergunta muito complicada",
+        "simplificar pergunta",
+        "resumir pergunta",
+        "pergunta complexa demais",
+        "como diminuir pergunta"
+      ],
+      "responses": [
+        "Simplifique sua pergunta! Use frases curtas tipo 'oq é...' 'como são...' 'onde fica...'. Seja direto e objetivo. Qualquer dúvida, pergunte ao meu dono Natan.",
+        "Faça perguntas mais simples: ao invés de frases longas, use 'oq significa...', 'como funciona...'. Mantenha a objetividade. Para ajuda, fale com meu dono Natan.",
+        "Resuma em poucas palavras: 'oq é biodiversidade' ao invés de explicações longas. Seja claro e direto. Precisa de orientação? Consulte meu dono Natan.",
+        "Encurte a pergunta: use pronomes relativos simples como 'oq', 'como', 'onde'. Evite detalhes desnecessários. Para esclarecimentos, procure meu dono Natan."
+      ]
+    },
+    {
+      "intent": "nao_entendi_resposta",
+      "patterns": [
+        "não entendi a resposta",
+        "nao entendi a resposta",
+        "não compreendi",
+        "nao compreendi",
+        "resposta confusa",
+        "não ficou claro",
+        "nao ficou claro",
+        "explique melhor",
+        "não entendi nada",
+        "nao entendi nada"
+      ],
+      "responses": [
+        "Reformule sua pergunta de forma mais simples, usando 'oq é...' 'como são...' 'onde fica...'. Seja mais específico. Qualquer dúvida, pergunte ao meu dono Natan.",
+        "Tente perguntar diferente: use palavras mais diretas e objetivas. Exemplo: 'oq significa...' ao invés de frases complexas. Dúvidas? Fale com meu dono Natan.",
+        "Faça uma pergunta mais clara: seja específico sobre o que quer saber. Use pronomes simples. Para esclarecimentos detalhados, consulte meu dono Natan.",
+        "Reformule usando termos mais simples: 'oq é...', 'como funciona...'. Seja direto no que deseja saber. Para ajuda personalizada, procure meu dono Natan."
+      ]
+    },
+    {
+      "intent": "posso_perguntar_sobre",
+      "patterns": [
+        "posso perguntar sobre",
+        "posso pergunta sobre",
+        "pode perguntar sobre",
+        "é permitido perguntar sobre",
+        "posso questionar sobre",
+        "posso indagar sobre",
+        "posso consultar sobre",
+        "é possível perguntar sobre",
+        "dá pra perguntar sobre",
+        "da pra perguntar sobre"
+      ],
+      "responses": [
+        "Sim! Pode perguntar sobre amazônia, povos indígenas, localização geográfica, biodiversidade. Use perguntas diretas como 'oq é...' 'como são...'. Qualquer dúvida, pergunte ao meu dono Natan.",
+        "Claro! Pergunte sobre temas amazônicos, culturas originarias, meio ambiente. Seja objetivo: 'oq significa...' 'onde fica...'. Para mais informações, fale com meu dono Natan.",
+        "Pode sim! Meu foco são assuntos relacionados à amazônia e povos originários. Use formato simples: 'oq é...' 'como funciona...'. Dúvidas? Consulte meu dono Natan.",
+        "Perfeitamente! Respondo sobre amazônia, indígenas, geografia regional. Faça perguntas diretas com pronomes relativos. Para orientações específicas, procure meu dono Natan."
+      ]
+    },
+    {
+      "intent": "como_melhorar_pergunta",
+      "patterns": [
+        "como melhorar minha pergunta",
+        "como fazer pergunta melhor",
+        "como aprimorar pergunta",
+        "jeito de melhorar pergunta",
+        "forma de melhorar pergunta",
+        "como pergunta melhor",
+        "como fazer pergunta mais clara",
+        "como ser mais claro na pergunta",
+        "dicas para pergunta melhor",
+        "sugestões para pergunta"
+      ],
+      "responses": [
+        "Use pronomes relativos simples: 'oq', 'como', 'onde', 'quando'. Seja direto: 'oq é amazônia' ao invés de frases longas. Qualquer dúvida, pergunte ao meu dono Natan.",
+        "Dicas: faça perguntas curtas, use 'oq significa...', 'como são...', 'onde fica...'. Evite detalhes desnecessários. Para orientações personalizadas, fale com meu dono Natan.",
+        "Melhore assim: seja específico, use palavras simples, vá direto ao ponto. Exemplo: 'oq são povos originários'. Para ajuda detalhada, consulte meu dono Natan.",
+        "Aperfeiçoe perguntando de forma objetiva: 'como funciona...', 'qual é...', 'oq representa...'. Mantenha simplicidade. Dúvidas específicas? Procure meu dono Natan."
+      ]
+    },
+    {
+      "intent": "pergunta_muito_tecnica",
+      "patterns": [
+        "pergunta muito técnica",
+        "pergunta muito cientifica",
+        "pergunta muito científica",
+        "muito complexo",
+        "muito complicado",
+        "pergunta difícil demais",
+        "pergunta dificil demais",
+        "não sei termos técnicos",
+        "nao sei termos tecnicos",
+        "linguagem muito técnica"
+      ],
+      "responses": [
+        "Use linguagem simples! Pergunte como falaria no dia a dia: 'oq é...' 'como são...'. Evite termos muito técnicos. Qualquer dúvida, pergunte ao meu dono Natan.",
+        "Simplifique: use palavras do cotidiano ao invés de termos científicos. Exemplo: 'oq é floresta' ao invés de 'ecossistema florestal'. Dúvidas? Fale com meu dono Natan.",
+        "Fale de forma natural: 'como vivem os índios' é melhor que termos acadêmicos. Use pronomes simples. Para orientações, consulte meu dono Natan.",
+        "Use vocabulário comum: 'oq significa biodiversidade' é melhor que jargões científicos. Seja natural na pergunta. Para esclarecimentos, procure meu dono Natan."
+      ]
+    },
+    {
+      "intent": "quero_falar_com_dono",
+      "patterns": [
+        "quero falar com o dono",
+        "como falar com natan",
+        "contato do natan",
+        "como contactar natan",
+        "como contatar natan",
+        "quero falar com natan",
+        "preciso falar com o dono",
+        "como chegar no natan",
+        "onde encontrar natan",
+        "como encontrar o dono"
+      ],
+      "responses": [
+        "Para falar diretamente com meu dono Natan, você pode procurá-lo para esclarecimentos específicos, dúvidas técnicas ou sugestões sobre como melhorar suas perguntas.",
+        "Natan está disponível para tirar suas dúvidas mais complexas, orientar sobre tipos de perguntas ou esclarecer qualquer questão que eu não conseguir responder adequadamente.",
+        "Se precisar de ajuda personalizada, orientações específicas ou tiver sugestões, procure meu dono Natan. Ele pode ajudar com questões mais detalhadas.",
+        "Para dúvidas técnicas, melhorias no sistema ou questões que exigem atenção especial, entre em contato com meu dono Natan. Ele terá prazer em ajudar."
+      ]
+    },
+    {
+      "intent": "duvida_geral_sistema",
+      "patterns": [
+        "tenho dúvida sobre o sistema",
+        "tenho duvida sobre o sistema",
+        "como funciona esse chatbot",
+        "como você funciona",
+        "dúvida sobre funcionamento",
+        "duvida sobre funcionamento",
+        "não entendo como usar",
+        "nao entendo como usar",
+        "como usar esse chat",
+        "ajuda geral"
+      ],
+      "responses": [
+        "Sou um chatbot focado em amazônia e povos originários. Faça perguntas diretas usando 'oq é...', 'como são...', 'onde fica...'. Para dúvidas específicas sobre meu funcionamento, pergunte ao meu dono Natan.",
+        "Funciono melhor com perguntas simples e objetivas sobre amazônia e temas relacionados. Use pronomes relativos e seja direto. Qualquer dúvida técnica, consulte meu dono Natan.",
+        "Respondo perguntas sobre amazônia de forma direta. Use frases curtas tipo 'oq significa...', 'como funciona...'. Para orientações sobre uso, fale com meu dono Natan.",
+        "Sou especializado em temas amazônicos. Pergunte de forma clara e objetiva. Para esclarecimentos sobre como me usar melhor, procure meu dono Natan."
+      ]
+    }
+  ]
+}
