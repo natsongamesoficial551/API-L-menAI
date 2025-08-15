@@ -59,7 +59,7 @@ def buscar_por_similaridade(pergunta):
     return None
 
 # --- Carregamento intents ---
-arquivos_intents = glob.glob("intents*.json")  # pega todos os intents*.json
+arquivos_intents = glob.glob("intents*.json")
 intents = []
 
 for arquivo in arquivos_intents:
@@ -88,17 +88,12 @@ X = vectorizer.fit_transform(exemplos) if exemplos else None
 def buscar_por_intent(pergunta):
     if not vectorizer or X is None:
         return None
-
     p_limpa = limpar_texto(pergunta)
-
-    # TF-IDF + cosseno
     v_pergunta = vectorizer.transform([p_limpa])
     similares = cosine_similarity(v_pergunta, X)
     idx = similares.argmax()
     similaridade = similares[0, idx]
-
-    # Se a similaridade for boa, retorna a resposta
-    if similaridade >= 0.6:  # chute mais flexível
+    if similaridade >= 0.6:
         intent_nome = mapping_intent[idx]
         for intent in intents:
             if intent.get("intent") == intent_nome:
@@ -144,26 +139,23 @@ def adicionar_pergunta_resposta():
     return jsonify({"msg": "Pergunta e resposta adicionadas!"})
 
 # --- Ping ---
-PING_TOKEN = os.getenv("PING_TOKEN")
 @app.route("/ping", methods=["GET"])
 def ping():
-    token = request.headers.get("Authorization")
-    if PING_TOKEN and token != f"Bearer {PING_TOKEN}":
-        abort(401)
     return jsonify({"status": "alive"})
 
 # --- Autoping ---
 def autoping():
     url = os.getenv("PING_URL")
-    token = os.getenv("PING_TOKEN")
-    headers = {"Authorization": f"Bearer {token}"} if token else {}
+    if not url:
+        print("PING_URL não definido no .env")
+        return
     while True:
         try:
-            response = requests.get(url, headers=headers)
+            response = requests.get(url)
             print(f"Autoping: {response.status_code}")
         except Exception as e:
             print(f"Erro autoping: {e}")
-        time.sleep(300)
+        time.sleep(300)  # 5 minutos
 
 if __name__ == "__main__":
     threading.Thread(target=autoping, daemon=True).start()
