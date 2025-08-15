@@ -1,0 +1,252 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_flora_amazonica",
+      "patterns": [
+        "o que é a flora da amazônia",
+        "que plantas tem na amazônia",
+        "me explica sobre as plantas da amazônia",
+        "quero saber sobre a vegetação amazônica",
+        "como é a natureza da amazônia",
+        "que tipo de planta cresce na amazônia",
+        "flora amazônica",
+        "plantas da amazônia",
+        "vegetação da floresta amazônica",
+        "natureza amazônica",
+        "árvores da amazônia",
+        "que plantas existem lá",
+        "como é a mata amazônica",
+        "floresta amazônica plantas",
+        "biodiversidade amazônica",
+        "espécies da amazônia",
+        "ecossistema amazônico",
+        "selva amazônica",
+        "mata atlântica amazônia",
+        "plantas tropicais amazônia"
+      ],
+      "responses": [
+        "A flora amazônica é o conjunto de plantas da região tropical: castanheira-do-pará, sumaúma, palmeiras, cipós, bromélias e orquídeas adaptadas ao clima quente e úmido da floresta.",
+        "São as plantas tropicais da região: espécies medicinais tradicionais, árvores gigantes como a sumaúma, palmeiras diversas e plantas adaptadas ao clima úmido e quente.",
+        "É a vegetação da floresta tropical: castanheiras, sumaúmas enormes, palmeiras nativas, cipós, bromélias coloridas e orquídeas que crescem no ambiente úmido e quente.",
+        "Representa toda a vegetação tropical amazônica: plantas medicinais usadas pelos indígenas, árvores majestosas e espécies únicas adaptadas ao clima equatorial."
+      ]
+    },
+    {
+      "intent": "quais_plantas_amazonia",
+      "patterns": [
+        "quais plantas tem na amazônia",
+        "que árvores crescem na amazônia",
+        "exemplos de plantas da amazônia",
+        "nomes de plantas amazônicas",
+        "plantas famosas da amazônia",
+        "árvores típicas da amazônia",
+        "espécies de plantas da floresta",
+        "plantas medicinais da amazônia",
+        "que flores tem na amazônia",
+        "castanheira do pará",
+        "sumaúma",
+        "palmeiras da amazônia",
+        "cipós amazônicos",
+        "bromélias",
+        "orquídeas da amazônia",
+        "plantas curativas da amazônia",
+        "ervas medicinais amazônicas",
+        "árvores gigantes da amazônia",
+        "vegetação típica",
+        "flora nativa"
+      ],
+      "responses": [
+        "As principais são: castanheira-do-pará, sumaúma (árvore gigante), palmeiras variadas, cipós entrelaçados, bromélias coloridas e orquídeas exóticas.",
+        "Incluem: plantas medicinais tradicionais, castanheiras que produzem castanhas, sumaúmas enormes, palmeiras nativas, cipós flexíveis e bromélias ornamentais.",
+        "Entre elas estão: castanheira-do-pará (fonte de castanhas), sumaúma de grande porte, diversas palmeiras, cipós da mata, bromélias vistosas e orquídeas raras.",
+        "As espécies são: ervas medicinais dos povos locais, castanheiras majestosas, sumaúmas centenárias, palmeiras adaptadas, cipós resistentes e orquídeas delicadas."
+      ]
+    },
+    {
+      "intent": "onde_fica_amazonia",
+      "patterns": [
+        "onde fica a amazônia",
+        "onde está a floresta amazônica",
+        "em que país fica a amazônia",
+        "localização da amazônia",
+        "onde encontro essas plantas",
+        "em que região tem essa flora",
+        "onde posso ver plantas amazônicas",
+        "em que lugar fica",
+        "que países tem amazônia",
+        "onde existe floresta amazônica",
+        "em que continente",
+        "região amazônica",
+        "bacia amazônica",
+        "onde crescem essas plantas",
+        "território amazônico",
+        "área de floresta tropical",
+        "américa do sul amazônia",
+        "brasil amazônia",
+        "peru amazônia",
+        "colômbia amazônia"
+      ],
+      "responses": [
+        "Fica na região tropical da América do Sul: principalmente no Brasil, mas também no Peru, Colômbia e outros países, onde o clima é quente e úmido o ano todo.",
+        "Está localizada em áreas de clima tropical: regiões com chuvas frequentes, alta umidade e calor constante, próximas aos rios Amazonas e seus afluentes.",
+        "Se encontra na zona equatorial: territórios com clima úmido, temperaturas entre 24°C-28°C e chuvas regulares que favorecem o crescimento da vegetação.",
+        "Existe em regiões tropicais úmidas: locais com alta umidade, calor constante e chuvas abundantes, criando condições ideais para a flora diversificada."
+      ]
+    },
+    {
+      "intent": "como_plantas_crescem",
+      "patterns": [
+        "como crescem as plantas na amazônia",
+        "como as plantas se desenvolvem lá",
+        "por que as plantas crescem tanto",
+        "como funciona o crescimento",
+        "que condições precisam para crescer",
+        "como sobrevivem no clima",
+        "adaptação das plantas",
+        "como se reproduzem",
+        "ciclo de vida das plantas",
+        "desenvolvimento vegetal",
+        "crescimento da vegetação",
+        "como as árvores ficam grandes",
+        "fotossíntese na amazônia",
+        "nutrientes do solo",
+        "chuva e crescimento",
+        "sol e plantas",
+        "umidade e vegetação",
+        "clima tropical plantas",
+        "condições ideais crescimento",
+        "ecossistema florestal"
+      ],
+      "responses": [
+        "Crescem devido às condições ideais: clima quente e úmido constante, chuvas frequentes, alta umidade e temperaturas estáveis que favorecem o desenvolvimento contínuo.",
+        "Se desenvolvem com o clima tropical perfeito: umidade alta, calor constante, chuvas regulares e solo rico em nutrientes criam ambiente ideal para crescimento.",
+        "Prosperam por causa do ambiente úmido: temperaturas entre 24°C-28°C, umidade superior a 80% e chuvas abundantes proporcionam condições excelentes para vegetação.",
+        "Funcionam através de adaptações naturais: as plantas evoluíram para aproveitar o calor, umidade e chuvas constantes, desenvolvendo-se rapidamente no clima tropical."
+      ]
+    },
+    {
+      "intent": "importancia_amazonia",
+      "patterns": [
+        "por que a amazônia é importante",
+        "importância da floresta amazônica",
+        "para que serve a amazônia",
+        "benefícios da floresta",
+        "por que preservar a amazônia",
+        "função da amazônia",
+        "amazônia pulmão do mundo",
+        "oxigênio amazônia",
+        "clima e amazônia",
+        "biodiversidade importância",
+        "recursos naturais amazônia",
+        "medicamentos da floresta",
+        "plantas medicinais importância",
+        "equilíbrio ambiental",
+        "sustentabilidade amazônica",
+        "conservação da natureza",
+        "meio ambiente amazônia",
+        "ecologia florestal",
+        "mudanças climáticas",
+        "aquecimento global amazônia"
+      ],
+      "responses": [
+        "É importante para o equilíbrio climático global: produz oxigênio, regula chuvas, fornece plantas medicinais e mantém a biodiversidade mundial.",
+        "Serve para medicina e clima: oferece plantas curativas tradicionais, ajuda a regular o clima mundial e preserva espécies únicas como castanheiras e sumaúmas.",
+        "Tem função essencial no planeta: controla o clima, produz remédios naturais através de plantas medicinais e mantém o equilíbrio ecológico global.",
+        "Beneficia toda a humanidade: fornece medicamentos naturais, regula chuvas e temperatura, preserva biodiversidade e oferece recursos sustentáveis para povos locais."
+      ]
+    },
+    {
+      "intent": "plantas_medicinais",
+      "patterns": [
+        "plantas medicinais da amazônia",
+        "remédios da floresta",
+        "plantas que curam",
+        "medicina natural amazônica",
+        "ervas curativas",
+        "plantas para tratamento",
+        "medicina indígena",
+        "remédios naturais",
+        "plantas terapêuticas",
+        "fitoterapia amazônica",
+        "medicina tradicional",
+        "plantas para saúde",
+        "ervas medicinais",
+        "tratamentos naturais",
+        "plantas farmacêuticas",
+        "medicina alternativa",
+        "cura pela natureza",
+        "propriedades medicinais",
+        "plantas curativas tradicionais",
+        "remédios caseiros da floresta"
+      ],
+      "responses": [
+        "Existem muitas plantas medicinais usadas pelos povos tradicionais: espécies com propriedades curativas, junto com castanheira-do-pará, sumaúma e outras plantas terapêuticas.",
+        "São diversas as plantas curativas: medicina tradicional indígena utiliza espécies nativas, além de castanheiras e sumaúmas que também têm propriedades benéficas.",
+        "Incluem plantas para diversos tratamentos: ervas medicinais tradicionais, castanheira-do-pará nutritiva, sumaúma com propriedades terapêuticas e outras espécies curativas.",
+        "Compreendem medicina natural ancestral: povos locais conhecem plantas curativas, castanheiras nutritivas, sumaúmas medicinais e diversas espécies com propriedades terapêuticas."
+      ]
+    },
+    {
+      "intent": "curiosidades_amazonia",
+      "patterns": [
+        "curiosidades sobre a amazônia",
+        "fatos interessantes da floresta",
+        "coisas legais sobre amazônia",
+        "dados curiosos",
+        "informações interessantes",
+        "você sabia amazônia",
+        "fatos surpreendentes",
+        "amazônia incrível",
+        "descobertas na floresta",
+        "mistérios da amazônia",
+        "recordes da floresta",
+        "números impressionantes",
+        "tamanho da amazônia",
+        "maior floresta do mundo",
+        "biodiversidade números",
+        "espécies descobertas",
+        "pesquisas na amazônia",
+        "exploração floresta",
+        "riquezas naturais",
+        "segredos da mata"
+      ],
+      "responses": [
+        "A Amazônia tem biodiversidade incrível: milhares de espécies incluindo castanheira-do-pará, sumaúma gigante, centenas de palmeiras, cipós, bromélias coloridas e orquídeas raras.",
+        "É impressionante a variedade: plantas medicinais dos povos tradicionais, castanheiras centenárias, sumaúmas de grande porte, palmeiras únicas e orquídeas exóticas.",
+        "Possui riqueza natural surpreendente: desde plantas curativas tradicionais até castanheiras produtivas, sumaúmas majestosas, palmeiras diversas e bromélias ornamentais.",
+        "Apresenta diversidade única: espécies medicinais ancestrais, castanheira-do-pará econômica, sumaúma imponente, palmeiras adaptadas e orquídeas delicadas em grande quantidade."
+      ]
+    },
+    {
+      "intent": "ameacas_preservacao",
+      "patterns": [
+        "ameaças à amazônia",
+        "desmatamento da floresta",
+        "problemas da amazônia",
+        "destruição da mata",
+        "perigos para plantas",
+        "preservação da floresta",
+        "conservação amazônica",
+        "proteção das plantas",
+        "sustentabilidade florestal",
+        "como preservar",
+        "salvar a amazônia",
+        "cuidar da natureza",
+        "evitar extinção",
+        "espécies ameaçadas",
+        "perda de biodiversidade",
+        "queimadas floresta",
+        "corte de árvores",
+        "impacto ambiental",
+        "degradação ambiental",
+        "futuro da floresta"
+      ],
+      "responses": [
+        "Enfrenta ameaças sérias: desmatamento pode extinguir castanheira-do-pará, sumaúma, palmeiras, cipós, bromélias e orquídeas, prejudicando plantas medicinais tradicionais.",
+        "Precisa de proteção urgente: destruição ameaça plantas curativas, castanheiras centenárias, sumaúmas gigantes, palmeiras nativas e biodiversidade única.",
+        "Requer conservação imediata: preservar plantas medicinais ancestrais, castanheiras produtivas, sumaúmas majestosas, palmeiras diversas e orquídeas raras da extinção.",
+        "Necessita cuidado especial: proteger espécies medicinais tradicionais, castanheira-do-pará, sumaúmas, palmeiras adaptadas e toda biodiversidade contra destruição."
+      ]
+    }
+  ]
+}

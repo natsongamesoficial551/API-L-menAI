@@ -1,0 +1,314 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_sao_rios_amazonia",
+      "patterns": [
+        "me fala sobre os rios da amazônia",
+        "rios da amazônia",
+        "que rios tem na amazônia",
+        "rios amazônicos",
+        "sistema de rios da amazônia",
+        "hidrografia da amazônia",
+        "rios principais da amazônia",
+        "quero saber dos rios da amazônia",
+        "como são os rios amazônicos",
+        "fale dos rios da floresta amazônica",
+        "rios que cortam a amazônia",
+        "rede fluvial amazônica",
+        "cursos d'água da amazônia",
+        "afluentes amazônicos",
+        "sistema hidrográfico amazônico",
+        "bacias dos rios amazônicos",
+        "me explica sobre os rios da amazônia",
+        "o que você sabe sobre rios amazônicos",
+        "informações sobre rios da amazônia",
+        "características dos rios amazônicos"
+      ],
+      "responses": [
+        "Os rios da Amazônia Equatorial e Colombiana são sistemas fluviais complexos: Rio Amazonas, Napo, Putumayo, Caquetá que drenam 42% do território colombiano e regiões equatoriais.",
+        "Significam a rede hidrográfica principal: cursos d'água interconectados como Amazonas, Napo, Putumayo, Caquetá formando o maior sistema fluvial mundial na zona equatorial amazônica.",
+        "São os principais corpos d'água: rios caudalosos Amazonas, Napo, Putumayo, Caquetá que atravessam Colômbia, Brasil, Peru, Equador, Venezuela transportando águas equatoriais.",
+        "Representam artérias fluviais fundamentais: Rio Amazonas e afluentes Napo, Putumayo, Caquetá conectando territórios, sustentando biodiversidade, transportando sedimentos nos países amazônicos."
+      ]
+    },
+    {
+      "intent": "quais_rios_amazonia",
+      "patterns": [
+        "quais são os rios da amazônia",
+        "nomes dos rios da amazônia",
+        "principais rios da amazônia",
+        "rios mais importantes da amazônia",
+        "que rios tem na amazônia",
+        "liste os rios da amazônia",
+        "maiores rios da amazônia",
+        "rios famosos da amazônia",
+        "cite os rios amazônicos",
+        "amazonas napo putumayo caquetá",
+        "rio amazonas e outros",
+        "afluentes do rio amazonas",
+        "rios que passam pela amazônia",
+        "grandes rios amazônicos",
+        "rios conhecidos da amazônia",
+        "sistema de rios amazônicos",
+        "nomes de rios na amazônia",
+        "quero saber os nomes dos rios",
+        "me diga os rios da amazônia",
+        "rios da região amazônica"
+      ],
+      "responses": [
+        "Os principais rios incluem: Rio Amazonas (maior do mundo), Napo, Putumayo, Caquetá, além de Negro, Solimões, Tapajós que drenam territórios equatoriais dos cinco países.",
+        "São: Amazonas como eixo principal, afluentes Napo e Putumayo na Colômbia, Caquetá cortando fronteiras, Negro e Solimões no Brasil, formando rede hidrográfica complexa.",
+        "Os sistemas fluviais abrangem: Rio Amazonas central, Napo equatoriano-peruano, Putumayo colombiano-peruano, Caquetá colombiano-brasileiro, integrando bacias transnacionais amazônicas.",
+        "As bacias incluem: Amazonas principal conectando oceano, Napo drenando Andes equatorianos, Putumayo e Caquetá cortando Colômbia, Negro e Solimões convergindo no território brasileiro."
+      ]
+    },
+    {
+      "intent": "quem_rios_amazonia",
+      "patterns": [
+        "quem navega nos rios da amazônia",
+        "quem usa os rios amazônicos",
+        "quem vive nos rios da amazônia",
+        "quem pesca nos rios da amazônia",
+        "ribeirinhos dos rios amazônicos",
+        "populações dos rios da amazônia",
+        "comunidades dos rios amazônicos",
+        "povos que vivem nos rios",
+        "pessoas que moram nos rios",
+        "quem mora perto dos rios",
+        "habitantes dos rios amazônicos",
+        "moradores das margens dos rios",
+        "quem trabalha nos rios",
+        "pescadores dos rios amazônicos",
+        "navegadores dos rios da amazônia",
+        "barqueiros dos rios",
+        "pilotos dos rios amazônicos",
+        "guias dos rios da amazônia",
+        "turistas nos rios amazônicos",
+        "visitantes dos rios da amazônia"
+      ],
+      "responses": [
+        "Os responsáveis incluem: hidrólogos fluviais, geógrafos aquáticos, órgãos de navegação dos cinco países, comunidades ribeirinhas que dependem do Amazonas, Napo, Putumayo, Caquetá.",
+        "Os especialistas são: institutos hidrográficos nacionais, pesquisadores de bacias, navegadores locais, povos indígenas que habitam margens dos rios amazônicos equatoriais.",
+        "Estudam: limnólogos, engenheiros hidráulicos, ecólogos aquáticos, autoridades portuárias que monitoram fluxos do Rio Amazonas e afluentes nos territórios amazônicos.",
+        "Os experts envolvem: cartógrafos fluviais, pilotos de embarcações, pescadores tradicionais, cientistas que mapeiam cursos do Napo, Putumayo, Caquetá nos países equatoriais."
+      ]
+    },
+    {
+      "intent": "onde_aonde_rios_amazonia",
+      "patterns": [
+        "onde ficam os rios da amazônia",
+        "localização dos rios amazônicos",
+        "onde estão os rios da amazônia",
+        "em que países passam os rios",
+        "por onde correm os rios",
+        "onde passa o rio amazonas",
+        "onde fica o rio napo",
+        "onde está o rio putumayo",
+        "onde corre o rio caquetá",
+        "em que região ficam os rios",
+        "geografia dos rios amazônicos",
+        "mapa dos rios da amazônia",
+        "rota dos rios amazônicos",
+        "trajeto dos rios da amazônia",
+        "caminho dos rios amazônicos",
+        "percurso dos rios da amazônia",
+        "extensão dos rios amazônicos",
+        "território dos rios da amazônia",
+        "área dos rios amazônicos",
+        "região dos rios da amazônia"
+      ],
+      "responses": [
+        "Estão localizados na bacia amazônica: Rio Amazonas cortando Brasil-Peru-Colômbia, Napo no Equador-Peru, Putumayo na fronteira Colômbia-Peru, Caquetá na Colômbia-Brasil.",
+        "Ficam situados na zona equatorial: Amazonas desde Andes peruanos ao Atlântico brasileiro, Napo drenando Andes equatorianos, Putumayo e Caquetá nos territórios colombianos.",
+        "Se encontram nos territórios amazônicos: Rio Amazonas atravessando cinco países, Napo conectando Equador-Peru, Putumayo fazendo fronteira, Caquetá drenando 42% da Colômbia.",
+        "Existem na rede hidrográfica equatorial: Amazonas como eixo central, afluentes Napo, Putumayo, Caquetá distribuídos pelos territórios norte da América do Sul amazônica."
+      ]
+    },
+    {
+      "intent": "como_rios_amazonia",
+      "patterns": [
+        "como são os rios da amazônia",
+        "como funcionam os rios amazônicos",
+        "características dos rios da amazônia",
+        "propriedades dos rios amazônicos",
+        "descrição dos rios da amazônia",
+        "aspecto dos rios amazônicos",
+        "jeito dos rios da amazônia",
+        "formato dos rios amazônicos",
+        "tamanho dos rios da amazônia",
+        "largura dos rios amazônicos",
+        "profundidade dos rios da amazônia",
+        "velocidade dos rios amazônicos",
+        "cor da água dos rios",
+        "temperatura dos rios amazônicos",
+        "navegabilidade dos rios",
+        "condições dos rios amazônicos",
+        "estado dos rios da amazônia",
+        "qualidade da água dos rios",
+        "fluxo dos rios amazônicos",
+        "corrente dos rios da amazônia"
+      ],
+      "responses": [
+        "Funcionam através de drenagem gravitacional: águas dos Andes descem pelo Amazonas, Napo drena vertente equatoriana, Putumayo e Caquetá coletam águas colombianas direcionando ao Atlântico.",
+        "Correm seguindo declividade natural: Rio Amazonas flui oeste-leste, Napo desce dos Andes equatorianos, Putumayo corre pela fronteira, Caquetá drena territórios colombianos.",
+        "Operam como sistema interconectado: afluentes Napo, Putumayo, Caquetá alimentam Rio Amazonas principal, formando rede de transporte aquático e drenagem regional integrada.",
+        "Drenam mediante tributação hierárquica: rios menores alimentam maiores, Napo e Putumayo convergem ao Amazonas, Caquetá se conecta ao sistema, criando fluxo continental direcionado."
+      ]
+    },
+    {
+      "intent": "por_que_porque_rios_amazonia",
+      "patterns": [
+        "por que os rios da amazônia são importantes",
+        "importância dos rios amazônicos",
+        "benefícios dos rios da amazônia",
+        "vantagens dos rios amazônicos",
+        "utilidade dos rios da amazônia",
+        "função dos rios amazônicos",
+        "papel dos rios da amazônia",
+        "necessidade dos rios amazônicos",
+        "valor dos rios da amazônia",
+        "significado dos rios amazônicos",
+        "motivo dos rios da amazônia",
+        "razão dos rios amazônicos",
+        "finalidade dos rios da amazônia",
+        "objetivo dos rios amazônicos",
+        "propósito dos rios da amazônia",
+        "porque existem tantos rios",
+        "por que a amazônia tem muitos rios",
+        "motivo de tantos rios na amazônia",
+        "razão da abundância de rios",
+        "causa dos muitos rios amazônicos"
+      ],
+      "responses": [
+        "Existem devido às condições geográficas: altas precipitações equatoriais, drenagem dos Andes, relevo favorável criando sistema hidrográfico complexo com Amazonas, Napo, Putumayo, Caquetá.",
+        "É importante por causa da biodiversidade: rios sustentam ecossistemas aquáticos, transportam nutrientes, conectam habitats, facilitam dispersão de espécies nos territórios amazônicos equatoriais.",
+        "Há abundância fluvial pela geografia equatorial: chuvas constantes, degelo andino, bacias de drenagem extensas formando rede de rios interconectados nos cinco países amazônicos.",
+        "São fundamentais pela função ecológica: regulam clima regional, transportam sedimentos, sustentam comunidades ribeirinhas, mantêm conectividade aquática entre Colômbia, Brasil, Peru, Equador, Venezuela."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_rios_amazonia",
+      "patterns": [
+        "para que servem os rios da amazônia",
+        "uso dos rios amazônicos",
+        "utilização dos rios da amazônia",
+        "aplicação dos rios amazônicos",
+        "aproveitamento dos rios da amazônia",
+        "exploração dos rios amazônicos",
+        "atividades nos rios da amazônia",
+        "trabalho nos rios amazônicos",
+        "negócios nos rios da amazônia",
+        "comércio nos rios amazônicos",
+        "transporte nos rios da amazônia",
+        "navegação nos rios amazônicos",
+        "pesca nos rios da amazônia",
+        "turismo nos rios amazônicos",
+        "lazer nos rios da amazônia",
+        "recreação nos rios amazônicos",
+        "esporte nos rios da amazônia",
+        "diversão nos rios amazônicos",
+        "economia dos rios da amazônia",
+        "renda dos rios amazônicos"
+      ],
+      "responses": [
+        "Servem para transporte fluvial: navegação comercial no Amazonas, acesso a comunidades via Napo, Putumayo, Caquetá, conectividade regional entre territórios amazônicos equatoriais.",
+        "Existem para sustentação ecológica: habitat aquático, regulação climática, ciclo hidrológico, manutenção da biodiversidade nos ecossistemas dos cinco países amazônicos.",
+        "São usados para subsistência: pesca artesanal, água potável, irrigação, hidroenergia, sustentando milhões de habitantes ribeirinhos nos territórios equatoriais amazônicos.",
+        "Utilizamos para desenvolvimento: turismo ecológico, pesquisa científica, conservação ambiental, integração territorial através do sistema Amazonas-Napo-Putumayo-Caquetá conectado."
+      ]
+    },
+    {
+      "intent": "quando_rios_amazonia",
+      "patterns": [
+        "história dos rios da amazônia",
+        "origem dos rios amazônicos",
+        "formação dos rios da amazônia",
+        "criação dos rios amazônicos",
+        "surgimento dos rios da amazônia",
+        "nascimento dos rios amazônicos",
+        "início dos rios da amazônia",
+        "começo dos rios amazônicos",
+        "passado dos rios da amazônia",
+        "antiguidade dos rios amazônicos",
+        "época dos rios da amazônia",
+        "era dos rios amazônicos",
+        "período dos rios da amazônia",
+        "tempo dos rios amazônicos",
+        "idade dos rios da amazônia",
+        "descoberta dos rios amazônicos",
+        "exploração dos rios da amazônia",
+        "mapeamento dos rios amazônicos",
+        "estudo dos rios da amazônia",
+        "pesquisa dos rios amazônicos"
+      ],
+      "responses": [
+        "Foram formados geologicamente há milhões de anos: processos tectônicos, elevação dos Andes, mudanças climáticas criaram cursos do Amazonas, Napo, Putumayo, Caquetá na bacia equatorial.",
+        "Surgiram durante eras geológicas: drenagem natural estabeleceu rede fluvial, Rio Amazonas consolidou-se como principal, afluentes Napo, Putumayo, Caquetá definiram-se gradualmente.",
+        "Foram descobertos pelos europeus nos séculos XV-XVI: expedições espanholas navegaram Napo, Putumayo, portugueses exploraram Amazonas, mapeamento colonial dos territórios fluviais.",
+        "Se tornaram importantes com colonização: século XVI trouxe navegação sistemática, exploração comercial, mapeamento detalhado do sistema Amazonas e afluentes nos territórios amazônicos."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_rios_amazonia",
+      "patterns": [
+        "quantos rios tem na amazônia",
+        "número de rios da amazônia",
+        "quantidade de rios amazônicos",
+        "total de rios na amazônia",
+        "contagem de rios amazônicos",
+        "muitos rios na amazônia",
+        "diversos rios amazônicos",
+        "vários rios da amazônia",
+        "centenas de rios amazônicos",
+        "milhares de rios da amazônia",
+        "inúmeros rios amazônicos",
+        "tamanho dos rios da amazônia",
+        "extensão dos rios amazônicos",
+        "comprimento dos rios da amazônia",
+        "largura dos rios amazônicos",
+        "profundidade dos rios da amazônia",
+        "volume dos rios amazônicos",
+        "capacidade dos rios da amazônia",
+        "medidas dos rios amazônicos",
+        "dimensões dos rios da amazônia"
+      ],
+      "responses": [
+        "Existem milhares de rios: sistema principal com Amazonas (6.400 km), Napo (1.130 km), Putumayo (1.813 km), Caquetá (2.280 km), além de inúmeros afluentes menores.",
+        "São dezenas de rios principais: Amazonas como maior mundial, afluentes significativos Napo, Putumayo, Caquetá, Negro, Solimões, Tapajós formando rede de milhares de tributários.",
+        "Incluem centenas de sistemas: bacia amazônica contém mais de 1.100 afluentes significativos, sendo Napo, Putumayo, Caquetá entre os principais que drenam territórios equatoriais.",
+        "Compreendem extensões variadas: Amazonas com 6.400 km, Caquetá 2.280 km, Putumayo 1.813 km, Napo 1.130 km, conectando mais de 15.000 tributários menores regionalmente."
+      ]
+    },
+    {
+      "intent": "sera_que_rios_amazonia",
+      "patterns": [
+        "é verdade que tem muitos rios na amazônia",
+        "os rios da amazônia são grandes mesmo",
+        "o rio amazonas é o maior do mundo",
+        "existem rios navegáveis na amazônia",
+        "dá para navegar nos rios amazônicos",
+        "os rios da amazônia são importantes",
+        "tem peixe nos rios da amazônia",
+        "os rios amazônicos são limpos",
+        "a água dos rios é boa",
+        "posso pescar nos rios amazônicos",
+        "é seguro navegar nos rios",
+        "tem turismo nos rios da amazônia",
+        "vale a pena visitar os rios",
+        "os rios conectam as cidades",
+        "transporte pelos rios funciona",
+        "comunidades vivem nos rios",
+        "ribeirinhos dependem dos rios",
+        "economia depende dos rios",
+        "rios geram renda na região",
+        "futuro dos rios amazônicos"
+      ],
+      "responses": [
+        "Sim, definitivamente existem em abundância: sistema fluvial mais extenso do mundo com Amazonas, Napo, Putumayo, Caquetá e milhares de afluentes nos territórios equatoriais.",
+        "Com certeza são fundamentais: maior rede hidrográfica mundial, transporte principal, sustentação ecológica, conectividade regional entre os cinco países amazônicos equatoriais.",
+        "Certamente são navegáveis: Rio Amazonas permite grandes embarcações, Napo, Putumayo, Caquetá comportam navegação regional, acesso a comunidades nos territórios amazônicos.",
+        "Sim, são dados hidrológicos autênticos: Amazonas maior rio mundial em volume, Napo, Putumayo, Caquetá entre maiores sul-americanos, sistema cientificamente documentado."
+      ]
+    }
+  ]
+}

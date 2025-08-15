@@ -1,0 +1,494 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_yucuna",
+      "patterns": [
+        "o que é yucuna",
+        "o que são yucuna", 
+        "oq é yucuna",
+        "oq são yucuna",
+        "o que seria yucuna",
+        "o que seriam yucuna",
+        "oq seria yucuna",
+        "oq seriam yucuna",
+        "o que significa yucuna",
+        "oq significa yucuna",
+        "o que representa yucuna",
+        "oq representa yucuna",
+        "defina yucuna",
+        "define yucuna",
+        "conceito de yucuna",
+        "yucuna definição",
+        "definição dos yucuna",
+        "significado de yucuna",
+        "me explique o que é yucuna",
+        "me explica oq é yucuna",
+        "explique o que são yucuna",
+        "explica oq são yucuna"
+      ],
+      "responses": [
+        "Os Yucuna são um povo originário da Amazônia que habita a Colômbia, vivendo da pesca, agricultura e coleta, mantendo cultura própria e espiritualidade ligada à natureza.",
+        "Yucuna representa uma etnia indígena ancestral da região amazônica colombiana, grupo que preserva tradições milenares baseadas em práticas sustentáveis e conexão espiritual com a floresta.",
+        "São um povo nativo amazônico localizado na Colômbia, que mantém cultura tradicional, espiritualidade natural e sobrevive através da pesca, agricultura e coleta sustentável.",
+        "Os Yucuna significam uma comunidade étnica originária que habita territórios amazônicos colombianos, preservando saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "o_que_e_uitoto",
+      "patterns": [
+        "o que é uitoto",
+        "o que são uitoto", 
+        "oq é uitoto",
+        "oq são uitoto",
+        "o que seria uitoto",
+        "o que seriam uitoto",
+        "oq seria uitoto",
+        "oq seriam uitoto",
+        "o que significa uitoto",
+        "oq significa uitoto",
+        "o que representa uitoto",
+        "oq representa uitoto",
+        "defina uitoto",
+        "define uitoto",
+        "conceito de uitoto",
+        "uitoto definição",
+        "definição dos uitoto",
+        "significado de uitoto",
+        "me explique o que é uitoto",
+        "me explica oq é uitoto",
+        "explique o que são uitoto",
+        "explica oq são uitoto"
+      ],
+      "responses": [
+        "Os Uitoto são um povo originário da Amazônia que habita a Colômbia, vivendo da pesca, agricultura e coleta, mantendo cultura própria e espiritualidade ligada à natureza.",
+        "Uitoto representa uma etnia indígena ancestral da região amazônica colombiana, grupo que preserva tradições milenares baseadas em práticas sustentáveis e conexão espiritual com a floresta.",
+        "São um povo nativo amazônico localizado na Colômbia, que mantém cultura tradicional, espiritualidade natural e sobrevive através da pesca, agricultura e coleta sustentável.",
+        "Os Uitoto significam uma comunidade étnica originária que habita territórios amazônicos colombianos, preservando saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "quais_yucuna",
+      "patterns": [
+        "quais são os yucuna",
+        "quais características dos yucuna",
+        "quais são as características dos yucuna",
+        "quais tradições dos yucuna",
+        "quais são as tradições dos yucuna",
+        "quais culturas dos yucuna",
+        "quais são as culturas dos yucuna",
+        "quais costumes dos yucuna",
+        "quais são os costumes dos yucuna",
+        "quais práticas dos yucuna",
+        "quais são as práticas dos yucuna",
+        "quais atividades dos yucuna",
+        "quais são as atividades dos yucuna"
+      ],
+      "responses": [
+        "Os Yucuna são povos originários da Colômbia amazônica que vivem da pesca, agricultura e coleta, mantendo tradições ancestrais, cultura própria e espiritualidade ligada à natureza.",
+        "As características dos Yucuna incluem serem habitantes ancestrais da Amazônia colombiana, praticarem agricultura sustentável, pesca, coleta e manterem conexão espiritual com a floresta.",
+        "Os Yucuna possuem tradições milenares baseadas em práticas sustentáveis, cultura própria, espiritualidade natural e modos de vida integrados ao ambiente amazônico colombiano.",
+        "São caracterizados por serem guardiões de saberes ancestrais, praticantes de agricultura tradicional, pesca e coleta, mantendo culturas únicas na região amazônica da Colômbia."
+      ]
+    },
+    {
+      "intent": "quais_uitoto",
+      "patterns": [
+        "quais são os uitoto",
+        "quais características dos uitoto",
+        "quais são as características dos uitoto",
+        "quais tradições dos uitoto",
+        "quais são as tradições dos uitoto",
+        "quais culturas dos uitoto",
+        "quais são as culturas dos uitoto",
+        "quais costumes dos uitoto",
+        "quais são os costumes dos uitoto",
+        "quais práticas dos uitoto",
+        "quais são as práticas dos uitoto",
+        "quais atividades dos uitoto",
+        "quais são as atividades dos uitoto"
+      ],
+      "responses": [
+        "Os Uitoto são povos originários da Colômbia amazônica que vivem da pesca, agricultura e coleta, mantendo tradições ancestrais, cultura própria e espiritualidade ligada à natureza.",
+        "As características dos Uitoto incluem serem habitantes ancestrais da Amazônia colombiana, praticarem agricultura sustentável, pesca, coleta e manterem conexão espiritual com a floresta.",
+        "Os Uitoto possuem tradições milenares baseadas em práticas sustentáveis, cultura própria, espiritualidade natural e modos de vida integrados ao ambiente amazônico colombiano.",
+        "São caracterizados por serem guardiões de saberes ancestrais, praticantes de agricultura tradicional, pesca e coleta, mantendo culturas únicas na região amazônica da Colômbia."
+      ]
+    },
+    {
+      "intent": "quem_yucuna",
+      "patterns": [
+        "quem são os yucuna",
+        "quem é o povo yucuna",
+        "quem representa os yucuna",
+        "quem são essas pessoas yucuna",
+        "quem vive como yucuna",
+        "quem habita com os yucuna",
+        "quem mora com os yucuna",
+        "quem convive com os yucuna",
+        "quem são os membros yucuna",
+        "quem faz parte dos yucuna",
+        "quem pertence aos yucuna",
+        "quem integra os yucuna"
+      ],
+      "responses": [
+        "Os Yucuna são um povo originário que habita a região amazônica da Colômbia, grupo étnico ancestral que vive da pesca, agricultura e coleta com cultura própria e espiritualidade natural.",
+        "São habitantes indígenas milenares da Amazônia colombiana, comunidade que preserva tradições ancestrais, mantém práticas sustentáveis e conexão espiritual com a floresta.",
+        "Representam uma etnia nativa amazônica da Colômbia, pessoas que conservam saberes tradicionais, vivem de forma sustentável e mantêm espiritualidade ligada à natureza.",
+        "Os Yucuna são membros de uma comunidade ancestral que habita territórios amazônicos colombianos, preservando culturas únicas e modos de vida integrados ao meio ambiente."
+      ]
+    },
+    {
+      "intent": "quem_uitoto",
+      "patterns": [
+        "quem são os uitoto",
+        "quem é o povo uitoto",
+        "quem representa os uitoto",
+        "quem são essas pessoas uitoto",
+        "quem vive como uitoto",
+        "quem habita com os uitoto",
+        "quem mora com os uitoto",
+        "quem convive com os uitoto",
+        "quem são os membros uitoto",
+        "quem faz parte dos uitoto",
+        "quem pertence aos uitoto",
+        "quem integra os uitoto"
+      ],
+      "responses": [
+        "Os Uitoto são um povo originário que habita a região amazônica da Colômbia, grupo étnico ancestral que vive da pesca, agricultura e coleta com cultura própria e espiritualidade natural.",
+        "São habitantes indígenas milenares da Amazônia colombiana, comunidade que preserva tradições ancestrais, mantém práticas sustentáveis e conexão espiritual com a floresta.",
+        "Representam uma etnia nativa amazônica da Colômbia, pessoas que conservam saberes tradicionais, vivem de forma sustentável e mantêm espiritualidade ligada à natureza.",
+        "Os Uitoto são membros de uma comunidade ancestral que habita territórios amazônicos colombianos, preservando culturas únicas e modos de vida integrados ao meio ambiente."
+      ]
+    },
+    {
+      "intent": "onde_aonde_yucuna",
+      "patterns": [
+        "onde vivem os yucuna",
+        "onde ficam os yucuna",
+        "aonde ficam os yucuna",
+        "aonde vivem os yucuna",
+        "onde estão os yucuna",
+        "aonde estão os yucuna",
+        "onde se localizam os yucuna",
+        "onde habitam os yucuna",
+        "aonde habitam os yucuna",
+        "onde moram os yucuna",
+        "aonde moram os yucuna",
+        "localização dos yucuna",
+        "em que lugar ficam os yucuna",
+        "em q lugar ficam os yucuna",
+        "em que país vivem os yucuna",
+        "em q país vivem os yucuna",
+        "situação dos yucuna",
+        "posição dos yucuna"
+      ],
+      "responses": [
+        "Os Yucuna vivem na região amazônica da Colômbia, habitando territórios florestais tradicionais onde mantêm suas culturas ancestrais e espiritualidade ligada à natureza.",
+        "Localizam-se na Amazônia colombiana, onde encontramos este povo originário preservando tradições milenares em suas terras tradicionais na floresta tropical.",
+        "Os Yucuna estão situados na parte amazônica da Colômbia, região onde habitam há milhares de anos mantendo culturas próprias e práticas sustentáveis.",
+        "Encontram-se nos territórios amazônicos colombianos, área florestal onde este grupo étnico preserva saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "onde_aonde_uitoto",
+      "patterns": [
+        "onde vivem os uitoto",
+        "onde ficam os uitoto",
+        "aonde ficam os uitoto",
+        "aonde vivem os uitoto",
+        "onde estão os uitoto",
+        "aonde estão os uitoto",
+        "onde se localizam os uitoto",
+        "onde habitam os uitoto",
+        "aonde habitam os uitoto",
+        "onde moram os uitoto",
+        "aonde moram os uitoto",
+        "localização dos uitoto",
+        "em que lugar ficam os uitoto",
+        "em q lugar ficam os uitoto",
+        "em que país vivem os uitoto",
+        "em q país vivem os uitoto",
+        "situação dos uitoto",
+        "posição dos uitoto"
+      ],
+      "responses": [
+        "Os Uitoto vivem na região amazônica da Colômbia, habitando territórios florestais tradicionais onde mantêm suas culturas ancestrais e espiritualidade ligada à natureza.",
+        "Localizam-se na Amazônia colombiana, onde encontramos este povo originário preservando tradições milenares em suas terras tradicionais na floresta tropical.",
+        "Os Uitoto estão situados na parte amazônica da Colômbia, região onde habitam há milhares de anos mantendo culturas próprias e práticas sustentáveis.",
+        "Encontram-se nos territórios amazônicos colombianos, área florestal onde este grupo étnico preserva saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "como_yucuna",
+      "patterns": [
+        "como vivem os yucuna",
+        "como são os yucuna",
+        "como é a vida dos yucuna",
+        "como é a cultura dos yucuna",
+        "como é a espiritualidade dos yucuna",
+        "como sobrevivem os yucuna",
+        "como se alimentam os yucuna",
+        "como trabalham os yucuna",
+        "como se organizam os yucuna",
+        "modo de vida dos yucuna",
+        "jeito dos yucuna",
+        "estilo dos yucuna",
+        "características dos yucuna",
+        "aspectos dos yucuna"
+      ],
+      "responses": [
+        "Os Yucuna vivem da pesca, agricultura e coleta na Amazônia colombiana, mantendo cultura própria e espiritualidade ligada à natureza, preservando tradições ancestrais sustentáveis.",
+        "Vivem de forma tradicional através da pesca, agricultura ancestral e coleta de frutos, possuindo cultura única e espiritualidade profundamente conectada à floresta amazônica.",
+        "Mantêm modos de vida sustentáveis baseados na pesca, agricultura tradicional e coleta, desenvolvendo cultura própria e espiritualidade integrada ao ambiente natural colombiano.",
+        "Sobrevivem através de práticas ancestrais como pesca, agricultura e coleta, organizando-se com cultura tradicional e espiritualidade natural, mantendo harmonia com a floresta."
+      ]
+    },
+    {
+      "intent": "como_uitoto",
+      "patterns": [
+        "como vivem os uitoto",
+        "como são os uitoto",
+        "como é a vida dos uitoto",
+        "como é a cultura dos uitoto",
+        "como é a espiritualidade dos uitoto",
+        "como sobrevivem os uitoto",
+        "como se alimentam os uitoto",
+        "como trabalham os uitoto",
+        "como se organizam os uitoto",
+        "modo de vida dos uitoto",
+        "jeito dos uitoto",
+        "estilo dos uitoto",
+        "características dos uitoto",
+        "aspectos dos uitoto"
+      ],
+      "responses": [
+        "Os Uitoto vivem da pesca, agricultura e coleta na Amazônia colombiana, mantendo cultura própria e espiritualidade ligada à natureza, preservando tradições ancestrais sustentáveis.",
+        "Vivem de forma tradicional através da pesca, agricultura ancestral e coleta de frutos, possuindo cultura única e espiritualidade profundamente conectada à floresta amazônica.",
+        "Mantêm modos de vida sustentáveis baseados na pesca, agricultura tradicional e coleta, desenvolvendo cultura própria e espiritualidade integrada ao ambiente natural colombiano.",
+        "Sobrevivem através de práticas ancestrais como pesca, agricultura e coleta, organizando-se com cultura tradicional e espiritualidade natural, mantendo harmonia com a floresta."
+      ]
+    },
+    {
+      "intent": "por_que_porque_yucuna",
+      "patterns": [
+        "por que preservar os yucuna",
+        "pq preservar os yucuna",
+        "por que são importantes os yucuna",
+        "pq são importantes os yucuna",
+        "porque proteger os yucuna",
+        "pq proteger os yucuna",
+        "por que existem os yucuna",
+        "pq existem os yucuna",
+        "por que estudar os yucuna",
+        "pq estudar os yucuna",
+        "porque valorizar os yucuna",
+        "pq valorizar os yucuna",
+        "por que respeitar os yucuna",
+        "pq respeitar os yucuna"
+      ],
+      "responses": [
+        "É importante preservar os Yucuna porque mantêm conhecimentos ancestrais amazônicos, cultura única, espiritualidade natural e práticas sustentáveis que protegem a floresta colombiana há milênios.",
+        "São fundamentais pois preservam sabedoria tradicional sobre a Amazônia, biodiversidade e medicina natural, sendo guardiões da floresta colombiana com culturas milenares.",
+        "Sua importância decorre da preservação de cultura ancestral, conhecimentos sobre plantas medicinais, práticas sustentáveis e espiritualidade que mantém equilíbrio ambiental.",
+        "São essenciais porque representam diversidade cultural, saberes ancestrais amazônicos, técnicas sustentáveis de sobrevivência e conexão espiritual que beneficia toda humanidade."
+      ]
+    },
+    {
+      "intent": "por_que_porque_uitoto",
+      "patterns": [
+        "por que preservar os uitoto",
+        "pq preservar os uitoto",
+        "por que são importantes os uitoto",
+        "pq são importantes os uitoto",
+        "porque proteger os uitoto",
+        "pq proteger os uitoto",
+        "por que existem os uitoto",
+        "pq existem os uitoto",
+        "por que estudar os uitoto",
+        "pq estudar os uitoto",
+        "porque valorizar os uitoto",
+        "pq valorizar os uitoto",
+        "por que respeitar os uitoto",
+        "pq respeitar os uitoto"
+      ],
+      "responses": [
+        "É importante preservar os Uitoto porque mantêm conhecimentos ancestrais amazônicos, cultura única, espiritualidade natural e práticas sustentáveis que protegem a floresta colombiana há milênios.",
+        "São fundamentais pois preservam sabedoria tradicional sobre a Amazônia, biodiversidade e medicina natural, sendo guardiões da floresta colombiana com culturas milenares.",
+        "Sua importância decorre da preservação de cultura ancestral, conhecimentos sobre plantas medicinais, práticas sustentáveis e espiritualidade que mantém equilíbrio ambiental.",
+        "São essenciais porque representam diversidade cultural, saberes ancestrais amazônicos, técnicas sustentáveis de sobrevivência e conexão espiritual que beneficia toda humanidade."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_yucuna",
+      "patterns": [
+        "para que servem os yucuna",
+        "pra que servem os yucuna",
+        "para que existem os yucuna",
+        "pra que existem os yucuna",
+        "para que proteger os yucuna",
+        "pra que proteger os yucuna",
+        "para que preservar os yucuna",
+        "pra que preservar os yucuna",
+        "para que estudar os yucuna",
+        "pra que estudar os yucuna"
+      ],
+      "responses": [
+        "Os Yucuna servem para preservar conhecimentos ancestrais amazônicos, manter cultura tradicional colombiana, proteger a floresta através de práticas sustentáveis e conservar espiritualidade natural.",
+        "Existem para manter viva sabedoria milenar sobre a Amazônia, preservar biodiversidade, ensinar sustentabilidade e manter conexão espiritual com meio ambiente.",
+        "Servem como guardiões da floresta amazônica colombiana, preservadores de conhecimentos sobre plantas medicinais, mantenedores de cultura única e exemplos de vida sustentável.",
+        "Sua função é conservar tradições ancestrais, proteger territórios florestais, manter conhecimentos sobre biodiversidade e demonstrar formas harmônicas de viver na natureza."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_uitoto",
+      "patterns": [
+        "para que servem os uitoto",
+        "pra que servem os uitoto",
+        "para que existem os uitoto",
+        "pra que existem os uitoto",
+        "para que proteger os uitoto",
+        "pra que proteger os uitoto",
+        "para que preservar os uitoto",
+        "pra que preservar os uitoto",
+        "para que estudar os uitoto",
+        "pra que estudar os uitoto"
+      ],
+      "responses": [
+        "Os Uitoto servem para preservar conhecimentos ancestrais amazônicos, manter cultura tradicional colombiana, proteger a floresta através de práticas sustentáveis e conservar espiritualidade natural.",
+        "Existem para manter viva sabedoria milenar sobre a Amazônia, preservar biodiversidade, ensinar sustentabilidade e manter conexão espiritual com meio ambiente.",
+        "Servem como guardiões da floresta amazônica colombiana, preservadores de conhecimentos sobre plantas medicinais, mantenedores de cultura única e exemplos de vida sustentável.",
+        "Sua função é conservar tradições ancestrais, proteger territórios florestais, manter conhecimentos sobre biodiversidade e demonstrar formas harmônicas de viver na natureza."
+      ]
+    },
+    {
+      "intent": "quando_yucuna",
+      "patterns": [
+        "quando surgiram os yucuna",
+        "qdo surgiram os yucuna",
+        "quando chegaram os yucuna",
+        "qdo chegaram os yucuna",
+        "quando existem os yucuna",
+        "qdo existem os yucuna",
+        "quando se formaram os yucuna",
+        "qdo se formaram os yucuna",
+        "quando apareceram os yucuna",
+        "qdo apareceram os yucuna"
+      ],
+      "responses": [
+        "Os Yucuna existem há milhares de anos na Amazônia colombiana, sendo habitantes ancestrais que vivem na região há milênios, mantendo tradições e cultura própria.",
+        "Surgiram há milhares de anos como povos originários da floresta amazônica, sendo os primeiros habitantes da região colombiana com história milenar.",
+        "Existem desde tempos imemoriais na Amazônia, muito antes da chegada dos europeus, preservando culturas e conhecimentos ancestrais há milhares de anos.",
+        "Formaram-se ao longo de milhares de anos como habitantes nativos amazônicos, desenvolvendo cultura própria e espiritualidade ligada à floresta desde épocas remotas."
+      ]
+    },
+    {
+      "intent": "quando_uitoto",
+      "patterns": [
+        "quando surgiram os uitoto",
+        "qdo surgiram os uitoto",
+        "quando chegaram os uitoto",
+        "qdo chegaram os uitoto",
+        "quando existem os uitoto",
+        "qdo existem os uitoto",
+        "quando se formaram os uitoto",
+        "qdo se formaram os uitoto",
+        "quando apareceram os uitoto",
+        "qdo apareceram os uitoto"
+      ],
+      "responses": [
+        "Os Uitoto existem há milhares de anos na Amazônia colombiana, sendo habitantes ancestrais que vivem na região há milênios, mantendo tradições e cultura própria.",
+        "Surgiram há milhares de anos como povos originários da floresta amazônica, sendo os primeiros habitantes da região colombiana com história milenar.",
+        "Existem desde tempos imemoriais na Amazônia, muito antes da chegada dos europeus, preservando culturas e conhecimentos ancestrais há milhares de anos.",
+        "Formaram-se ao longo de milhares de anos como habitantes nativos amazônicos, desenvolvendo cultura própria e espiritualidade ligada à floresta desde épocas remotas."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_yucuna",
+      "patterns": [
+        "quantos yucuna existem",
+        "qtos yucuna existem",
+        "quantas pessoas yucuna tem",
+        "qtas pessoas yucuna tem",
+        "quantos são os yucuna",
+        "qtos são os yucuna",
+        "quantas comunidades yucuna existem",
+        "qtas comunidades yucuna existem",
+        "quantas aldeias yucuna tem",
+        "qtas aldeias yucuna tem",
+        "quantos membros yucuna tem",
+        "qtos membros yucuna tem"
+      ],
+      "responses": [
+        "Os Yucuna formam várias comunidades e aldeias na região amazônica colombiana, constituindo um dos povos originários significativos que mantêm cultura tradicional e espiritualidade natural.",
+        "Existem diversas comunidades Yucuna distribuídas pela Amazônia colombiana, grupo étnico que se organiza em aldeias preservando tradições ancestrais e práticas sustentáveis.",
+        "São um povo originário com múltiplas comunidades na floresta amazônica colombiana, mantendo população que preserva saberes tradicionais e conexão espiritual com natureza.",
+        "Os Yucuna constituem várias aldeias e comunidades na região, representando grupo étnico importante que conserva cultura própria e modos de vida sustentáveis amazônicos."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_uitoto",
+      "patterns": [
+        "quantos uitoto existem",
+        "qtos uitoto existem",
+        "quantas pessoas uitoto tem",
+        "qtas pessoas uitoto tem",
+        "quantos são os uitoto",
+        "qtos são os uitoto",
+        "quantas comunidades uitoto existem",
+        "qtas comunidades uitoto existem",
+        "quantas aldeias uitoto tem",
+        "qtas aldeias uitoto tem",
+        "quantos membros uitoto tem",
+        "qtos membros uitoto tem"
+      ],
+      "responses": [
+        "Os Uitoto formam várias comunidades e aldeias na região amazônica colombiana, constituindo um dos povos originários significativos que mantêm cultura tradicional e espiritualidade natural.",
+        "Existem diversas comunidades Uitoto distribuídas pela Amazônia colombiana, grupo étnico que se organiza em aldeias preservando tradições ancestrais e práticas sustentáveis.",
+        "São um povo originário com múltiplas comunidades na floresta amazônica colombiana, mantendo população que preserva saberes tradicionais e conexão espiritual com natureza.",
+        "Os Uitoto constituem várias aldeias e comunidades na região, representando grupo étnico importante que conserva cultura própria e modos de vida sustentáveis amazônicos."
+      ]
+    },
+    {
+      "intent": "sera_que_yucuna",
+      "patterns": [
+        "será que existem os yucuna",
+        "será q existem os yucuna",
+        "será que os yucuna são importantes",
+        "será q os yucuna são importantes",
+        "será que preservam cultura os yucuna",
+        "será q preservam cultura os yucuna",
+        "será que vivem na amazonia os yucuna",
+        "será q vivem na amazonia os yucuna",
+        "será que são indígenas os yucuna",
+        "será q são indigenas os yucuna"
+      ],
+      "responses": [
+        "Sim, definitivamente existem os Yucuna na Amazônia colombiana e são extremamente importantes: preservam conhecimentos ancestrais, mantêm cultura própria e espiritualidade natural.",
+        "Com certeza os Yucuna são reais e vitais: vivem da pesca, agricultura e coleta, conservam tradições milenares e são guardiões da floresta amazônica.",
+        "Certamente existem e preservam cultura única: mantêm saberes ancestrais, espiritualidade ligada à natureza e práticas sustentáveis na região colombiana há milhares de anos.",
+        "Sim, são povos indígenas autênticos e fundamentais: conservam tradições únicas, conhecimentos sobre floresta e técnicas sustentáveis, sendo patrimônio cultural amazônico."
+      ]
+    },
+    {
+      "intent": "sera_que_uitoto",
+      "patterns": [
+        "será que existem os uitoto",
+        "será q existem os uitoto",
+        "será que os uitoto são importantes",
+        "será q os uitoto são importantes",
+        "será que preservam cultura os uitoto",
+        "será q preservam cultura os uitoto",
+        "será que vivem na amazonia os uitoto",
+        "será q vivem na amazonia os uitoto",
+        "será que são indígenas os uitoto",
+        "será q são indigenas os uitoto"
+      ],
+      "responses": [
+        "Sim, definitivamente existem os Uitoto na Amazônia colombiana e são extremamente importantes: preservam conhecimentos ancestrais, mantêm cultura própria e espiritualidade natural.",
+        "Com certeza os Uitoto são reais e vitais: vivem da pesca, agricultura e coleta, conservam tradições milenares e são guardiões da floresta amazônica.",
+        "Certamente existem e preservam cultura única: mantêm saberes ancestrais, espiritualidade ligada à natureza e práticas sustentáveis na região colombiana há milhares de anos.",
+        "Sim, são povos indígenas autênticos e fundamentais: conservam tradições únicas, conhecimentos sobre floresta e técnicas sustentáveis, sendo patrimônio cultural amazônico."
+      ]
+    }
+  ]
+}

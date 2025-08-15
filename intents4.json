@@ -1,0 +1,249 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_tikuna",
+      "patterns": [
+        "o que é tikuna",
+        "o que são tikuna", 
+        "oq é tikuna",
+        "oq são tikuna",
+        "o que seria tikuna",
+        "o que seriam tikuna",
+        "oq seria tikuna",
+        "oq seriam tikuna",
+        "o que significa tikuna",
+        "oq significa tikuna",
+        "o que representa tikuna",
+        "oq representa tikuna",
+        "defina tikuna",
+        "define tikuna",
+        "conceito de tikuna",
+        "tikuna definição",
+        "definição dos tikuna",
+        "significado de tikuna",
+        "me explique o que é tikuna",
+        "me explica oq é tikuna",
+        "explique o que são tikuna",
+        "explica oq são tikuna"
+      ],
+      "responses": [
+        "Os Tikuna são um povo originário da Amazônia que habita a Colômbia, vivendo da pesca, agricultura e coleta, mantendo cultura própria e espiritualidade ligada à natureza.",
+        "Tikuna representa uma etnia indígena ancestral da região amazônica colombiana, grupo que preserva tradições milenares baseadas em práticas sustentáveis e conexão espiritual com a floresta.",
+        "São um povo nativo amazônico localizado na Colômbia, que mantém cultura tradicional, espiritualidade natural e sobrevive através da pesca, agricultura e coleta sustentável.",
+        "Os Tikuna significam uma comunidade étnica originária que habita territórios amazônicos colombianos, preservando saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "quais_tikuna",
+      "patterns": [
+        "quais são os tikuna",
+        "quais características dos tikuna",
+        "quais são as características dos tikuna",
+        "quais tradições dos tikuna",
+        "quais são as tradições dos tikuna",
+        "quais culturas dos tikuna",
+        "quais são as culturas dos tikuna",
+        "quais costumes dos tikuna",
+        "quais são os costumes dos tikuna",
+        "quais práticas dos tikuna",
+        "quais são as práticas dos tikuna",
+        "quais atividades dos tikuna",
+        "quais são as atividades dos tikuna"
+      ],
+      "responses": [
+        "Os Tikuna são povos originários da Colômbia amazônica que vivem da pesca, agricultura e coleta, mantendo tradições ancestrais, cultura própria e espiritualidade ligada à natureza.",
+        "As características dos Tikuna incluem serem habitantes ancestrais da Amazônia colombiana, praticarem agricultura sustentável, pesca, coleta e manterem conexão espiritual com a floresta.",
+        "Os Tikuna possuem tradições milenares baseadas em práticas sustentáveis, cultura própria, espiritualidade natural e modos de vida integrados ao ambiente amazônico colombiano.",
+        "São caracterizados por serem guardiões de saberes ancestrais, praticantes de agricultura tradicional, pesca e coleta, mantendo culturas únicas na região amazônica da Colômbia."
+      ]
+    },
+    {
+      "intent": "quem_tikuna",
+      "patterns": [
+        "quem são os tikuna",
+        "quem é o povo tikuna",
+        "quem representa os tikuna",
+        "quem são essas pessoas tikuna",
+        "quem vive como tikuna",
+        "quem habita com os tikuna",
+        "quem mora com os tikuna",
+        "quem convive com os tikuna",
+        "quem são os membros tikuna",
+        "quem faz parte dos tikuna",
+        "quem pertence aos tikuna",
+        "quem integra os tikuna"
+      ],
+      "responses": [
+        "Os Tikuna são um povo originário que habita a região amazônica da Colômbia, grupo étnico ancestral que vive da pesca, agricultura e coleta com cultura própria e espiritualidade natural.",
+        "São habitantes indígenas milenares da Amazônia colombiana, comunidade que preserva tradições ancestrais, mantém práticas sustentáveis e conexão espiritual com a floresta.",
+        "Representam uma etnia nativa amazônica da Colômbia, pessoas que conservam saberes tradicionais, vivem de forma sustentável e mantêm espiritualidade ligada à natureza.",
+        "Os Tikuna são membros de uma comunidade ancestral que habita territórios amazônicos colombianos, preservando culturas únicas e modos de vida integrados ao meio ambiente."
+      ]
+    },
+    {
+      "intent": "onde_aonde_tikuna",
+      "patterns": [
+        "onde vivem os tikuna",
+        "onde ficam os tikuna",
+        "aonde ficam os tikuna",
+        "aonde vivem os tikuna",
+        "onde estão os tikuna",
+        "aonde estão os tikuna",
+        "onde se localizam os tikuna",
+        "onde habitam os tikuna",
+        "aonde habitam os tikuna",
+        "onde moram os tikuna",
+        "aonde moram os tikuna",
+        "localização dos tikuna",
+        "em que lugar ficam os tikuna",
+        "em q lugar ficam os tikuna",
+        "em que país vivem os tikuna",
+        "em q país vivem os tikuna",
+        "situação dos tikuna",
+        "posição dos tikuna"
+      ],
+      "responses": [
+        "Os Tikuna vivem na região amazônica da Colômbia, habitando territórios florestais tradicionais onde mantêm suas culturas ancestrais e espiritualidade ligada à natureza.",
+        "Localizam-se na Amazônia colombiana, onde encontramos este povo originário preservando tradições milenares em suas terras tradicionais na floresta tropical.",
+        "Os Tikuna estão situados na parte amazônica da Colômbia, região onde habitam há milhares de anos mantendo culturas próprias e práticas sustentáveis.",
+        "Encontram-se nos territórios amazônicos colombianos, área florestal onde este grupo étnico preserva saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "como_tikuna",
+      "patterns": [
+        "como vivem os tikuna",
+        "como são os tikuna",
+        "como é a vida dos tikuna",
+        "como é a cultura dos tikuna",
+        "como é a espiritualidade dos tikuna",
+        "como sobrevivem os tikuna",
+        "como se alimentam os tikuna",
+        "como trabalham os tikuna",
+        "como se organizam os tikuna",
+        "modo de vida dos tikuna",
+        "jeito dos tikuna",
+        "estilo dos tikuna",
+        "características dos tikuna",
+        "aspectos dos tikuna"
+      ],
+      "responses": [
+        "Os Tikuna vivem da pesca, agricultura e coleta na Amazônia colombiana, mantendo cultura própria e espiritualidade ligada à natureza, preservando tradições ancestrais sustentáveis.",
+        "Vivem de forma tradicional através da pesca, agricultura ancestral e coleta de frutos, possuindo cultura única e espiritualidade profundamente conectada à floresta amazônica.",
+        "Mantêm modos de vida sustentáveis baseados na pesca, agricultura tradicional e coleta, desenvolvendo cultura própria e espiritualidade integrada ao ambiente natural colombiano.",
+        "Sobrevivem através de práticas ancestrais como pesca, agricultura e coleta, organizando-se com cultura tradicional e espiritualidade natural, mantendo harmonia com a floresta."
+      ]
+    },
+    {
+      "intent": "por_que_porque_tikuna",
+      "patterns": [
+        "por que preservar os tikuna",
+        "pq preservar os tikuna",
+        "por que são importantes os tikuna",
+        "pq são importantes os tikuna",
+        "porque proteger os tikuna",
+        "pq proteger os tikuna",
+        "por que existem os tikuna",
+        "pq existem os tikuna",
+        "por que estudar os tikuna",
+        "pq estudar os tikuna",
+        "porque valorizar os tikuna",
+        "pq valorizar os tikuna",
+        "por que respeitar os tikuna",
+        "pq respeitar os tikuna"
+      ],
+      "responses": [
+        "É importante preservar os Tikuna porque mantêm conhecimentos ancestrais amazônicos, cultura única, espiritualidade natural e práticas sustentáveis que protegem a floresta colombiana há milênios.",
+        "São fundamentais pois preservam sabedoria tradicional sobre a Amazônia, biodiversidade e medicina natural, sendo guardiões da floresta colombiana com culturas milenares.",
+        "Sua importância decorre da preservação de cultura ancestral, conhecimentos sobre plantas medicinais, práticas sustentáveis e espiritualidade que mantém equilíbrio ambiental.",
+        "São essenciais porque representam diversidade cultural, saberes ancestrais amazônicos, técnicas sustentáveis de sobrevivência e conexão espiritual que beneficia toda humanidade."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_tikuna",
+      "patterns": [
+        "para que servem os tikuna",
+        "pra que servem os tikuna",
+        "para que existem os tikuna",
+        "pra que existem os tikuna",
+        "para que proteger os tikuna",
+        "pra que proteger os tikuna",
+        "para que preservar os tikuna",
+        "pra que preservar os tikuna",
+        "para que estudar os tikuna",
+        "pra que estudar os tikuna"
+      ],
+      "responses": [
+        "Os Tikuna servem para preservar conhecimentos ancestrais amazônicos, manter cultura tradicional colombiana, proteger a floresta através de práticas sustentáveis e conservar espiritualidade natural.",
+        "Existem para manter viva sabedoria milenar sobre a Amazônia, preservar biodiversidade, ensinar sustentabilidade e manter conexão espiritual com meio ambiente.",
+        "Servem como guardiões da floresta amazônica colombiana, preservadores de conhecimentos sobre plantas medicinais, mantenedores de cultura única e exemplos de vida sustentável.",
+        "Sua função é conservar tradições ancestrais, proteger territórios florestais, manter conhecimentos sobre biodiversidade e demonstrar formas harmônicas de viver na natureza."
+      ]
+    },
+    {
+      "intent": "quando_tikuna",
+      "patterns": [
+        "quando surgiram os tikuna",
+        "qdo surgiram os tikuna",
+        "quando chegaram os tikuna",
+        "qdo chegaram os tikuna",
+        "quando existem os tikuna",
+        "qdo existem os tikuna",
+        "quando se formaram os tikuna",
+        "qdo se formaram os tikuna",
+        "quando apareceram os tikuna",
+        "qdo apareceram os tikuna"
+      ],
+      "responses": [
+        "Os Tikuna existem há milhares de anos na Amazônia colombiana, sendo habitantes ancestrais que vivem na região há milênios, mantendo tradições e cultura própria.",
+        "Surgiram há milhares de anos como povos originários da floresta amazônica, sendo os primeiros habitantes da região colombiana com história milenar.",
+        "Existem desde tempos imemoriais na Amazônia, muito antes da chegada dos europeus, preservando culturas e conhecimentos ancestrais há milhares de anos.",
+        "Formaram-se ao longo de milhares de anos como habitantes nativos amazônicos, desenvolvendo cultura própria e espiritualidade ligada à floresta desde épocas remotas."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_tikuna",
+      "patterns": [
+        "quantos tikuna existem",
+        "qtos tikuna existem",
+        "quantas pessoas tikuna tem",
+        "qtas pessoas tikuna tem",
+        "quantos são os tikuna",
+        "qtos são os tikuna",
+        "quantas comunidades tikuna existem",
+        "qtas comunidades tikuna existem",
+        "quantas aldeias tikuna tem",
+        "qtas aldeias tikuna tem",
+        "quantos membros tikuna tem",
+        "qtos membros tikuna tem"
+      ],
+      "responses": [
+        "Os Tikuna formam várias comunidades e aldeias na região amazônica colombiana, constituindo um dos povos originários significativos que mantêm cultura tradicional e espiritualidade natural.",
+        "Existem diversas comunidades Tikuna distribuídas pela Amazônia colombiana, grupo étnico que se organiza em aldeias preservando tradições ancestrais e práticas sustentáveis.",
+        "São um povo originário com múltiplas comunidades na floresta amazônica colombiana, mantendo população que preserva saberes tradicionais e conexão espiritual com natureza.",
+        "Os Tikuna constituem várias aldeias e comunidades na região, representando grupo étnico importante que conserva cultura própria e modos de vida sustentáveis amazônicos."
+      ]
+    },
+    {
+      "intent": "sera_que_tikuna",
+      "patterns": [
+        "será que existem os tikuna",
+        "será q existem os tikuna",
+        "será que os tikuna são importantes",
+        "será q os tikuna são importantes",
+        "será que preservam cultura os tikuna",
+        "será q preservam cultura os tikuna",
+        "será que vivem na amazonia os tikuna",
+        "será q vivem na amazonia os tikuna",
+        "será que são indígenas os tikuna",
+        "será q são indigenas os tikuna"
+      ],
+      "responses": [
+        "Sim, definitivamente existem os Tikuna na Amazônia colombiana e são extremamente importantes: preservam conhecimentos ancestrais, mantêm cultura própria e espiritualidade natural.",
+        "Com certeza os Tikuna são reais e vitais: vivem da pesca, agricultura e coleta, conservam tradições milenares e são guardiões da floresta amazônica.",
+        "Certamente existem e preservam cultura única: mantêm saberes ancestrais, espiritualidade ligada à natureza e práticas sustentáveis na região colombiana há milhares de anos.",
+        "Sim, são povos indígenas autênticos e fundamentais: conservam tradições únicas, conhecimentos sobre floresta e técnicas sustentáveis, sendo patrimônio cultural amazônico."
+      ]
+    }
+  ]
+}

@@ -1,324 +1,410 @@
 {
   "intents": [
     {
-      "intent": "ecossistemas_terra_firme",
-      "keywords": ["floresta", "terra", "firme", "area", "nao", "alaga", "arvores", "gigantes", "rica"],
-      "response": "Área que não alaga, rica em árvores gigantes."
+      "intent": "o_que_e_amazonia",
+      "patterns": [
+        "o que é amazonia",
+        "o que é a amazonia", 
+        "oq é amazonia",
+        "oq é a amazonia",
+        "o que seria amazonia",
+        "o que seria a amazonia",
+        "oq seria amazonia",
+        "oq seria a amazonia",
+        "o que significa amazonia",
+        "oq significa amazonia",
+        "o que representa amazonia",
+        "oq representa amazonia",
+        "o que vem a ser amazonia",
+        "oq vem a ser amazonia",
+        "defina amazonia",
+        "define amazonia",
+        "conceito de amazonia",
+        "amazonia definição",
+        "definição da amazonia",
+        "significado de amazonia",
+        "me explique o que é amazonia",
+        "me explica oq é amazonia",
+        "explique o que é amazonia",
+        "explica oq é amazonia",
+        "me conta sobre a amazonia",
+        "fala sobre a amazonia",
+        "fala da amazonia",
+        "me fale da amazonia",
+        "o q é essa amazonia",
+        "essa amazonia o que é",
+        "que negócio é amazonia",
+        "que coisa é amazonia",
+        "amazonia é o que exatamente",
+        "exatamente o que é amazonia",
+        "diga o que é amazonia",
+        "me diga o que é amazonia",
+        "conta aí o que é amazonia",
+        "explica aí o que é amazonia",
+        "o que seria essa amazonia",
+        "que parada é amazonia",
+        "que lugar é amazonia",
+        "que região é amazonia",
+        "que área é amazonia",
+        "que território é amazonia"
+      ],
+      "responses": [
+        "A Amazônia é a maior floresta tropical do mundo, localizada na América do Sul, abrangendo vários países como Brasil, Peru, Equador, Venezuela e Colômbia.",
+        "A Amazônia representa o maior bioma tropical do planeta, estendendo-se por diversos países sul-americanos e abrigando uma biodiversidade única no mundo.",
+        "Amazônia é uma vasta região florestal equatorial que constitui o maior reservatório de biodiversidade da Terra, situada principalmente na bacia do Rio Amazonas.",
+        "A Amazônia é uma imensa floresta tropical que cobre grande parte do norte da América do Sul, sendo considerada o pulmão verde do mundo.",
+        "Conhecida como a maior floresta pluvial tropical do mundo, a Amazônia é um ecossistema vital que se estende por nove países sul-americanos."
+      ]
     },
     {
-      "intent": "ecossistemas_varzeas",
-      "keywords": ["varzeas", "areas", "alagadas", "periodicamente", "solo", "fertil", "enchente", "sazonal"],
-      "response": "Áreas alagadas periodicamente com solo fértil."
+      "intent": "qual_quais_amazonia",
+      "patterns": [
+        "qual é a amazonia",
+        "qual seria a amazonia",
+        "qual a amazonia",
+        "quais são as características da amazonia",
+        "quais as características da amazonia",
+        "quais características tem a amazonia",
+        "qts características tem a amazonia",
+        "qual o tamanho da amazonia",
+        "qual tamanho da amazonia",
+        "qual a extensão da amazonia",
+        "qual extensão da amazonia",
+        "qual a importância da amazonia",
+        "qual importância da amazonia",
+        "quais países tem amazonia",
+        "quais países têm amazonia",
+        "quais os países da amazonia",
+        "qual tipo de floresta é a amazonia",
+        "q tipo de floresta é a amazonia",
+        "qual clima da amazonia",
+        "qual o clima da amazonia",
+        "quais animais da amazonia",
+        "quais plantas da amazonia",
+        "quais rios da amazonia"
+      ],
+      "responses": [
+        "A Amazônia é a maior floresta tropical do mundo com características únicas: clima equatorial, alta biodiversidade, temperaturas entre 24-28°C, umidade acima de 80% e chuvas frequentes.",
+        "É uma floresta tropical de dimensões continentais, caracterizada por seu clima quente e úmido, rica rede hidrográfica, diversos ecossistemas e biodiversidade excepcional.",
+        "A Amazônia representa o maior bioma tropical terrestre, com extensão de aproximadamente 5,5 milhões de km², abrigando a maior diversidade biológica do planeta.",
+        "Trata-se de uma região florestal equatorial com características específicas: vegetação densa, clima tropical úmido, rios caudalosos e fauna diversificada.",
+        "É o maior complexo florestal tropical do mundo, caracterizado por sua localização equatorial, clima estável, rica hidrografia e biodiversidade incomparável."
+      ]
     },
     {
-      "intent": "ecossistemas_igapos",
-      "keywords": ["igapos", "alagadas", "ano", "todo", "vegetacao", "adaptada", "permanente", "agua"],
-      "response": "Áreas alagadas o ano todo com vegetação adaptada."
+      "intent": "quem_amazonia",
+      "patterns": [
+        "quem descobriu a amazonia",
+        "quem criou a amazonia",
+        "quem nomeou a amazonia",
+        "quem vive na amazonia",
+        "quem mora na amazonia",
+        "quem habita a amazonia",
+        "quem são os povos da amazonia",
+        "quem protege a amazonia",
+        "quem cuida da amazonia",
+        "quem estuda a amazonia",
+        "quem pesquisa a amazonia",
+        "quem explora a amazonia",
+        "quem destrói a amazonia",
+        "quem ameaça a amazonia"
+      ],
+      "responses": [
+        "Na Amazônia vivem diversos povos originários como Tikuna, Yucuna e Uitoto na Colômbia, e Achuar, Shuar, Kichwa e Huaorani no Equador, além de comunidades tradicionais.",
+        "A região é habitada por povos indígenas ancestrais, comunidades ribeirinhas, caboclos e populações urbanas, cada grupo com sua cultura e relação única com a floresta.",
+        "Os habitantes incluem etnias indígenas milenares, populações tradicionais que vivem da floresta, pesquisadores, conservacionistas e infelizmente também invasores e exploradores ilegais.",
+        "Vivem na Amazônia povos nativos com milhares de anos de história, além de comunidades que chegaram posteriormente e desenvolveram modos de vida sustentáveis com a floresta.",
+        "A floresta abriga povos originários com culturas ricas, comunidades tradicionais, cientistas, ambientalistas, mas também enfrenta pressão de madeireiros, garimpeiros e pecuaristas ilegais."
+      ]
     },
     {
-      "intent": "historia_seculos_19_20",
-      "keywords": ["seculos", "xix", "xx", "ciclo", "borracha", "mineracao", "construcao", "estradas", "conflitos", "fundiarios", "areas", "protecao", "ambiental"],
-      "response": "Ciclo da borracha, mineração, Construção de estradas, conflitos fundiários, Primeiras áreas de proteção ambiental."
+      "intent": "cujo_cuja_amazonia",
+      "patterns": [
+        "cujo território é a amazonia",
+        "cuja importância tem a amazonia",
+        "cujo clima é da amazonia",
+        "cuja biodiversidade é da amazonia",
+        "cujos rios são da amazonia",
+        "cujas características são da amazonia",
+        "cujo tamanho é da amazonia",
+        "cuja extensão é da amazonia",
+        "cujos países possuem amazonia",
+        "cujas tribos vivem na amazonia"
+      ],
+      "responses": [
+        "A Amazônia cujo território se estende por nove países é a maior floresta tropical, cuja importância é vital para o clima global e cuja biodiversidade é incomparável.",
+        "É uma região cujas características climáticas são únicas, cujos rios formam a maior bacia hidrográfica e cujos povos preservam saberes ancestrais.",
+        "A floresta cujo território abrange milhões de quilômetros é aquela cuja conservação é essencial e cujas espécies são únicas no mundo.",
+        "Trata-se da região cuja biodiversidade supera qualquer outra, cujos recursos são inestimáveis e cuja preservação é urgente para o planeta.",
+        "A Amazônia cujo papel climático é fundamental é também aquela cuja riqueza cultural dos povos originários é imensurável e cujos ecossistemas são únicos."
+      ]
     },
     {
-      "intent": "localizacao_extensao",
-      "keywords": ["localizacao", "extensao", "norte", "america", "sul", "colombia", "brasil", "peru", "equador", "venezuela", "42%"],
-      "response": "Norte da América do Sul, 42% da Colômbia, se estende por Brasil, Peru, Equador e Venezuela."
+      "intent": "onde_aonde_amazonia",
+      "patterns": [
+        "onde fica a amazonia",
+        "onde fica amazonia",
+        "aonde fica a amazonia",
+        "aonde fica amazonia",
+        "onde está a amazonia",
+        "onde está amazonia",
+        "aonde está a amazonia",
+        "aonde está amazonia",
+        "onde se localiza a amazonia",
+        "onde se localiza amazonia",
+        "onde encontra a amazonia",
+        "onde encontra amazonia",
+        "aonde vai a amazonia",
+        "aonde se estende a amazonia",
+        "localização da amazonia",
+        "localização de amazonia",
+        "em que lugar fica a amazonia",
+        "em q lugar fica a amazonia",
+        "em qual continente está a amazonia",
+        "em qual continente fica a amazonia",
+        "em que país está a amazonia",
+        "em q país está a amazonia",
+        "posição da amazonia",
+        "situação da amazonia",
+        "geografia da amazonia"
+      ],
+      "responses": [
+        "A Amazônia localiza-se ao norte da América do Sul, abrangendo uma parte significativa da Colômbia (cerca de 42% do seu território) e se estende por áreas do Brasil, Peru, Equador e Venezuela.",
+        "A Amazônia está situada na região norte da América do Sul, ocupando territórios de vários países: Brasil, Peru, Equador, Venezuela e Colômbia, sendo que esta última possui 42% de seu território na região amazônica.",
+        "Localizada na zona equatorial da América do Sul, a Amazônia se distribui principalmente pelo Brasil, mas também abrange territórios do Peru, Equador, Venezuela e uma grande porção da Colômbia.",
+        "A Amazônia encontra-se no norte do continente sul-americano, estendendo-se por cinco países: Brasil (maior porção), Colômbia, Peru, Equador e Venezuela.",
+        "Situada na bacia do Rio Amazonas, no norte da América do Sul, esta vasta região florestal abrange territórios de Brasil, Peru, Equador, Venezuela e 42% do território colombiano."
+      ]
     },
     {
-      "intent": "clima_zona_equatorial",
-      "keywords": ["zona", "equatorial", "clima", "alta", "umidade", "temperaturas", "constantes", "tropical"],
-      "response": "Clima com alta umidade e temperaturas constantes."
+      "intent": "de_onde_amazonia",
+      "patterns": [
+        "de onde vem a amazonia",
+        "de onde surge a amazonia",
+        "de onde parte a amazonia",
+        "de onde vem o nome amazonia",
+        "de onde surgiu a amazonia",
+        "de onde se origina a amazonia",
+        "de onde vem o rio amazonas",
+        "de onde nascem os rios da amazonia",
+        "de onde vem a chuva da amazonia",
+        "de onde vem a umidade da amazonia"
+      ],
+      "responses": [
+        "O nome Amazônia deriva das lendárias guerreiras amazonas da mitologia grega. A região se originou há milhões de anos a partir de processos geológicos e climáticos que formaram esta imensa bacia sedimentar.",
+        "A denominação vem dos exploradores espanhóis que associaram as mulheres guerreiras indígenas às amazonas mitológicas. A floresta originou-se de transformações geológicas ao longo de eras geológicas.",
+        "O termo Amazônia tem origem nas amazonas da mitologia, nome dado pelos conquistadores. A região formou-se através de milhões de anos de evolução geológica e climática na bacia do Rio Amazonas.",
+        "O nome deriva das guerreiras amazonas da antiguidade clássica. A floresta originou-se de processos naturais seculares que criaram as condições ideais para este ecossistema único.",
+        "A palavra Amazônia vem das lendárias amazonas. A região nasceu de transformações geológicas e climáticas que ao longo de milhões de anos criaram este complexo ecossistema tropical."
+      ]
     },
     {
-      "intent": "rede_hidrografica",
-      "keywords": ["rede", "hidrografica", "amazonas", "afluentes", "bacias", "agua"],
-      "response": "Formada pelo Rio Amazonas e seus afluentes."
+      "intent": "quando_amazonia",
+      "patterns": [
+        "quando surgiu a amazonia",
+        "qdo surgiu a amazonia",
+        "quando apareceu a amazonia",
+        "qdo apareceu a amazonia",
+        "quando foi descoberta a amazonia",
+        "qdo foi descoberta a amazonia",
+        "quando foi formada a amazonia",
+        "qdo foi formada a amazonia",
+        "quando chove na amazonia",
+        "qdo chove na amazonia",
+        "quando faz calor na amazonia",
+        "qdo faz calor na amazonia",
+        "quando visitar a amazonia",
+        "qdo visitar a amazonia",
+        "quando ir na amazonia",
+        "qdo ir na amazonia"
+      ],
+      "responses": [
+        "A Amazônia tem cerca de 55 milhões de anos de formação. Chove durante todo o ano sem estação seca definida, e faz calor constantemente com temperaturas entre 24°C e 28°C.",
+        "A formação da Amazônia remonta a milhões de anos. O clima é estável o ano inteiro: sempre quente (24-28°C) e com chuvas frequentes em todos os meses.",
+        "A floresta amazônica se desenvolveu ao longo de milhões de anos. Não há uma época específica para chuvas ou calor - ambos ocorrem durante todo o ano devido ao clima equatorial.",
+        "A Amazônia foi se formando há milhões de anos. Seu clima equatorial garante temperaturas altas e chuvas constantes durante os 12 meses do ano.",
+        "Esta região se originou há dezenas de milhões de anos. Caracteriza-se por não ter sazonalidade climática: é sempre quente e chuvoso ao longo do ano inteiro."
+      ]
     },
     {
-      "intent": "rios_região",
-      "keywords": ["rios", "rios da região", "rios do amazonas", "Rios", "Rios do amazonas", "Rios da regiçao"],
-      "response": "Amazonas, Napo, Putumayo e Caquetá."
+      "intent": "como_amazonia",
+      "patterns": [
+        "como é a amazonia",
+        "como é amazonia",
+        "como seria a amazonia",
+        "como seria amazonia",
+        "como está a amazonia",
+        "como está amazonia",
+        "como funciona a amazonia",
+        "como funciona amazonia",
+        "como surgiu a amazonia",
+        "como apareceu a amazonia",
+        "como foi formada a amazonia",
+        "características da amazonia",
+        "característica da amazonia",
+        "aspectos da amazonia",
+        "propriedades da amazonia",
+        "qualidades da amazonia",
+        "jeito da amazonia",
+        "modo da amazonia",
+        "tipo da amazonia",
+        "estilo da amazonia",
+        "formato da amazonia",
+        "me descreva a amazonia",
+        "me descreva amazonia",
+        "descreva a amazonia",
+        "descreva amazonia",
+        "descrição da amazonia"
+      ],
+      "responses": [
+        "A Amazônia possui clima quente e úmido o ano todo, com umidade sempre acima de 80% e temperaturas entre 24°C e 28°C. Tem chuvas frequentes sem estação seca, é cortada por uma complexa rede hidrográfica e abriga diversos ecossistemas com alta diversidade biológica.",
+        "É uma região de clima tropical úmido, com temperaturas constantes entre 24°C e 28°C. A umidade relativa permanece acima de 80% e as precipitações são abundantes. Apresenta densa cobertura vegetal com árvores gigantes e rica biodiversidade.",
+        "Caracteriza-se por um clima equatorial com altas temperaturas, umidade elevada e chuvas regulares. A paisagem é dominada por florestas densas, rios caudalosos e uma fauna exuberante em diferentes ambientes como terra firme, várzeas e igapós.",
+        "A Amazônia se distingue por sua localização equatorial que lhe confere clima quente e úmido permanente. As temperaturas oscilam pouco, a umidade supera os 80% e é atravessada por extensa rede fluvial com biodiversidade incomparável.",
+        "É uma região de clima tropical chuvoso, sem estação seca, com temperaturas entre 24°C e 28°C e umidade superior a 80%. A paisagem tem florestas densas cortadas por rios, formando diversos habitats que sustentam grande biodiversidade."
+      ]
     },
     {
-      "intent": "fauna_amazonica_geral",
-      "keywords": ["fauna", "amazonica", "mil", "especies", "aves", "mamiferos", "repteis", "insetos", "ras", "peixes", "biodiversidade", "animais"],
-      "response": "Mais de mil espécies de aves, mamíferos, répteis, insetos, rãs e peixes."
+      "intent": "por_que_porque_amazonia",
+      "patterns": [
+        "por que a amazonia é importante",
+        "pq a amazonia é importante",
+        "por que existe a amazonia",
+        "pq existe a amazonia",
+        "por que a amazonia é famosa",
+        "pq a amazonia é famosa",
+        "porque a amazonia é conhecida",
+        "pq a amazonia é conhecida",
+        "porque a amazonia é especial",
+        "pq a amazonia é especial",
+        "por que proteger a amazonia",
+        "pq proteger a amazonia",
+        "por que a amazonia é úmida",
+        "pq a amazonia é úmida",
+        "por que chove na amazonia",
+        "pq chove na amazonia",
+        "por que a amazonia é verde",
+        "pq a amazonia é verde",
+        "porque a amazonia é vital",
+        "pq a amazonia é vital"
+      ],
+      "responses": [
+        "A Amazônia é importante porque regula o clima global, produz oxigênio, absorve CO2, abriga a maior biodiversidade do mundo e preserva saberes tradicionais dos povos originários.",
+        "É fundamental para o planeta pois funciona como regulador climático, estoca carbono, gera chuvas, mantém milhares de espécies únicas e protege culturas ancestrais.",
+        "Sua importância decorre do papel crucial no equilíbrio ambiental global: influencia padrões climáticos, armazena carbono, produz umidade e sustenta biodiversidade incomparável.",
+        "É vital porque atua como pulmão do mundo, controlando temperatura e umidade globais, preservando espécies únicas e mantendo conhecimentos tradicionais milenares.",
+        "A Amazônia é essencial por ser o maior regulador climático terrestre, maior reserva de biodiversidade, maior estoque de carbono florestal e lar de povos com sabedoria ancestral."
+      ]
     },
     {
-      "intent": "ave_harpia",
-      "keywords": ["harpia", "ave", "rapina", "poderosa", "rara", "amazonia", "predador", "voador"],
-      "response": "Ave de rapina poderosa e rara da Amazônia."
+      "intent": "para_que_pra_que_amazonia",
+      "patterns": [
+        "para que serve a amazonia",
+        "pra que serve a amazonia",
+        "para que existe a amazonia",
+        "pra que existe a amazonia",
+        "para que é importante a amazonia",
+        "pra que é importante a amazonia",
+        "para que proteger a amazonia",
+        "pra que proteger a amazonia",
+        "para que preservar a amazonia",
+        "pra que preservar a amazonia",
+        "para que cuidar da amazonia",
+        "pra que cuidar da amazonia",
+        "para que estudar a amazonia",
+        "pra que estudar a amazonia"
+      ],
+      "responses": [
+        "A Amazônia serve para regular o clima mundial, produzir oxigênio, absorver CO2, manter o equilíbrio ecológico global e preservar a maior biodiversidade do planeta.",
+        "Existe para funcionar como o pulmão verde da Terra, controlando temperatura e umidade globais, além de abrigar culturas ancestrais e espécies únicas.",
+        "Serve para manter o equilíbrio climático terrestre, gerar chuvas, estocar carbono, preservar milhares de espécies e proteger conhecimentos tradicionais milenares.",
+        "A floresta existe para sustentar a vida no planeta através da regulação climática, produção de umidade, conservação da biodiversidade e manutenção de ecossistemas únicos.",
+        "Serve como regulador natural do clima global, reservatório de biodiversidade, fonte de conhecimentos medicinais e lar de povos com sabedoria ancestral sobre a natureza."
+      ]
     },
     {
-      "intent": "aves_tucanos",
-      "keywords": ["tucanos", "aves", "coloridas", "bicos", "grandes", "tipicas", "regiao", "tropical"],
-      "response": "Aves coloridas com bicos grandes, típicas da região."
+      "intent": "quanto_quantos_quantas_amazonia",
+      "patterns": [
+        "quanto mede a amazonia",
+        "qto mede a amazonia",
+        "quantos km tem a amazonia",
+        "qtos km tem a amazonia",
+        "quanto tempo existe a amazonia",
+        "qto tempo existe a amazonia",
+        "quantos anos tem a amazonia",
+        "qtos anos tem a amazonia",
+        "quantos países tem amazonia",
+        "qtos países tem amazonia",
+        "quantas espécies tem na amazonia",
+        "qtas espécies tem na amazonia",
+        "quantos graus faz na amazonia",
+        "qtos graus faz na amazonia",
+        "quanta chuva tem na amazonia",
+        "qta chuva tem na amazonia",
+        "quanto de umidade tem na amazonia",
+        "qto de umidade tem na amazonia",
+        "quantos rios tem na amazonia",
+        "qtos rios tem na amazonia",
+        "quantas árvores tem na amazonia",
+        "qtas árvores tem na amazonia"
+      ],
+      "responses": [
+        "A Amazônia tem aproximadamente 5,5 milhões de km², existe há cerca de 55 milhões de anos, abrange 9 países, possui mais de mil espécies de aves e temperaturas entre 24°C e 28°C.",
+        "Mede cerca de 5,5 milhões de quilômetros quadrados, tem dezenas de milhões de anos, está presente em 9 países, abriga milhares de espécies animais e vegetais com umidade acima de 80%.",
+        "A extensão é de aproximadamente 5,5 milhões de km², formou-se há milhões de anos, distribui-se por 9 países e contém a maior biodiversidade do mundo com temperaturas constantes entre 24-28°C.",
+        "Tem dimensões continentais com 5,5 milhões de km², idade de dezenas de milhões de anos, presença em 9 países, milhares de espécies únicas e clima com umidade superior a 80%.",
+        "Abrange 5,5 milhões de quilômetros quadrados, existe há eras geológicas, está em 9 países, possui biodiversidade incomparável e mantém temperaturas estáveis entre 24°C e 28°C."
+      ]
     },
     {
-      "intent": "felino_onca_pintada",
-      "keywords": ["onca", "pintada", "maior", "felino", "americas", "predador", "topo", "carnivoro"],
-      "response": "Maior felino das Américas, predador de topo."
+      "intent": "e_se_amazonia",
+      "patterns": [
+        "e se a amazonia acabar",
+        "e se não existisse amazonia",
+        "e se destruírem a amazonia",
+        "e se a amazonia desaparecer",
+        "e se cortarem a amazonia",
+        "e se queimarem a amazonia",
+        "e se for na amazonia",
+        "e se visitar a amazonia",
+        "e se morar na amazonia",
+        "e se viver na amazonia",
+        "e se proteger a amazonia",
+        "e se preservar a amazonia"
+      ],
+      "responses": [
+        "Se a Amazônia acabar, o clima mundial entraria em colapso, haveria aumento drástico do aquecimento global, perda de biodiversidade irreversível e milhares de espécies seriam extintas para sempre.",
+        "Sem a Amazônia, o planeta perderia seu principal regulador climático, resultando em mudanças climáticas extremas, desertificação de outras regiões e perda de culturas ancestrais.",
+        "O desaparecimento da Amazônia causaria desequilíbrio climático global, aumento de CO2 na atmosfera, perda de chuvas em várias regiões e extinção em massa de espécies.",
+        "Se destruída, provocaria mudanças climáticas catastróficas, perda do maior banco genético do mundo, desaparecimento de povos originários e comprometimento do futuro da humanidade.",
+        "A destruição amazônica resultaria em aquecimento global acelerado, perda irreversível de biodiversidade, alteração dos padrões de chuva mundiais e colapso de ecossistemas globais."
+      ]
     },
     {
-      "intent": "mamifero_anta",
-      "keywords": ["anta", "maior", "mamifero", "terrestre", "regiao", "dispersor", "sementes", "herbivoro"],
-      "response": "Maior mamífero terrestre da região, dispersor de sementes."
-    },
-    {
-      "intent": "mamiferos_aquaticos_botos",
-      "keywords": ["botos", "mamiferos", "aquaticos", "rio", "amazonicos", "boto", "cor", "rosa", "golfinho"],
-      "response": "Mamíferos aquáticos dos rios amazônicos, incluindo o boto-cor-de-rosa."
-    },
-    {
-      "intent": "primatas_macacos",
-      "keywords": ["macacos", "diversas", "especies", "macaco", "aranha", "sagui", "primatas", "floresta"],
-      "response": "Diversas espécies, como macaco-aranha e sagui."
-    },
-    {
-      "intent": "serpente_anaconda",
-      "keywords": ["anaconda", "maiores", "serpentes", "mundo", "ultrapassar", "5", "metros", "cobra", "gigante"],
-      "response": "Uma das maiores serpentes do mundo, podendo ultrapassar 5 metros."
-    },
-    {
-      "intent": "reptil_jacare",
-      "keywords": ["jacare", "reptil", "predador", "encontrado", "rio", "lagos", "crocodilo", "agua"],
-      "response": "Réptil predador encontrado em rios e lagos."
-    },
-    {
-      "intent": "repteis_lagartos",
-      "keywords": ["lagartos", "diversas", "especies", "adaptadas", "clima", "umido", "repteis", "pequenos"],
-      "response": "Diversas espécies adaptadas ao clima úmido."
-    },
-    {
-      "intent": "anfibios_ras_venenosas",
-      "keywords": ["ras", "venenosas", "pequenos", "anfibios", "coloridos", "veneno", "potente", "toxico"],
-      "response": "Pequenos anfíbios coloridos com veneno potente."
-    },
-    {
-      "intent": "peixe_piranha",
-      "keywords": ["piranha", "peixe", "carnivoro", "famoso", "mordida", "dentes", "agressivo"],
-      "response": "Peixe carnívoro famoso por sua mordida."
-    },
-    {
-      "intent": "peixe_pirarucu",
-      "keywords": ["pirarucu", "peixe", "gigante", "agua", "doce", "ultrapassar", "2", "metros", "grande"],
-      "response": "Peixe gigante de água doce que pode ultrapassar 2 metros."
-    },
-    {
-      "intent": "peixes_bagres",
-      "keywords": ["bagres", "peixes", "fundo", "importantes", "pesca", "local", "alimento"],
-      "response": "Peixes de fundo importantes para a pesca local."
-    },
-    {
-      "intent": "flora_amazonica_geral",
-      "keywords": ["flora", "amazonica", "castanheira", "para", "sumama", "palmeiras", "cipos", "bromelias", "orquideas", "plantas"],
-      "response": "Inclui castanheira-do-pará, sumaúma, palmeiras, cipós, bromélias e orquídeas."
-    },
-    {
-      "intent": "arvore_castanheira",
-      "keywords": ["castanheira", "para", "arvore", "produtora", "castanhas", "importante", "economicamente", "nuts"],
-      "response": "Árvore produtora de castanhas, importante economicamente."
-    },
-    {
-      "intent": "arvore_sumama",
-      "keywords": ["sumama", "arvore", "gigante", "chamada", "ceiba", "grande", "alta"],
-      "response": "Árvore gigante também chamada de ceiba."
-    },
-    {
-      "intent": "plantas_palmeiras",
-      "keywords": ["palmeiras", "plantas", "versateis", "usadas", "alimento", "construcao", "coco", "acai"],
-      "response": "Plantas versáteis usadas para alimento e construção."
-    },
-    {
-      "intent": "plantas_bromelias",
-      "keywords": ["bromelias", "plantas", "acumulam", "agua", "formam", "microecossistemas", "epifitas"],
-      "response": "Plantas que acumulam água e formam microecossistemas."
-    },
-    {
-      "intent": "plantas_orquideas",
-      "keywords": ["orquideas", "flores", "variadas", "muitas", "usos", "medicinais", "coloridas", "perfumadas"],
-      "response": "Flores variadas, muitas com usos medicinais."
-    },
-    {
-      "intent": "plantas_medicinais",
-      "keywords": ["plantas", "medicinais", "usadas", "povos", "locais", "cura", "tradicional", "remedios", "naturais"],
-      "response": "Usadas pelos povos locais para cura tradicional."
-    },
-    {
-      "intent": "clima_equatorial_geral",
-      "keywords": ["clima", "equatorial", "quente", "umido", "ano", "todo", "sem", "estacao", "seca", "tropical"],
-      "response": "Quente e úmido o ano todo, sem estação seca."
-    },
-    {
-      "intent": "caracteristica_umidade",
-      "keywords": ["umidade", "sempre", "acima", "80%", "alta", "vapor", "agua"],
-      "response": "Sempre acima de 80%."
-    },
-    {
-      "intent": "caracteristica_temperatura",
-      "keywords": ["temperatura", "entre", "24", "28", "graus", "celsius", "calor", "constante"],
-      "response": "Entre 24°C e 28°C."
-    },
-    {
-      "intent": "caracteristica_chuvas",
-      "keywords": ["chuvas", "frequentes", "durante", "todo", "ano", "precipitacao", "constante"],
-      "response": "Frequentes durante todo o ano."
-    },
-    {
-      "intent": "povo_tikuna",
-      "keywords": ["povos", "tikuna", "originario", "colombia", "cultura", "ligada", "pesca", "agricultura", "indigena"],
-      "response": "Povo originário da Colômbia com cultura ligada à pesca e agricultura."
-    },
-    {
-      "intent": "povo_yucuna",
-      "keywords": ["povos", "yucuna", "indigena", "colombia", "tradicoes", "proprias", "cultura"],
-      "response": "Povo indígena da Colômbia com tradições próprias."
-    },
-    {
-      "intent": "povo_uitoto",
-      "keywords": ["povos", "uitoto", "colombia", "espiritualidade", "ligada", "natureza", "xamanismo"],
-      "response": "Povo da Colômbia com espiritualidade ligada à natureza."
-    },
-    {
-      "intent": "povo_achuar",
-      "keywords": ["povos", "achuar", "indigena", "equador", "praticas", "tradicionais", "cultura"],
-      "response": "Povo indígena do Equador com práticas tradicionais."
-    },
-    {
-      "intent": "povo_shuar",
-      "keywords": ["povos", "shuar", "equador", "conhecido", "historicamente", "guerreiro", "tradicional"],
-      "response": "Povo do Equador conhecido historicamente como guerreiro."
-    },
-    {
-      "intent": "povo_kichwa",
-      "keywords": ["povos", "kichwa", "numerosos", "equador", "amazonico", "populacao", "grande"],
-      "response": "Um dos povos mais numerosos do Equador amazônico."
-    },
-    {
-      "intent": "povo_huaorani",
-      "keywords": ["povos", "huaorani", "equador", "alguns", "grupos", "vivem", "isolados", "isolamento"],
-      "response": "Povo do Equador, alguns grupos vivem isolados."
-    },
-    {
-      "intent": "povos_originarios_geral",
-      "keywords": ["povos", "originarios", "colombia", "equador", "indigenas", "nativos", "ancestrais"],
-      "response": "São povos da Colômbia e Equador com os, Tikuna, Shuar, Kichwa, Huaorani, Achuar, Uitoto, Yucuna."
-    },
-    {
-      "intent": "historia_colonizacao",
-      "keywords": ["colonizacao", "chegada", "espanhois", "portugueses", "exploracao", "catequizacao", "europeus"],
-      "response": "Chegada de espanhóis e portugueses, exploração e catequização."
-    },
-    {
-      "intent": "historia_ciclo_borracha",
-      "keywords": ["ciclo", "borracha", "periodo", "exploracao", "intensa", "amazonica", "latex", "seringa"],
-      "response": "Período de exploração intensa da borracha amazônica."
-    },
-    {
-      "intent": "atividade_mineracao",
-      "keywords": ["mineracao", "extracao", "minerais", "muitas", "vezes", "sem", "controle", "ambiental", "ouro"],
-      "response": "Extração de minerais, muitas vezes sem controle ambiental."
-    },
-    {
-      "intent": "infraestrutura_estradas",
-      "keywords": ["construcao", "estradas", "ligou", "regioes", "causou", "impactos", "ambientais", "rodovias"],
-      "response": "Ligou regiões mas causou impactos ambientais."
-    },
-    {
-      "intent": "problemas_conflitos_fundiarios",
-      "keywords": ["conflitos", "fundiarios", "disputas", "terras", "regiao", "posse", "propriedade"],
-      "response": "Disputas por terras na região."
-    },
-    {
-      "intent": "conservacao_areas_protecao",
-      "keywords": ["areas", "protecao", "ambiental", "criadas", "preservar", "parte", "floresta", "conservacao"],
-      "response": "Criadas para preservar parte da floresta."
-    },
-    {
-      "intent": "problema_mineracao_ilegal",
-      "keywords": ["mineracao", "ilegal", "atividade", "polui", "rios", "destroi", "ecossistemas", "garimpo"],
-      "response": "Atividade que polui rios e destrói ecossistemas."
-    },
-    {
-      "intent": "problema_poluicao_rios",
-      "keywords": ["poluicao", "rios", "causada", "mercurio", "rejeitos", "mineracao", "contaminacao", "agua"],
-      "response": "Causada por mercúrio e rejeitos da mineração."
-    },
-    {
-      "intent": "problema_conflitos_armados",
-      "keywords": ["conflitos", "armados", "disputas", "territoriais", "principalmente", "colombia", "guerrilha", "violencia"],
-      "response": "Disputas territoriais, principalmente na Colômbia."
-    },
-    {
-      "intent": "problema_desmatamento",
-      "keywords": ["desmatamento", "remocao", "floresta", "agricultura", "pecuaria", "corte", "arvores", "derrubada"],
-      "response": "Remoção da floresta para agricultura e pecuária."
-    },
-    {
-      "intent": "problema_queimadas",
-      "keywords": ["queimadas", "incendios", "muitas", "vezes", "provocados", "abrir", "espaco", "fogo"],
-      "response": "Incêndios, muitas vezes provocados, para abrir espaço."
-    },
-    {
-      "intent": "importancia_global",
-      "keywords": ["importancia", "global", "regula", "clima", "produz", "oxigenio", "absorve", "co2", "preserva", "biodiversidade", "mundial"],
-      "response": "Regula o clima, produz oxigênio, absorve CO2 e preserva biodiversidade."
-    },
-    {
-      "intent": "importancia_clima_global",
-      "keywords": ["clima", "amazonia", "influencia", "chuvas", "temperatura", "globalmente", "mundial", "planetario"],
-      "response": "Amazônia influencia chuvas e temperatura globalmente."
-    },
-    {
-      "intent": "importancia_carbono",
-      "keywords": ["carbono", "floresta", "absorve", "co2", "armazena", "arvores", "sequestro", "estocar"],
-      "response": "Floresta absorve CO₂ e armazena nas árvores."
-    },
-    {
-      "intent": "importancia_biodiversidade",
-      "keywords": ["biodiversidade", "contem", "especies", "unicas", "saberes", "tradicionais", "variedade", "vida"],
-      "response": "Contém espécies únicas e saberes tradicionais."
-    },
-    {
-      "intent": "criador_natan",
-      "keywords": ["natan", "criou", "responder", "perguntas", "trabalho", "hoje", "historia", "biologia", "amazonia", "colombia", "programador"],
-      "response": "Ele me criou para responder perguntas sobre o trabalho de hoje, História e Biologia da Amazônia e Colômbia."
-    },
-    {
-      "intent": "sobre_criador",
-      "keywords": ["criador", "natan", "otimo", "programador", "desenvolvedor", "criou", "sistema"],
-      "response": "Meu criador foi Natan, Ele é um ótimo Programador!"
-    },
-    {
-      "intent": "definicao_ecossistemas",
-      "keywords": ["ecossistemas", "amazonia", "diferentes", "tipos", "ambientes", "naturais", "existem", "dentro", "floresta", "amazonica"],
-      "response": "são os diferentes tipos de ambientes naturais que existem dentro da Floresta Amazônica."
-    },
-    {
-      "intent": "historia_impactos",
-      "keywords": ["historia", "impactos", "ambientais", "sociais", "amazonia", "consequencias", "efeitos"],
-      "response": "São os impactos ambientais e socias na Amazônia."
-    },
-    {
-      "intent": "conclusao_geral",
-      "keywords": ["conclusao", "amazonia", "equatoriana", "colombiana", "vital", "planeta", "abrigando", "povos", "culturas", "riquezas", "naturais", "unicas"],
-      "response": "A Amazônia Equatoriana e Colombiana é vital para o planeta, abrigando povos, culturas e riquezas naturais únicas."
-    },
-    {
-      "intent": "problemas_atuais_geral",
-      "keywords": ["problemas", "atuais", "mineracao", "ilegal", "rios", "poluidos", "desmatamento", "queimadas", "grupos", "armados", "mais", "atuais"],
-      "response": "Mineração ilegal, Rios poluídos, Desmatamento, Queimadas, Grupos armados e mais..."
-    },
-    {
-      "intent": "caracteristica_clima_amazonico",
-      "keywords": ["clima", "amazonico", "climas", "mais", "quente", "chuvoso", "tropical", "umido"],
-      "response": "um dos climas mais quente e chuvoso."
-    },
-    {
-      "intent": "responsabilidade_global",
-      "keywords": ["responsabilidade", "proteger", "floresta", "dever", "global", "mundial", "todos", "conservacao"],
-      "response": "Proteger a floresta é dever global."
+      "intent": "sera_que_amazonia",
+      "patterns": [
+        "será que a amazonia é importante",
+        "será q a amazonia é importante",
+        "será que a amazonia é grande",
+        "será q a amazonia é grande",
+        "será que a amazonia é quente",
+        "será q a amazonia é quente",
+        "será que chove na amazonia",
+        "será q chove na amazonia",
+        "será que tem animais na amazonia",
+        "será q tem animais na amazonia",
+        "será que é perigoso na amazonia",
+        "será q é perigoso na amazonia",
+        "será que posso visitar a amazonia",
+        "será q posso visitar a amazonia"
+      ],
+      "responses": [
+        "Sim, a Amazônia é extremamente importante para o planeta, é a maior floresta tropical do mundo, tem clima quente e úmido com chuvas constantes e abriga milhares de espécies animais.",
+        "Com certeza é fundamental para a Terra, possui dimensões continentais, mantém temperaturas entre 24-28°C, chove o ano todo e tem a maior biodiversidade mundial.",
+        "Definitivamente é vital para o equilíbrio global, tem extensão de 5,5 milhões de km², clima tropical constante, precipitações frequentes e fauna riquíssima.",
+        "Sem dúvida é essencial para a humanidade, é gigantesca em tamanho, sempre quente devido à localização equatorial, muito chuvosa e repleta de vida selvagem.",
+        "Certamente é crucial para o planeta, possui proporções imensuráveis, clima equatorial permanente, chuvas abundantes e biodiversidade incomparável no mundo."
+      ]
     }
   ]
 }

@@ -1,0 +1,319 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_macaco",
+      "patterns": [
+        "oq é macaco",
+        "o que é macaco",
+        "que que são os macacos",
+        "me explica os macacos",
+        "que negócio é macaco",
+        "macaco é o que",
+        "como são os macacos",
+        "que parada são esses macacos",
+        "oq significa macaco",
+        "conceito de macaco",
+        "que tipo de bicho é",
+        "qual é a dos macacos",
+        "me fala sobre macaco",
+        "explica esses macacos aí",
+        "que história é essa de macaco",
+        "oq quer dizer macaco",
+        "definiçao de macaco",
+        "macaco da floresta",
+        "primata",
+        "bicho parecido com gente"
+      ],
+      "responses": [
+        "Macacos são primatas que vivem na floresta tropical. Têm várias espécies como guariba, macaco-prego, sagui, uacari. São parentes distantes dos humanos.",
+        "São animais da floresta, tipo primatas mesmo. Vivem nas árvores, comem frutas, folhas, insetos. Cada espécie tem suas características próprias.",
+        "Macacos são bichos inteligentes que habitam a selva. Andam em bando, fazem barulho, se comunicam entre si. Alguns são pequenos, outros maiores.",
+        "São primatas nativos da floresta, parentes nossos bem distantes. Vivem na copa das árvores, são espertos, alguns até usam ferramentas pra pegar comida."
+      ]
+    },
+    {
+      "intent": "tipos_macacos",
+      "patterns": [
+        "que tipos de macaco tem",
+        "que tipos de macaco tem na amazonia",
+        "quais macacos da amazonia",
+        "quais macacos",
+        "especies de macaco",
+        "especies de macaco da amazonia",
+        "variedades de macaco",
+        "que macaco existe",
+        "que macaco existe na amazonia",
+        "nomes dos macacos",
+        "tipos diferentes de macaco",
+        "quais são os macacos",
+        "que espécie de macaco",
+        "macaco pequeno",
+        "macaco grande",
+        "macaco colorido",
+        "macaco peludo",
+        "macaco barulhento",
+        "que raça de macaco",
+        "classificação dos macacos",
+        "família de macacos",
+        "grupo de macacos",
+        "categoria de macaco",
+        "jeitos de macaco"
+      ],
+      "responses": [
+        "Principais tipos: guariba (bem barulhento), macaco-prego (esperto), sagui (pequenininho), uacari (cara vermelha), macaco-aranha (braços longos), bugio (grita alto).",
+        "Tem vários: mico-leão (douradinho), sauim (pequeno), macaco-da-noite (olhos grandes), coatá (rabo preênsil), parauacu (raro). Cada um com jeito diferente.",
+        "Espécies famosas: howler (guariba), capuchin (macaco-prego), tamarin (sagui), spider monkey (macaco-aranha), night monkey (macaco-da-noite). Uns maiores, outros menores.",
+        "Variedades conhecidas: macaco-barrigudo, macaco-de-cheiro, zogue-zogue, cairara, cuxiú. Alguns são sociáveis, outros mais tímidos e difíceis de ver."
+      ]
+    },
+    {
+      "intent": "onde_vivem_macacos",
+      "patterns": [
+        "onde vivem os macacos",
+        "onde moram os macacos",
+        "habitat do macaco",
+        "lugar do macaco",
+        "onde encontrar macaco",
+        "onde tem macaco na amazonia",
+        "que parte da floresta",
+        "aonde eles ficam",
+        "local dos macacos",
+        "região dos macacos",
+        "onde ver macaco",
+        "casa do macaco",
+        "lar do macaco",
+        "território dos macacos",
+        "área dos macacos",
+        "onde é que vivem",
+        "que lugar preferem",
+        "ambiente do macaco",
+        "onde se escondem",
+        "redondeza dos macacos"
+      ],
+      "responses": [
+        "Vivem nas árvores da floresta, principalmente na copa. Alguns preferem áreas mais altas, outros ficam no meio da mata. Fazem ninhos nos galhos.",
+        "Moram na selva mesmo, nas árvores altas. Cada espécie tem sua preferência: uns gostam de floresta fechada, outros de beira de rio, alguns de capoeira.",
+        "Habitat natural é a floresta tropical. Ficam nos galhos, se balançam de árvore em árvore. Alguns dormem em ocos de tronco, outros fazem cama de folhas.",
+        "Território deles é a mata virgem, áreas preservadas. Andam pelos galhos, se alimentam nas copas, descansam nas forquilhas das árvores grandes."
+      ]
+    },
+    {
+      "intent": "o_que_macacos_comem",
+      "patterns": [
+        "o que os macacos comem",
+        "comida dos macacos",
+        "alimentação dos macacos",
+        "que que macaco come",
+        "dieta do macaco",
+        "macaco come o que",
+        "que macaco gosta de comer",
+        "alimento preferido",
+        "cardápio dos macacos",
+        "menu do macaco",
+        "nutrição do macaco",
+        "sustento dos macacos",
+        "que sustenta o macaco",
+        "fonte de energia",
+        "macaco carnívoro",
+        "macaco vegetariano",
+        "macaco onívoro",
+        "fruta que macaco come",
+        "folha que macaco come",
+        "inseto que macaco come"
+      ],
+      "responses": [
+        "Comem principalmente frutas, folhas, sementes, flores. Alguns também comem insetos, ovos, até pequenos animais. Dieta varia conforme a espécie.",
+        "Alimentação é bem variada: frutas maduras, brotos novos, cascas, seiva das árvores. Macaco-prego até come caranguejo e ovo de passarinho.",
+        "Cardápio natural: figos, cocos, castanhas, folhas tenras, flores. Alguns são mais vegetarianos, outros misturam com proteína animal (insetos, ovos).",
+        "Dieta da floresta: frutas da estação, folhas jovens, sementes oleosas, mel silvestre. Cada época do ano tem comida diferente disponível na mata."
+      ]
+    },
+    {
+      "intent": "comportamento_macacos",
+      "patterns": [
+        "como os macacos se comportam",
+        "jeito dos macacos",
+        "comportamento do macaco",
+        "modo de ser do macaco",
+        "personalidade dos macacos",
+        "como agem os macacos",
+        "atitude dos macacos",
+        "costume dos macacos",
+        "hábito dos macacos",
+        "rotina dos macacos",
+        "vida social do macaco",
+        "como vivem os macacos",
+        "organização dos macacos",
+        "hierarquia dos macacos",
+        "como se relacionam",
+        "macaco é agressivo",
+        "macaco é manso",
+        "macaco é inteligente",
+        "macaco tem líder",
+        "macaco vive em grupo"
+      ],
+      "responses": [
+        "Maioria vive em grupo com hierarquia. Têm líder dominante, cuidam dos filhotes juntos, se comunicam com gritos e gestos. São bem sociais e inteligentes.",
+        "Comportamento varia: alguns são territorialistas, outros pacíficos. Passam o dia procurando comida, brincando, se catando. À noite dormem nos galhos.",
+        "São animais espertos e curiosos. Aprendem uns com outros, usam ferramentas simples, têm memória boa. Vivem em família estendida com até 30 indivíduos.",
+        "Vida em comunidade organizada: machos protegem território, fêmeas cuidam dos filhotes, jovens brincam e aprendem. Se comunicam com sons específicos."
+      ]
+    },
+    {
+      "intent": "reproducao_macacos",
+      "patterns": [
+        "como macacos se reproduzem",
+        "reprodução dos macacos",
+        "acasalamento dos macacos",
+        "filhotes de macaco",
+        "gravidez do macaco",
+        "nascimento do macaco",
+        "época de reprodução",
+        "temporada de acasalamento",
+        "gestação dos macacos",
+        "quantos filhotes nascem",
+        "cuidado com filhotes",
+        "desenvolvimento dos pequenos",
+        "crescimento dos macacos",
+        "maturidade do macaco",
+        "ciclo de vida",
+        "idade pra reproduzir",
+        "período fértil",
+        "ritual de acasalamento",
+        "cortejo dos macacos",
+        "família de macacos"
+      ],
+      "responses": [
+        "Reproduzem geralmente na estação seca. Gravidez dura de 4-7 meses conforme espécie. Nascem 1-2 filhotes por vez. Mãe amamenta e carrega nas costas.",
+        "Acasalam em época específica do ano. Gestação varia por espécie, filhotes nascem pequenos e dependentes. Ficam grudados na mãe por meses.",
+        "Processo natural: machos disputam fêmeas, acasalam, fêmea fica grávida alguns meses. Filhote nasce indefeso, mama e aprende com a mãe.",
+        "Ciclo reprodutivo anual: cortejo, acasalamento, gestação, nascimento, cuidado parental. Filhotes ficam com grupo familiar até ficarem independentes."
+      ]
+    },
+    {
+      "intent": "macaco_perigoso",
+      "patterns": [
+        "macaco é perigoso",
+        "macaco ataca pessoa",
+        "macaco morde",
+        "macaco é agressivo",
+        "medo de macaco",
+        "macaco faz mal",
+        "macaco machuca",
+        "perigo dos macacos",
+        "macaco raivoso",
+        "macaco bravo",
+        "cuidado com macaco",
+        "macaco pode atacar",
+        "macaco transmite doença",
+        "macaco tem raiva",
+        "macaco é violento",
+        "risco dos macacos",
+        "ameaça dos macacos",
+        "macaco selvagem",
+        "encontro com macaco",
+        "defesa contra macaco"
+      ],
+      "responses": [
+        "Normalmente não são perigosos, mas são animais selvagens. Podem atacar se se sentirem ameaçados ou protegendo filhotes. Melhor observar de longe.",
+        "Risco baixo, mas existe. Podem morder se encurralados ou se tentarem pegar comida deles. Importante não alimentar nem tentar tocar nos bichos.",
+        "Geralmente fogem dos humanos. Perigo maior é transmissão de doenças ou mordida se tentarem pegar. Regra básica: admira de longe, não interfere.",
+        "Não costumam atacar, mas são imprevisíveis. Se encontrar, não faça movimentos bruscos, não olhe direto nos olhos, se afaste devagar. Respeita a natureza deles."
+      ]
+    },
+    {
+      "intent": "onde_ver_macacos",
+      "patterns": [
+        "onde ver macacos",
+        "onde ver macacos na amazonia",
+        "como ver macaco na amazonia",
+        "lugar pra ver macaco",
+        "turismo de macaco",
+        "avistamento de macacos",
+        "observação de primatas",
+        "ecoturismo macacos",
+        "trilha pra ver macaco",
+        "passeio pra ver macaco",
+        "tour dos macacos",
+        "guia pra ver macaco",
+        "melhor lugar observar",
+        "quando ver macaco",
+        "horário dos macacos",
+        "época pra avistar",
+        "safari de macacos",
+        "fotografia de macacos",
+        "reserva de macacos",
+        "parque nacional",
+        "zoológico"
+      ],
+      "responses": [
+        "Melhores locais: parques nacionais, reservas ambientais, lodges ecológicos. Horário ideal: manhã cedo e final da tarde quando estão mais ativos.",
+        "Turismo ecológico: zoológicos, bosques, passeios fluviais, trilhas em unidades de conservação. Precisa de guia experiente e paciência pra avistar na natureza.",
+        "Opções: zoológicos da cidade, bosques urbanos, passeios ecológicos, trilhas em reservas. Cada local tem espécies diferentes pra observar.",
+        "Dicas pra ver: contrata guia local, vai em grupos pequenos, leva binóculo, faz silêncio na mata. Chances maiores em áreas preservadas e remotas."
+      ]
+    },
+    {
+      "intent": "macaco_extincao",
+      "patterns": [
+        "macaco em extinção",
+        "macaco ameaçado",
+        "desaparecimento dos macacos",
+        "conservação dos macacos",
+        "proteção dos primatas",
+        "macaco raro",
+        "espécie ameaçada",
+        "risco de extinção",
+        "preservação de macacos",
+        "salvamento de espécies",
+        "macaco quase extinto",
+        "população de macacos",
+        "diminuição dos macacos",
+        "futuro dos macacos",
+        "sobrevivência das espécies",
+        "habitat em risco",
+        "floresta destruída",
+        "impacto ambiental",
+        "desmatamento",
+        "caça de macacos"
+      ],
+      "responses": [
+        "Várias espécies estão ameaçadas pelo desmatamento, caça e tráfico de animais. Uacari, mico-leão, algumas espécies de sagui correm risco de extinção.",
+        "Situação preocupante: perda de habitat, fragmentação da floresta, pressão humana. Alguns primatas já estão na lista vermelha de espécies ameaçadas.",
+        "Conservação é urgente: criação de reservas, fiscalização contra caça, educação ambiental. Sem floresta preservada, muitas espécies podem desaparecer.",
+        "Ameaças principais: derrubada da mata, captura ilegal, isolamento de populações. Organizações trabalham na proteção e reprodução em cativeiro."
+      ]
+    },
+    {
+      "intent": "curiosidades_macacos",
+      "patterns": [
+        "curiosidades sobre macacos",
+        "fatos interessantes",
+        "coisa legal sobre macaco",
+        "macaco interessante",
+        "característica curiosa",
+        "comportamento curioso",
+        "habilidade dos macacos",
+        "talento dos primatas",
+        "macaco inteligente",
+        "macaco esperto",
+        "capacidade dos macacos",
+        "particularidade dos macacos",
+        "aspecto único",
+        "diferencial dos macacos",
+        "macaco usa ferramenta",
+        "macaco se comunica",
+        "linguagem dos macacos",
+        "cultura dos macacos",
+        "tradição dos primatas",
+        "evolução dos macacos"
+      ],
+      "responses": [
+        "Curiosidades: macaco-prego usa pedras pra quebrar cocos, guariba grita a 5km de distância, alguns reconhecem próprio reflexo no espelho, têm cultura própria.",
+        "Fatos legais: macacos têm impressão digital única, alguns usam plantas medicinais quando doentes, ensinam técnicas pros filhotes, vivem até 30 anos.",
+        "Habilidades incríveis: fazem ferramentas, resolvem problemas complexos, têm memória excelente, reconhecem parentes, demonstram empatia e luto.",
+        "Aspectos únicos: cada grupo tem 'dialeto' próprio, inventam brincadeiras, têm amizades duradouras, alguns até 'pescam' com gravetos em cupinzeiros."
+      ]
+    }
+  ]
+}

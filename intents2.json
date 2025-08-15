@@ -1,0 +1,275 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_povos_originarios",
+      "patterns": [
+        "o que são povos originários",
+        "o que são povos originarios", 
+        "oq são povos originários",
+        "oq são povos originarios",
+        "o que seria povos originários",
+        "o que seria povos originarios",
+        "oq seria povos originários",
+        "oq seria povos originarios",
+        "o que significa povos originários",
+        "oq significa povos originarios",
+        "o que representa povos originários",
+        "oq representa povos originarios",
+        "defina povos originários",
+        "define povos originarios",
+        "conceito de povos originários",
+        "conceito de povos originarios",
+        "definição dos povos originários",
+        "definição dos povos originarios",
+        "significado de povos originários",
+        "significado de povos originarios",
+        "me explique o que são povos originários",
+        "me explica oq são povos originarios",
+        "explique o que são povos originários",
+        "explica oq são povos originarios"
+      ],
+      "responses": [
+        "Os povos originários são grupos étnicos ancestrais da Amazônia, incluindo na Colômbia os Tikuna, Yucuna e Uitoto, e no Equador os Achuar, Shuar, Kichwa e Huaorani, que mantêm culturas tradicionais.",
+        "Povos originários são etnias indígenas milenares amazônicas como Tikuna, Yucuna e Uitoto na Colômbia, e Achuar, Shuar, Kichwa e Huaorani no Equador, preservando tradições ancestrais.",
+        "São comunidades nativas amazônicas que habitam a região há milhares de anos: Colômbia possui os povos Tikuna, Yucuna e Uitoto, enquanto o Equador abriga Achuar, Shuar, Kichwa e Huaorani.",
+        "Representam os habitantes originais da Amazônia, grupos como Tikuna, Yucuna e Uitoto na Colômbia, e Achuar, Shuar, Kichwa e Huaorani no Equador, com culturas próprias e espiritualidade natural."
+      ]
+    },
+    {
+      "intent": "quais_povos_originarios",
+      "patterns": [
+        "quais são os povos originários",
+        "quais são os povos originarios",
+        "quais povos originários existem",
+        "quais povos originarios existem",
+        "quais são os povos da amazonia",
+        "quais povos da colombia",
+        "quais povos do equador",
+        "quais tribos da amazonia",
+        "quais etnias da amazonia",
+        "quais são os tikuna",
+        "quais são os yucuna",
+        "quais são os uitoto",
+        "quais são os achuar",
+        "quais são os shuar",
+        "quais são os kichwa",
+        "quais são os huaorani",
+        "quais características dos povos originários",
+        "quais características dos povos originarios",
+        "quais tradições dos povos originários",
+        "quais tradições dos povos originarios"
+      ],
+      "responses": [
+        "Os povos originários amazônicos incluem na Colômbia: Tikuna, Yucuna e Uitoto. No Equador: Achuar, Shuar, Kichwa e Huaorani. Todos vivem da pesca, agricultura e coleta com espiritualidade ligada à natureza.",
+        "Na região amazônica encontramos diversos povos: Colômbia tem os Tikuna, Yucuna e Uitoto, enquanto o Equador possui os Achuar, Shuar, Kichwa e Huaorani, mantendo culturas tradicionais.",
+        "Os principais povos são: na Colômbia os Tikuna, Yucuna e Uitoto; no Equador os Achuar, Shuar, Kichwa e Huaorani. Todos praticam agricultura ancestral, pesca e coleta sustentável.",
+        "Existem vários grupos étnicos: Colômbia abriga Tikuna, Yucuna e Uitoto; Equador tem Achuar, Shuar, Kichwa e Huaorani. Possuem cultura própria e espiritualidade conectada à floresta."
+      ]
+    },
+    {
+      "intent": "quem_povos_originarios",
+      "patterns": [
+        "quem são os povos originários",
+        "quem são os povos originarios",
+        "quem são os tikuna",
+        "quem são os yucuna",
+        "quem são os uitoto",
+        "quem são os achuar",
+        "quem são os shuar",
+        "quem são os kichwa",
+        "quem são os huaorani",
+        "quem vive na amazonia",
+        "quem habita a amazonia",
+        "quem mora na floresta amazonica",
+        "quem são as tribos da amazonia",
+        "quem são os indígenas da amazonia",
+        "quem são os indigenas da amazonia",
+        "quem protege a cultura ancestral",
+        "quem preserva as tradições"
+      ],
+      "responses": [
+        "São povos ancestrais da Amazônia: Tikuna, Yucuna e Uitoto na Colômbia; Achuar, Shuar, Kichwa e Huaorani no Equador. Grupos que vivem da pesca, agricultura e coleta com espiritualidade natural.",
+        "Os povos originários são etnias milenares: na Colômbia habitam Tikuna, Yucuna e Uitoto; no Equador vivem Achuar, Shuar, Kichwa e Huaorani, mantendo culturas tradicionais próprias.",
+        "São comunidades indígenas como Tikuna, Yucuna e Uitoto colombianos, e Achuar, Shuar, Kichwa e Huaorani equatorianos, que preservam modos de vida sustentáveis e espiritualidade integrada.",
+        "Representam grupos étnicos nativos: Colômbia tem Tikuna, Yucuna e Uitoto; Equador possui Achuar, Shuar, Kichwa e Huaorani. Todos mantêm tradições ancestrais e conexão espiritual com a natureza."
+      ]
+    },
+    {
+      "intent": "onde_aonde_povos_originarios",
+      "patterns": [
+        "onde vivem os povos originários",
+        "onde vivem os povos originarios",
+        "aonde ficam os povos originários",
+        "aonde ficam os povos originarios",
+        "onde estão os tikuna",
+        "onde estão os yucuna",
+        "onde estão os uitoto",
+        "onde estão os achuar",
+        "onde estão os shuar",
+        "onde estão os kichwa",
+        "onde estão os huaorani",
+        "onde se localizam os povos originários",
+        "onde se localizam os povos originarios",
+        "em que país ficam os tikuna",
+        "em q país ficam os yucuna",
+        "em que país ficam os uitoto",
+        "em q país ficam os achuar",
+        "em que país ficam os shuar",
+        "em q país ficam os kichwa",
+        "em que país ficam os huaorani",
+        "localização dos povos originários",
+        "localização dos povos originarios"
+      ],
+      "responses": [
+        "Os povos originários vivem na região amazônica: na Colômbia habitam os Tikuna, Yucuna e Uitoto; no Equador estão os Achuar, Shuar, Kichwa e Huaorani, todos em territórios florestais.",
+        "Localizam-se na Amazônia: Colômbia abriga os povos Tikuna, Yucuna e Uitoto; Equador possui os Achuar, Shuar, Kichwa e Huaorani, vivendo em harmonia com a floresta tropical.",
+        "Habitam a floresta amazônica: os Tikuna, Yucuna e Uitoto estão na Colômbia; os Achuar, Shuar, Kichwa e Huaorani ficam no Equador, mantendo territórios tradicionais.",
+        "Encontram-se na região amazônica sul-americana: Colômbia tem os Tikuna, Yucuna e Uitoto; Equador possui os Achuar, Shuar, Kichwa e Huaorani em suas terras ancestrais."
+      ]
+    },
+    {
+      "intent": "como_povos_originarios",
+      "patterns": [
+        "como vivem os povos originários",
+        "como vivem os povos originarios",
+        "como são os povos originários",
+        "como são os povos originarios",
+        "como é a vida dos povos originários",
+        "como é a vida dos povos originarios",
+        "como é a cultura dos povos originários",
+        "como é a cultura dos povos originarios",
+        "como é a espiritualidade dos povos originários",
+        "como é a espiritualidade dos povos originarios",
+        "como sobrevivem os povos originários",
+        "como sobrevivem os povos originarios",
+        "como se alimentam os povos originários",
+        "como se alimentam os povos originarios",
+        "como trabalham os povos originários",
+        "como trabalham os povos originarios",
+        "modo de vida dos povos originários",
+        "modo de vida dos povos originarios",
+        "jeito dos povos originários",
+        "jeito dos povos originarios"
+      ],
+      "responses": [
+        "Os povos originários vivem da pesca, agricultura e coleta, mantendo cultura própria e espiritualidade ligada à natureza. Grupos como Tikuna, Yucuna, Uitoto, Achuar, Shuar, Kichwa e Huaorani preservam tradições ancestrais.",
+        "Vivem de forma sustentável através da pesca, agricultura tradicional e coleta de frutos. Possuem culturas únicas e espiritualidade profundamente conectada à floresta, como os povos da Colômbia e Equador.",
+        "Mantêm modos de vida tradicionais baseados na pesca, agricultura ancestral e coleta. Têm cultura própria e espiritualidade integrada à natureza, preservando conhecimentos milenares sobre a floresta.",
+        "Sobrevivem através de práticas sustentáveis: pesca, agricultura e coleta. Desenvolveram culturas ricas e espiritualidade natural, mantendo harmonia com o ambiente amazônico há milhares de anos."
+      ]
+    },
+    {
+      "intent": "por_que_porque_povos_originarios",
+      "patterns": [
+        "por que preservar povos originários",
+        "pq preservar povos originarios",
+        "por que são importantes povos originários",
+        "pq são importantes povos originarios",
+        "porque proteger povos originários",
+        "pq proteger povos originarios",
+        "por que existem povos originários",
+        "pq existem povos originarios",
+        "por que estudar povos originários",
+        "pq estudar povos originarios",
+        "porque valorizar povos originários",
+        "pq valorizar povos originarios",
+        "por que respeitar povos originários",
+        "pq respeitar povos originarios"
+      ],
+      "responses": [
+        "É importante preservar os povos originários porque mantêm conhecimentos ancestrais, culturas únicas, espiritualidade natural e práticas sustentáveis que protegem a Amazônia há milênios.",
+        "São fundamentais pois preservam sabedoria tradicional sobre a floresta, biodiversidade e medicina natural. Grupos como Tikuna, Yucuna, Uitoto, Achuar, Shuar, Kichwa e Huaorani são guardiões da Amazônia.",
+        "Sua importância decorre da preservação de culturas milenares, conhecimentos sobre plantas medicinais, práticas sustentáveis e espiritualidade que mantém o equilíbrio ambiental amazônico.",
+        "São essenciais porque representam diversidade cultural, saberes ancestrais, técnicas sustentáveis de sobrevivência e conexão espiritual com a natureza que beneficia toda a humanidade."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_povos_originarios",
+      "patterns": [
+        "para que servem os povos originários",
+        "pra que servem os povos originarios",
+        "para que existem os povos originários",
+        "pra que existem os povos originarios",
+        "para que proteger povos originários",
+        "pra que proteger povos originarios",
+        "para que preservar povos originários",
+        "pra que preservar povos originarios",
+        "para que estudar povos originários",
+        "pra que estudar povos originarios"
+      ],
+      "responses": [
+        "Os povos originários servem para preservar conhecimentos ancestrais, manter culturas tradicionais, proteger a Amazônia através de práticas sustentáveis e conservar espiritualidade ligada à natureza.",
+        "Existem para manter viva a sabedoria milenar sobre a floresta, preservar biodiversidade, ensinar sustentabilidade e manter conexão espiritual com o meio ambiente natural.",
+        "Servem como guardiões da Amazônia, preservadores de conhecimentos sobre plantas medicinais, mantenedores de culturas únicas e exemplos de vida sustentável na floresta.",
+        "Sua função é conservar tradições ancestrais, proteger territórios florestais, manter conhecimentos sobre biodiversidade e demonstrar formas harmônicas de viver com a natureza."
+      ]
+    },
+    {
+      "intent": "quando_povos_originarios",
+      "patterns": [
+        "quando surgiram os povos originários",
+        "qdo surgiram os povos originarios",
+        "quando chegaram os povos originários",
+        "qdo chegaram os povos originarios",
+        "quando existem os povos originários",
+        "qdo existem os povos originarios",
+        "quando se formaram os povos originários",
+        "qdo se formaram os povos originarios"
+      ],
+      "responses": [
+        "Os povos originários existem há milhares de anos na Amazônia. Grupos como Tikuna, Yucuna, Uitoto, Achuar, Shuar, Kichwa e Huaorani são habitantes ancestrais que vivem na região há milênios.",
+        "Surgiram há milhares de anos, sendo os primeiros habitantes da região amazônica. Mantêm tradições milenares e são os verdadeiros donos ancestrais destas terras florestais.",
+        "Existem desde tempos imemoriais na Amazônia, muito antes da chegada dos europeus. São povos com história milenar que preservam culturas e conhecimentos ancestrais.",
+        "Formaram-se ao longo de milhares de anos como habitantes nativos da Amazônia, desenvolvendo culturas próprias e espiritualidade ligada à floresta desde épocas remotas."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_povos_originarios",
+      "patterns": [
+        "quantos povos originários existem",
+        "qtos povos originarios existem",
+        "quantas tribos tem na amazonia",
+        "qtas tribos tem na amazonia",
+        "quantos povos tem na colombia",
+        "qtos povos tem na colombia", 
+        "quantos povos tem no equador",
+        "qtos povos tem no equador",
+        "quantas etnias da amazonia",
+        "qtas etnias da amazonia",
+        "quantos são os tikuna",
+        "qtos são os yucuna",
+        "quantos são os uitoto",
+        "qtos são os achuar",
+        "quantos são os shuar",
+        "qtos são os kichwa",
+        "quantos são os huaorani",
+        "qtos são os huaorani"
+      ],
+      "responses": [
+        "Na Amazônia existem muitos povos originários: na Colômbia destacam-se 3 grupos principais (Tikuna, Yucuna, Uitoto) e no Equador 4 povos principais (Achuar, Shuar, Kichwa, Huaorani).",
+        "São diversos povos amazônicos: Colômbia possui grupos como Tikuna, Yucuna e Uitoto; Equador tem Achuar, Shuar, Kichwa e Huaorani, totalizando centenas de comunidades.",
+        "Existem inúmeras etnias na região: Colômbia abriga povos Tikuna, Yucuna e Uitoto; Equador possui Achuar, Shuar, Kichwa e Huaorani, cada um com várias comunidades.",
+        "A Amazônia tem muitos grupos originários: na Colômbia encontramos Tikuna, Yucuna e Uitoto; no Equador vivem Achuar, Shuar, Kichwa e Huaorani, formando dezenas de aldeias."
+      ]
+    },
+    {
+      "intent": "sera_que_povos_originarios",
+      "patterns": [
+        "será que existem povos originários",
+        "será q existem povos originarios",
+        "será que vivem povos originários na amazonia",
+        "será q vivem povos originarios na amazonia",
+        "será que os povos originários são importantes",
+        "será q os povos originarios são importantes",
+        "será que preservam cultura os povos originários",
+        "será q preservam cultura os povos originarios"
+      ],
+      "responses": [
+        "Sim, definitivamente existem povos originários na Amazônia: na Colômbia vivem Tikuna, Yucuna e Uitoto; no Equador habitam Achuar, Shuar, Kichwa e Huaorani, mantendo culturas ancestrais.",
+        "Com certeza existem e são extremamente importantes: preservam conhecimentos milenares, vivem de forma sustentável através da pesca, agricultura e coleta, mantendo espiritualidade natural.",
+        "Certamente vivem na região amazônica diversos povos como Tikuna, Yucuna, Uitoto, Achuar, Shuar, Kichwa e Huaorani, que conservam tradições e cultura própria há milhares de anos.",
+        "Sim, são povos reais e vitais: mantêm culturas únicas, espiritualidade ligada à natureza e práticas sustentáveis, sendo guardiões ancestrais da floresta amazônica."
+      ]
+    }
+  ]
+}

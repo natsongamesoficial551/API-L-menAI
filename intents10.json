@@ -1,0 +1,474 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_carbono_biodiversidade",
+      "patterns": [
+        "o que é carbono e biodiversidade",
+        "o que são carbono e biodiversidade", 
+        "oq é carbono e biodiversidade",
+        "oq são carbono e biodiversidade",
+        "o que seria carbono e biodiversidade",
+        "o que seriam carbono e biodiversidade",
+        "oq seria carbono e biodiversidade",
+        "oq seriam carbono e biodiversidade",
+        "o que significa carbono e biodiversidade",
+        "oq significa carbono e biodiversidade",
+        "o que representa carbono e biodiversidade",
+        "oq representa carbono e biodiversidade",
+        "defina carbono e biodiversidade",
+        "define carbono e biodiversidade",
+        "conceito de carbono e biodiversidade",
+        "carbono e biodiversidade definição",
+        "definição de carbono e biodiversidade",
+        "significado de carbono e biodiversidade",
+        "me explique o que é carbono e biodiversidade",
+        "me explica oq é carbono e biodiversidade",
+        "explique o que são carbono e biodiversidade",
+        "explica oq são carbono e biodiversidade"
+      ],
+      "responses": [
+        "Carbono e biodiversidade representam a capacidade amazônica de absorver CO2 e abrigar espécies únicas, regulando o clima global e preservando saberes tradicionais indígenas essenciais.",
+        "Significam os serviços ecossistêmicos da floresta: captura de dióxido de carbono, produção de oxigênio e conservação de biodiversidade com conhecimentos ancestrais dos povos nativos.",
+        "São os benefícios ambientais globais: sequestro de carbono atmosférico, contenção do aquecimento global e manutenção de espécies endêmicas com sabedorias tradicionais milenares.",
+        "Representam a importância ecológica mundial: absorção de gases estufa, regulação climática planetária e proteção da diversidade biológica com práticas indígenas sustentáveis."
+      ]
+    },
+    {
+      "intent": "o_que_e_carbono",
+      "patterns": [
+        "o que é carbono",
+        "o que seria carbono", 
+        "oq é carbono",
+        "oq seria carbono",
+        "o que significa carbono",
+        "oq significa carbono",
+        "o que representa carbono",
+        "oq representa carbono",
+        "defina carbono",
+        "define carbono",
+        "conceito de carbono",
+        "carbono definição",
+        "definição de carbono",
+        "significado de carbono",
+        "me explique o que é carbono",
+        "me explica oq é carbono",
+        "explique o que é carbono",
+        "explica oq é carbono"
+      ],
+      "responses": [
+        "Carbono na Amazônia representa a capacidade da floresta de absorver CO2 atmosférico e armazenar carbono, ajudando a conter o aquecimento global e regular o clima planetário.",
+        "Significa o sequestro de dióxido de carbono pelas árvores amazônicas, que capturam gases estufa, produzem oxigênio e contribuem para estabilidade climática mundial.",
+        "É o processo de captura e armazenamento de carbono atmosférico pela vegetação, que remove CO2 do ar e o fixa na biomassa florestal amazônica.",
+        "Representa a função climática essencial da floresta em absorver gases estufa, reduzir concentrações de CO2 e mitigar mudanças climáticas globais através da fotossíntese."
+      ]
+    },
+    {
+      "intent": "quais_carbono_biodiversidade",
+      "patterns": [
+        "quais são os carbono e biodiversidade",
+        "quais características de carbono e biodiversidade",
+        "quais são as características de carbono e biodiversidade",
+        "quais aspectos de carbono e biodiversidade",
+        "quais são os aspectos de carbono e biodiversidade",
+        "quais processos de carbono e biodiversidade",
+        "quais são os processos de carbono e biodiversidade",
+        "quais funções de carbono e biodiversidade",
+        "quais são as funções de carbono e biodiversidade",
+        "quais benefícios de carbono e biodiversidade",
+        "quais são os benefícios de carbono e biodiversidade",
+        "quais serviços de carbono e biodiversidade",
+        "quais são os serviços de carbono e biodiversidade"
+      ],
+      "responses": [
+        "As características incluem: absorção de CO2, produção de oxigênio, regulação climática, conservação de espécies endêmicas, saberes tradicionais indígenas e responsabilidade global de proteção.",
+        "Os aspectos envolvem: sequestro de carbono atmosférico, mitigação do aquecimento global, biodiversidade única, conhecimentos ancestrais, práticas sustentáveis e dever coletivo de preservação.",
+        "Os processos principais são: captura de gases estufa, estabilização do clima, preservação de espécies raras, manutenção de sabedorias tradicionais e proteção ecossistêmica mundial.",
+        "Os benefícios incluem: redução de CO2 global, regulação térmica planetária, conservação biológica, conhecimentos medicinais tradicionais, práticas ecológicas ancestrais e responsabilidade ambiental compartilhada."
+      ]
+    },
+    {
+      "intent": "quais_carbono",
+      "patterns": [
+        "quais são os carbono",
+        "quais características do carbono",
+        "quais são as características do carbono",
+        "quais aspectos do carbono",
+        "quais são os aspectos do carbono",
+        "quais processos do carbono",
+        "quais são os processos do carbono",
+        "quais funções do carbono",
+        "quais são as funções do carbono",
+        "quais benefícios do carbono",
+        "quais são os benefícios do carbono",
+        "quais serviços do carbono",
+        "quais são os serviços do carbono"
+      ],
+      "responses": [
+        "As características do carbono incluem: absorção de CO2 atmosférico, armazenamento em biomassa florestal, produção de oxigênio, regulação do clima global e mitigação do aquecimento planetário.",
+        "Os aspectos principais envolvem: sequestro de dióxido de carbono, captura de gases estufa, fotossíntese florestal, estabilização climática e contribuição para equilíbrio atmosférico mundial.",
+        "Os processos incluem: fixação de carbono pelas árvores, remoção de CO2 do ar, conversão em matéria orgânica, liberação de oxigênio e manutenção do ciclo global do carbono.",
+        "Os benefícios envolvem: redução de gases estufa, controle do aquecimento global, purificação atmosférica, regulação térmica e preservação da estabilidade climática planetária."
+      ]
+    },
+    {
+      "intent": "quem_carbono_biodiversidade",
+      "patterns": [
+        "quem protege carbono e biodiversidade",
+        "quem é responsável por carbono e biodiversidade",
+        "quem conserva carbono e biodiversidade",
+        "quem preserva carbono e biodiversidade",
+        "quem cuida de carbono e biodiversidade",
+        "quem mantém carbono e biodiversidade",
+        "quem defende carbono e biodiversidade",
+        "quem sustenta carbono e biodiversidade",
+        "quem são os guardiões de carbono e biodiversidade",
+        "quem promove carbono e biodiversidade",
+        "quem garante carbono e biodiversidade",
+        "quem assegura carbono e biodiversidade"
+      ],
+      "responses": [
+        "Os responsáveis incluem: povos indígenas amazônicos, comunidades tradicionais, organizações ambientais, governos nacionais, comunidade científica internacional e toda humanidade como dever coletivo global.",
+        "Os guardiões são: etnias nativas ancestrais, pesquisadores ambientais, ativistas ecológicos, instituições governamentais, organizações mundiais e sociedade global com responsabilidade compartilhada.",
+        "Protegem: lideranças indígenas, comunidades locais, cientistas especializados, entidades conservacionistas, Estados nacionais, organismos internacionais e cidadãos conscientes mundialmente.",
+        "Os defensores envolvem: povos originários, ambientalistas, biólogos, ecólogos, políticas públicas, tratados internacionais e responsabilidade coletiva de proteção planetária."
+      ]
+    },
+    {
+      "intent": "quem_carbono",
+      "patterns": [
+        "quem protege o carbono",
+        "quem mantém o carbono",
+        "quem conserva o carbono",
+        "quem preserva o carbono",
+        "quem cuida do carbono",
+        "quem defende o carbono",
+        "quem sustenta o carbono",
+        "quem garante o carbono",
+        "quem são os responsáveis pelo carbono",
+        "quem assegura o carbono",
+        "quem promove o carbono",
+        "quem sequestra o carbono"
+      ],
+      "responses": [
+        "O carbono é protegido principalmente pelas florestas amazônicas, povos indígenas, comunidades tradicionais, políticas ambientais, organizações conservacionistas e esforços globais de preservação.",
+        "Mantém o carbono: vegetação florestal, práticas indígenas sustentáveis, pesquisadores ambientais, programas governamentais, tratados internacionais e responsabilidade coletiva mundial.",
+        "Conservam: ecossistemas florestais, sabedoria tradicional nativa, cientistas especializados, entidades ambientalistas, legislação protetiva e cooperação internacional ambiental.",
+        "Os responsáveis incluem: árvores amazônicas, conhecimentos ancestrais, ativistas ecológicos, instituições públicas, acordos climáticos e consciência ambiental global compartilhada."
+      ]
+    },
+    {
+      "intent": "onde_aonde_carbono_biodiversidade",
+      "patterns": [
+        "onde estão carbono e biodiversidade",
+        "onde ficam carbono e biodiversidade",
+        "aonde estão carbono e biodiversidade",
+        "aonde ficam carbono e biodiversidade",
+        "onde se encontram carbono e biodiversidade",
+        "aonde se encontram carbono e biodiversidade",
+        "onde existem carbono e biodiversidade",
+        "aonde existem carbono e biodiversidade",
+        "localização de carbono e biodiversidade",
+        "em que lugar carbono e biodiversidade",
+        "em q lugar carbono e biodiversidade",
+        "em que região carbono e biodiversidade",
+        "em q região carbono e biodiversidade",
+        "situação de carbono e biodiversidade",
+        "posição de carbono e biodiversidade"
+      ],
+      "responses": [
+        "Estão principalmente na região amazônica, abrangendo florestas do Brasil, Colômbia, Peru, Equador, Venezuela e outros países onde há sequestro de carbono e biodiversidade única.",
+        "Ficam na bacia amazônica e territórios florestais da América do Sul, especialmente em áreas de mata preservada onde ocorre absorção de CO2 e conservação de espécies.",
+        "Se encontram na Amazônia continental, incluindo florestas primárias, terras indígenas e unidades de conservação que mantêm estoque de carbono e diversidade biológica.",
+        "Existem nos ecossistemas amazônicos, desde as nascentes andinas até a foz do Rio Amazonas, abrangendo toda região de floresta tropical com serviços ambientais globais."
+      ]
+    },
+    {
+      "intent": "onde_aonde_carbono",
+      "patterns": [
+        "onde está o carbono",
+        "onde fica o carbono",
+        "aonde está o carbono",
+        "aonde fica o carbono",
+        "onde se encontra o carbono",
+        "aonde se encontra o carbono",
+        "onde existe carbono",
+        "aonde existe carbono",
+        "localização do carbono",
+        "em que lugar o carbono",
+        "em q lugar o carbono",
+        "em que região o carbono",
+        "em q região o carbono",
+        "situação do carbono",
+        "posição do carbono"
+      ],
+      "responses": [
+        "O carbono está armazenado principalmente na biomassa florestal amazônica, no solo, na vegetação, nas raízes e em toda estrutura vegetal que sequestra CO2 atmosférico.",
+        "Fica localizado nas árvores, plantas, matéria orgânica do solo amazônico, troncos, folhas e sistema radicular que capturam e fixam dióxido de carbono do ar.",
+        "Se encontra na floresta tropical, especialmente em áreas preservadas, florestas primárias, territórios indígenas e unidades de conservação com alta densidade de carbono estocado.",
+        "Existe distribuído pela Amazônia continental, concentrado em regiões de mata densa, florestas intactas e ecossistemas florestais que mantêm grandes estoques de carbono."
+      ]
+    },
+    {
+      "intent": "como_carbono_biodiversidade",
+      "patterns": [
+        "como funcionam carbono e biodiversidade",
+        "como ocorrem carbono e biodiversidade",
+        "como acontecem carbono e biodiversidade",
+        "como se dão carbono e biodiversidade",
+        "como se processam carbono e biodiversidade",
+        "como operam carbono e biodiversidade",
+        "modo de carbono e biodiversidade",
+        "jeito de carbono e biodiversidade",
+        "forma de carbono e biodiversidade",
+        "maneira de carbono e biodiversidade",
+        "processo de carbono e biodiversidade",
+        "funcionamento de carbono e biodiversidade"
+      ],
+      "responses": [
+        "Funcionam através da fotossíntese que absorve CO2, produz oxigênio, mantém biodiversidade única, preserva saberes tradicionais indígenas e regula o clima com responsabilidade global.",
+        "Ocorrem mediante captura de carbono atmosférico, conservação de espécies endêmicas, manutenção de conhecimentos ancestrais, práticas sustentáveis e proteção ambiental coletiva mundial.",
+        "Se dão por meio de sequestro de gases estufa, preservação da diversidade biológica, transmissão de sabedorias tradicionais, manejo indígena sustentável e cooperação internacional.",
+        "Operam através da fixação de CO2, proteção de espécies raras, valorização de práticas ancestrais, conservação ecossistêmica e responsabilidade ambiental planetária compartilhada."
+      ]
+    },
+    {
+      "intent": "como_carbono",
+      "patterns": [
+        "como funciona o carbono",
+        "como ocorre o carbono",
+        "como acontece o carbono",
+        "como se dá o carbono",
+        "como se processa o carbono",
+        "como opera o carbono",
+        "modo do carbono",
+        "jeito do carbono",
+        "forma do carbono",
+        "maneira do carbono",
+        "processo do carbono",
+        "funcionamento do carbono"
+      ],
+      "responses": [
+        "O carbono funciona através da fotossíntese, onde árvores absorvem CO2 atmosférico, convertem em matéria orgânica, liberam oxigênio e armazenam carbono na biomassa florestal.",
+        "Ocorre mediante captura de dióxido de carbono do ar pelas plantas, que o fixam em tecidos vegetais, raízes, troncos e solo através de processos biológicos naturais.",
+        "Se dá por meio da absorção de gases estufa pela vegetação, que remove CO2 da atmosfera, o converte em compostos orgânicos e o estoca na estrutura florestal.",
+        "Opera através do ciclo natural onde plantas capturam carbono atmosférico, o transformam em biomassa, mantêm estoque florestal e contribuem para equilíbrio climático global."
+      ]
+    },
+    {
+      "intent": "por_que_porque_carbono_biodiversidade",
+      "patterns": [
+        "por que existem carbono e biodiversidade",
+        "pq existem carbono e biodiversidade",
+        "por que são importantes carbono e biodiversidade",
+        "pq são importantes carbono e biodiversidade",
+        "porque existem carbono e biodiversidade",
+        "pq existem carbono e biodiversidade",
+        "por que há carbono e biodiversidade",
+        "pq há carbono e biodiversidade",
+        "porque há carbono e biodiversidade",
+        "pq há carbono e biodiversidade",
+        "por que temos carbono e biodiversidade",
+        "pq temos carbono e biodiversidade"
+      ],
+      "responses": [
+        "Existem devido à importância global de regular o clima, absorver CO2, conter aquecimento global, preservar espécies únicas, manter saberes tradicionais e garantir responsabilidade ambiental coletiva.",
+        "São importantes por causa da regulação climática planetária, mitigação de mudanças climáticas, conservação da biodiversidade, conhecimentos indígenas ancestrais e proteção ecossistêmica mundial.",
+        "Há carbono e biodiversidade pela necessidade de estabilidade ambiental, redução de gases estufa, preservação de espécies endêmicas, valorização de práticas tradicionais e sustentabilidade global.",
+        "Temos pela função essencial de purificação atmosférica, controle térmico mundial, proteção biológica, manutenção de sabedorias nativas e responsabilidade ambiental internacional compartilhada."
+      ]
+    },
+    {
+      "intent": "por_que_porque_carbono",
+      "patterns": [
+        "por que existe o carbono",
+        "pq existe o carbono",
+        "por que é importante o carbono",
+        "pq é importante o carbono",
+        "porque existe o carbono",
+        "pq existe o carbono",
+        "por que há carbono",
+        "pq há carbono",
+        "porque há carbono",
+        "pq há carbono",
+        "por que temos carbono",
+        "pq temos carbono",
+        "motivos do carbono",
+        "razões do carbono"
+      ],
+      "responses": [
+        "O carbono existe devido à necessidade de regular o clima global, absorver CO2 atmosférico, mitigar aquecimento planetário, purificar o ar e manter equilíbrio ambiental mundial.",
+        "É importante por causa da função climática essencial, redução de gases estufa, contenção de mudanças climáticas, estabilização térmica e proteção da atmosfera terrestre.",
+        "Há carbono pela capacidade natural da floresta de sequestrar dióxido de carbono, converter em oxigênio, armazenar em biomassa e contribuir para sustentabilidade ambiental.",
+        "Temos devido à importância ecológica de capturar gases poluentes, produzir ar puro, manter temperatura global estável e garantir condições climáticas adequadas para vida."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_carbono_biodiversidade",
+      "patterns": [
+        "para que servem carbono e biodiversidade",
+        "pra que servem carbono e biodiversidade",
+        "para que existem carbono e biodiversidade",
+        "pra que existem carbono e biodiversidade",
+        "para que estudar carbono e biodiversidade",
+        "pra que estudar carbono e biodiversidade",
+        "para que proteger carbono e biodiversidade",
+        "pra que proteger carbono e biodiversidade",
+        "para que conservar carbono e biodiversidade",
+        "pra que conservar carbono e biodiversidade"
+      ],
+      "responses": [
+        "Servem para regular clima global, mitigar aquecimento planetário, preservar espécies únicas, manter saberes tradicionais indígenas, promover sustentabilidade e garantir responsabilidade ambiental coletiva.",
+        "Existem para absorver CO2, produzir oxigênio, conservar biodiversidade, valorizar conhecimentos ancestrais, apoiar práticas sustentáveis e assegurar proteção ecossistêmica mundial.",
+        "Estudar serve para compreender importância climática, desenvolver políticas ambientais, promover conservação, reconhecer sabedorias tradicionais e construir futuro sustentável planetário.",
+        "Proteger ajuda a manter estabilidade climática, reduzir gases estufa, conservar espécies raras, preservar culturas indígenas e garantir qualidade de vida para gerações futuras globalmente."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_carbono",
+      "patterns": [
+        "para que serve o carbono",
+        "pra que serve o carbono",
+        "para que existe o carbono",
+        "pra que existe o carbono",
+        "para que estudar o carbono",
+        "pra que estudar o carbono",
+        "para que proteger o carbono",
+        "pra que proteger o carbono",
+        "para que conservar o carbono",
+        "pra que conservar o carbono"
+      ],
+      "responses": [
+        "O carbono serve para absorver CO2 atmosférico, regular clima global, mitigar aquecimento planetário, purificar o ar e manter equilíbrio térmico essencial para vida.",
+        "Existe para capturar gases estufa, produzir oxigênio, estabilizar temperatura mundial, reduzir poluição atmosférica e garantir condições climáticas adequadas planetariamente.",
+        "Estudar serve para compreender mudanças climáticas, desenvolver estratégias ambientais, promover sustentabilidade, orientar políticas públicas e construir soluções ecológicas eficazes.",
+        "Proteger ajuda a manter função climática, prevenir aquecimento excessivo, garantir qualidade atmosférica, assegurar estabilidade ambiental e preservar condições de vida terrestres."
+      ]
+    },
+    {
+      "intent": "quando_carbono_biodiversidade",
+      "patterns": [
+        "quando começaram carbono e biodiversidade",
+        "qdo começaram carbono e biodiversidade",
+        "quando surgiram carbono e biodiversidade",
+        "qdo surgiram carbono e biodiversidade",
+        "quando iniciaram carbono e biodiversidade",
+        "qdo iniciaram carbono e biodiversidade",
+        "quando se formaram carbono e biodiversidade",
+        "qdo se formaram carbono e biodiversidade",
+        "quando apareceram carbono e biodiversidade",
+        "qdo apareceram carbono e biodiversidade"
+      ],
+      "responses": [
+        "Começaram há milhões de anos com formação da floresta amazônica, desenvolveram-se ao longo de eras geológicas e hoje representam importância global para clima e biodiversidade.",
+        "Surgiram durante evolução natural dos ecossistemas tropicais, consolidaram-se através de processos evolutivos milenares e atualmente são essenciais para estabilidade climática mundial.",
+        "Iniciaram com origem da Amazônia ancestral, evoluíram durante períodos geológicos extensos e presentemente constituem patrimônio natural de importância planetária fundamental.",
+        "Se formaram através de milhares de anos de evolução florestal, desenvolveram-se em ciclos naturais prolongados e hoje são reconhecidos como recursos ambientais globais vitais."
+      ]
+    },
+    {
+      "intent": "quando_carbono",
+      "patterns": [
+        "quando começou o carbono",
+        "qdo começou o carbono",
+        "quando surgiu o carbono",
+        "qdo surgiu o carbono",
+        "quando iniciou o carbono",
+        "qdo iniciou o carbono",
+        "quando se formou o carbono",
+        "qdo se formou o carbono",
+        "quando apareceu o carbono",
+        "qdo apareceu o carbono"
+      ],
+      "responses": [
+        "O carbono amazônico começou a se formar há milhões de anos com desenvolvimento da floresta tropical, acumulando-se gradualmente através de processos fotossintéticos naturais contínuos.",
+        "Surgiu durante evolução da vegetação amazônica, consolidou-se ao longo de eras geológicas e hoje representa um dos maiores estoques de carbono terrestre mundial.",
+        "Iniciou com estabelecimento da floresta ancestral, desenvolveu-se através de ciclos naturais milenares e atualmente constitui reserva fundamental para equilíbrio climático global.",
+        "Se formou mediante processos evolutivos da Amazônia, acumulou-se durante períodos extensos e presentemente é reconhecido como patrimônio ambiental de importância planetária crítica."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_carbono_biodiversidade",
+      "patterns": [
+        "quantos carbono e biodiversidade existem",
+        "qtos carbono e biodiversidade existem",
+        "quantas funções de carbono e biodiversidade",
+        "qtas funções de carbono e biodiversidade",
+        "quantos benefícios de carbono e biodiversidade",
+        "qtos benefícios de carbono e biodiversidade",
+        "quantos serviços de carbono e biodiversidade",
+        "qtos serviços de carbono e biodiversidade",
+        "quantas características de carbono e biodiversidade",
+        "qtas características de carbono e biodiversidade"
+      ],
+      "responses": [
+        "Existem múltiplos serviços: regulação climática, absorção de CO2, produção de oxigênio, conservação de espécies, saberes tradicionais, práticas sustentáveis e responsabilidade global.",
+        "Há diversas funções: sequestro de carbono, mitigação climática, preservação biológica, conhecimentos ancestrais, manejo indígena, proteção ecossistêmica e cooperação internacional.",
+        "Incluem vários benefícios: estabilização térmica, redução de gases estufa, biodiversidade única, sabedorias tradicionais, sustentabilidade ambiental e proteção planetária coletiva.",
+        "Envolvem diferentes características: captura atmosférica, regulação global, conservação natural, práticas milenares, responsabilidade ambiental e importância mundial fundamental."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_carbono",
+      "patterns": [
+        "quantos carbono existem",
+        "qtos carbono existem",
+        "quantas funções do carbono",
+        "qtas funções do carbono",
+        "quantos benefícios do carbono",
+        "qtos benefícios do carbono",
+        "quantos serviços do carbono",
+        "qtos serviços do carbono",
+        "quantas características do carbono",
+        "qtas características do carbono"
+      ],
+      "responses": [
+        "O carbono possui múltiplas funções: absorção de CO2, regulação climática, produção de oxigênio, armazenamento em biomassa, purificação atmosférica e estabilização térmica global.",
+        "Há diversos benefícios: sequestro de gases estufa, mitigação do aquecimento, controle climático, qualidade do ar, equilíbrio atmosférico e sustentabilidade ambiental planetária.",
+        "Incluem vários serviços ecossistêmicos: captura atmosférica, fixação em plantas, ciclo do carbono, regulação térmica, purificação ambiental e manutenção climática mundial.",
+        "Envolvem diferentes características: capacidade de absorção, conversão fotossintética, estoque florestal, ciclo biogeoquímico, função climática e importância ecológica fundamental."
+      ]
+    },
+    {
+      "intent": "sera_que_carbono_biodiversidade",
+      "patterns": [
+        "será que existem carbono e biodiversidade",
+        "será q existem carbono e biodiversidade",
+        "será que são importantes carbono e biodiversidade",
+        "será q são importantes carbono e biodiversidade",
+        "será que funcionam carbono e biodiversidade",
+        "será q funcionam carbono e biodiversidade",
+        "será que são reais carbono e biodiversidade",
+        "será q são reais carbono e biodiversidade",
+        "será que ajudam carbono e biodiversidade",
+        "será q ajudam carbono e biodiversidade"
+      ],
+      "responses": [
+        "Sim, definitivamente existem e são extremamente importantes: regulam clima global, absorvem CO2, preservam espécies únicas, mantêm saberes tradicionais e garantem sustentabilidade planetária.",
+        "Com certeza são reais e fundamentais: funcionam através de processos naturais, fornecem serviços ecossistêmicos essenciais, protegem biodiversidade e asseguram estabilidade climática mundial.",
+        "Certamente existem e ajudam significativamente: capturam gases estufa, produzem oxigênio, conservam espécies, preservam conhecimentos ancestrais e promovem responsabilidade ambiental global.",
+        "Sim, são processos científicos comprovados: documentados pela pesquisa, reconhecidos internacionalmente, essenciais para vida terrestre e fundamentais para futuro sustentável da humanidade."
+      ]
+    },
+    {
+      "intent": "sera_que_carbono",
+      "patterns": [
+        "será que existe carbono",
+        "será q existe carbono",
+        "será que funciona o carbono",
+        "será q funciona o carbono",
+        "será que é importante o carbono",
+        "será q é importante o carbono",
+        "será que é real o carbono",
+        "será q é real o carbono",
+        "será que ajuda o carbono",
+        "será q ajuda o carbono"
+      ],
+      "responses": [
+        "Sim, definitivamente existe e é extremamente importante: a Amazônia armazena enormes quantidades de carbono, absorve CO2 atmosférico e regula o clima global efetivamente.",
+        "Com certeza funciona e é fundamental: através da fotossíntese, as plantas capturam dióxido de carbono, o convertem em oxigênio e ajudam a controlar o aquecimento planetário.",
+        "Certamente é real e ajuda significativamente: processos de sequestro de carbono são cientificamente comprovados, mensuráveis e essenciais para estabilidade climática mundial.",
+        "Sim, é processo natural autêntico: documentado pela ciência, reconhecido internacionalmente, vital para qualidade atmosférica e fundamental para sustentabilidade ambiental global."
+      ]
+    }
+  ]
+}

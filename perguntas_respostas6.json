@@ -262,5 +262,305 @@
   {
     "pergunta": "Responsabilidade",
     "resposta": "Proteger a floresta é dever global."
+  },
+  {
+    "pergunta": "Amazônia",
+    "resposta": "Maior floresta tropical do mundo, localizada na América do Sul, abrangendo vários países."
+  },
+  {
+    "pergunta": "Colômbia",
+    "resposta": "País que possui 42% do seu território na região amazônica."
+  },
+  {
+    "pergunta": "Equador",
+    "resposta": "País sul-americano que abriga parte da Amazônia com diversos povos originários."
+  },
+  {
+    "pergunta": "Brasil",
+    "resposta": "País que possui a maior porção da Amazônia em seu território."
+  },
+  {
+    "pergunta": "Peru",
+    "resposta": "País andino que também possui território amazônico."
+  },
+  {
+    "pergunta": "Venezuela",
+    "resposta": "País que faz parte da região amazônica setentrional."
+  },
+  {
+    "pergunta": "Árvores gigantes",
+    "resposta": "Grandes árvores características da floresta de terra firme amazônica."
+  },
+  {
+    "pergunta": "Solo fértil",
+    "resposta": "Solo rico em nutrientes encontrado nas várzeas amazônicas."
+  },
+  {
+    "pergunta": "Vegetação adaptada",
+    "resposta": "Plantas especializadas que vivem em áreas permanentemente alagadas como os igapós."
+  },
+  {
+    "pergunta": "Alta diversidade biológica",
+    "resposta": "Característica de todos os ecossistemas amazônicos, com milhares de espécies."
+  },
+  {
+    "pergunta": "Norte da América do Sul",
+    "resposta": "Região geográfica onde se localiza a Amazônia Equatoriana e Colombiana."
+  },
+  {
+    "pergunta": "Temperaturas constantes",
+    "resposta": "Característica do clima equatorial, mantendo calor uniforme durante o ano."
+  },
+  {
+    "pergunta": "Complexa rede hidrográfica",
+    "resposta": "Sistema de rios interconectados que drena a bacia amazônica."
+  },
+  {
+    "pergunta": "Rio Amazonas",
+    "resposta": "Principal rio da bacia amazônica, o mais extenso do mundo."
+  },
+  {
+    "pergunta": "Afluentes",
+    "resposta": "Rios menores que deságuam no Rio Amazonas, como Napo e Putumayo."
+  },
+  {
+    "pergunta": "Mais de mil espécies de aves",
+    "resposta": "Impressionante diversidade de aves encontradas na Amazônia."
+  },
+  {
+    "pergunta": "Mamíferos",
+    "resposta": "Grupo que inclui onça-pintada, anta, botos e macacos na Amazônia."
+  },
+  {
+    "pergunta": "Répteis",
+    "resposta": "Grupo que inclui anaconda, jacarés e lagartos amazônicos."
+  },
+  {
+    "pergunta": "Insetos",
+    "resposta": "Grupo mais diverso da fauna amazônica, com milhões de espécies."
+  },
+  {
+    "pergunta": "Peixes",
+    "resposta": "Incluem piranha, pirarucu e bagres nos rios amazônicos."
+  },
+  {
+    "pergunta": "Ceiba",
+    "resposta": "Nome científico da sumaúma, uma das maiores árvores da Amazônia."
+  },
+  {
+    "pergunta": "Rio Napo",
+    "resposta": "Importante afluente do Amazonas que atravessa Equador e Peru."
+  },
+  {
+    "pergunta": "Rio Putumayo",
+    "resposta": "Rio fronteiriço entre Colômbia, Peru e Brasil."
+  },
+  {
+    "pergunta": "Sem estação seca",
+    "resposta": "Característica do clima amazônico, com chuvas durante todo o ano."
+  },
+  {
+    "pergunta": "Pesca",
+    "resposta": "Atividade tradicional dos povos originários para subsistência."
+  },
+  {
+    "pergunta": "Agricultura",
+    "resposta": "Prática ancestral dos povos amazônicos adaptada ao ambiente."
+  },
+  {
+    "pergunta": "Coleta",
+    "resposta": "Atividade de busca por frutos, plantas e materiais na floresta."
+  },
+  {
+    "pergunta": "Cultura própria",
+    "resposta": "Tradições únicas desenvolvidas pelos povos originários amazônicos."
+  },
+  {
+    "pergunta": "Espiritualidade ligada à natureza",
+    "resposta": "Crenças dos povos originários que veem a floresta como sagrada."
+  },
+  {
+    "pergunta": "Europeus",
+    "resposta": "Colonizadores que chegaram à Amazônia nos séculos passados."
+  },
+  {
+    "pergunta": "Espanhóis",
+    "resposta": "Colonizadores europeus que exploraram territórios amazônicos."
+  },
+  {
+    "pergunta": "Portugueses",
+    "resposta": "Colonizadores que exploraram principalmente a Amazônia brasileira."
+  },
+  {
+    "pergunta": "Exploração de recursos",
+    "resposta": "Atividade colonial focada na extração de riquezas naturais."
+  },
+  {
+    "pergunta": "Catequização",
+    "resposta": "Processo de conversão religiosa imposto aos povos originários."
+  },
+  {
+    "pergunta": "Guerras",
+    "resposta": "Conflitos entre colonizadores e povos originários."
+  },
+  {
+    "pergunta": "Doenças",
+    "resposta": "Enfermidades trazidas pelos europeus que devastaram populações nativas."
+  },
+  {
+    "pergunta": "Povos nativos",
+    "resposta": "Habitantes originários da Amazônia antes da colonização."
+  },
+  {
+    "pergunta": "Regula o clima",
+    "resposta": "Função da Amazônia de influenciar padrões climáticos globais."
+  },
+  {
+    "pergunta": "Produz oxigênio",
+    "resposta": "Processo das plantas amazônicas que beneficia o planeta inteiro."
+  },
+  {
+    "pergunta": "Absorve CO2",
+    "resposta": "Capacidade da floresta de retirar gás carbônico da atmosfera."
+  },
+  {
+    "pergunta": "Aquecimento global",
+    "resposta": "Fenômeno climático que a Amazônia ajuda a conter."
+  },
+  {
+    "pergunta": "Saberes tradicionais",
+    "resposta": "Conhecimentos ancestrais dos povos amazônicos sobre plantas e natureza."
+  },
+  {
+    "pergunta": "Espécies únicas",
+    "resposta": "Plantas e animais que só existem na região amazônica."
+  },
+  {
+    "pergunta": "Dever coletivo global",
+    "resposta": "Responsabilidade mundial de proteger a Amazônia."
+  },
+  {
+    "pergunta": "Ameaças sérias",
+    "resposta": "Problemas graves que colocam a Amazônia em risco."
+  },
+  {
+    "pergunta": "Ação imediata",
+    "resposta": "Necessidade urgente de proteger a floresta amazônica."
+  },
+  {
+    "pergunta": "Futuro do planeta",
+    "resposta": "Dependência global da preservação amazônica para as próximas gerações."
+  },
+  {
+    "pergunta": "América do Sul",
+    "resposta": "Continente onde está localizada a região amazônica."
+  },
+  {
+    "pergunta": "Vasta região",
+    "resposta": "Extensão territorial impressionante da Amazônia Equatoriana e Colombiana."
+  },
+  {
+    "pergunta": "Imponente",
+    "resposta": "Descrição do Rio Amazonas, destacando sua grandiosidade."
+  },
+  {
+    "pergunta": "Microecossistemas",
+    "resposta": "Pequenos ambientes formados pelas bromélias que acumulam água."
+  },
+  {
+    "pergunta": "Cura tradicional",
+    "resposta": "Uso ancestral de plantas medicinais pelos povos amazônicos."
+  },
+  {
+    "pergunta": "Práticas tradicionais",
+    "resposta": "Costumes e conhecimentos passados entre gerações dos povos originários."
+  },
+  {
+    "pergunta": "Grupos isolados",
+    "resposta": "Comunidades dos povos Huaorani que vivem sem contato exterior."
+  },
+  {
+    "pergunta": "Exploração intensa",
+    "resposta": "Período de extração massiva de borracha na Amazônia."
+  },
+  {
+    "pergunta": "Controle ambiental",
+    "resposta": "Regulamentação necessária para atividades de mineração."
+  },
+  {
+    "pergunta": "Impactos ambientais",
+    "resposta": "Consequências negativas das atividades humanas na floresta."
+  },
+  {
+    "pergunta": "Disputas territoriais",
+    "resposta": "Conflitos por controle de terras na região amazônica."
+  },
+  {
+    "pergunta": "Rejeitos",
+    "resposta": "Resíduos tóxicos da mineração que contaminam os rios."
+  },
+  {
+    "pergunta": "Mercúrio",
+    "resposta": "Metal pesado usado na mineração que polui águas amazônicas."
+  },
+  {
+    "pergunta": "Pecuária",
+    "resposta": "Criação de gado que é causa do desmatamento amazônico."
+  },
+  {
+    "pergunta": "Abrir espaço",
+    "resposta": "Objetivo das queimadas para criar áreas de pasto ou cultivo."
+  },
+  {
+    "pergunta": "Padrões climáticos",
+    "resposta": "Influência da Amazônia no clima mundial através das chuvas."
+  },
+  {
+    "pergunta": "Armazena",
+    "resposta": "Função das árvores de guardar carbono em sua estrutura."
+  },
+  {
+    "pergunta": "Conhecimentos ancestrais",
+    "resposta": "Saberes milenares dos povos sobre uso de plantas e recursos naturais."
+  },
+  {
+    "pergunta": "Riquezas naturais",
+    "resposta": "Recursos valiosos como biodiversidade e minerais da Amazônia."
+  },
+  {
+    "pergunta": "Habitantes",
+    "resposta": "Povos originários e comunidades que vivem na floresta amazônica."
+  },
+  {
+    "pergunta": "WWF",
+    "resposta": "Organização mundial de conservação citada como fonte no documento."
+  },
+  {
+    "pergunta": "ONU Meio Ambiente",
+    "resposta": "Agência das Nações Unidas para questões ambientais, fonte do estudo."
+  },
+  {
+    "pergunta": "Ministérios locais",
+    "resposta": "Órgãos governamentais dos países amazônicos citados como fonte."
+  },
+  {
+    "pergunta": "42%",
+    "resposta": "Porcentagem do território colombiano que faz parte da Amazônia."
+  },
+  {
+    "pergunta": "Biologia",
+    "resposta": "Estudo da vida e organismos amazônicos, parte do tema principal do documento."
+  },
+  {
+    "pergunta": "História",
+    "resposta": "Relato dos eventos passados que moldaram a região amazônica."
+  },
+  {
+    "pergunta": "Planeta",
+    "resposta": "Terra, beneficiada globalmente pela preservação amazônica."
+  },
+  {
+    "pergunta": "Vital",
+    "resposta": "Característica essencial da Amazônia para a sobrevivência global."
   }
 ]
