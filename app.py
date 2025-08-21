@@ -157,7 +157,6 @@ def autoping():
             print(f"Erro autoping: {e}")
         time.sleep(300)  # 5 minutos
 
-# --- Inicialização ---
 if __name__ == "__main__":
     threading.Thread(target=autoping, daemon=True).start()
     port = int(os.getenv("PORT", 5000))
