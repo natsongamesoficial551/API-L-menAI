@@ -8,10 +8,6 @@
     "resposta": "O Realismo é um movimento que busca realidade, observação, denúncia, objetivismo e materialismo. Satiriza, destrói falsas imagens, critica a sociedade e propõe mudanças sociais."
   },
   {
-    "pergunta": "revolução industrial",
-    "resposta": "processo histórico em que o trabalho manual foi substituído por máquinas e surgiram fábricas, mudando a economia e a sociedade."
-  },
-  {
     "pergunta": "abolição da escravatura",
     "resposta": "problemas com integração ao mercado de trabalho, salários baixos e más condições sociais."
   },
@@ -170,6 +166,10 @@
   {
     "pergunta": "lento",
     "resposta": "O ritmo mais lento caracteriza o enredo dos romances realistas devido ao maior detalhamento e descrições minuciosas."
+ },
+  {
+    "pergunta": "telégrafo",
+    "resposta": "O telégrafo foi uma das invenções tecnológicas do século XIX que representava os avanços científicos da modernidade."
   },
   {
     "pergunta": "científicas",
@@ -188,8 +188,8 @@
     "resposta": "O telefone foi uma das importantes invenções da segunda metade do século XIX que prometia revolucionar a comunicação."
   },
   {
-    "pergunta": "telégrafo",
-    "resposta": "O telégrafo foi uma das invenções tecnológicas do século XIX que representava os avanços científicos da modernidade."
+    "pergunta": "naturalismo",
+    "resposta": "É uma corrente literária do século XIX que retrata a realidade de forma científica, mostrando como o meio, a hereditariedade e o social influenciam o ser humano."
   },
   {
     "pergunta": "locomotiva",

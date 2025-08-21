@@ -1,0 +1,240 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_naturalismo_que",
+      "patterns": [
+        "o que é naturalismo", "o que foi naturalismo", "o que significa naturalismo", "o que quer dizer naturalismo",
+        "que negócio é esse de naturalismo", "que história é essa de naturalismo", "que parada é naturalismo",
+        "que coisa é naturalismo mesmo", "que diabos é naturalismo", "que raios é naturalismo",
+        "afinal o que é naturalismo", "mas o que é naturalismo", "então o que é naturalismo",
+        "cara o que é naturalismo", "mano o que é naturalismo", "véi o que é naturalismo",
+        "me explica o que é naturalismo", "me conta o que é naturalismo", "me fala o que é naturalismo",
+        "explica aí o que é naturalismo", "conta aí o que é naturalismo", "fala aí o que é naturalismo",
+        "qual é a da naturalismo", "qual é a história da naturalismo", "qual é a parada da naturalismo",
+        "como assim naturalismo", "tipo assim o que é naturalismo", "quer dizer o que é naturalismo",
+        "pô o que é naturalismo", "poxa o que é naturalismo", "caramba o que é naturalismo",
+        "nossa o que é naturalismo", "eita o que é naturalismo", "opa o que é naturalismo",
+        "rapaz o que é naturalismo", "cara de pau o que é naturalismo", "sem brincadeira o que é naturalismo",
+        "de verdade o que é naturalismo", "sério mesmo o que é naturalismo", "real o que é naturalismo",
+        "na moral o que é naturalismo", "na boa o que é naturalismo", "numa boa o que é naturalismo",
+        "tá mas o que é naturalismo", "ok mas o que é naturalismo", "beleza mas o que é naturalismo",
+        "hmm o que é naturalismo", "bom o que é naturalismo", "enfim o que é naturalismo",
+        "resumindo o que é naturalismo", "basicamente o que é naturalismo", "fundamentalmente o que é naturalismo",
+        "professor o que é naturalismo", "mestre o que é naturalismo", "doutor o que é naturalismo",
+        "gente o que é naturalismo", "pessoal o que é naturalismo", "galera o que é naturalismo",
+        "oxe o que é naturalismo", "uai o que é naturalismo", "ué o que é naturalismo",
+        "bah o que é naturalismo", "tche o que é naturalismo", "capaz o que é naturalismo",
+        "caraca o que é naturalismo", "puts o que é naturalismo", "putz o que é naturalismo",
+        
+        "oq é naturalismo", "oque é naturalismo", "q é naturalismo",
+        "naturalismo é oq", "naturalismo oq é", "naturalismo é q", "naturalismo q é",
+        "é naturalismo msm", "eh naturalismo msm", "é naturalismo memo",
+        "q eh naturalismo", "que eh naturalismo", "oq significa naturalismo", "q significa naturalismo",
+        "oq quer dizer naturalismo", "q quer dizer naturalismo", "me explica oq é naturalismo",
+        "me fala oq é naturalismo", "me conta oq é naturalismo", "explica oq é naturalismo",
+        "fala oq é naturalismo", "conta oq é naturalismo", "cara oq é naturalismo",
+        "mano oq é naturalismo", "vei oq é naturalismo", "bicho oq é naturalismo",
+        "rapaz oq é naturalismo", "gente oq é naturalismo", "po oq é naturalismo",
+        "conceito de naturalismo", "conceito naturalismo", "significado naturalismo",
+        "explicação de naturalismo", "explicação naturalismo", "definição naturalismo",
+        "movimento naturalista", "escola naturalista", "naturalismo literário", "literatura naturalista"
+      ],
+      "responses": [
+        "O Naturalismo foi um MOVIMENTO LITERÁRIO do final do século XIX que aplicava métodos científicos à literatura. Características principais: determinismo biológico e social, influência do meio ambiente sobre os personagens, descrições minuciosas, linguagem objetiva, personagens das classes populares e ANÁLISE CIENTÍFICA DO COMPORTAMENTO HUMANO como se fossem espécimes em laboratório.",
+        "É uma ESCOLA LITERÁRIA derivada do Realismo, mas mais radical e científica. Baseia-se nas teorias de Darwin, Marx e Comte, mostrando o ser humano como produto do meio, da raça e do momento histórico. Características: objetividade total, temas polêmicos (sexualidade, vícios, degradação social), DETERMINISMO e experimentação literária baseada no método científico."
+      ]
+    },
+    {
+      "intent": "o_que_e_naturalismo_quando",
+      "patterns": [
+        "quando surgiu naturalismo", "quando apareceu naturalismo", "quando começou naturalismo",
+        "quando foi criado naturalismo", "quando se desenvolveu naturalismo", "quando naturalismo foi inventado",
+        "em que época surgiu naturalismo", "em que período apareceu naturalismo", "em que tempo começou naturalismo",
+        "que ano surgiu naturalismo", "que século surgiu naturalismo", "que época surgiu naturalismo",
+        "quando naturalismo se popularizou", "quando naturalismo ficou famoso", "quando naturalismo se espalhou",
+        "quando começou ser usado naturalismo", "quando naturalismo virou comum", "quando naturalismo se estabeleceu",
+        "desde quando existe naturalismo", "há quanto tempo existe naturalismo", "faz quanto tempo surgiu naturalismo",
+        "quando naturalismo chegou ao brasil", "quando brasil começou usar naturalismo", "quando naturalismo brasileiro começou",
+        "em que momento histórico surgiu naturalismo", "em que contexto surgiu naturalismo", "em qual fase surgiu naturalismo",
+        
+        "qdo surgiu naturalismo", "qdo apareceu naturalismo", "qdo começou naturalismo",
+        "q ano surgiu naturalismo", "q século surgiu naturalismo", "q época surgiu naturalismo",
+        "origem do naturalismo", "história do naturalismo", "evolução do naturalismo", "desenvolvimento naturalismo",
+        "século XIX e naturalismo", "1870 naturalismo", "1880 naturalismo", "émile zola naturalismo",
+        "positivismo e naturalismo", "darwinismo e naturalismo", "ciência e naturalismo",
+        "realismo para naturalismo", "transição naturalismo", "fim do romantismo"
+      ],
+      "responses": [
+        "O Naturalismo surgiu na FRANÇA em 1870 com Émile Zola e sua obra 'Thérèse Raquin'. No Brasil, desenvolveu-se entre 1881-1895, iniciando com 'O Mulato' (1881) de Aluísio Azevedo. Coincide com o auge das teorias científicas: DARWINISMO, positivismo de Comte, determinismo de Taine e as descobertas da medicina experimental.",
+        "Começou no FINAL DO SÉCULO XIX (1870-1900), período de grandes descobertas científicas e industrialização. Influenciado pela filosofia POSITIVISTA, teoria da evolução de Darwin, socialismo nascente e medicina experimental. No Brasil, desenvolveu-se durante a crise do Império e primeiros anos da República (1881-1895)."
+      ]
+    },
+    {
+      "intent": "o_que_e_naturalismo_onde",
+      "patterns": [
+        "onde surgiu naturalismo", "onde apareceu naturalismo", "onde começou naturalismo",
+        "onde foi criado naturalismo", "onde se desenvolveu naturalismo", "onde naturalismo foi inventado",
+        "em que lugar surgiu naturalismo", "em que local apareceu naturalismo", "em que região começou naturalismo",
+        "em que país surgiu naturalismo", "em que nação apareceu naturalismo", "em qual território começou naturalismo",
+        "onde naturalismo se popularizou", "onde naturalismo ficou famoso", "onde naturalismo se espalhou",
+        "onde mais se usa naturalismo", "onde naturalismo é mais comum", "onde naturalismo é mais popular",
+        "onde estudar naturalismo", "onde aprender naturalismo", "onde ensinar naturalismo",
+        "onde naturalismo brasileiro surgiu", "onde começou naturalismo no brasil", "onde naturalismo nacional começou",
+        
+        "aonde surgiu naturalismo", "aonde apareceu naturalismo", "aonde começou naturalismo",
+        "em q lugar surgiu naturalismo", "em q país surgiu naturalismo", "em qual territórios começou naturalismo",
+        "frança e naturalismo", "paris e naturalismo", "europa e naturalismo", "alemanha e naturalismo",
+        "rússia e naturalismo", "brasil e naturalismo", "maranhão e naturalismo", "são luís naturalismo",
+        "rio de janeiro e naturalismo", "são paulo e naturalismo", "recife e naturalismo",
+        "centros literários naturalismo", "escolas literárias naturalismo"
+      ],
+      "responses": [
+        "O Naturalismo surgiu na FRANÇA, especificamente em Paris, com Émile Zola criando a escola na década de 1870. Espalhou-se pela Europa (Alemanha, Rússia, Espanha) e chegou ao Brasil principalmente no MARANHÃO (Aluísio Azevedo), Rio de Janeiro, São Paulo e outras capitais, adaptando-se às realidades sociais locais.",
+        "Desenvolveu-se inicialmente em PARIS (centro intelectual mundial), depois se expandiu para outros países europeus e américas. No Brasil, concentrou-se em SÃO LUÍS DO MARANHÃO (Aluísio Azevedo era maranhense), Rio de Janeiro (capital cultural), São Paulo e Recife, influenciando a literatura nacional com temas e técnicas EUROPEIAS adaptadas à realidade brasileira."
+      ]
+    },
+    {
+      "intent": "o_que_e_naturalismo_quem",
+      "patterns": [
+        "quem criou naturalismo", "quem inventou naturalismo", "quem desenvolveu naturalismo",
+        "quem foram os primeiros a usar naturalismo", "quem escreveu primeiro naturalismo", "quem começou naturalismo",
+        "quem são os grandes mestres naturalismo", "quem são mestres do naturalismo", "quem são principais naturalismo",
+        "quem usa naturalismo", "quem aplica naturalismo", "quem faz naturalismo",
+        "quem são escritores naturalismo brasil", "quem usa naturalismo no brasil", "quem faz naturalismo no brasil",
+        "quem foi émile zola", "quem foi aluísio azevedo", "quem foi adolfo caminha",
+        "quem foi inglês de sousa", "quem foi júlio ribeiro", "quem foi domingos olímpio",
+        "quem foi horácio de carvalho", "quem foi figueiredo pimentel", "quem foi pardal mallet",
+        "quem são mestres naturalismo", "quem são grandes nomes naturalismo", "quem popularizou naturalismo",
+        
+        "qm criou naturalismo", "qm inventou naturalismo", "qm desenvolveu naturalismo",
+        "qm foram primeiros naturalismo", "qm escreveu primeiro naturalismo", "qm começou naturalismo",
+        "qm são grandes mestres naturalismo", "qm são mestres naturalismo", "qm são principais naturalismo",
+        "qm usa naturalismo", "qm aplica naturalismo", "qm faz naturalismo",
+        "autores naturalismo", "escritores naturalismo", "mestres naturalismo", "grandes naturalistas",
+        "inovadores naturalismo", "pioneiros naturalismo", "revolucionários naturalismo"
+      ],
+      "responses": [
+        "Criado por ÉMILE ZOLA (França) com teorias do 'Romance Experimental'. No Brasil: ALUÍSIO AZEVEDO ('O Mulato', 'O Cortiço'), ADOLFO CAMINHA ('Bom-Crioulo'), JÚLIO RIBEIRO ('A Carne'), Inglês de Sousa ('O Missionário'), Domingos Olímpio ('Luzia-Homem') - todos aplicaram métodos científicos à literatura brasileira.",
+        "Fundador mundial: ÉMILE ZOLA (escritor francês, teórico do movimento). Principais brasileiros: ALUÍSIO AZEVEDO (maior naturalista nacional), ADOLFO CAMINHA (temas polêmicos), JÚLIO RIBEIRO (experimentação científica), Pardal Mallet, Figueiredo Pimentel - cada um contribuiu para adaptar as técnicas naturalistas à REALIDADE SOCIAL BRASILEIRA."
+      ]
+    },
+    {
+      "intent": "o_que_e_naturalismo_por_que",
+      "patterns": [
+        "por que existe naturalismo", "por que foi criado naturalismo", "por que surgiu naturalismo",
+        "por que naturalismo é importante", "por que naturalismo é necessário", "por que naturalismo é útil",
+        "por que usar naturalismo", "por que aplicar naturalismo", "por que estudar naturalismo",
+        "motivos do naturalismo", "razões do naturalismo", "causas do naturalismo",
+        "fatores que levaram ao naturalismo", "o que causou naturalismo", "o que motivou naturalismo",
+        "por que escritores usam naturalismo", "por que autores preferem naturalismo", "por que literatura usa naturalismo",
+        "vantagens do naturalismo", "benefícios do naturalismo", "importância do naturalismo",
+        "finalidade do naturalismo", "objetivo do naturalismo", "propósito do naturalismo",
+        
+        "pq existe naturalismo", "pq foi criado naturalismo", "pq surgiu naturalismo",
+        "pq naturalismo é importante", "pq naturalismo é necessário", "pq naturalismo é útil",
+        "pq usar naturalismo", "pq aplicar naturalismo", "pq estudar naturalismo",
+        "motivos naturalismo", "razões naturalismo", "causas naturalismo",
+        "pq escritores usam naturalismo", "pq autores preferem naturalismo", "pq literatura usa naturalismo",
+        "vantagens naturalismo", "benefícios naturalismo", "importância naturalismo",
+        "finalidade naturalismo", "objetivo naturalismo", "propósito naturalismo",
+        "função do naturalismo", "utilidade naturalismo", "serventia naturalismo"
+      ],
+      "responses": [
+        "Surgiu pela necessidade de aplicar o MÉTODO CIENTÍFICO à literatura: a época valorizava a ciência experimental, o positivismo e o determinismo. O objetivo era estudar o comportamento humano como um cientista estuda animais em laboratório, mostrando como o MEIO AMBIENTE, HEREDITARIEDADE e MOMENTO HISTÓRICO determinam as ações humanas.",
+        "Foi criado para ser uma LITERATURA CIENTÍFICA E SOCIAL: denunciar problemas da industrialização, pobreza urbana, degeneração moral, exploração trabalhista. Queria provar que a literatura poderia ser tão rigorosa quanto a ciência, usando OBSERVAÇÃO OBJETIVA e experimentação para revelar leis naturais que governam o comportamento humano e social."
+      ]
+    },
+    {
+      "intent": "o_que_e_naturalismo_como",
+      "patterns": [
+        "como funciona naturalismo", "como é feito naturalismo", "como se aplica naturalismo",
+        "como é estrutura do naturalismo", "como é organizado naturalismo", "como é construído naturalismo",
+        "como identificar naturalismo", "como reconhecer naturalismo", "como saber se é naturalismo",
+        "como usar naturalismo", "como aplicar naturalismo", "como desenvolver naturalismo",
+        "como estudar naturalismo", "como aprender naturalismo", "como ensinar naturalismo",
+        "como naturalismo funciona", "como naturalismo opera", "como naturalismo atua",
+        "como é processo do naturalismo", "como é método do naturalismo", "como é sistema do naturalismo",
+        "como naturalismo constrói história", "como naturalismo desenvolve enredo", "como naturalismo cria personagens",
+        
+        "cm funciona naturalismo", "cm é feito naturalismo", "cm se aplica naturalismo",
+        "cm é estrutura naturalismo", "cm é organizado naturalismo", "cm é construído naturalismo",
+        "cm identificar naturalismo", "cm reconhecer naturalismo", "cm saber se é naturalismo",
+        "cm usar naturalismo", "cm aplicar naturalismo", "cm desenvolver naturalismo",
+        "de que forma funciona naturalismo", "de que maneira é feito naturalismo", "de que jeito se aplica naturalismo",
+        "processo do naturalismo", "metodologia naturalismo", "sistema naturalismo",
+        "mecanismo naturalismo", "funcionamento naturalismo", "operação naturalismo"
+      ],
+      "responses": [
+        "Funciona pelo MÉTODO EXPERIMENTAL: autor observa a sociedade como cientista, escolhe um 'caso' humano para estudar, coloca personagens em situações extremas e analisa suas reações. Usa DETERMINISMO (meio + raça + momento = comportamento), descrições minuciosas, linguagem objetiva e documentação científica da realidade social.",
+        "Opera através de TÉCNICAS CIENTÍFICAS: pesquisa documental prévia, observação direta da realidade, análise de causas e efeitos, personagens como 'cobaias humanas', ambientes degradantes que influenciam o comportamento, linguagem técnica e IMPESSOALIDADE NARRATIVA. O escritor atua como um 'médico social' diagnosticando problemas da sociedade."
+      ]
+    },
+    {
+      "intent": "o_que_e_naturalismo_caracteristicas",
+      "patterns": [
+        "características do naturalismo", "características naturalismo", "quais características naturalismo",
+        "traços do naturalismo", "traços naturalismo", "quais traços naturalismo",
+        "aspectos do naturalismo", "aspectos naturalismo", "quais aspectos naturalismo",
+        "particularidades naturalismo", "especificidades naturalismo", "peculiaridades naturalismo",
+        "elementos do naturalismo", "elementos naturalismo", "quais elementos naturalismo",
+        "marcas do naturalismo", "marcas naturalismo", "sinais naturalismo",
+        "como identificar naturalismo", "como reconhecer naturalismo", "como saber naturalismo",
+        "naturalismo tem que características", "naturalismo possui quais características", "naturalismo apresenta que traços",
+        
+        "características naturalismo", "traços naturalismo", "aspectos naturalismo", "elementos naturalismo",
+        "particularidades do naturalismo", "especificidades do naturalismo", "peculiaridades do naturalismo",
+        "marcas do naturalismo", "sinais do naturalismo", "indícios naturalismo",
+        "propriedades naturalismo", "qualidades naturalismo", "atributos naturalismo",
+        "estilo naturalismo", "forma naturalismo", "jeito naturalismo"
+      ],
+      "responses": [
+        "Principais características: DETERMINISMO (meio/raça/momento determinam o comportamento), objetividade científica total, personagens das classes baixas, temas polêmicos (sexualidade, alcoolismo, prostituição), linguagem crua e direta, descrições minuciosas do ambiente, ZOOMORFIZAÇÃO (comparar humanos a animais), experimentação social.",
+        "Elementos fundamentais: MÉTODO EXPERIMENTAL aplicado à literatura, narrador-cientista imparcial, ambientes degradados (cortiços, favelas), personagens-cobaia, análise de patologias sociais, linguagem técnica e científica, FATALISMO BIOLÓGICO, documentação da realidade social, crítica às instituições através da observação 'laboratorial' do comportamento humano."
+      ]
+    },
+    {
+      "intent": "o_que_e_naturalismo_obras",
+      "patterns": [
+        "obras do naturalismo", "obras naturalismo", "livros naturalismo",
+        "principais obras naturalismo", "principais livros naturalismo", "grandes obras naturalismo",
+        "obras famosas naturalismo", "livros famosos naturalismo", "obras conhecidas naturalismo",
+        "obras importantes naturalismo", "livros importantes naturalismo", "obras relevantes naturalismo",
+        "exemplos obras naturalismo", "exemplos livros naturalismo", "exemplos naturalismo",
+        "lista obras naturalismo", "lista livros naturalismo", "relação obras naturalismo",
+        "o mulato", "o cortiço", "bom crioulo", "a carne", "o missionário",
+        "luzia homem", "thérèse raquin", "germinal", "nana", "rougon-macquart",
+        "casa de pensão", "girândola de amores", "filhos do mar", "dona guidinha do poço",
+        
+        "obras naturalismo", "livros naturalismo", "principais obras naturalismo", "grandes obras naturalismo",
+        "obras famosas naturalismo", "livros famosos naturalismo", "obras conhecidas naturalismo",
+        "obras importantes naturalismo", "livros importantes naturalismo", "obras relevantes naturalismo",
+        "exemplos obras naturalismo", "exemplos livros naturalismo", "exemplos naturalismo",
+        "lista obras naturalismo", "lista livros naturalismo", "bibliografia naturalismo",
+        "romances naturalismo", "novelas naturalismo", "textos naturalismo"
+      ],
+      "responses": [
+        "Principais obras brasileiras: 'O CORTIÇO' (Aluísio Azevedo - determinismo social), 'O MULATO' (preconceito racial), 'BOM-CRIOULO' (Adolfo Caminha - homossexualidade), 'A CARNE' (Júlio Ribeiro - sexualidade), 'LUZIA-HOMEM' (Domingos Olímpio), 'O MISSIONÁRIO' (Inglês de Sousa). Internacionais: obras de ÉMILE ZOLA.",
+        "Obras fundamentais: ALUÍSIO AZEVEDO ('Casa de Pensão', 'Girândola de Amores'), ADOLFO CAMINHA ('A Normalista'), JÚLIO RIBEIRO ('A Carne'), Inglês de Sousa ('Histórias de um Pescador'), Manuel de Oliveira Paiva ('Dona Guidinha do Poço'). Francesas: ÉMILE ZOLA ('Germinal', 'Nana', série 'Rougon-Macquart') - modelos do NATURALISMO CIENTÍFICO mundial."
+      ]
+    },
+    {
+      "intent": "o_que_e_naturalismo_diferenca_realismo",
+      "patterns": [
+        "diferença entre naturalismo e realismo", "diferença naturalismo realismo", "naturalismo vs realismo",
+        "qual diferença naturalismo realismo", "que diferença naturalismo realismo", "como diferencia naturalismo realismo",
+        "naturalismo é igual realismo", "naturalismo é mesmo que realismo", "naturalismo e realismo são iguais",
+        "naturalismo parecido com realismo", "naturalismo similar realismo", "semelhanças naturalismo realismo",
+        "naturalismo realismo comparação", "compare naturalismo realismo", "contraste naturalismo realismo",
+        "realismo ou naturalismo", "realismo x naturalismo", "realismo versus naturalismo",
+        
+        "diferença naturalismo realismo", "diferenças naturalismo realismo", "distinção naturalismo realismo",
+        "o que separa naturalismo realismo", "o que distingue naturalismo realismo", "características diferentes naturalismo realismo",
+        "particularidades naturalismo realismo", "especificidades naturalismo realismo", "divergências naturalismo realismo"
+      ],
+      "responses": [
+        "DIFERENÇAS PRINCIPAIS: Realismo foca na crítica social e análise psicológica com certa subjetividade; Naturalismo é mais RADICAL E CIENTÍFICO, usando determinismo biológico, temas mais crus (sexualidade, vícios), personagens das classes baixas, linguagem mais crua e método experimental. Naturalismo é uma radicalização do Realismo.",
+        "REALISMO: crítica social, personagens burgueses, análise psicológica, certa idealização ainda presente. NATURALISMO: método científico rígido, determinismo total (meio/raça/momento), personagens marginalizados, temas tabus, linguagem crua, experimentação social. O Naturalismo é como um 'Realismo de laboratório', mais extremo e objetivo."
+      ]
+    }
+  ]
+}

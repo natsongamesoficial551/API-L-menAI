@@ -1,0 +1,220 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_realismo_brasileiro_que",
+      "patterns": [
+        "o que é realismo brasileiro", "o que foi realismo brasileiro", "o que significa realismo brasileiro", "o que quer dizer realismo brasileiro",
+        "que negócio é esse de realismo brasileiro", "que história é essa de realismo brasileiro", "que parada é realismo brasileiro",
+        "que coisa é realismo brasileiro mesmo", "que diabos é realismo brasileiro", "que raios é realismo brasileiro",
+        "afinal o que é realismo brasileiro", "mas o que é realismo brasileiro", "então o que é realismo brasileiro",
+        "cara o que é realismo brasileiro", "mano o que é realismo brasileiro", "véi o que é realismo brasileiro",
+        "me explica o que é realismo brasileiro", "me conta o que é realismo brasileiro", "me fala o que é realismo brasileiro",
+        "explica aí o que é realismo brasileiro", "conta aí o que é realismo brasileiro", "fala aí o que é realismo brasileiro",
+        "qual é a da realismo brasileiro", "qual é a história da realismo brasileiro", "qual é a parada da realismo brasileiro",
+        "como assim realismo brasileiro", "tipo assim o que é realismo brasileiro", "quer dizer o que é realismo brasileiro",
+        "pô o que é realismo brasileiro", "poxa o que é realismo brasileiro", "caramba o que é realismo brasileiro",
+        "nossa o que é realismo brasileiro", "eita o que é realismo brasileiro", "opa o que é realismo brasileiro",
+        "rapaz o que é realismo brasileiro", "cara de pau o que é realismo brasileiro", "sem brincadeira o que é realismo brasileiro",
+        "de verdade o que é realismo brasileiro", "sério mesmo o que é realismo brasileiro", "real o que é realismo brasileiro",
+        "na moral o que é realismo brasileiro", "na boa o que é realismo brasileiro", "numa boa o que é realismo brasileiro",
+        "tá mas o que é realismo brasileiro", "ok mas o que é realismo brasileiro", "beleza mas o que é realismo brasileiro",
+        "hmm o que é realismo brasileiro", "bom o que é realismo brasileiro", "enfim o que é realismo brasileiro",
+        "resumindo o que é realismo brasileiro", "basicamente o que é realismo brasileiro", "fundamentalmente o que é realismo brasileiro",
+        "professor o que é realismo brasileiro", "mestre o que é realismo brasileiro", "doutor o que é realismo brasileiro",
+        "gente o que é realismo brasileiro", "pessoal o que é realismo brasileiro", "galera o que é realismo brasileiro",
+        "oxe o que é realismo brasileiro", "uai o que é realismo brasileiro", "ué o que é realismo brasileiro",
+        "bah o que é realismo brasileiro", "tche o que é realismo brasileiro", "capaz o que é realismo brasileiro",
+        "caraca o que é realismo brasileiro", "puts o que é realismo brasileiro", "putz o que é realismo brasileiro",
+        
+        "oq é realismo brasileiro", "oque é realismo brasileiro", "q é realismo brasileiro",
+        "realismo brasileiro é oq", "realismo brasileiro oq é", "realismo brasileiro é q", "realismo brasileiro q é",
+        "é realismo brasileiro msm", "eh realismo brasileiro msm", "é realismo brasileiro memo",
+        "q eh realismo brasileiro", "que eh realismo brasileiro", "oq significa realismo brasileiro", "q significa realismo brasileiro",
+        "oq quer dizer realismo brasileiro", "q quer dizer realismo brasileiro", "me explica oq é realismo brasileiro",
+        "me fala oq é realismo brasileiro", "me conta oq é realismo brasileiro", "explica oq é realismo brasileiro",
+        "fala oq é realismo brasileiro", "conta oq é realismo brasileiro", "cara oq é realismo brasileiro",
+        "mano oq é realismo brasileiro", "vei oq é realismo brasileiro", "bicho oq é realismo brasileiro",
+        "rapaz oq é realismo brasileiro", "gente oq é realismo brasileiro", "po oq é realismo brasileiro",
+        "conceito de realismo brasileiro", "conceito realismo brasileiro", "significado realismo brasileiro",
+        "explicação de realismo brasileiro", "explicação realismo brasileiro", "definição realismo brasileiro",
+        "movimento realista", "escola realista", "realismo literário", "literatura realista"
+      ],
+      "responses": [
+        "O Realismo brasileiro foi um MOVIMENTO LITERÁRIO que surgiu na segunda metade do século XIX (1881-1893), caracterizado pela retratação objetiva da realidade social, crítica aos costumes da época, análise psicológica dos personagens e linguagem simples. Opunha-se ao idealismo romântico, buscando mostrar a sociedade brasileira SEM IDEALIZAÇÕES.",
+        "É uma ESCOLA LITERÁRIA que buscava retratar a realidade brasileira de forma crítica e científica. Características principais: objetividade narrativa, análise social, crítica à burguesia, determinismo, personagens verossímeis, linguagem clara e DENÚNCIA DOS PROBLEMAS SOCIAIS como escravidão, corrupção política e hipocrisia moral."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_brasileiro_quando",
+      "patterns": [
+        "quando surgiu realismo brasileiro", "quando apareceu realismo brasileiro", "quando começou realismo brasileiro",
+        "quando foi criado realismo brasileiro", "quando se desenvolveu realismo brasileiro", "quando realismo brasileiro foi inventado",
+        "em que época surgiu realismo brasileiro", "em que período apareceu realismo brasileiro", "em que tempo começou realismo brasileiro",
+        "que ano surgiu realismo brasileiro", "que século surgiu realismo brasileiro", "que época surgiu realismo brasileiro",
+        "quando realismo brasileiro se popularizou", "quando realismo brasileiro ficou famoso", "quando realismo brasileiro se espalhou",
+        "quando começou ser usado realismo brasileiro", "quando realismo brasileiro virou comum", "quando realismo brasileiro se estabeleceu",
+        "desde quando existe realismo brasileiro", "há quanto tempo existe realismo brasileiro", "faz quanto tempo surgiu realismo brasileiro",
+        "quando realismo brasileiro chegou ao brasil", "quando brasil começou usar realismo brasileiro", "quando realismo brasileiro nacional começou",
+        "em que momento histórico surgiu realismo brasileiro", "em que contexto surgiu realismo brasileiro", "em qual fase surgiu realismo brasileiro",
+        
+        "qdo surgiu realismo brasileiro", "qdo apareceu realismo brasileiro", "qdo começou realismo brasileiro",
+        "q ano surgiu realismo brasileiro", "q século surgiu realismo brasileiro", "q época surgiu realismo brasileiro",
+        "origem do realismo brasileiro", "história do realismo brasileiro", "evolução do realismo brasileiro", "desenvolvimento realismo brasileiro",
+        "século XIX e realismo brasileiro", "1881 realismo brasileiro", "memórias póstumas realismo brasileiro",
+        "abolição e realismo brasileiro", "república e realismo brasileiro", "império e realismo brasileiro",
+        "romantismo para realismo", "transição realismo brasileiro", "fim do romantismo brasil"
+      ],
+      "responses": [
+        "O Realismo brasileiro surgiu em 1881 com a publicação de 'Memórias Póstumas de Brás Cubas' de Machado de Assis e 'O Mulato' de Aluísio Azevedo. Desenvolveu-se durante o FINAL DO IMPÉRIO (1881-1893), período de grandes transformações: abolição da escravatura, proclamação da República e modernização urbana.",
+        "Começou na SEGUNDA METADE DO SÉCULO XIX (1881), coincidindo com mudanças sociais importantes: fim da escravidão (1888), Proclamação da República (1889), crescimento urbano e influência das ideias positivistas e científicas europeias. Durou até aproximadamente 1893, quando iniciou o SIMBOLISMO."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_brasileiro_onde",
+      "patterns": [
+        "onde surgiu realismo brasileiro", "onde apareceu realismo brasileiro", "onde começou realismo brasileiro",
+        "onde foi criado realismo brasileiro", "onde se desenvolveu realismo brasileiro", "onde realismo brasileiro foi inventado",
+        "em que lugar surgiu realismo brasileiro", "em que local apareceu realismo brasileiro", "em que região começou realismo brasileiro",
+        "em que país surgiu realismo brasileiro", "em que nação apareceu realismo brasileiro", "em qual território começou realismo brasileiro",
+        "onde realismo brasileiro se popularizou", "onde realismo brasileiro ficou famoso", "onde realismo brasileiro se espalhou",
+        "onde mais se usa realismo brasileiro", "onde realismo brasileiro é mais comum", "onde realismo brasileiro é mais popular",
+        "onde estudar realismo brasileiro", "onde aprender realismo brasileiro", "onde ensinar realismo brasileiro",
+        "onde realismo brasileiro nacional surgiu", "onde começou realismo brasileiro no brasil", "onde realismo brasileiro brasileiro começou",
+        
+        "aonde surgiu realismo brasileiro", "aonde apareceu realismo brasileiro", "aonde começou realismo brasileiro",
+        "em q lugar surgiu realismo brasileiro", "em q país surgiu realismo brasileiro", "em qual territórios começou realismo brasileiro",
+        "rio de janeiro e realismo brasileiro", "são paulo e realismo brasileiro", "minas gerais e realismo brasileiro",
+        "nordeste e realismo brasileiro", "sul e realismo brasileiro", "brasil e realismo brasileiro",
+        "europa e realismo brasileiro", "frança e realismo brasileiro", "portugal e realismo brasileiro",
+        "centros literários realismo brasileiro", "escolas literárias realismo brasileiro"
+      ],
+      "responses": [
+        "O Realismo brasileiro desenvolveu-se principalmente no RIO DE JANEIRO (então capital do Império), centro cultural e político do país. Machado de Assis, principal autor, era carioca e retratou a sociedade fluminense. Também se manifestou em SÃO PAULO, MINAS GERAIS e outras províncias, influenciado pelo realismo EUROPEU (França, Portugal).",
+        "Concentrou-se nos GRANDES CENTROS URBANOS: Rio de Janeiro (capital imperial), São Paulo (crescimento econômico), Recife e Salvador (tradição literária). Inspirou-se no realismo FRANCÊS (Balzac, Flaubert) e PORTUGUÊS (Eça de Queirós), adaptando-se à realidade social brasileira da época."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_brasileiro_quem",
+      "patterns": [
+        "quem criou realismo brasileiro", "quem inventou realismo brasileiro", "quem desenvolveu realismo brasileiro",
+        "quem foram os primeiros a usar realismo brasileiro", "quem escreveu primeiro realismo brasileiro", "quem começou realismo brasileiro",
+        "quem são os grandes mestres realismo brasileiro", "quem são mestres do realismo brasileiro", "quem são principais realismo brasileiro",
+        "quem usa realismo brasileiro", "quem aplica realismo brasileiro", "quem faz realismo brasileiro",
+        "quem são escritores realismo brasileiro brasil", "quem usa realismo brasileiro no brasil", "quem faz realismo brasileiro no brasil",
+        "quem foi machado de assis", "quem foi aluísio azevedo", "quem foi raul pompéia",
+        "quem foi visconde de taunay", "quem foi josé de alencar realista", "quem foi inglês de sousa",
+        "quem foi adolfo caminha", "quem foi júlio ribeiro", "quem foi domingos olímpio",
+        "quem são mestres realismo brasileiro", "quem são grandes nomes realismo brasileiro", "quem popularizou realismo brasileiro",
+        
+        "qm criou realismo brasileiro", "qm inventou realismo brasileiro", "qm desenvolveu realismo brasileiro",
+        "qm foram primeiros realismo brasileiro", "qm escreveu primeiro realismo brasileiro", "qm começou realismo brasileiro",
+        "qm são grandes mestres realismo brasileiro", "qm são mestres realismo brasileiro", "qm são principais realismo brasileiro",
+        "qm usa realismo brasileiro", "qm aplica realismo brasileiro", "qm faz realismo brasileiro",
+        "autores realismo brasileiro", "escritores realismo brasileiro", "mestres realismo", "grandes realistas",
+        "inovadores realismo brasileiro", "pioneiros realismo brasileiro", "revolucionários realismo brasileiro"
+      ],
+      "responses": [
+        "Principais autores: MACHADO DE ASSIS (maior nome, 'Memórias Póstumas de Brás Cubas', 'Dom Casmurro'), ALUÍSIO AZEVEDO ('O Mulato', 'O Cortiço'), RAUL POMPÉIA ('O Ateneu'), Visconde de Taunay ('Inocência'), Inglês de Sousa, Adolfo Caminha, Júlio Ribeiro - cada um contribuiu para retratar criticamente a sociedade brasileira.",
+        "MACHADO DE ASSIS é o grande MESTRE DO REALISMO BRASILEIRO, revolucionando a literatura nacional com técnicas narrativas inovadoras. Outros importantes: ALUÍSIO AZEVEDO (naturalismo), RAUL POMPÉIA (romance psicológico), Visconde de Taunay (regionalismo realista) e escritores que retrataram diferentes aspectos da realidade social brasileira."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_brasileiro_por_que",
+      "patterns": [
+        "por que existe realismo brasileiro", "por que foi criado realismo brasileiro", "por que surgiu realismo brasileiro",
+        "por que realismo brasileiro é importante", "por que realismo brasileiro é necessário", "por que realismo brasileiro é útil",
+        "por que usar realismo brasileiro", "por que aplicar realismo brasileiro", "por que estudar realismo brasileiro",
+        "motivos do realismo brasileiro", "razões do realismo brasileiro", "causas do realismo brasileiro",
+        "fatores que levaram ao realismo brasileiro", "o que causou realismo brasileiro", "o que motivou realismo brasileiro",
+        "por que escritores usam realismo brasileiro", "por que autores preferem realismo brasileiro", "por que literatura usa realismo brasileiro",
+        "vantagens do realismo brasileiro", "benefícios do realismo brasileiro", "importância do realismo brasileiro",
+        "finalidade do realismo brasileiro", "objetivo do realismo brasileiro", "propósito do realismo brasileiro",
+        
+        "pq existe realismo brasileiro", "pq foi criado realismo brasileiro", "pq surgiu realismo brasileiro",
+        "pq realismo brasileiro é importante", "pq realismo brasileiro é necessário", "pq realismo brasileiro é útil",
+        "pq usar realismo brasileiro", "pq aplicar realismo brasileiro", "pq estudar realismo brasileiro",
+        "motivos realismo brasileiro", "razões realismo brasileiro", "causas realismo brasileiro",
+        "pq escritores usam realismo brasileiro", "pq autores preferem realismo brasileiro", "pq literatura usa realismo brasileiro",
+        "vantagens realismo brasileiro", "benefícios realismo brasileiro", "importância realismo brasileiro",
+        "finalidade realismo brasileiro", "objetivo realismo brasileiro", "propósito realismo brasileiro",
+        "função do realismo brasileiro", "utilidade realismo brasileiro", "serventia realismo brasileiro"
+      ],
+      "responses": [
+        "Surgiu como REAÇÃO AO ROMANTISMO IDEALIZADOR: a sociedade brasileira estava mudando rapidamente (abolição, república, urbanização) e precisava de uma literatura que retratasse esses problemas reais. O objetivo era DENUNCIAR A HIPOCRISIA SOCIAL, a corrupção política, o preconceito racial e as desigualdades da época.",
+        "Foi necessário para AMADURECIMENTO DA LITERATURA BRASILEIRA: oferecia análise crítica da realidade nacional, personagens psicologicamente complexos, linguagem mais próxima do cotidiano e CONSCIÊNCIA SOCIAL. Permitiu que a literatura brasileira se equiparasse às grandes literaturas mundiais, superando o sentimentalismo romântico."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_brasileiro_como",
+      "patterns": [
+        "como funciona realismo brasileiro", "como é feito realismo brasileiro", "como se aplica realismo brasileiro",
+        "como é estrutura do realismo brasileiro", "como é organizado realismo brasileiro", "como é construído realismo brasileiro",
+        "como identificar realismo brasileiro", "como reconhecer realismo brasileiro", "como saber se é realismo brasileiro",
+        "como usar realismo brasileiro", "como aplicar realismo brasileiro", "como desenvolver realismo brasileiro",
+        "como estudar realismo brasileiro", "como aprender realismo brasileiro", "como ensinar realismo brasileiro",
+        "como realismo brasileiro funciona", "como realismo brasileiro opera", "como realismo brasileiro atua",
+        "como é processo do realismo brasileiro", "como é método do realismo brasileiro", "como é sistema do realismo brasileiro",
+        "como realismo brasileiro constrói história", "como realismo brasileiro desenvolve enredo", "como realismo brasileiro cria personagens",
+        
+        "cm funciona realismo brasileiro", "cm é feito realismo brasileiro", "cm se aplica realismo brasileiro",
+        "cm é estrutura realismo brasileiro", "cm é organizado realismo brasileiro", "cm é construído realismo brasileiro",
+        "cm identificar realismo brasileiro", "cm reconhecer realismo brasileiro", "cm saber se é realismo brasileiro",
+        "cm usar realismo brasileiro", "cm aplicar realismo brasileiro", "cm desenvolver realismo brasileiro",
+        "de que forma funciona realismo brasileiro", "de que maneira é feito realismo brasileiro", "de que jeito se aplica realismo brasileiro",
+        "processo do realismo brasileiro", "metodologia realismo brasileiro", "sistema realismo brasileiro",
+        "mecanismo realismo brasileiro", "funcionamento realismo brasileiro", "operação realismo brasileiro"
+      ],
+      "responses": [
+        "Funciona através de CARACTERÍSTICAS ESPECÍFICAS: narrador onisciente ou observador imparcial, descrições objetivas da realidade, análise psicológica profunda dos personagens, crítica social direta, linguagem simples e clara, enredo verossímil, tempo cronológico linear e RETRATO FIEL DOS COSTUMES da época.",
+        "Opera mediante TÉCNICAS REALISTAS: observação científica da sociedade, determinismo social (meio influencia o indivíduo), personagens complexos e contraditórios, diálogos naturais, descrições minuciosas do ambiente, crítica aos vícios sociais e BUSCA DA VERDADE OBJETIVA sem idealização romântica."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_brasileiro_caracteristicas",
+      "patterns": [
+        "características do realismo brasileiro", "características realismo brasileiro", "quais características realismo brasileiro",
+        "traços do realismo brasileiro", "traços realismo brasileiro", "quais traços realismo brasileiro",
+        "aspectos do realismo brasileiro", "aspectos realismo brasileiro", "quais aspectos realismo brasileiro",
+        "particularidades realismo brasileiro", "especificidades realismo brasileiro", "peculiaridades realismo brasileiro",
+        "elementos do realismo brasileiro", "elementos realismo brasileiro", "quais elementos realismo brasileiro",
+        "marcas do realismo brasileiro", "marcas realismo brasileiro", "sinais realismo brasileiro",
+        "como identificar realismo brasileiro", "como reconhecer realismo brasileiro", "como saber realismo brasileiro",
+        "realismo brasileiro tem que características", "realismo brasileiro possui quais características", "realismo brasileiro apresenta que traços",
+        
+        "características realismo", "traços realismo", "aspectos realismo", "elementos realismo",
+        "particularidades do realismo", "especificidades do realismo", "peculiaridades do realismo",
+        "marcas do realismo", "sinais do realismo", "indícios realismo brasileiro",
+        "propriedades realismo brasileiro", "qualidades realismo brasileiro", "atributos realismo brasileiro",
+        "estilo realismo brasileiro", "forma realismo brasileiro", "jeito realismo brasileiro"
+      ],
+      "responses": [
+        "Principais características: OBJETIVIDADE NARRATIVA (sem sentimentalismo), crítica social direta, análise psicológica profunda, personagens verossímeis, linguagem simples e clara, descrições detalhadas do ambiente, retrato fiel dos costumes, determinismo social, DENÚNCIA DA HIPOCRISIA e corrupção da sociedade brasileira.",
+        "Elementos fundamentais: NARRADOR ONISCIENTE imparcial, tempo cronológico linear, espaço urbano contemporâneo, personagens da burguesia e classes populares, temas sociais (escravidão, política, família), estilo sóbrio sem exageros românticos, REALISMO PSICOLÓGICO e crítica aos valores morais da época."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_brasileiro_obras",
+      "patterns": [
+        "obras do realismo brasileiro", "obras realismo brasileiro", "livros realismo brasileiro",
+        "principais obras realismo brasileiro", "principais livros realismo brasileiro", "grandes obras realismo brasileiro",
+        "obras famosas realismo brasileiro", "livros famosos realismo brasileiro", "obras conhecidas realismo brasileiro",
+        "obras importantes realismo brasileiro", "livros importantes realismo brasileiro", "obras relevantes realismo brasileiro",
+        "exemplos obras realismo brasileiro", "exemplos livros realismo brasileiro", "exemplos realismo brasileiro",
+        "lista obras realismo brasileiro", "lista livros realismo brasileiro", "relação obras realismo brasileiro",
+        "memórias póstumas brás cubas", "dom casmurro", "o cortiço", "o mulato", "o ateneu",
+        "quincas borba", "inocência", "casa de pensão", "bom crioulo", "a carne",
+        
+        "obras realismo", "livros realismo", "principais obras realismo", "grandes obras realismo",
+        "obras famosas realismo", "livros famosos realismo", "obras conhecidas realismo",
+        "obras importantes realismo", "livros importantes realismo", "obras relevantes realismo",
+        "exemplos obras realismo", "exemplos livros realismo", "exemplos realismo",
+        "lista obras realismo", "lista livros realismo", "bibliografia realismo brasileiro",
+        "romances realismo brasileiro", "novelas realismo brasileiro", "textos realismo brasileiro"
+      ],
+      "responses": [
+        "Principais obras: 'MEMÓRIAS PÓSTUMAS DE BRÁS CUBAS' (Machado de Assis - marco inicial), 'DOM CASMURRO' (ciúme e narrativa duvidosa), 'O CORTIÇO' (Aluísio Azevedo - naturalismo), 'O ATENEU' (Raul Pompéia - crítica educacional), 'INOCÊNCIA' (Visconde de Taunay), 'O MULATO' (preconceito racial).",
+        "Obras fundamentais: MACHADO DE ASSIS ('Quincas Borba', 'Helena', 'Iaiá Garcia'), ALUÍSIO AZEVEDO ('Casa de Pensão', 'O Mulato'), RAUL POMPÉIA ('O Ateneu'), Inglês de Sousa, Adolfo Caminha ('Bom-Crioulo'), Júlio Ribeiro ('A Carne') - cada obra retrata aspectos específicos da REALIDADE SOCIAL BRASILEIRA."
+      ]
+    }
+  ]
+}
