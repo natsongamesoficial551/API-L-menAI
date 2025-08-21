@@ -1,0 +1,379 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_senso_critico_que",
+      "patterns": [
+        "o que é senso crítico", "o que significa senso crítico", "o que quer dizer senso crítico",
+        "que negócio é esse de senso crítico", "que história é essa de senso crítico", "que parada é senso crítico",
+        "que coisa é senso crítico mesmo", "que diabos é senso crítico", "que raios é senso crítico",
+        "afinal o que é senso crítico", "mas o que é senso crítico", "então o que é senso crítico",
+        "cara o que é senso crítico", "mano o que é senso crítico", "véi o que é senso crítico",
+        "me explica o que é senso crítico", "me conta o que é senso crítico", "me fala o que é senso crítico",
+        "explica aí o que é senso crítico", "conta aí o que é senso crítico", "fala aí o que é senso crítico",
+        "qual é a do senso crítico", "qual é a história do senso crítico", "qual é a parada do senso crítico",
+        "como assim senso crítico", "tipo assim o que é senso crítico", "quer dizer o que é senso crítico",
+        "pô o que é senso crítico", "poxa o que é senso crítico", "caramba o que é senso crítico",
+        "nossa o que é senso crítico", "eita o que é senso crítico", "opa o que é senso crítico",
+        "rapaz o que é senso crítico", "cara de pau o que é senso crítico", "sem brincadeira o que é senso crítico",
+        "de verdade o que é senso crítico", "sério mesmo o que é senso crítico", "real o que é senso crítico",
+        "na moral o que é senso crítico", "na boa o que é senso crítico", "numa boa o que é senso crítico",
+        "tá mas o que é senso crítico", "ok mas o que é senso crítico", "beleza mas o que é senso crítico",
+        "hmm o que é senso crítico", "bom o que é senso crítico", "enfim o que é senso crítico",
+        "resumindo o que é senso crítico", "basicamente o que é senso crítico", "fundamentalmente o que é senso crítico",
+        "professor o que é senso crítico", "mestre o que é senso crítico", "doutor o que é senso crítico",
+        "gente o que é senso crítico", "pessoal o que é senso crítico", "galera o que é senso crítico",
+        "oxe o que é senso crítico", "uai o que é senso crítico", "ué o que é senso crítico",
+        "bah o que é senso crítico", "tche o que é senso crítico", "capaz o que é senso crítico",
+        "caraca o que é senso crítico", "puts o que é senso crítico", "putz o que é senso crítico",
+        
+        "oq é senso crítico", "oque é senso crítico", "q é senso crítico",
+        "senso crítico é oq", "senso crítico oq é", "senso crítico é q", "senso crítico q é",
+        "é senso crítico msm", "eh senso crítico msm", "é senso crítico memo",
+        "q eh senso crítico", "que eh senso crítico", "oq significa senso crítico", "q significa senso crítico",
+        "oq quer dizer senso crítico", "q quer dizer senso crítico", "me explica oq é senso crítico",
+        "me fala oq é senso crítico", "me conta oq é senso crítico", "explica oq é senso crítico",
+        "fala oq é senso crítico", "conta oq é senso crítico", "cara oq é senso crítico",
+        "mano oq é senso crítico", "vei oq é senso crítico", "bicho oq é senso crítico",
+        "rapaz oq é senso crítico", "gente oq é senso crítico", "po oq é senso crítico",
+        "pô oq é senso crítico", "poxa oq é senso crítico", "caramba oq é senso crítico",
+        "caraca oq é senso crítico", "nossa oq é senso crítico", "eita oq é senso crítico",
+        "opa oq é senso crítico", "uai oq é senso crítico", "oxe oq é senso crítico",
+        "ué oq é senso crítico", "bah oq é senso crítico", "na moral oq é senso crítico",
+        "na boa oq é senso crítico", "de boa oq é senso crítico", "sério oq é senso crítico",
+        "real oq é senso crítico", "tipo oq é senso crítico", "então oq é senso crítico",
+        "ent oq é senso crítico", "mas oq é senso crítico", "tá mas oq é senso crítico",
+        "ta mas oq é senso crítico", "ok mas oq é senso crítico", "beleza mas oq é senso crítico",
+        "blz mas oq é senso crítico", "bom oq é senso crítico", "enfim oq é senso crítico",
+        "resumindo oq é senso crítico", "basicamente oq é senso crítico", "professor oq é senso crítico",
+        "prof oq é senso crítico", "mestre oq é senso crítico", "pessoal oq é senso crítico",
+        "galera oq é senso crítico", "turma oq é senso crítico", "nego oq é senso crítico",
+        "povo oq é senso crítico", "geral oq é senso crítico", "alguém sabe oq é senso crítico",
+        "ngm sabe oq é senso crítico", "ninguém sabe oq é senso crítico", "vc sabe oq é senso crítico",
+        "você sabe oq é senso crítico", "tu sabe oq é senso crítico", "cê sabe oq é senso crítico",
+        "define senso crítico", "define senso crítico aí", "define senso crítico pra mim",
+        "conceito de senso crítico", "conceito senso crítico", "significado senso crítico",
+        "explicação de senso crítico", "explicação senso crítico", "definição senso crítico",
+        "pensamento crítico", "raciocínio crítico", "análise crítica",
+        "capacidade de análise", "habilidade de questionar", "pensamento analítico",
+        "crítica construtiva", "avaliação crítica", "reflexão crítica"
+      ],
+      "responses": [
+        "Senso crítico é a capacidade de analisar informações de forma racional e objetiva, questionando, avaliando evidências e chegando a conclusões fundamentadas. É saber distinguir fatos de opiniões, identificar falácias e não aceitar tudo que ouvimos sem reflexão.",
+        "É a habilidade de pensar de forma independente e analítica, questionando afirmações, examinando diferentes perspectivas, avaliando a qualidade das evidências e formando opinões baseadas em raciocínio lógico ao invés de emoções ou preconceitos."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_critico_quando",
+      "patterns": [
+        "quando usar senso crítico", "quando aplicar senso crítico", "quando exercitar senso crítico",
+        "quando precisa de senso crítico", "quando é importante senso crítico", "quando desenvolver senso crítico",
+        "em que momento usar senso crítico", "em que situação aplicar senso crítico", "em que hora exercitar senso crítico",
+        "quando senso crítico é necessário", "quando senso crítico faz diferença", "quando precisamos pensar criticamente",
+        "quando questionar informações", "quando duvidar de algo", "quando analisar criticamente",
+        "quando avaliar evidências", "quando formar opinião", "quando tomar decisões",
+        "situações para senso crítico", "momentos de senso crítico", "ocasiões para pensamento crítico",
+        "no trabalho senso crítico", "na escola senso crítico", "na vida senso crítico",
+        "com notícias senso crítico", "com redes sociais senso crítico", "com informações senso crítico",
+        "idade para desenvolver senso crítico", "fase da vida senso crítico", "período senso crítico",
+        
+        "qdo usar senso crítico", "qdo aplicar senso crítico", "qdo exercitar senso crítico",
+        "qdo precisa senso crítico", "qdo é importante senso crítico", "qdo desenvolver senso crítico",
+        "em q momento usar senso crítico", "em q situação aplicar senso crítico", "em q hora exercitar senso crítico",
+        "qdo senso crítico é necessário", "qdo senso crítico faz diferença", "qdo precisamos pensar criticamente",
+        "qdo questionar informações", "qdo duvidar de algo", "qdo analisar criticamente",
+        "qdo avaliar evidências", "qdo formar opinião", "qdo tomar decisões",
+        "situações pra senso crítico", "momentos senso crítico", "ocasiões pra pensamento crítico",
+        "no trabalho senso crítico", "na escola senso crítico", "na vida senso crítico",
+        "com notícias senso crítico", "com redes sociais senso crítico", "com informações senso crítico",
+        "idade pra desenvolver senso crítico", "fase da vida senso crítico", "período senso crítico",
+        "qual hora usar senso crítico", "que momento aplicar senso crítico", "em que contexto senso crítico",
+        "timing senso crítico", "cronologia senso crítico", "temporalidade senso crítico"
+      ],
+      "responses": [
+        "O senso crítico deve ser usado sempre: ao ler notícias, ver redes sociais, tomar decisões importantes, avaliar informações, formar opiniões, no trabalho, nos estudos, em debates, ao consumir conteúdo e em qualquer situação que exija análise e reflexão.",
+        "É fundamental em todas as idades e situações: desde a infância (com orientação), na escola, universidade, vida profissional, ao votar, comprar produtos, escolher tratamentos médicos, avaliar relacionamentos e sempre que precisamos distinguir verdade de mentira."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_critico_onde",
+      "patterns": [
+        "onde usar senso crítico", "onde aplicar senso crítico", "onde exercitar senso crítico",
+        "onde precisa senso crítico", "onde é importante senso crítico", "onde desenvolver senso crítico",
+        "em que lugar usar senso crítico", "em que ambiente aplicar senso crítico", "em que contexto senso crítico",
+        "na escola senso crítico", "no trabalho senso crítico", "na universidade senso crítico",
+        "em casa senso crítico", "na família senso crítico", "com amigos senso crítico",
+        "na internet senso crítico", "nas redes sociais senso crítico", "no facebook senso crítico",
+        "no twitter senso crítico", "no instagram senso crítico", "no whatsapp senso crítico",
+        "na mídia senso crítico", "na tv senso crítico", "no jornal senso crítico",
+        "na política senso crítico", "nas eleições senso crítico", "no governo senso crítico",
+        "na ciência senso crítico", "na medicina senso crítico", "na educação senso crítico",
+        "no consumo senso crítico", "nas compras senso crítico", "no mercado senso crítico",
+        "nos relacionamentos senso crítico", "na sociedade senso crítico", "na comunidade senso crítico",
+        
+        "aonde usar senso crítico", "aonde aplicar senso crítico", "aonde exercitar senso crítico",
+        "aonde precisa senso crítico", "aonde é importante senso crítico", "aonde desenvolver senso crítico",
+        "em q lugar usar senso crítico", "em q ambiente aplicar senso crítico", "em q contexto senso crítico",
+        "na escola senso crítico", "no trampo senso crítico", "na facul senso crítico",
+        "em casa senso crítico", "na família senso crítico", "com amigos senso crítico",
+        "na net senso crítico", "nas redes sociais senso crítico", "no face senso crítico",
+        "no tt senso crítico", "no insta senso crítico", "no zap senso crítico",
+        "na mídia senso crítico", "na tv senso crítico", "no jornal senso crítico",
+        "na política senso crítico", "nas eleições senso crítico", "no governo senso crítico",
+        "na ciência senso crítico", "na medicina senso crítico", "na educação senso crítico",
+        "no consumo senso crítico", "nas compras senso crítico", "no mercado senso crítico",
+        "nos relacionamentos senso crítico", "na sociedade senso crítico", "na comunidade senso crítico",
+        "ambientes para senso crítico", "espaços senso crítico", "locais senso crítico",
+        "campos de aplicação senso crítico", "áreas senso crítico", "setores senso crítico"
+      ],
+      "responses": [
+        "O senso crítico é necessário em todos os ambientes: escola, trabalho, casa, redes sociais, mídia, política, ciência, consumo, relacionamentos. Especialmente importante na internet, onde circulam muitas informações falsas e manipuladoras.",
+        "Aplica-se em qualquer lugar onde há informação e decisões: universidades, empresas, família, comunidade, mídia tradicional, plataformas digitais, debates políticos, consultórios médicos, tribunais, e em todas as interações sociais."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_critico_quem",
+      "patterns": [
+        "quem precisa de senso crítico", "quem deve ter senso crítico", "quem usa senso crítico",
+        "quem ensina senso crítico", "quem desenvolve senso crítico", "quem pratica senso crítico",
+        "quem são pessoas críticas", "quem tem bom senso crítico", "quem demonstra senso crítico",
+        "quem deveria aprender senso crítico", "quem pode exercitar senso crítico", "quem se beneficia senso crítico",
+        "professores e senso crítico", "estudantes e senso crítico", "jornalistas e senso crítico",
+        "cientistas e senso crítico", "pesquisadores e senso crítico", "médicos e senso crítico",
+        "advogados e senso crítico", "juízes e senso crítico", "políticos e senso crítico",
+        "pais e senso crítico", "crianças e senso crítico", "jovens e senso crítico",
+        "adultos e senso crítico", "idosos e senso crítico", "todos e senso crítico",
+        "filósofos famosos senso crítico", "pensadores críticos", "intelectuais críticos",
+        "exemplos pessoas críticas", "modelos pensamento crítico", "referências senso crítico",
+        
+        "qm precisa senso crítico", "qm deve ter senso crítico", "qm usa senso crítico",
+        "qm ensina senso crítico", "qm desenvolve senso crítico", "qm pratica senso crítico",
+        "qm são pessoas críticas", "qm tem bom senso crítico", "qm demonstra senso crítico",
+        "qm deveria aprender senso crítico", "qm pode exercitar senso crítico", "qm se beneficia senso crítico",
+        "professores e senso crítico", "estudantes e senso crítico", "jornalistas e senso crítico",
+        "cientistas e senso crítico", "pesquisadores e senso crítico", "médicos e senso crítico",
+        "advogados e senso crítico", "juízes e senso crítico", "políticos e senso crítico",
+        "pais e senso crítico", "crianças e senso crítico", "jovens e senso crítico",
+        "adultos e senso crítico", "idosos e senso crítico", "todos e senso crítico",
+        "filósofos famosos senso crítico", "pensadores críticos", "intelectuais críticos",
+        "exemplos pessoas críticas", "modelos pensamento crítico", "referências senso crítico",
+        "público-alvo senso crítico", "perfil pessoas críticas", "características pessoas críticas",
+        "tipos pessoas senso crítico", "categorias senso crítico", "grupos senso crítico"
+      ],
+      "responses": [
+        "Todas as pessoas precisam de senso crítico! Especialmente importante para: professores, jornalistas, cientistas, médicos, advogados, políticos, pais, estudantes. Filósofos como Sócrates, Descartes, e pensadores modernos são exemplos de pessoas com forte pensamento crítico.",
+        "Qualquer pessoa se beneficia do senso crítico, desde crianças (com orientação) até idosos. É essencial para profissionais que lidam com informação, tomam decisões importantes ou influenciam outros, mas também para cidadãos comuns no dia a dia."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_critico_por_que",
+      "patterns": [
+        "por que ter senso crítico", "por que desenvolver senso crítico", "por que é importante senso crítico",
+        "por que precisamos senso crítico", "por que senso crítico é fundamental", "por que exercitar senso crítico",
+        "motivos para senso crítico", "razões senso crítico", "importância senso crítico",
+        "por que senso crítico faz bem", "por que senso crítico é necessário", "por que todos deveriam ter senso crítico",
+        "benefícios senso crítico", "vantagens senso crítico", "ganhos com senso crítico",
+        "por que questionar informações", "por que analisar criticamente", "por que não aceitar tudo",
+        "por que duvidar às vezes", "por que pensar antes de crer", "por que verificar fontes",
+        "problemas falta senso crítico", "consequências sem senso crítico", "riscos sem pensamento crítico",
+        "fake news e senso crítico", "manipulação e senso crítico", "propaganda e senso crítico",
+        "democracia e senso crítico", "cidadania e senso crítico", "educação e senso crítico",
+        "decisões e senso crítico", "escolhas e senso crítico", "julgamentos e senso crítico",
+        
+        "pq ter senso crítico", "pq desenvolver senso crítico", "pq é importante senso crítico",
+        "pq precisamos senso crítico", "pq senso crítico é fundamental", "pq exercitar senso crítico",
+        "motivos pra senso crítico", "razões senso crítico", "importância senso crítico",
+        "pq senso crítico faz bem", "pq senso crítico é necessário", "pq todos deveriam ter senso crítico",
+        "benefícios senso crítico", "vantagens senso crítico", "ganhos com senso crítico",
+        "pq questionar informações", "pq analisar criticamente", "pq não aceitar tudo",
+        "pq duvidar às vezes", "pq pensar antes de crer", "pq verificar fontes",
+        "problemas falta senso crítico", "consequências sem senso crítico", "riscos sem pensamento crítico",
+        "fake news e senso crítico", "manipulação e senso crítico", "propaganda e senso crítico",
+        "democracia e senso crítico", "cidadania e senso crítico", "educação e senso crítico",
+        "decisões e senso crítico", "escolhas e senso crítico", "julgamentos e senso crítico",
+        "qual utilidade senso crítico", "para que serve senso crítico", "finalidade senso crítico",
+        "objetivo senso crítico", "propósito senso crítico", "função senso crítico"
+      ],
+      "responses": [
+        "O senso crítico é essencial para evitar manipulação, fake news, golpes, decisões ruins e preconceitos. Ajuda a tomar melhores escolhas, formar opiniões fundamentadas, ser um cidadão consciente e distinguir informações verdadeiras das falsas em um mundo cheio de desinformação.",
+        "É fundamental porque vivemos bombardeados de informações, muitas falsas ou enviesadas. O senso crítico nos protege de ser enganados, nos torna mais independentes, melhora nossa tomada de decisões e contribui para uma sociedade mais justa e democrática."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_critico_como",
+      "patterns": [
+        "como desenvolver senso crítico", "como ter senso crítico", "como exercitar senso crítico",
+        "como melhorar senso crítico", "como praticar senso crítico", "como aplicar senso crítico",
+        "como ensinar senso crítico", "como aprender senso crítico", "como cultivar senso crítico",
+        "como funciona senso crítico", "como usar senso crítico", "como fazer senso crítico",
+        "técnicas senso crítico", "métodos senso crítico", "estratégias senso crítico",
+        "passos para senso crítico", "dicas senso crítico", "formas senso crítico",
+        "como questionar informações", "como analisar criticamente", "como avaliar evidências",
+        "como verificar fontes", "como identificar fake news", "como detectar manipulação",
+        "como formar opinião crítica", "como tomar decisões críticas", "como pensar criticamente",
+        "exercícios senso crítico", "atividades senso crítico", "práticas senso crítico",
+        "ferramentas senso crítico", "recursos senso crítico", "instrumentos senso crítico",
+        "habilidades senso crítico", "competências senso crítico", "capacidades senso crítico",
+        
+        "cm desenvolver senso crítico", "cm ter senso crítico", "cm exercitar senso crítico",
+        "cm melhorar senso crítico", "cm praticar senso crítico", "cm aplicar senso crítico",
+        "cm ensinar senso crítico", "cm aprender senso crítico", "cm cultivar senso crítico",
+        "cm funciona senso crítico", "cm usar senso crítico", "cm fazer senso crítico",
+        "técnicas senso crítico", "métodos senso crítico", "estratégias senso crítico",
+        "passos pra senso crítico", "dicas senso crítico", "formas senso crítico",
+        "cm questionar informações", "cm analisar criticamente", "cm avaliar evidências",
+        "cm verificar fontes", "cm identificar fake news", "cm detectar manipulação",
+        "cm formar opinião crítica", "cm tomar decisões críticas", "cm pensar criticamente",
+        "exercícios senso crítico", "atividades senso crítico", "práticas senso crítico",
+        "ferramentas senso crítico", "recursos senso crítico", "instrumentos senso crítico",
+        "habilidades senso crítico", "competências senso crítico", "capacidades senso crítico",
+        "de q forma desenvolver senso crítico", "de q maneira aplicar senso crítico", "de q jeito praticar senso crítico",
+        "processo senso crítico", "metodologia senso crítico", "sistema senso crítico",
+        "estrutura senso crítico", "funcionamento senso crítico", "mecanismo senso crítico"
+      ],
+      "responses": [
+        "Para desenvolver senso crítico: questione informações, verifique fontes múltiplas, identifique vieses, analise evidências, pratique o ceticismo saudável, leia diferentes perspectivas, estude lógica, aprenda sobre falácias, reflita antes de formar opinões e sempre pergunte 'quem diz?', 'por que?', 'como sabemos?'",
+        "Métodos práticos: ler criticamente, fazer perguntas, buscar evidências, comparar fontes, identificar interesses por trás das informações, estudar casos de fake news, praticar debates respeitosos, aprender sobre vieses cognitivos e desenvolver o hábito de pausar antes de aceitar ou compartilhar informações."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_critico_tipos",
+      "patterns": [
+        "tipos de senso crítico", "formas de senso crítico", "níveis de senso crítico",
+        "categorias senso crítico", "classificações senso crítico", "variações senso crítico",
+        "pensamento crítico científico", "pensamento crítico filosófico", "pensamento crítico social",
+        "pensamento crítico político", "pensamento crítico cultural", "pensamento crítico educacional",
+        "análise crítica", "reflexão crítica", "avaliação crítica", "julgamento crítico",
+        "ceticismo científico", "ceticismo saudável", "ceticismo metodológico",
+        "pensamento analítico", "raciocínio lógico", "argumentação crítica",
+        "crítica construtiva", "crítica destrutiva", "autocrítica",
+        "diferentes níveis críticos", "graus senso crítico", "intensidades senso crítico",
+        "senso crítico básico", "senso crítico avançado", "senso crítico profissional",
+        "senso crítico acadêmico", "senso crítico cotidiano", "senso crítico especializado",
+        "habilidades críticas", "competências críticas", "capacidades críticas",
+        
+        "tipos senso crítico", "formas senso crítico", "níveis senso crítico",
+        "categorias senso crítico", "classificações senso crítico", "variações senso crítico",
+        "pensamento crítico científico", "pensamento crítico filosófico", "pensamento crítico social",
+        "pensamento crítico político", "pensamento crítico cultural", "pensamento crítico educacional",
+        "análise crítica", "reflexão crítica", "avaliação crítica", "julgamento crítico",
+        "ceticismo científico", "ceticismo saudável", "ceticismo metodológico",
+        "pensamento analítico", "raciocínio lógico", "argumentação crítica",
+        "crítica construtiva", "crítica destrutiva", "autocrítica",
+        "diferentes níveis críticos", "graus senso crítico", "intensidades senso crítico",
+        "senso crítico básico", "senso crítico avançado", "senso crítico profissional",
+        "senso crítico acadêmico", "senso crítico cotidiano", "senso crítico especializado",
+        "habilidades críticas", "competências críticas", "capacidades críticas",
+        "modalidades senso crítico", "aspectos senso crítico", "dimensões senso crítico",
+        "vertentes senso crítico", "correntes senso crítico", "abordagens senso crítico"
+      ],
+      "responses": [
+        "Principais tipos: CIENTÍFICO (baseado em evidências), FILOSÓFICO (questiona fundamentos), SOCIAL (analisa sociedade), POLÍTICO (avalia poder), CULTURAL (examina valores), EDUCACIONAL (promove aprendizagem crítica). Também há níveis: básico, intermediário e avançado, dependendo da profundidade da análise.",
+        "Formas de pensamento crítico incluem: análise crítica (decomposição), síntese crítica (integração), avaliação crítica (julgamento), reflexão crítica (autoexame), ceticismo saudável (dúvida metodológica) e autocrítica (questionamento próprio). Cada área do conhecimento desenvolve suas especificidades críticas."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_critico_diferenca",
+      "patterns": [
+        "diferença senso crítico e irônico", "diferença senso crítico e conhecimento", "diferença senso crítico e sabedoria",
+        "diferença senso crítico e ceticismo", "diferença senso crítico e negatividade", "diferença senso crítico e crítica",
+        "diferença senso crítico e desconfiança", "diferença senso crítico e paranoia", "diferença senso crítico e pessimismo",
+        "senso crítico vs irônico", "senso crítico vs conhecimento", "senso crítico vs sabedoria",
+        "senso crítico vs ceticismo", "senso crítico vs negatividade", "senso crítico vs desconfiança",
+        "senso crítico ou irônico", "senso crítico ou conhecimento", "senso crítico ou ceticismo",
+        "senso crítico eh irônico", "senso crítico eh conhecimento", "senso crítico eh ceticismo",
+        "senso crítico não eh irônico", "senso crítico não eh conhecimento", "senso crítico não eh negatividade",
+        "semelhanças senso crítico irônico", "relação senso crítico conhecimento", "conexão senso crítico sabedoria",
+        "o que distingue senso crítico", "características únicas senso crítico", "especificidade senso crítico",
+        "pensamento crítico vs pensamento", "análise crítica vs análise", "reflexão crítica vs reflexão",
+        
+        "diferença senso crítico e inteligência", "diferença senso crítico e conhecimento", "diferença senso crítico e sabedoria",
+        "diferença senso crítico e ceticismo", "diferença senso crítico e negatividade", "diferença senso crítico e crítica",
+        "diferença senso crítico e desconfiança", "diferença senso crítico e paranoia", "diferença senso crítico e pessimismo",
+        "senso crítico vs inteligência", "senso crítico vs conhecimento", "senso crítico vs sabedoria",
+        "senso crítico vs ceticismo", "senso crítico vs negatividade", "senso crítico vs desconfiança",
+        "senso crítico ou inteligência", "senso crítico ou conhecimento", "senso crítico ou ceticismo",
+        "senso crítico eh inteligência", "senso crítico eh conhecimento", "senso crítico eh ceticismo",
+        "senso crítico não eh inteligência", "senso crítico não eh conhecimento", "senso crítico não eh negatividade",
+        "semelhanças senso crítico inteligência", "relação senso crítico conhecimento", "conexão senso crítico sabedoria",
+        "oq distingue senso crítico", "características únicas senso crítico", "especificidade senso crítico",
+        "pensamento crítico vs pensamento", "análise crítica vs análise", "reflexão crítica vs reflexão",
+        "comparação senso crítico outras habilidades", "contraste senso crítico", "distinção senso crítico",
+        "senso crítico x irônico", "senso crítico x conhecimento", "senso crítico x ceticismo",
+        "qual diferença senso crítico", "em que difere senso crítico", "como distinguir senso crítico"
+      ],
+      "responses": [
+        "Diferenças principais: IRÔNICO usa sarcasmo e deboche para criticar, SENSO CRÍTICO analisa racionalmente; CONHECIMENTO são informações acumuladas, SENSO CRÍTICO é como avaliar essas informações; CETICISMO pode ser apenas desconfiança, SENSO CRÍTICO busca evidências antes de julgar.",
+        "Senso crítico difere de IRONIA (que usa humor ácido) por ser construtivo; de NEGATIVIDADE (que rejeita tudo) por buscar evidências; de DESCONFIANÇA (que é emocional) por ser racional; e de CONHECIMENTO (que pode ser decorado) por saber como pensar, não apenas o que pensar."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_critico_exemplos",
+      "patterns": [
+        "exemplos de senso crítico", "exemplos senso crítico", "casos senso crítico",
+        "situações senso crítico", "exemplos práticos senso crítico", "exemplos reais senso crítico",
+        "como aplicar senso crítico exemplos", "senso crítico na prática exemplos", "demonstrações senso crítico",
+        "ilustrações senso crítico", "amostras senso crítico", "modelos senso crítico",
+        "exemplo fake news senso crítico", "exemplo propaganda senso crítico", "exemplo manipulação senso crítico",
+        "exemplo notícia senso crítico", "exemplo rede social senso crítico", "exemplo whatsapp senso crítico",
+        "exemplo político senso crítico", "exemplo científico senso crítico", "exemplo médico senso crítico",
+        "exemplo compra senso crítico", "exemplo trabalho senso crítico", "exemplo escola senso crítico",
+        "senso crítico no dia a dia", "senso crítico cotidiano", "senso crítico rotina",
+        "casos famosos senso crítico", "histórias senso crítico", "relatos senso crítico",
+        "experiências senso crítico", "vivências senso crítico", "aplicações senso crítico",
+        
+        "exemplos senso crítico", "casos senso crítico", "situações senso crítico",
+        "exemplos práticos senso crítico", "exemplos reais senso crítico", "como aplicar senso crítico exemplos",
+        "senso crítico na prática exemplos", "demonstrações senso crítico", "ilustrações senso crítico",
+        "amostras senso crítico", "modelos senso crítico", "exemplo fake news senso crítico",
+        "exemplo propaganda senso crítico", "exemplo manipulação senso crítico", "exemplo notícia senso crítico",
+        "exemplo rede social senso crítico", "exemplo zap senso crítico", "exemplo político senso crítico",
+        "exemplo científico senso crítico", "exemplo médico senso crítico", "exemplo compra senso crítico",
+        "exemplo trabalho senso crítico", "exemplo escola senso crítico", "senso crítico no dia a dia",
+        "senso crítico cotidiano", "senso crítico rotina", "casos famosos senso crítico",
+        "histórias senso crítico", "relatos senso crítico", "experiências senso crítico",
+        "vivências senso crítico", "aplicações senso crítico", "instâncias senso crítico",
+        "ocorrências senso crítico", "episódios senso crítico", "cenários senso crítico"
+      ],
+      "responses": [
+        "Exemplos práticos: verificar fonte antes de compartilhar notícia, questionar promessas eleitorais, comparar preços e avaliações antes de comprar, buscar segunda opinião médica, analisar argumentos em debates, identificar fake news sobre vacinas, avaliar currículo de candidatos a emprego.",
+        "No cotidiano: não acreditar em correntes de WhatsApp, verificar informações médicas suspeitas, questionar ofertas 'imperdíveis', analisar manchetes sensacionalistas, conferir dados estatísticos, avaliar credibilidade de influenciadores, pesquisar antes de investir dinheiro, examinar argumentos de vendedores."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_critico_beneficios",
+      "patterns": [
+        "benefícios senso crítico", "vantagens senso crítico", "ganhos senso crítico",
+        "proveitos senso crítico", "lucros senso crítico", "resultados senso crítico",
+        "efeitos positivos senso crítico", "consequências boas senso crítico", "impactos positivos senso crítico",
+        "o que ganha com senso crítico", "o que melhora com senso crítico", "como senso crítico ajuda",
+        "para que serve senso crítico", "utilidade senso crítico", "função senso crítico",
+        "senso crítico melhora vida", "senso crítico facilita", "senso crítico protege",
+        "senso crítico evita problemas", "senso crítico previne", "senso crítico impede",
+        "vantagens ter senso crítico", "benefícios desenvolver senso crítico", "ganhos exercitar senso crítico",
+        "senso crítico no trabalho benefícios", "senso crítico escola vantagens", "senso crítico vida pessoal",
+        "senso crítico relacionamentos", "senso crítico saúde mental", "senso crítico autoestima",
+        "senso crítico independência", "senso crítico autonomia", "senso crítico liberdade",
+        "senso crítico crescimento pessoal", "senso crítico desenvolvimento", "senso crítico evolução",
+        
+        "benefícios senso crítico", "vantagens senso crítico", "ganhos senso crítico",
+        "proveitos senso crítico", "lucros senso crítico", "resultados senso crítico",
+        "efeitos positivos senso crítico", "consequências boas senso crítico", "impactos positivos senso crítico",
+        "oq ganha com senso crítico", "oq melhora com senso crítico", "como senso crítico ajuda",
+        "pra q serve senso crítico", "utilidade senso crítico", "função senso crítico",
+        "senso crítico melhora vida", "senso crítico facilita", "senso crítico protege",
+        "senso crítico evita problemas", "senso crítico previne", "senso crítico impede",
+        "vantagens ter senso crítico", "benefícios desenvolver senso crítico", "ganhos exercitar senso crítico",
+        "senso crítico no trampo benefícios", "senso crítico escola vantagens", "senso crítico vida pessoal",
+        "senso crítico relacionamentos", "senso crítico saúde mental", "senso crítico autoestima",
+        "senso crítico independência", "senso crítico autonomia", "senso crítico liberdade",
+        "senso crítico crescimento pessoal", "senso crítico desenvolvimento", "senso crítico evolução",
+        "retornos senso crítico", "recompensas senso crítico", "dividendos senso crítico",
+        "méritos senso crítico", "valores senso crítico", "qualidades senso crítico"
+      ],
+      "responses": [
+        "Principais benefícios: melhor tomada de decisões, proteção contra manipulação e golpes, relacionamentos mais saudáveis, crescimento profissional, maior autonomia intelectual, redução de preconceitos, melhores investimentos financeiros, saúde mental mais estável e cidadania mais consciente.",
+        "Vantagens práticas: evitar fake news, fazer melhores compras, escolher melhores parceiros, progredir na carreira, ser respeitado nas discussões, não cair em pirâmides financeiras, tomar decisões médicas informadas, votar conscientemente e desenvolver autoconfiança baseada em conhecimento real."
+      ]
+    }
+  ]
+}

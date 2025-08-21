@@ -1,0 +1,293 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_senso_ironico_que",
+      "patterns": [
+        "o que é senso irônico", "o que significa senso irônico", "o que quer dizer senso irônico",
+        "que negócio é esse de senso irônico", "que história é essa de senso irônico", "que parada é senso irônico",
+        "que coisa é senso irônico mesmo", "que diabos é senso irônico", "que raios é senso irônico",
+        "afinal o que é senso irônico", "mas o que é senso irônico", "então o que é senso irônico",
+        "cara o que é senso irônico", "mano o que é senso irônico", "véi o que é senso irônico",
+        "me explica o que é senso irônico", "me conta o que é senso irônico", "me fala o que é senso irônico",
+        "explica aí o que é senso irônico", "conta aí o que é senso irônico", "fala aí o que é senso irônico",
+        "qual é a do senso irônico", "qual é a história do senso irônico", "qual é a parada do senso irônico",
+        "como assim senso irônico", "tipo assim o que é senso irônico", "quer dizer o que é senso irônico",
+        "pô o que é senso irônico", "poxa o que é senso irônico", "caramba o que é senso irônico",
+        "nossa o que é senso irônico", "eita o que é senso irônico", "opa o que é senso irônico",
+        "rapaz o que é senso irônico", "cara de pau o que é senso irônico", "sem brincadeira o que é senso irônico",
+        "de verdade o que é senso irônico", "sério mesmo o que é senso irônico", "real o que é senso irônico",
+        "na moral o que é senso irônico", "na boa o que é senso irônico", "numa boa o que é senso irônico",
+        "tá mas o que é senso irônico", "ok mas o que é senso irônico", "beleza mas o que é senso irônico",
+        
+        "oq é senso irônico", "oque é senso irônico", "q é senso irônico",
+        "senso irônico é oq", "senso irônico oq é", "senso irônico é q", "senso irônico q é",
+        "é senso irônico msm", "eh senso irônico msm", "é senso irônico memo",
+        "q eh senso irônico", "que eh senso irônico", "oq significa senso irônico", "q significa senso irônico",
+        "conceito de senso irônico", "conceito senso irônico", "significado senso irônico",
+        "explicação de senso irônico", "explicação senso irônico", "definição senso irônico",
+        "ironia", "sarcasmo", "humor ácido", "crítica através do humor",
+        "zombaria inteligente", "deboche elegante", "humor refinado", "wit"
+      ],
+      "responses": [
+        "Senso irônico é a capacidade de usar IRONIA DE FORMA INTELIGENTE E BEM-HUMORADA para fazer críticas, observações ou comentários. É expressar o contrário do que se pensa para criar um efeito humorístico, destacar absurdos ou fazer reflexões através do sarcasmo elegante e da zombaria refinada.",
+        "É a habilidade de fazer HUMOR CRÍTICO através da ironia, sarcasmo e observações perspicazes que revelam contradições, absurdos ou situações engraçadas da vida. Combina inteligência, timing perfeito e capacidade de ver o lado cômico das situações para criar comentários espirituosos e memoráveis."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_ironico_quando",
+      "patterns": [
+        "quando usar senso irônico", "quando aplicar senso irônico", "quando exercitar senso irônico",
+        "quando precisa senso irônico", "quando é bom senso irônico", "quando desenvolver senso irônico",
+        "em que momento usar senso irônico", "em que situação aplicar senso irônico", "em que hora exercitar senso irônico",
+        "quando senso irônico é apropriado", "quando senso irônico funciona", "quando senso irônico é útil",
+        "quando fazer ironia", "quando usar sarcasmo", "quando zombar com elegância",
+        "situações para senso irônico", "momentos senso irônico", "ocasiões senso irônico",
+        "com amigos senso irônico", "no trabalho senso irônico", "na escola senso irônico",
+        "em discussões senso irônico", "em debates senso irônico", "em conversas senso irônico",
+        "timing senso irônico", "hora certa senso irônico", "momento apropriado senso irônico",
+        
+        "qdo usar senso irônico", "qdo aplicar senso irônico", "qdo exercitar senso irônico",
+        "qdo precisa senso irônico", "qdo é bom senso irônico", "qdo desenvolver senso irônico",
+        "em q momento usar senso irônico", "em q situação aplicar senso irônico", "em q hora exercitar senso irônico",
+        "qdo senso irônico é apropriado", "qdo senso irônico funciona", "qdo senso irônico é útil",
+        "qdo fazer ironia", "qdo usar sarcasmo", "qdo zombar com elegância",
+        "situações pra senso irônico", "momentos senso irônico", "ocasiões senso irônico",
+        "com amigos senso irônico", "no trampo senso irônico", "na escola senso irônico",
+        "quando não usar senso irônico", "quando evitar ironia", "quando senso irônico é inadequado"
+      ],
+      "responses": [
+        "O senso irônico funciona melhor em conversas descontraídas com amigos próximos, situações sociais informais, para quebrar tensões leves, comentar sobre absurdos do cotidiano e fazer observações divertidas. EVITE em situações sérias, com pessoas sensíveis ou quando pode magoar alguém.",
+        "Use quando: quiser fazer humor inteligente, aliviar clima tenso (sem ofender), comentar ironias da vida, fazer críticas suaves, entreter pessoas próximas. EVITE quando: for feroz demais, puder ser mal interpretado, em momentos sérios, com desconhecidos ou pessoas que podem se ofender facilmente."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_ironico_onde",
+      "patterns": [
+        "onde usar senso irônico", "onde aplicar senso irônico", "onde exercitar senso irônico",
+        "onde precisa senso irônico", "onde é bom senso irônico", "onde desenvolver senso irônico",
+        "em que lugar usar senso irônico", "em que ambiente aplicar senso irônico", "em que contexto senso irônico",
+        "com amigos senso irônico", "em casa senso irônico", "na família senso irônico",
+        "no trabalho senso irônico", "na escola senso irônico", "na universidade senso irônico",
+        "em festas senso irônico", "em bares senso irônico", "em reuniões senso irônico",
+        "nas redes sociais senso irônico", "no whatsapp senso irônico", "no twitter senso irônico",
+        "na tv senso irônico", "no teatro senso irônico", "na comédia senso irônico",
+        "em conversas senso irônico", "em debates senso irônico", "em discussões senso irônico",
+        "ambientes descontraídos senso irônico", "situações informais senso irônico", "contextos casuais senso irônico",
+        
+        "aonde usar senso irônico", "aonde aplicar senso irônico", "aonde exercitar senso irônico",
+        "aonde precisa senso irônico", "aonde é bom senso irônico", "aonde desenvolver senso irônico",
+        "em q lugar usar senso irônico", "em q ambiente aplicar senso irônico", "em q contexto senso irônico",
+        "com amigos senso irônico", "em casa senso irônico", "na família senso irônico",
+        "no trampo senso irônico", "na escola senso irônico", "na facul senso irônico",
+        "em festas senso irônico", "em bares senso irônico", "em reuniões senso irônico",
+        "nas redes sociais senso irônico", "no zap senso irônico", "no tt senso irônico",
+        "onde não usar senso irônico", "onde evitar ironia", "lugares inadequados senso irônico"
+      ],
+      "responses": [
+        "Melhor usado em: conversas entre amigos, ambientes descontraídos, redes sociais (com cuidado), bares, festas, casa, stand-up comedy, programas de humor. EVITE em: funerais, hospitais, reuniões sérias de trabalho, primeiros encontros, situações formais ou quando não conhece bem as pessoas.",
+        "Ambientes apropriados: círculos íntimos, situações casuais, entretenimento, comédia, conversas informais, grupos que apreciam humor. CUIDADO em: ambientes profissionais formais, situações delicadas, com pessoas muito sensíveis, culturas diferentes ou contextos onde pode ser mal interpretado."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_ironico_quem",
+      "patterns": [
+        "quem tem senso irônico", "quem usa senso irônico", "quem pratica senso irônico",
+        "quem ensina senso irônico", "quem desenvolve senso irônico", "quem demonstra senso irônico",
+        "quem são pessoas irônicas", "quem tem bom senso irônico", "quem é naturalmente irônico",
+        "quem deveria ter senso irônico", "quem pode exercitar senso irônico", "quem se beneficia senso irônico",
+        "comediantes e senso irônico", "humoristas e senso irônico", "escritores e senso irônico",
+        "atores e senso irônico", "apresentadores e senso irônico", "críticos e senso irônico",
+        "pessoas inteligentes senso irônico", "pessoas observadoras senso irônico", "pessoas espirituosas senso irônico",
+        "brasileiros e senso irônico", "cariocas e senso irônico", "paulistas e senso irônico",
+        "famosos com senso irônico", "celebridades irônicas", "personalidades com ironia",
+        "exemplos pessoas irônicas", "modelos senso irônico", "referências ironia",
+        
+        "qm tem senso irônico", "qm usa senso irônico", "qm pratica senso irônico",
+        "qm ensina senso irônico", "qm desenvolve senso irônico", "qm demonstra senso irônico",
+        "qm são pessoas irônicas", "qm tem bom senso irônico", "qm é naturalmente irônico",
+        "qm deveria ter senso irônico", "qm pode exercitar senso irônico", "qm se beneficia senso irônico",
+        "comediantes e senso irônico", "humoristas e senso irônico", "escritores e senso irônico",
+        "atores e senso irônico", "apresentadores e senso irônico", "críticos e senso irônico",
+        "pessoas inteligentes senso irônico", "pessoas observadoras senso irônico", "pessoas espirituosas senso irônico",
+        "brasileiros e senso irônico", "cariocas e senso irônico", "paulistas e senso irônico",
+        "perfil pessoas irônicas", "características pessoas com senso irônico", "tipos pessoas irônicas"
+      ],
+      "responses": [
+        "Pessoas com senso irônico geralmente são: observadoras, inteligentes, espirituosas, com boa cultura geral, que leem muito, assistem comédia, têm timing apurado. Comediantes famosos, escritores humoristas, apresentadores, críticos e pessoas naturalmente engraçadas costumam ter essa habilidade desenvolvida.",
+        "Perfil típico: pessoas criativas, intelectualmente curiosas, bom vocabulário, que percebem contradições da vida, gostam de wordplay, têm repertório cultural amplo. Brasileiros famosos como Jô Soares, Marcelo Tas, Gregório Duvivier, Tatá Werneck são exemplos de senso irônico refinado."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_ironico_por_que",
+      "patterns": [
+        "por que ter senso irônico", "por que desenvolver senso irônico", "por que é bom senso irônico",
+        "por que precisamos senso irônico", "por que senso irônico é legal", "por que exercitar senso irônico",
+        "motivos para senso irônico", "razões senso irônico", "importância senso irônico",
+        "por que senso irônico faz bem", "por que senso irônico é útil", "por que todos deveriam ter senso irônico",
+        "benefícios senso irônico", "vantagens senso irônico", "ganhos com senso irônico",
+        "por que fazer ironia", "por que usar sarcasmo", "por que zombar com elegância",
+        "por que humor é importante", "por que rir faz bem", "por que ser engraçado",
+        "função do senso irônico", "papel da ironia", "utilidade sarcasmo",
+        "senso irônico na vida social", "senso irônico nos relacionamentos", "senso irônico no trabalho",
+        "criatividade e senso irônico", "inteligência e ironia", "cultura e sarcasmo",
+        
+        "pq ter senso irônico", "pq desenvolver senso irônico", "pq é bom senso irônico",
+        "pq precisamos senso irônico", "pq senso irônico é legal", "pq exercitar senso irônico",
+        "motivos pra senso irônico", "razões senso irônico", "importância senso irônico",
+        "pq senso irônico faz bem", "pq senso irônico é útil", "pq todos deveriam ter senso irônico",
+        "benefícios senso irônico", "vantagens senso irônico", "ganhos com senso irônico",
+        "pq fazer ironia", "pq usar sarcasmo", "pq zombar com elegância",
+        "pq humor é importante", "pq rir faz bem", "pq ser engraçado",
+        "função do senso irônico", "papel da ironia", "utilidade sarcasmo",
+        "para que serve senso irônico", "qual utilidade senso irônico", "objetivo senso irônico"
+      ],
+      "responses": [
+        "O senso irônico torna a vida mais divertida, facilita relacionamentos, quebra tensões, demonstra inteligência, cria conexões com pessoas, desenvolve criatividade, aguça observação, melhora comunicação e proporciona alívio através do humor. É uma forma elegante de fazer críticas sem ser agressivo.",
+        "Benefícios: torna você mais interessante socialmente, ajuda a lidar com situações difíceis através do humor, desenvolve inteligência emocional, melhora capacidade de observação, cria empatia, facilita networking, alivia estresse e transforma experiências negativas em material humorístico positivo."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_ironico_como",
+      "patterns": [
+        "como desenvolver senso irônico", "como ter senso irônico", "como exercitar senso irônico",
+        "como melhorar senso irônico", "como praticar senso irônico", "como aplicar senso irônico",
+        "como ser irônico", "como fazer ironia", "como usar sarcasmo",
+        "como funciona senso irônico", "como usar senso irônico", "como fazer senso irônico",
+        "técnicas senso irônico", "métodos senso irônico", "estratégias senso irônico",
+        "passos para senso irônico", "dicas senso irônico", "formas senso irônico",
+        "como ser engraçado", "como fazer humor", "como ter wit",
+        "como ter timing", "como ser espirituoso", "como fazer piada",
+        "exercícios senso irônico", "atividades senso irônico", "práticas senso irônico",
+        "habilidades senso irônico", "competências senso irônico", "capacidades senso irônico",
+        
+        "cm desenvolver senso irônico", "cm ter senso irônico", "cm exercitar senso irônico",
+        "cm melhorar senso irônico", "cm praticar senso irônico", "cm aplicar senso irônico",
+        "cm ser irônico", "cm fazer ironia", "cm usar sarcasmo",
+        "cm funciona senso irônico", "cm usar senso irônico", "cm fazer senso irônico",
+        "técnicas senso irônico", "métodos senso irônico", "estratégias senso irônico",
+        "passos pra senso irônico", "dicas senso irônico", "formas senso irônico",
+        "cm ser engraçado", "cm fazer humor", "cm ter wit",
+        "cm ter timing", "cm ser espirituoso", "cm fazer piada",
+        "de q forma desenvolver senso irônico", "de q maneira aplicar senso irônico", "de q jeito praticar senso irônico",
+        "aprender senso irônico", "treinar ironia", "cultivar sarcasmo"
+      ],
+      "responses": [
+        "Para desenvolver senso irônico: leia muito (especialmente humor), assista comédias inteligentes, observe contradições do cotidiano, pratique wordplay, estude timing, seja observador das situações absurdas, cultive vocabulário rico, pratique com amigos próximos e sempre mantenha elegância sem ser cruel.",
+        "Métodos práticos: consumir humor de qualidade (Porta dos Fundos, Casseta & Planeta), ler cronistas irônicos (Luis Fernando Verissimo), observar o absurdo das situações, praticar jogos de palavras, desenvolver timing através da prática, estudar diferentes tipos de ironia e sempre priorizar a inteligência sobre a grosseria."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_ironico_tipos",
+      "patterns": [
+        "tipos de senso irônico", "formas de senso irônico", "níveis de senso irônico",
+        "categorias senso irônico", "classificações senso irônico", "variações senso irônico",
+        "ironia verbal", "ironia situacional", "ironia dramática", "sarcasmo",
+        "humor negro", "humor ácido", "humor refinado", "humor inteligente",
+        "zombaria elegante", "deboche sutil", "crítica humorística", "wit britânico",
+        "diferentes tipos ironia", "graus senso irônico", "intensidades senso irônico",
+        "senso irônico leve", "senso irônico pesado", "senso irônico sutil",
+        "senso irônico direto", "senso irônico indireto", "senso irônico sofisticado",
+        "modalidades senso irônico", "aspectos senso irônico", "dimensões senso irônico",
+        "estilos de ironia", "formatos sarcasmo", "versões humor irônico",
+        
+        "tipos senso irônico", "formas senso irônico", "níveis senso irônico",
+        "categorias senso irônico", "classificações senso irônico", "variações senso irônico",
+        "ironia verbal", "ironia situacional", "ironia dramática", "sarcasmo",
+        "humor negro", "humor ácido", "humor refinado", "humor inteligente",
+        "zombaria elegante", "deboche sutil", "crítica humorística", "wit britânico",
+        "diferentes tipos ironia", "graus senso irônico", "intensidades senso irônico",
+        "senso irônico leve", "senso irônico pesado", "senso irônico sutil",
+        "senso irônico direto", "senso irônico indireto", "senso irônico sofisticado",
+        "vertentes senso irônico", "correntes ironia", "abordagens sarcasmo"
+      ],
+      "responses": [
+        "Principais tipos: IRONIA VERBAL (dizer o contrário do que pensa), SITUACIONAL (quando o resultado é oposto ao esperado), DRAMÁTICA (quando sabemos algo que o personagem não sabe), SARCASMO (ironia mais ácida), HUMOR NEGRO (sobre temas sérios) e WIT (humor inteligente e rápido).",
+        "Formas de ironia incluem: SUTIL (elegante e refinada), ÁCIDA (mais cortante), AUTOIRONIA (sobre si mesmo), SOCIAL (sobre comportamentos), POLÍTICA (sobre poder), EXISTENCIAL (sobre absurdos da vida) e CULTURAL (sobre costumes). Cada tipo requer timing e contexto apropriados."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_ironico_diferenca",
+      "patterns": [
+        "diferença senso irônico e senso crítico", "diferença senso irônico e humor", "diferença senso irônico e sarcasmo",
+        "diferença senso irônico e cinismo", "diferença senso irônico e deboche", "diferença senso irônico e zombaria",
+        "senso irônico vs senso crítico", "senso irônico vs humor", "senso irônico vs sarcasmo",
+        "senso irônico vs cinismo", "senso irônico vs deboche", "senso irônico vs zombaria",
+        "senso irônico ou senso crítico", "senso irônico ou humor", "senso irônico ou sarcasmo",
+        "senso irônico eh humor", "senso irônico eh sarcasmo", "senso irônico eh cinismo",
+        "senso irônico não eh humor", "senso irônico não eh deboche", "senso irônico não eh maldade",
+        "semelhanças senso irônico humor", "relação senso irônico sarcasmo", "conexão ironia cinismo",
+        "o que distingue senso irônico", "características únicas senso irônico", "especificidade senso irônico",
+        "ironia vs sarcasmo", "humor vs ironia", "deboche vs ironia",
+        
+        "diferença senso irônico e crítico", "diferença senso irônico e humor", "diferença senso irônico e sarcasmo",
+        "diferença senso irônico e cinismo", "diferença senso irônico e deboche", "diferença senso irônico e zombaria",
+        "senso irônico x senso crítico", "senso irônico x humor", "senso irônico x sarcasmo",
+        "senso irônico x cinismo", "senso irônico x deboche", "senso irônico x zombaria",
+        "qual diferença senso irônico crítico", "em que difere senso irônico", "como distinguir senso irônico",
+        "comparação senso irônico outras habilidades", "contraste senso irônico", "distinção senso irônico",
+        "senso crítico vs senso irônico", "o que separa ironia de crítica", "diferenças entre ironia e crítica"
+      ],
+      "responses": [
+        "Diferenças principais: SENSO CRÍTICO analisa racionalmente para formar juízos, SENSO IRÔNICO usa humor para fazer observações; SARCASMO pode ser cruel, IRONIA é mais elegante; CINISMO é pessimista, IRONIA pode ser otimista; DEBOCHE é agressivo, IRONIA é inteligente e sutil.",
+        "SENSO CRÍTICO busca verdade e análise objetiva, SENSO IRÔNICO busca humor e entretenimento através de observações perspicazes. O crítico questiona para entender, o irônico comenta para divertir. Um é mais sério e analítico, o outro é mais leve e humorístico, mas ambos requerem inteligência e observação."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_ironico_exemplos",
+      "patterns": [
+        "exemplos de senso irônico", "exemplos senso irônico", "casos senso irônico",
+        "situações senso irônico", "exemplos práticos senso irônico", "exemplos reais senso irônico",
+        "como aplicar senso irônico exemplos", "senso irônico na prática exemplos", "demonstrações senso irônico",
+        "frases irônicas", "comentários irônicos", "piadas irônicas",
+        "exemplo ironia verbal", "exemplo ironia situacional", "exemplo sarcasmo elegante",
+        "exemplo humor irônico", "exemplo wit", "exemplo deboche sutil",
+        "senso irônico no dia a dia", "senso irônico cotidiano", "senso irônico rotina",
+        "casos famosos senso irônico", "histórias senso irônico", "anedotas irônicas",
+        "senso irônico brasileiro", "ironia carioca", "humor paulista",
+        "senso irônico redes sociais", "memes irônicos", "posts sarcásticos",
+        
+        "exemplos senso irônico", "casos senso irônico", "situações senso irônico",
+        "exemplos práticos senso irônico", "exemplos reais senso irônico", "como aplicar senso irônico exemplos",
+        "senso irônico na prática exemplos", "demonstrações senso irônico", "frases irônicas",
+        "comentários irônicos", "piadas irônicas", "exemplo ironia verbal",
+        "exemplo ironia situacional", "exemplo sarcasmo elegante", "exemplo humor irônico",
+        "exemplo wit", "exemplo deboche sutil", "senso irônico no dia a dia",
+        "senso irônico cotidiano", "senso irônico rotina", "casos famosos senso irônico",
+        "histórias senso irônico", "anedotas irônicas", "senso irônico brasileiro",
+        "modelos senso irônico", "amostras ironia", "ilustrações sarcasmo"
+      ],
+      "responses": [
+        "Exemplos clássicos: 'Que dia lindo!' em dia chuvoso; 'Adoro acordar cedo' (ironia sobre segunda-feira); 'Que sorte a minha!' quando algo dá errado; memes tipo 'This is fine' (cachorro no fogo); comentários sobre política: 'Nossos políticos são exemplos de honestidade'.",
+        "No cotidiano: 'Que trânsito maravilhoso!' (engarrafamento); 'Adoro filas' (banco lotado); 'Que eficiência!' (serviço público lento); posts no Twitter ironizando situações absurdas; comentários sarcásticos sobre reality shows; humor sobre preços: 'Que barato!' (coisa caríssima)."
+      ]
+    },
+    {
+      "intent": "o_que_e_senso_ironico_cuidados",
+      "patterns": [
+        "cuidados com senso irônico", "perigos senso irônico", "riscos senso irônico",
+        "quando não usar senso irônico", "quando evitar ironia", "limites senso irônico",
+        "senso irônico pode machucar", "senso irônico pode ofender", "senso irônico inadequado",
+        "problemas senso irônico", "consequências senso irônico", "efeitos negativos ironia",
+        "senso irônico excessivo", "senso irônico demais", "abuso de ironia",
+        "ironia cruel", "sarcasmo ferino", "humor que machuca",
+        "timing errado ironia", "contexto inadequado sarcasmo", "momento inapropriado humor",
+        "sensibilidade e ironia", "empatia e sarcasmo", "respeito e humor",
+        "ironia ofensiva", "sarcasmo agressivo", "humor tóxico",
+        "limites do humor", "ética da ironia", "responsabilidade cômica",
+        
+        "cuidados com senso irônico", "perigos senso irônico", "riscos senso irônico",
+        "qdo não usar senso irônico", "qdo evitar ironia", "limites senso irônico",
+        "senso irônico pode machucar", "senso irônico pode ofender", "senso irônico inadequado",
+        "problemas senso irônico", "consequências senso irônico", "efeitos negativos ironia",
+        "senso irônico excessivo", "senso irônico demais", "abuso de ironia",
+        "ironia cruel", "sarcasmo ferino", "humor que machuca",
+        "timing errado ironia", "contexto inadequado sarcasmo", "momento inapropriado humor",
+        "precauções senso irônico", "atenção com ironia", "moderação sarcasmo"
+      ],
+      "responses": [
+        "CUIDADOS ESSENCIAIS: nunca use para machucar pessoas vulneráveis, evite em momentos de dor alheia, não exagere na dose, respeite diferenças culturais, cuidado com timing inadequado, seja empático antes de irônico. O humor deve unir, não dividir ou humilhar.",
+        "LIMITES IMPORTANTES: evite ironia sobre tragédias, doenças graves, lutos, problemas financeiros sérios, questões íntimas alheias. Seja sempre elegante, nunca cruel. Lembre-se: o objetivo é fazer rir COM a pessoa, não DA pessoa. Prefira autoironia quando houver dúvida sobre o impacto."
+      ]
+    }
+  ]
+}

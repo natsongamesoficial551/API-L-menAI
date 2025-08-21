@@ -1,0 +1,244 @@
+{
+  "intents": [
+    {
+      "intent": "funcao_politica_social_realismo_qual",
+      "patterns": [
+        "qual é a função política da literatura realista", "qual a função política da literatura realista", "qual função política da literatura realista",
+        "qual é a função social da literatura realista", "qual a função social da literatura realista", "qual função social da literatura realista",
+        "qual é a função política e social da literatura realista", "qual a função política e social da literatura realista",
+        "qual é o papel político da literatura realista", "qual o papel político da literatura realista", "qual papel político da literatura realista",
+        "qual é o papel social da literatura realista", "qual o papel social da literatura realista", "qual papel social da literatura realista",
+        "qual é o objetivo político da literatura realista", "qual o objetivo político da literatura realista", "qual objetivo político da literatura realista",
+        "qual é o objetivo social da literatura realista", "qual o objetivo social da literatura realista", "qual objetivo social da literatura realista",
+        "qual é a finalidade política da literatura realista", "qual a finalidade política da literatura realista", "qual finalidade política da literatura realista",
+        "qual é a finalidade social da literatura realista", "qual a finalidade social da literatura realista", "qual finalidade social da literatura realista",
+        
+        "q é a função política da literatura realista", "q a função política da literatura realista", "q função política da literatura realista",
+        "q é a função social da literatura realista", "q a função social da literatura realista", "q função social da literatura realista",
+        "q é o papel político da literatura realista", "q o papel político da literatura realista", "q papel político da literatura realista",
+        "q é o papel social da literatura realista", "q o papel social da literatura realista", "q papel social da literatura realista",
+        "qual eh a função política da literatura realista", "qual eh a função social da literatura realista", "qual eh o papel político da literatura realista",
+        "qual função política literatura realista", "qual papel social literatura realista", "qual objetivo político literatura realista",
+        
+        "me fala qual é a função política da literatura realista", "me conta qual a função social da literatura realista",
+        "me explica qual é o papel político da literatura realista", "me diz qual o papel social da literatura realista",
+        "fala aí qual é a função política da literatura realista", "conta aí qual a função social da literatura realista",
+        "explica aí qual é o papel político da literatura realista", "diz aí qual o papel social da literatura realista",
+        "cara qual é a função política da literatura realista", "mano qual a função social da literatura realista",
+        "véi qual é o papel político da literatura realista", "bicho qual o papel social da literatura realista",
+        "rapaz qual é a função política da literatura realista", "gente qual a função social da literatura realista",
+        
+        "professor qual é a função política da literatura realista", "prof qual a função social da literatura realista",
+        "mestre qual é o papel político da literatura realista", "doutor qual o papel social da literatura realista",
+        "pessoal qual é a função política da literatura realista", "galera qual a função social da literatura realista",
+        "turma qual é o papel político da literatura realista", "nego qual o papel social da literatura realista"
+      ],
+      "responses": [
+        "A função política e social da literatura realista era DENUNCIAR AS CONTRADIÇÕES E INJUSTIÇAS SOCIAIS do século XIX: criticar a hipocrisia burguesa, expor a exploração dos trabalhadores, questionar as instituições (Igreja, Estado, família patriarcal), revelar a marginalização dos ex-escravos e conscientizar os leitores sobre os problemas da sociedade brasileira.",
+        "Tinha papel TRANSFORMADOR e CRÍTICO: educar politicamente a população, combater preconceitos sociais, defender reformas sociais necessárias, questionar valores tradicionais opressivos, dar voz aos marginalizados, promover reflexão crítica sobre realidade brasileira e influenciar mudanças sociais através da literatura engajada."
+      ]
+    },
+    {
+      "intent": "funcao_politica_social_realismo_como",
+      "patterns": [
+        "como funcionava a função política da literatura realista", "como funcionava a função social da literatura realista", "como funcionava o papel político da literatura realista",
+        "como era a função política da literatura realista", "como era a função social da literatura realista", "como era o papel político da literatura realista",
+        "como se dava a função política da literatura realista", "como se dava a função social da literatura realista", "como se dava o papel político da literatura realista",
+        "como acontecia a função política da literatura realista", "como acontecia a função social da literatura realista", "como acontecia o papel político da literatura realista",
+        "como se desenvolvia a função política da literatura realista", "como se desenvolvia a função social da literatura realista", "como se desenvolvia o papel político da literatura realista",
+        "como atuava a função política da literatura realista", "como atuava a função social da literatura realista", "como atuava o papel político da literatura realista",
+        "como operava a função política da literatura realista", "como operava a função social da literatura realista", "como operava o papel político da literatura realista",
+        
+        "cm funcionava a função política da literatura realista", "cm funcionava a função social da literatura realista", "cm funcionava o papel político da literatura realista",
+        "cm era a função política da literatura realista", "cm era a função social da literatura realista", "cm era o papel político da literatura realista",
+        "cm se dava a função política da literatura realista", "cm se dava a função social da literatura realista", "cm se dava o papel político da literatura realista",
+        "como q funcionava a função política da literatura realista", "como q funcionava a função social da literatura realista", "como q funcionava o papel político da literatura realista",
+        "como eh funcionava a função política da literatura realista", "como eh funcionava a função social da literatura realista", "como eh funcionava o papel político da literatura realista",
+        
+        "me explica como funcionava a função política da literatura realista", "me fala como funcionava a função social da literatura realista",
+        "me conta como se dava o papel político da literatura realista", "me diz como acontecia a função social da literatura realista",
+        "explica aí como funcionava a função política da literatura realista", "fala aí como funcionava a função social da literatura realista",
+        "cara como funcionava a função política da literatura realista", "mano como funcionava a função social da literatura realista",
+        "véi como se dava o papel político da literatura realista", "bicho como acontecia a função social da literatura realista",
+        
+        "como assim a função política da literatura realista", "como é isso da função política da literatura realista",
+        "como que funcionava a função política da literatura realista", "como diabos funcionava a função política da literatura realista"
+      ],
+      "responses": [
+        "A função política da literatura realista funcionava através da CRÍTICA SISTEMÁTICA: os escritores retratavam personagens burgueses hipócritas (Brás Cubas), denunciavam a exploração social (cortiços), questionavam instituições tradicionais, expunham contradições do sistema capitalista e usavam ironia/sarcasmo para conscientizar leitores sobre injustiças sociais.",
+        "Operava com ESTRATÉGIAS ESPECÍFICAS: 1) Descrição detalhada das condições sociais miseráveis, 2) Criação de personagens representativos de classes sociais, 3) Denúncia através de narrativas realistas, 4) Uso da literatura como instrumento de reforma social, 5) Questionamento de valores burgueses dominantes, 6) Conscientização política dos leitores através da arte."
+      ]
+    },
+    {
+      "intent": "funcao_politica_social_realismo_quando",
+      "patterns": [
+        "quando surgiu a função política da literatura realista", "quando começou a função política da literatura realista", "quando apareceu a função política da literatura realista",
+        "quando se desenvolveu a função política da literatura realista", "quando se formou a função política da literatura realista", "quando se estabeleceu a função política da literatura realista",
+        "quando aconteceu a função política da literatura realista", "quando ocorreu a função política da literatura realista", "quando se deu a função política da literatura realista",
+        "quando surgiu a função social da literatura realista", "quando começou a função social da literatura realista", "quando apareceu a função social da literatura realista",
+        "quando surgiu o papel político da literatura realista", "quando começou o papel político da literatura realista", "quando apareceu o papel político da literatura realista",
+        "quando surgiu o papel social da literatura realista", "quando começou o papel social da literatura realista", "quando apareceu o papel social da literatura realista",
+        
+        "qdo surgiu a função política da literatura realista", "qdo começou a função política da literatura realista", "qdo apareceu a função política da literatura realista",
+        "qdo se desenvolveu a função política da literatura realista", "qdo se formou a função política da literatura realista", "qdo se estabeleceu a função política da literatura realista",
+        "quando q surgiu a função política da literatura realista", "quando q começou a função social da literatura realista", "quando q apareceu o papel político da literatura realista",
+        "quando eh surgiu a função política da literatura realista", "quando eh começou a função social da literatura realista", "quando eh apareceu o papel político da literatura realista",
+        
+        "em que época surgiu a função política da literatura realista", "em qual período começou a função política da literatura realista",
+        "em que momento se desenvolveu a função política da literatura realista", "em qual fase se formou a função política da literatura realista",
+        "durante que tempo aconteceu a função política da literatura realista", "ao longo de quando ocorreu a função política da literatura realista",
+        "no decorrer de quando se estabeleceu a função política da literatura realista", "através de quando se manifestou a função política da literatura realista",
+        
+        "me fala quando surgiu a função política da literatura realista", "me conta quando começou a função social da literatura realista",
+        "me explica quando apareceu o papel político da literatura realista", "me diz quando se desenvolveu o papel social da literatura realista",
+        "cara quando surgiu a função política da literatura realista", "mano quando começou a função social da literatura realista"
+      ],
+      "responses": [
+        "A função política da literatura realista surgiu na segunda metade do século XIX (1850-1881), consolidando-se com 'Memórias Póstumas de Brás Cubas' (1881). Desenvolveu-se durante as TRANSFORMAÇÕES SOCIAIS: abolição da escravatura, proclamação da república, industrialização e necessidade de literatura engajada socialmente.",
+        "Estabeleceu-se entre 1850-1900, com ápice em 1881-1893: período de intensas mudanças políticas e sociais no Brasil. Os escritores perceberam que a literatura devia ter FUNÇÃO SOCIAL TRANSFORMADORA, abandonando o escapismo romântico para assumir compromisso político com a realidade nacional."
+      ]
+    },
+    {
+      "intent": "funcao_politica_social_realismo_onde",
+      "patterns": [
+        "onde acontecia a função política da literatura realista", "onde ocorria a função política da literatura realista", "onde se dava a função política da literatura realista",
+        "onde surgiu a função política da literatura realista", "onde se desenvolveu a função política da literatura realista", "onde se formou a função política da literatura realista",
+        "onde atuava a função política da literatura realista", "onde operava a função política da literatura realista", "onde funcionava a função política da literatura realista",
+        "onde se manifestava a função política da literatura realista", "onde se expressava a função política da literatura realista", "onde se realizava a função política da literatura realista",
+        "onde acontecia a função social da literatura realista", "onde ocorria o papel político da literatura realista", "onde se dava o papel social da literatura realista",
+        
+        "aonde acontecia a função política da literatura realista", "aonde ocorria a função política da literatura realista", "aonde se dava a função política da literatura realista",
+        "aonde surgiu a função política da literatura realista", "aonde se desenvolveu a função política da literatura realista", "aonde se formou a função política da literatura realista",
+        "kd acontecia a função política da literatura realista", "cadê a função política da literatura realista", "kd ficava a função política da literatura realista",
+        "onde q acontecia a função política da literatura realista", "onde q ocorria a função social da literatura realista", "onde q se dava o papel político da literatura realista",
+        "aonde q acontecia a função política da literatura realista", "aonde q ocorria a função social da literatura realista", "aonde q se dava o papel político da literatura realista",
+        
+        "em que lugar acontecia a função política da literatura realista", "em qual local ocorria a função política da literatura realista",
+        "em que região se dava a função política da literatura realista", "em qual área surgiu a função política da literatura realista",
+        "em que país acontecia a função política da literatura realista", "em qual nação ocorria a função política da literatura realista",
+        "em que cidade se dava a função política da literatura realista", "em qual metrópole surgiu a função política da literatura realista",
+        
+        "me fala onde acontecia a função política da literatura realista", "me conta onde ocorria a função social da literatura realista",
+        "me explica onde se dava o papel político da literatura realista", "me diz onde surgiu o papel social da literatura realista",
+        "cara onde acontecia a função política da literatura realista", "mano onde ocorria a função social da literatura realista"
+      ],
+      "responses": [
+        "A função política da literatura realista acontecia principalmente nos CENTROS URBANOS: Rio de Janeiro (capital política e cultural), São Paulo (crescimento industrial), salões literários, jornais e revistas, academias, teatros e livrarias onde circulavam as obras que denunciavam problemas sociais brasileiros.",
+        "Manifestava-se em espaços específicos: IMPRENSA (folhetins de jornais), SARAUS LITERÁRIOS (debates intelectuais), ACADEMIAS DE LETRAS, universidades, cafés frequentados por intelectuais, editoras e locais onde a elite letrada discutia questões sociais e políticas através da literatura engajada."
+      ]
+    },
+    {
+      "intent": "funcao_politica_social_realismo_por_que",
+      "patterns": [
+        "por que a literatura realista tinha função política", "por que a literatura realista tinha função social", "por que a literatura realista tinha papel político",
+        "por que a literatura realista assumiu função política", "por que a literatura realista assumiu função social", "por que a literatura realista assumiu papel político",
+        "por que a literatura realista desenvolveu função política", "por que a literatura realista desenvolveu função social", "por que a literatura realista desenvolveu papel político",
+        "por que era necessária a função política da literatura realista", "por que era necessária a função social da literatura realista", "por que era necessário o papel político da literatura realista",
+        "por que existia a função política da literatura realista", "por que existia a função social da literatura realista", "por que existia o papel político da literatura realista",
+        "por que havia a função política da literatura realista", "por que havia a função social da literatura realista", "por que havia o papel político da literatura realista",
+        
+        "pq a literatura realista tinha função política", "pq a literatura realista tinha função social", "pq a literatura realista tinha papel político",
+        "pq a literatura realista assumiu função política", "pq a literatura realista assumiu função social", "pq a literatura realista assumiu papel político",
+        "pq a literatura realista desenvolveu função política", "pq a literatura realista desenvolveu função social", "pq a literatura realista desenvolveu papel político",
+        "por q a literatura realista tinha função política", "por q a literatura realista tinha função social", "por q a literatura realista tinha papel político",
+        "porque a literatura realista tinha função política", "porque a literatura realista tinha função social", "porque a literatura realista tinha papel político",
+        
+        "qual motivo da literatura realista ter função política", "qual razão da literatura realista ter função social", "qual causa da literatura realista ter papel político",
+        "que motivo tem a literatura realista ter função política", "que razão tem a literatura realista ter função social", "que causa tem a literatura realista ter papel político",
+        "o que fez a literatura realista ter função política", "o que causou a literatura realista ter função social", "o que motivou a literatura realista ter papel político",
+        
+        "me explica por que a literatura realista tinha função política", "me fala por que a literatura realista tinha função social",
+        "me conta por que a literatura realista assumiu papel político", "me diz por que era necessária a função política da literatura realista",
+        "cara por que a literatura realista tinha função política", "mano por que a literatura realista assumiu função social"
+      ],
+      "responses": [
+        "A literatura realista assumiu função política porque as TRANSFORMAÇÕES SOCIAIS exigiam arte engajada: abolição da escravatura gerava novos conflitos raciais, industrialização criava exploração operária, ascensão burguesa produzia hipocrisias sociais, e era preciso conscientizar a população sobre essas contradições através da literatura crítica.",
+        "Desenvolveu papel social por necessidade histórica: 1) Literatura romântica era escapista demais para época de mudanças, 2) Influência do POSITIVISMO exigia arte científica e objetiva, 3) Problemas sociais brasileiros precisavam ser denunciados, 4) Escritores queriam contribuir para reformas sociais, 5) Arte devia educar politicamente a sociedade burguesa emergente."
+      ]
+    },
+    {
+      "intent": "funcao_politica_social_realismo_que",
+      "patterns": [
+        "que função política tinha a literatura realista", "que função social tinha a literatura realista", "que papel político tinha a literatura realista",
+        "que função política possuía a literatura realista", "que função social possuía a literatura realista", "que papel político possuía a literatura realista",
+        "que função política apresentava a literatura realista", "que função social apresentava a literatura realista", "que papel político apresentava a literatura realista",
+        "que função política mostrava a literatura realista", "que função social mostrava a literatura realista", "que papel político mostrava a literatura realista",
+        "que função política demonstrava a literatura realista", "que função social demonstrava a literatura realista", "que papel político demonstrava a literatura realista",
+        "que função política exibia a literatura realista", "que função social exibia a literatura realista", "que papel político exibia a literatura realista",
+        "que função política manifestava a literatura realista", "que função social manifestava a literatura realista", "que papel político manifestava a literatura realista",
+        
+        "q função política tinha a literatura realista", "q função social tinha a literatura realista", "q papel político tinha a literatura realista",
+        "q função política possuía a literatura realista", "q função social possuía a literatura realista", "q papel político possuía a literatura realista",
+        "q função política apresentava a literatura realista", "q função social apresentava a literatura realista", "q papel político apresentava a literatura realista",
+        "que eh função política tinha a literatura realista", "que eh função social possuía a literatura realista", "que eh papel político apresentava a literatura realista",
+        
+        "me fala que função política tinha a literatura realista", "me conta que função social possuía a literatura realista",
+        "me explica que papel político apresentava a literatura realista", "me diz que função social mostrava a literatura realista",
+        "fala aí que função política tinha a literatura realista", "conta aí que função social possuía a literatura realista",
+        "cara que função política tinha a literatura realista", "mano que função social possuía a literatura realista",
+        "véi que papel político apresentava a literatura realista", "bicho que função social mostrava a literatura realista",
+        
+        "que parada era a função política da literatura realista", "que negócio era a função política da literatura realista",
+        "que história era a função política da literatura realista", "que coisa era a função política da literatura realista"
+      ],
+      "responses": [
+        "A literatura realista tinha função política de CRÍTICA SOCIAL SISTEMÁTICA: denunciar hipocrisia burguesa, expor exploração dos trabalhadores, questionar autoritarismo político, combater preconceitos raciais pós-abolição, revelar corrupção institucional e conscientizar leitores sobre necessidade de reformas sociais profundas.",
+        "Possuía papel social TRANSFORMADOR e EDUCATIVO: educar politicamente a população letrada, formar consciência crítica sobre problemas nacionais, defender direitos dos marginalizados, promover debates sobre justiça social, influenciar mudanças através da arte engajada e construir identidade nacional mais realista e menos idealizada."
+      ]
+    },
+    {
+      "intent": "funcao_politica_social_realismo_quais",
+      "patterns": [
+        "quais são as funções políticas da literatura realista", "quais as funções políticas da literatura realista", "quais funções políticas da literatura realista",
+        "quais são as funções sociais da literatura realista", "quais as funções sociais da literatura realista", "quais funções sociais da literatura realista",
+        "quais são os papéis políticos da literatura realista", "quais os papéis políticos da literatura realista", "quais papéis políticos da literatura realista",
+        "quais são os papéis sociais da literatura realista", "quais os papéis sociais da literatura realista", "quais papéis sociais da literatura realista",
+        "quais são os objetivos políticos da literatura realista", "quais os objetivos políticos da literatura realista", "quais objetivos políticos da literatura realista",
+        "quais são os objetivos sociais da literatura realista", "quais os objetivos sociais da literatura realista", "quais objetivos sociais da literatura realista",
+        "quais são as finalidades políticas da literatura realista", "quais as finalidades políticas da literatura realista", "quais finalidades políticas da literatura realista",
+        
+        "q são as funções políticas da literatura realista", "q as funções políticas da literatura realista", "q funções políticas da literatura realista",
+        "q são as funções sociais da literatura realista", "q as funções sociais da literatura realista", "q funções sociais da literatura realista",
+        "q são os papéis políticos da literatura realista", "q os papéis políticos da literatura realista", "q papéis políticos da literatura realista",
+        "q são os papéis sociais da literatura realista", "q os papéis sociais da literatura realista", "q papéis sociais da literatura realista",
+        "quais eh são as funções políticas da literatura realista", "quais eh as funções sociais da literatura realista", "quais eh os papéis políticos da literatura realista",
+        "quais são funções políticas literatura realista", "quais funções políticas literatura realista", "quais papéis sociais literatura realista",
+        
+        "me fala quais são as funções políticas da literatura realista", "me conta quais as funções sociais da literatura realista",
+        "me explica quais são os papéis políticos da literatura realista", "me diz quais os papéis sociais da literatura realista",
+        "fala aí quais são as funções políticas da literatura realista", "conta aí quais as funções sociais da literatura realista",
+        "cara quais são as funções políticas da literatura realista", "mano quais as funções sociais da literatura realista",
+        
+        "oxe quais são as funções políticas da literatura realista", "uai quais as funções sociais da literatura realista"
+      ],
+      "responses": [
+        "As principais funções políticas e sociais da literatura realista são: DENÚNCIA SOCIAL (expor injustiças), CRÍTICA INSTITUCIONAL (questionar Igreja/Estado), EDUCAÇÃO POLÍTICA (conscientizar leitores), DEFESA DOS MARGINALIZADOS (dar voz aos oprimidos), COMBATE À HIPOCRISIA BURGUESA, PROMOÇÃO DE REFORMAS SOCIAIS, FORMAÇÃO DE CONSCIÊNCIA CRÍTICA e CONSTRUÇÃO DE IDENTIDADE NACIONAL REALISTA.",
+        "Funções específicas incluem: 1) Criticar exploração capitalista e desigualdades sociais, 2) Questionar valores tradicionais opressivos, 3) Denunciar preconceitos raciais pós-abolição, 4) Expor condições miseráveis dos trabalhadores, 5) Revelar corrupção política e social, 6) Educar a burguesia sobre responsabilidades sociais, 7) Influenciar debates públicos através da arte engajada, 8) Promover transformações sociais progressistas."
+      ]
+    },
+    {
+      "intent": "funcao_politica_social_realismo_como_se_manifesta",
+      "patterns": [
+        "como se manifesta a função política da literatura realista", "como se manifesta a função social da literatura realista", "como se manifesta o papel político da literatura realista",
+        "como se expressa a função política da literatura realista", "como se expressa a função social da literatura realista", "como se expressa o papel político da literatura realista",
+        "como aparece a função política da literatura realista", "como aparece a função social da literatura realista", "como aparece o papel político da literatura realista",
+        "como se revela a função política da literatura realista", "como se revela a função social da literatura realista", "como se revela o papel político da literatura realista",
+        "como se mostra a função política da literatura realista", "como se mostra a função social da literatura realista", "como se mostra o papel político da literatura realista",
+        "como se apresenta a função política da literatura realista", "como se apresenta a função social da literatura realista", "como se apresenta o papel político da literatura realista",
+        
+        "cm se manifesta a função política da literatura realista", "cm se manifesta a função social da literatura realista", "cm se manifesta o papel político da literatura realista",
+        "cm se expressa a função política da literatura realista", "cm se expressa a função social da literatura realista", "cm se expressa o papel político da literatura realista",
+        "como q se manifesta a função política da literatura realista", "como q se expressa a função social da literatura realista", "como q aparece o papel político da literatura realista",
+        "como eh se manifesta a função política da literatura realista", "como eh se expressa a função social da literatura realista", "como eh aparece o papel político da literatura realista",
+        
+        "me explica como se manifesta a função política da literatura realista", "me fala como se expressa a função social da literatura realista",
+        "me conta como aparece o papel político da literatura realista", "me diz como se revela a função social da literatura realista",
+        "cara como se manifesta a função política da literatura realista", "mano como se expressa a função social da literatura realista"
+      ],
+      "responses": [
+        "A função política da literatura realista se manifesta através de: PERSONAGENS REPRESENTATIVOS (burguês hipócrita como Brás Cubas), CENÁRIOS SOCIAIS CRÍTICOS (cortiços, fábricas), NARRATIVAS DENUNCIADORAS, uso de IRONIA E SARCASMO para criticar, exposição de CONTRADIÇÕES SOCIAIS, questionamento de INSTITUIÇÕES TRADICIONAIS e criação de CONSCIÊNCIA CRÍTICA nos leitores.",
+        "Expressa-se concretamente em: 1) Descrição realista de condições sociais miseráveis, 2) Criação de personagens que simbolizam classes sociais, 3) Diálogos que revelam preconceitos e hipocrisias, 4) Enredos que expõem injustiças do sistema, 5) Narração crítica e objetiva dos fatos, 6) Uso da literatura como instrumento de reforma social e educação política."
+      ]
+    }
+  ]
+}

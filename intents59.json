@@ -1,0 +1,224 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_tecnica_narrativa_que",
+      "patterns": [
+        "o que é técnica narrativa", "o que foi técnica narrativa", "o que significa técnica narrativa", "o que quer dizer técnica narrativa",
+        "que negócio é esse de técnica narrativa", "que história é essa de técnica narrativa", "que parada é técnica narrativa",
+        "que coisa é técnica narrativa mesmo", "que diabos é técnica narrativa", "que raios é técnica narrativa",
+        "afinal o que é técnica narrativa", "mas o que é técnica narrativa", "então o que é técnica narrativa",
+        "cara o que é técnica narrativa", "mano o que é técnica narrativa", "véi o que é técnica narrativa",
+        "me explica o que é técnica narrativa", "me conta o que é técnica narrativa", "me fala o que é técnica narrativa",
+        "explica aí o que é técnica narrativa", "conta aí o que é técnica narrativa", "fala aí o que é técnica narrativa",
+        "qual é a da técnica narrativa", "qual é a história da técnica narrativa", "qual é a parada da técnica narrativa",
+        "como assim técnica narrativa", "tipo assim o que é técnica narrativa", "quer dizer o que é técnica narrativa",
+        "pô o que é técnica narrativa", "poxa o que é técnica narrativa", "caramba o que é técnica narrativa",
+        "nossa o que é técnica narrativa", "eita o que é técnica narrativa", "opa o que é técnica narrativa",
+        "rapaz o que é técnica narrativa", "cara de pau o que é técnica narrativa", "sem brincadeira o que é técnica narrativa",
+        "de verdade o que é técnica narrativa", "sério mesmo o que é técnica narrativa", "real o que é técnica narrativa",
+        "na moral o que é técnica narrativa", "na boa o que é técnica narrativa", "numa boa o que é técnica narrativa",
+        "tá mas o que é técnica narrativa", "ok mas o que é técnica narrativa", "beleza mas o que é técnica narrativa",
+        "hmm o que é técnica narrativa", "bom o que é técnica narrativa", "enfim o que é técnica narrativa",
+        "resumindo o que é técnica narrativa", "basicamente o que é técnica narrativa", "fundamentalmente o que é técnica narrativa",
+        "professor o que é técnica narrativa", "mestre o que é técnica narrativa", "doutor o que é técnica narrativa",
+        "gente o que é técnica narrativa", "pessoal o que é técnica narrativa", "galera o que é técnica narrativa",
+        "oxe o que é técnica narrativa", "uai o que é técnica narrativa", "ué o que é técnica narrativa",
+        "bah o que é técnica narrativa", "tche o que é técnica narrativa", "capaz o que é técnica narrativa",
+        "caraca o que é técnica narrativa", "puts o que é técnica narrativa", "putz o que é técnica narrativa",
+        
+        "oq é técnica narrativa", "oque é técnica narrativa", "q é técnica narrativa",
+        "técnica narrativa é oq", "técnica narrativa oq é", "técnica narrativa é q", "técnica narrativa q é",
+        "é técnica narrativa msm", "eh técnica narrativa msm", "é técnica narrativa memo",
+        "q eh técnica narrativa", "que eh técnica narrativa", "oq significa técnica narrativa", "q significa técnica narrativa",
+        "oq quer dizer técnica narrativa", "q quer dizer técnica narrativa", "me explica oq é técnica narrativa",
+        "me fala oq é técnica narrativa", "me conta oq é técnica narrativa", "explica oq é técnica narrativa",
+        "fala oq é técnica narrativa", "conta oq é técnica narrativa", "cara oq é técnica narrativa",
+        "mano oq é técnica narrativa", "vei oq é técnica narrativa", "bicho oq é técnica narrativa",
+        "rapaz oq é técnica narrativa", "gente oq é técnica narrativa", "po oq é técnica narrativa",
+        "conceito de técnica narrativa", "conceito técnica narrativa", "significado técnica narrativa",
+        "explicação de técnica narrativa", "explicação técnica narrativa", "definição técnica narrativa",
+        "elementos narrativos", "recursos narrativos", "procedimentos narrativos", "estratégias narrativas"
+      ],
+      "responses": [
+        "Técnica narrativa é o CONJUNTO DE RECURSOS E PROCEDIMENTOS que o autor utiliza para contar uma história. Inclui escolha do narrador, foco narrativo, tempo, espaço, construção de personagens, linguagem, ritmo e estrutura do enredo. São as ferramentas que dão forma e estilo à narrativa literária.",
+        "São os MÉTODOS E ESTRATÉGIAS usados pelo escritor para organizar e apresentar a história ao leitor. Abrange aspectos como ponto de vista (1ª ou 3ª pessoa), sequência temporal (linear ou não-linear), caracterização dos personagens, uso de diálogos, descrições e o modo como o conflito é desenvolvido e resolvido."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnica_narrativa_quando",
+      "patterns": [
+        "quando surgiu técnica narrativa", "quando apareceu técnica narrativa", "quando começou técnica narrativa",
+        "quando foi criada técnica narrativa", "quando se desenvolveu técnica narrativa", "quando técnica narrativa foi inventada",
+        "em que época surgiu técnica narrativa", "em que período apareceu técnica narrativa", "em que tempo começou técnica narrativa",
+        "que ano surgiu técnica narrativa", "que século surgiu técnica narrativa", "que época surgiu técnica narrativa",
+        "quando técnica narrativa se popularizou", "quando técnica narrativa ficou famosa", "quando técnica narrativa se espalhou",
+        "quando começou ser usada técnica narrativa", "quando técnica narrativa virou comum", "quando técnica narrativa se estabeleceu",
+        "desde quando existe técnica narrativa", "há quanto tempo existe técnica narrativa", "faz quanto tempo surgiu técnica narrativa",
+        "quando técnica narrativa chegou ao brasil", "quando brasil começou usar técnica narrativa", "quando técnica narrativa brasileira começou",
+        "em que momento histórico surgiu técnica narrativa", "em que contexto surgiu técnica narrativa", "em qual fase surgiu técnica narrativa",
+        
+        "qdo surgiu técnica narrativa", "qdo apareceu técnica narrativa", "qdo começou técnica narrativa",
+        "q ano surgiu técnica narrativa", "q século surgiu técnica narrativa", "q época surgiu técnica narrativa",
+        "origem da técnica narrativa", "história da técnica narrativa", "evolução da técnica narrativa", "desenvolvimento técnica narrativa",
+        "antiguidade e técnica narrativa", "idade média e técnica narrativa", "renascimento e técnica narrativa", "barroco e técnica narrativa",
+        "romantismo e técnica narrativa", "realismo e técnica narrativa", "modernismo e técnica narrativa", "técnica narrativa contemporânea",
+        "século XX e técnica narrativa", "século XXI e técnica narrativa", "épocas da técnica narrativa"
+      ],
+      "responses": [
+        "As técnicas narrativas evoluíram gradualmente: começaram na ANTIGUIDADE com Homero (Ilíada, Odisséia), desenvolveram-se na Idade Média (narrativas cavaleirescas), consolidaram-se no SÉCULO XVIII-XIX (romance moderno) e se sofisticaram no SÉCULO XX com experimentações modernistas e pós-modernas.",
+        "Desenvolveram-se ao longo da história literária: Antiguidade (epopéias), Idade Média (novelas), Renascimento (narrativas complexas), mas as TÉCNICAS MODERNAS surgiram nos séculos XVIII-XIX e se revolucionaram no SÉCULO XX com autores como Joyce, Kafka, Proust, que criaram novas formas de narrar."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnica_narrativa_onde",
+      "patterns": [
+        "onde surgiu técnica narrativa", "onde apareceu técnica narrativa", "onde começou técnica narrativa",
+        "onde foi criada técnica narrativa", "onde se desenvolveu técnica narrativa", "onde técnica narrativa foi inventada",
+        "em que lugar surgiu técnica narrativa", "em que local apareceu técnica narrativa", "em que região começou técnica narrativa",
+        "em que país surgiu técnica narrativa", "em que nação apareceu técnica narrativa", "em qual território começou técnica narrativa",
+        "onde técnica narrativa se popularizou", "onde técnica narrativa ficou famosa", "onde técnica narrativa se espalhou",
+        "onde mais se usa técnica narrativa", "onde técnica narrativa é mais comum", "onde técnica narrativa é mais popular",
+        "onde estudar técnica narrativa", "onde aprender técnica narrativa", "onde ensinar técnica narrativa",
+        "onde técnica narrativa brasileira surgiu", "onde começou técnica narrativa no brasil", "onde técnica narrativa nacional começou",
+        
+        "aonde surgiu técnica narrativa", "aonde apareceu técnica narrativa", "aonde começou técnica narrativa",
+        "em q lugar surgiu técnica narrativa", "em q país surgiu técnica narrativa", "em qual territórios começou técnica narrativa",
+        "grécia e técnica narrativa", "roma e técnica narrativa", "europa e técnica narrativa", "frança e técnica narrativa",
+        "inglaterra e técnica narrativa", "alemanha e técnica narrativa", "brasil e técnica narrativa", "portugal e técnica narrativa",
+        "rio de janeiro e técnica narrativa", "são paulo e técnica narrativa", "minas gerais e técnica narrativa",
+        "centros literários técnica narrativa", "escolas literárias técnica narrativa"
+      ],
+      "responses": [
+        "As técnicas narrativas surgiram na GRÉCIA ANTIGA (Homero), desenvolveram-se em ROMA, evoluíram na Europa Medieval, consolidaram-se na FRANÇA e INGLATERRA (séculos XVII-XIX). No Brasil, chegaram com o colonialismo português e se nacionalizaram no século XIX com o ROMANTISMO.",
+        "Originaram-se no MUNDO CLÁSSICO (Grécia/Roma), aperfeiçoaram-se na EUROPA (França, Inglaterra, Alemanha, Rússia) e se espalharam mundialmente. No Brasil, concentraram-se inicialmente no RIO DE JANEIRO e SÃO PAULO, depois se difundiram por todas as regiões através da literatura nacional."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnica_narrativa_quem",
+      "patterns": [
+        "quem criou técnica narrativa", "quem inventou técnica narrativa", "quem desenvolveu técnica narrativa",
+        "quem foram os primeiros a usar técnica narrativa", "quem escreveu primeira técnica narrativa", "quem começou técnica narrativa",
+        "quem são os grandes mestres técnica narrativa", "quem são mestres da técnica narrativa", "quem são principais técnica narrativa",
+        "quem usa técnica narrativa", "quem aplica técnica narrativa", "quem faz técnica narrativa",
+        "quem são escritores técnica narrativa brasil", "quem usa técnica narrativa no brasil", "quem faz técnica narrativa no brasil",
+        "quem foi machado de assis", "quem foi josé de alencar", "quem foi joaquim manuel de macedo",
+        "quem foi clarice lispector", "quem foi guimarães rosa", "quem foi graciliano ramos",
+        "quem foi jorge amado", "quem foi érico veríssimo", "quem foi lima barreto",
+        "quem são mestres técnica narrativa", "quem são grandes nomes técnica narrativa", "quem popularizou técnica narrativa",
+        
+        "qm criou técnica narrativa", "qm inventou técnica narrativa", "qm desenvolveu técnica narrativa",
+        "qm foram primeiros técnica narrativa", "qm escreveu primeira técnica narrativa", "qm começou técnica narrativa",
+        "qm são grandes mestres técnica narrativa", "qm são mestres técnica narrativa", "qm são principais técnica narrativa",
+        "qm usa técnica narrativa", "qm aplica técnica narrativa", "qm faz técnica narrativa",
+        "autores técnica narrativa", "escritores técnica narrativa", "mestres narrativa", "grandes narradores",
+        "inovadores técnica narrativa", "pioneiros técnica narrativa", "revolucionários técnica narrativa"
+      ],
+      "responses": [
+        "Grandes mestres da técnica narrativa incluem: MACHADO DE ASSIS (inovador brasileiro), Clarice Lispector, Guimarães Rosa (experimentação linguística), internacionalmente James Joyce, Marcel Proust, Franz Kafka, Dostoiévski, Tolstói, Flaubert - todos revolucionaram formas de narrar e construir personagens.",
+        "Principais nomes: MACHADO DE ASSIS (técnicas sofisticadas), CLARICE LISPECTOR (fluxo de consciência), GUIMARÃES ROSA (linguagem inventiva), José de Alencar, Lima Barreto, Graciliano Ramos, Jorge Amado - cada um contribuiu com inovações técnicas específicas para a narrativa brasileira e mundial."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnica_narrativa_por_que",
+      "patterns": [
+        "por que existe técnica narrativa", "por que foi criada técnica narrativa", "por que surgiu técnica narrativa",
+        "por que técnica narrativa é importante", "por que técnica narrativa é necessária", "por que técnica narrativa é útil",
+        "por que usar técnica narrativa", "por que aplicar técnica narrativa", "por que estudar técnica narrativa",
+        "motivos da técnica narrativa", "razões da técnica narrativa", "causas da técnica narrativa",
+        "fatores que levaram à técnica narrativa", "o que causou técnica narrativa", "o que motivou técnica narrativa",
+        "por que escritores usam técnica narrativa", "por que autores preferem técnica narrativa", "por que literatura usa técnica narrativa",
+        "vantagens da técnica narrativa", "benefícios da técnica narrativa", "importância da técnica narrativa",
+        "finalidade da técnica narrativa", "objetivo da técnica narrativa", "propósito da técnica narrativa",
+        
+        "pq existe técnica narrativa", "pq foi criada técnica narrativa", "pq surgiu técnica narrativa",
+        "pq técnica narrativa é importante", "pq técnica narrativa é necessária", "pq técnica narrativa é útil",
+        "pq usar técnica narrativa", "pq aplicar técnica narrativa", "pq estudar técnica narrativa",
+        "motivos técnica narrativa", "razões técnica narrativa", "causas técnica narrativa",
+        "pq escritores usam técnica narrativa", "pq autores preferem técnica narrativa", "pq literatura usa técnica narrativa",
+        "vantagens técnica narrativa", "benefícios técnica narrativa", "importância técnica narrativa",
+        "finalidade técnica narrativa", "objetivo técnica narrativa", "propósito técnica narrativa",
+        "função da técnica narrativa", "utilidade técnica narrativa", "serventia técnica narrativa"
+      ],
+      "responses": [
+        "A técnica narrativa existe porque permite ao autor CONTROLAR COMO A HISTÓRIA É CONTADA: escolher o melhor ângulo de visão, criar suspense, desenvolver personagens convincentes, construir atmosfera adequada, manipular o tempo narrativo e envolver emocionalmente o leitor de forma mais eficaz.",
+        "É fundamental para QUALIDADE LITERÁRIA: sem técnica, a narrativa fica confusa, superficial e desinteressante. As técnicas permitem criar obras envolventes, personagens complexos, enredos bem estruturados, linguagem adequada ao tema e IMPACTO ESTÉTICO-EMOCIONAL no leitor, diferenciando literatura de simples relato de fatos."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnica_narrativa_como",
+      "patterns": [
+        "como funciona técnica narrativa", "como é feita técnica narrativa", "como se aplica técnica narrativa",
+        "como é estrutura da técnica narrativa", "como é organizada técnica narrativa", "como é construída técnica narrativa",
+        "como identificar técnica narrativa", "como reconhecer técnica narrativa", "como saber se é técnica narrativa",
+        "como usar técnica narrativa", "como aplicar técnica narrativa", "como desenvolver técnica narrativa",
+        "como estudar técnica narrativa", "como aprender técnica narrativa", "como ensinar técnica narrativa",
+        "como técnica narrativa funciona", "como técnica narrativa opera", "como técnica narrativa atua",
+        "como é processo da técnica narrativa", "como é método da técnica narrativa", "como é sistema da técnica narrativa",
+        "como técnica narrativa constrói história", "como técnica narrativa desenvolve enredo", "como técnica narrativa cria personagens",
+        
+        "cm funciona técnica narrativa", "cm é feita técnica narrativa", "cm se aplica técnica narrativa",
+        "cm é estrutura técnica narrativa", "cm é organizada técnica narrativa", "cm é construída técnica narrativa",
+        "cm identificar técnica narrativa", "cm reconhecer técnica narrativa", "cm saber se é técnica narrativa",
+        "cm usar técnica narrativa", "cm aplicar técnica narrativa", "cm desenvolver técnica narrativa",
+        "de que forma funciona técnica narrativa", "de que maneira é feita técnica narrativa", "de que jeito se aplica técnica narrativa",
+        "processo da técnica narrativa", "metodologia técnica narrativa", "sistema técnica narrativa",
+        "mecanismo técnica narrativa", "funcionamento técnica narrativa", "operação técnica narrativa"
+      ],
+      "responses": [
+        "A técnica narrativa funciona através da COMBINAÇÃO DE ELEMENTOS: escolha do narrador (1ª, 2ª ou 3ª pessoa), foco narrativo (onisciente, observador, personagem), tempo (cronológico ou psicológico), espaço, construção de personagens (planos/redondos), linguagem adequada e estrutura do enredo (situação inicial, conflito, clímax, desfecho).",
+        "Opera mediante ESTRATÉGIAS ESPECÍFICAS: controle do ponto de vista, manipulação temporal (flashback, antecipação), caracterização direta/indireta dos personagens, uso de diálogos, monólogo interior, descrições ambientais, ritmo narrativo (lento/rápido) e RECURSOS ESTILÍSTICOS que criam o efeito desejado no leitor."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnica_narrativa_tipos",
+      "patterns": [
+        "quais são os tipos de técnica narrativa", "quais tipos de técnica narrativa existem", "quais são as formas de técnica narrativa",
+        "que tipos de técnica narrativa têm", "que formas de técnica narrativa existem", "que espécies de técnica narrativa há",
+        "classificação da técnica narrativa", "categorias de técnica narrativa", "divisões da técnica narrativa",
+        "modalidades de técnica narrativa", "variedades de técnica narrativa", "espécies técnica narrativa",
+        "foco narrativo", "ponto de vista narrativo", "narrador onisciente", "narrador observador",
+        "narrador personagem", "narrador protagonista", "primeira pessoa", "terceira pessoa",
+        "tempo cronológico", "tempo psicológico", "flashback", "analepse", "prolepse",
+        "discurso direto", "discurso indireto", "discurso indireto livre", "monólogo interior",
+        "caracterização direta", "caracterização indireta", "personagem plano", "personagem redondo",
+        "enredo linear", "enredo não-linear", "estrutura narrativa", "técnicas descritivas",
+        
+        "quais são tipos técnica narrativa", "quais tipos técnica narrativa existem", "quais são formas técnica narrativa",
+        "q tipos técnica narrativa têm", "q formas técnica narrativa existem", "q espécies técnica narrativa há",
+        "classificação técnica narrativa", "categorias técnica narrativa", "divisões técnica narrativa",
+        "diferentes tipos técnica narrativa", "vários tipos técnica narrativa", "diversos tipos técnica narrativa",
+        "principais tipos técnica narrativa", "principais formas técnica narrativa", "elementos técnica narrativa"
+      ],
+      "responses": [
+        "Os principais tipos incluem: FOCO NARRATIVO (1ª pessoa-protagonista/testemunha, 3ª pessoa-onisciente/observador), TEMPO (cronológico, psicológico, flashback), DISCURSO (direto, indireto, indireto livre), CARACTERIZAÇÃO (direta/indireta), ESTRUTURA (linear, circular, in medias res) e LINGUAGEM (culta, coloquial, regional).",
+        "Divide-se em: TÉCNICAS DE PONTO DE VISTA (onisciente, câmera, personagem), TEMPORAIS (analepse, prolepse, simultaneidade), ESPACIAIS (ambiente físico/psicológico), DE PERSONAGEM (plano/redondo, caracterização direta/indireta), DISCURSIVAS (monólogo interior, fluxo de consciência) e ESTRUTURAIS (enredo linear/fragmentado)."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnica_narrativa_exemplos",
+      "patterns": [
+        "exemplos de técnica narrativa", "exemplo de técnica narrativa", "mostra exemplo técnica narrativa",
+        "dá exemplo de técnica narrativa", "me dá exemplo técnica narrativa", "me mostra exemplo técnica narrativa",
+        "tem exemplo de técnica narrativa", "há exemplo de técnica narrativa", "existe exemplo técnica narrativa",
+        "quais são exemplos técnica narrativa", "quais exemplos técnica narrativa", "que exemplos técnica narrativa",
+        "obras com técnica narrativa", "livros com técnica narrativa", "textos com técnica narrativa",
+        "técnica narrativa brasileira exemplos", "técnica narrativa nacional exemplos", "técnica narrativa literatura brasileira exemplos",
+        "dom casmurro técnica narrativa", "memórias póstumas técnica narrativa", "grande sertão veredas técnica narrativa",
+        "perto do coração selvagem técnica narrativa", "vidas secas técnica narrativa", "o cortiço técnica narrativa",
+        "técnica narrativa machado de assis", "técnica narrativa clarice lispector", "técnica narrativa guimarães rosa",
+        
+        "exemplos técnica narrativa", "exemplo técnica narrativa", "mostra exemplo técnica narrativa",
+        "dá exemplo técnica narrativa", "me dá exemplo técnica narrativa", "me mostra exemplo técnica narrativa",
+        "tem exemplo técnica narrativa", "há exemplo técnica narrativa", "existe exemplo técnica narrativa",
+        "obras técnica narrativa", "livros técnica narrativa", "textos técnica narrativa",
+        "cita exemplos técnica narrativa", "menciona exemplos técnica narrativa", "lista exemplos técnica narrativa",
+        "fala exemplos técnica narrativa", "conta exemplos técnica narrativa", "apresenta exemplos técnica narrativa",
+        "casos técnica narrativa", "modelos técnica narrativa", "amostras técnica narrativa"
+      ],
+      "responses": [
+        "Exemplos clássicos: 'Dom Casmurro' (narrador não-confiável), 'Memórias Póstumas de Brás Cubas' (narrador defunto), 'Grande Sertão: Veredas' (monólogo interior), 'Perto do Coração Selvagem' (fluxo de consciência), 'Vidas Secas' (3ª pessoa onisciente), 'O Cortiço' (naturalismo descritivo).",
+        "Técnicas marcantes: MACHADO DE ASSIS (ironia, narrador não-confiável, digressões), CLARICE LISPECTOR (introspecção psicológica, epifania), GUIMARÃES ROSA (linguagem inventiva, oralidade), GRACILIANO RAMOS (economia verbal, foco interno), JORGE AMADO (narração épica, regionalismo)."
+      ]
+    }
+  ]
+}

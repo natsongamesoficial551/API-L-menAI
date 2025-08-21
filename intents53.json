@@ -1,0 +1,241 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_socialismo_que",
+      "patterns": [
+        "o que é socialismo", "o que foi o socialismo", "o que significa socialismo", "o que quer dizer socialismo",
+        "que negócio é esse de socialismo", "que história é essa de socialismo", "que parada é socialismo",
+        "que coisa é socialismo mesmo", "que diabos é socialismo", "que raios é socialismo",
+        "afinal o que é socialismo", "mas o que é socialismo", "então o que é socialismo",
+        "cara o que é socialismo", "mano o que é socialismo", "véi o que é socialismo",
+        "me explica o que é socialismo", "me conta o que é socialismo", "me fala o que é socialismo",
+        "explica aí o que é socialismo", "conta aí o que é socialismo", "fala aí o que é socialismo",
+        "qual é a do socialismo", "qual é a história do socialismo", "qual é a parada do socialismo",
+        "como assim socialismo", "tipo assim o que é socialismo", "quer dizer o que é socialismo",
+        "pô o que é socialismo", "poxa o que é socialismo", "caramba o que é socialismo",
+        "nossa o que é socialismo", "eita o que é socialismo", "opa o que é socialismo",
+        "rapaz o que é socialismo", "cara de pau o que é socialismo", "sem brincadeira o que é socialismo",
+        "de verdade o que é socialismo", "sério mesmo o que é socialismo", "real o que é socialismo",
+        "na moral o que é socialismo", "na boa o que é socialismo", "numa boa o que é socialismo",
+        "tá mas o que é socialismo", "ok mas o que é socialismo", "beleza mas o que é socialismo",
+        "hmm o que é socialismo", "bom o que é socialismo", "enfim o que é socialismo",
+        "resumindo o que é socialismo", "basicamente o que é socialismo", "fundamentalmente o que é socialismo",
+        "professor o que é socialismo", "mestre o que é socialismo", "doutor o que é socialismo",
+        "gente o que é socialismo", "pessoal o que é socialismo", "galera o que é socialismo",
+        "oxe o que é socialismo", "uai o que é socialismo", "ué o que é socialismo",
+        "bah o que é socialismo", "tche o que é socialismo", "capaz o que é socialismo",
+        "caraca o que é socialismo", "puts o que é socialismo", "putz o que é socialismo",
+        
+        "oq é socialismo", "oq foi socialismo", "oque é socialismo", "oque foi socialismo",
+        "q é socialismo", "q foi socialismo", "que é socialismo",
+        "socialismo é oq", "socialismo oq é", "socialismo foi oq", "socialismo oq foi",
+        "socialismo é q", "socialismo q é", "socialismo foi q", "socialismo q foi",
+        "eh socialismo", "é socialismo msm", "eh socialismo msm", "é socialismo memo",
+        "q eh socialismo", "que eh socialismo", "oq eh socialismo", "oque eh socialismo",
+        "oq significa socialismo", "oque significa socialismo", "q significa socialismo",
+        "oq quer dizer socialismo", "q quer dizer socialismo", "oque quer dizer socialismo",
+        "me explica oq é socialismo", "me fala oq é socialismo", "me conta oq é socialismo",
+        "explica oq é socialismo", "fala oq é socialismo", "conta oq é socialismo",
+        "cara oq é socialismo", "mano oq é socialismo", "vei oq é socialismo",
+        "bicho oq é socialismo", "rapaz oq é socialismo", "gente oq é socialismo",
+        "po oq é socialismo", "pô oq é socialismo", "poxa oq é socialismo",
+        "caramba oq é socialismo", "caraca oq é socialismo", "nossa oq é socialismo",
+        "eita oq é socialismo", "opa oq é socialismo", "uai oq é socialismo",
+        "oxe oq é socialismo", "ué oq é socialismo", "bah oq é socialismo",
+        "na moral oq é socialismo", "na boa oq é socialismo", "de boa oq é socialismo",
+        "sério oq é socialismo", "real oq é socialismo", "tipo oq é socialismo",
+        "então oq é socialismo", "ent oq é socialismo", "mas oq é socialismo",
+        "tá mas oq é socialismo", "ta mas oq é socialismo", "ok mas oq é socialismo",
+        "beleza mas oq é socialismo", "blz mas oq é socialismo", "bom oq é socialismo",
+        "enfim oq é socialismo", "resumindo oq é socialismo", "basicamente oq é socialismo",
+        "professor oq é socialismo", "prof oq é socialismo", "mestre oq é socialismo",
+        "pessoal oq é socialismo", "galera oq é socialismo", "turma oq é socialismo",
+        "nego oq é socialismo", "povo oq é socialismo", "geral oq é socialismo",
+        "alguém sabe oq é socialismo", "ngm sabe oq é socialismo", "ninguém sabe oq é socialismo",
+        "vc sabe oq é socialismo", "você sabe oq é socialismo", "tu sabe oq é socialismo",
+        "cê sabe oq é socialismo", "vocês sabem oq é socialismo", "vcs sabem oq é socialismo",
+        "quem sabe oq é socialismo", "qm sabe oq é socialismo", "qual é do socialismo",
+        "qual a do socialismo", "qual eh a do socialismo", "qual é a parada do socialismo",
+        "qual a parada do socialismo", "qual eh o conceito de socialismo",
+        "qual é o conceito de socialismo", "qual o conceito de socialismo",
+        "define socialismo", "define socialismo aí", "define socialismo pra mim",
+        "conceito de socialismo", "conceito socialismo", "significado socialismo",
+        "explicação de socialismo", "explicação socialismo", "definição socialismo",
+        "o socialismo é oq", "o socialismo oq é", "esse socialismo é oq",
+        "essa parada de socialismo é oq", "esse negócio de socialismo é oq", "essa coisa de socialismo é oq",
+        
+        "marxismo", "comunismo", "karl marx", "engels", "propriedade coletiva", "igualdade social",
+        "luta de classes", "proletariado", "meios de produção", "economia planificada", "estado socialista",
+        "socialismo científico", "socialismo utópico", "mais-valia", "revolução socialista"
+      ],
+      "responses": [
+        "Socialismo é um sistema econômico e político onde os meios de produção (fábricas, terras, empresas) pertencem à coletividade, não a indivíduos. Busca maior igualdade social através da distribuição mais justa da riqueza e do controle democrático da economia.",
+        "É uma ideologia política criada por Karl Marx e Engels que propõe a propriedade coletiva dos meios de produção, eliminação das classes sociais e uma sociedade mais igualitária, onde o Estado coordena a economia em benefício de todos."
+      ]
+    },
+    {
+      "intent": "o_que_e_socialismo_quem",
+      "patterns": [
+        "quem criou o socialismo", "quem inventou o socialismo", "quem fundou o socialismo",
+        "quem desenvolveu o socialismo", "quem teorizou o socialismo", "quem escreveu sobre socialismo",
+        "quem defende o socialismo", "quem apoia o socialismo", "quem pratica socialismo",
+        "quem vive no socialismo", "quem governa países socialistas", "quem lidera movimentos socialistas",
+        "quem estuda socialismo", "quem ensina socialismo", "quem pesquisa socialismo",
+        "quem critica o socialismo", "quem é contra socialismo", "quem combate socialismo",
+        "quem se beneficia do socialismo", "quem perde com socialismo", "quem ganha com socialismo",
+        "quem são os socialistas", "quem pode ser socialista", "quem adere ao socialismo",
+        "quem vota em socialistas", "quem milita no socialismo", "quem trabalha pelo socialismo",
+        
+        "qm criou socialismo", "qm inventou socialismo", "qm fundou socialismo",
+        "qm desenvolveu socialismo", "qm teorizou socialismo", "qm escreveu sobre socialismo",
+        "qm defende socialismo", "qm apoia socialismo", "qm pratica socialismo",
+        "qm vive socialismo", "qm governa países socialistas", "qm lidera movimentos socialistas",
+        "qm estuda socialismo", "qm ensina socialismo", "qm pesquisa socialismo",
+        "qm critica socialismo", "qm é contra socialismo", "qm combate socialismo",
+        "qm se beneficia socialismo", "qm perde socialismo", "qm ganha socialismo",
+        "qm são socialistas", "qm pode ser socialista", "qm adere socialismo",
+        "qm vota socialistas", "qm milita socialismo", "qm trabalha pelo socialismo",
+        "todo mundo pode ser socialista", "qualquer um pode aderir", "geral pode apoiar",
+        "karl marx", "friedrich engels", "lenin", "stalin", "mao tse-tung", "fidel castro",
+        "che guevara", "salvador allende", "hugo chávez", "evo morales", "lula", "dilma"
+      ],
+      "responses": [
+        "O socialismo foi teorizado principalmente por Karl Marx e Friedrich Engels no século XIX. Líderes como Lenin, Mao Tse-Tung, Fidel Castro e outros implementaram versões em seus países. Qualquer pessoa pode defender ideais socialistas de igualdade e justiça social.",
+        "Criado intelectualmente por Marx e Engels, foi posto em prática por revolucionários como Lenin na Rússia, Mao na China, Fidel em Cuba. Hoje é defendido por partidos de esquerda, sindicatos e movimentos sociais ao redor do mundo."
+      ]
+    },
+    {
+      "intent": "o_que_e_socialismo_onde",
+      "patterns": [
+        "onde existe socialismo", "onde tem socialismo", "onde há países socialistas",
+        "onde foi aplicado socialismo", "onde funcionou o socialismo", "onde deu certo socialismo",
+        "onde nasceu o socialismo", "onde surgiu socialismo", "onde começou socialismo",
+        "onde se desenvolveu socialismo", "onde se espalhou socialismo", "onde chegou socialismo",
+        "em que país tem socialismo", "em qual lugar existe socialismo", "em que região há socialismo",
+        "socialismo existe onde", "socialismo tem onde", "socialismo funciona onde",
+        "cuba tem socialismo", "china é socialista", "venezuela é socialista",
+        "norte da europa socialismo", "países nórdicos socialismo", "brasil tem socialismo",
+        
+        "aonde existe socialismo", "aonde tem socialismo", "aonde há países socialistas",
+        "aonde foi aplicado socialismo", "aonde funcionou socialismo", "aonde deu certo socialismo",
+        "kd existe socialismo", "cadê países socialistas", "onde q existe socialismo",
+        "onde q tem socialismo", "onde q há socialismo", "onde q funciona socialismo",
+        "aonde q existe socialismo", "aonde q tem socialismo", "aonde q há socialismo",
+        "em q país tem socialismo", "em q lugar existe socialismo", "em q região há socialismo",
+        "cuba", "china", "venezuela", "vietnã", "coreia do norte", "laos",
+        "ex-união soviética", "alemanha oriental", "iugoslávia", "checoslováquia",
+        "suécia", "noruega", "dinamarca", "finlândia", "islândia", "portugal"
+      ],
+      "responses": [
+        "Países com sistemas socialistas incluem Cuba, China, Vietnã, Laos e Coreia do Norte. Historicamente existiu na União Soviética, Alemanha Oriental e Leste Europeu. Países nórdicos como Suécia e Noruega têm características socialistas com economia mista.",
+        "Atualmente funciona em Cuba, China (com economia mista), Vietnã e outros. No passado existiu na URSS e Leste Europeu. Muitos países europeus adotam políticas socialistas como saúde pública e educação gratuita."
+      ]
+    },
+    {
+      "intent": "o_que_e_socialismo_cujo",
+      "patterns": [
+        "socialismo cujo objetivo é igualdade", "sistema cujo foco é justiça social", "ideologia cuja meta é fim das classes",
+        "teoria cujo propósito é bem comum", "movimento cuja luta é pelos trabalhadores", "doutrina cujo ideal é coletividade",
+        "regime cujo princípio é propriedade coletiva", "modelo cujo fundamento é cooperação", "sociedade cuja base é solidariedade",
+        "economia cuja característica é planificação", "política cuja essência é participação popular", "governo cujo controle é democrático",
+        "país cujo sistema é socialista", "nação cuja estrutura é coletivista", "estado cuja organização é igualitária",
+        "partido cujo programa é socialista", "grupo cujas ideias são socialistas", "pessoa cujas convicções são socialistas",
+        "pensador cujas obras tratam socialismo", "autor cujos livros explicam socialismo", "filósofo cujas teorias fundamentam socialismo"
+      ],
+      "responses": [
+        "O socialismo é um sistema cujos princípios fundamentais são a propriedade coletiva dos meios de produção, igualdade social e distribuição justa da riqueza.",
+        "É uma ideologia cujo objetivo central é criar uma sociedade mais justa e igualitária através da eliminação da exploração capitalista."
+      ]
+    },
+    {
+      "intent": "o_que_e_socialismo_qual",
+      "patterns": [
+        "quais tipos de socialismo existem", "qual diferença entre socialismo e comunismo", "quais características do socialismo",
+        "qual objetivo do socialismo", "qual proposta do socialismo", "quais princípios do socialismo",
+        "quais vantagens do socialismo", "quais desvantagens do socialismo", "quais problemas do socialismo",
+        "qual diferença socialismo e capitalismo", "quais países socialistas hoje", "quais exemplos de socialismo",
+        "qual socialismo melhor", "qual tipo mais eficiente", "quais formas de socialismo",
+        "qual partido socialista brasil", "qual política socialista", "quais líderes socialistas",
+        "qual economia socialista", "qual sociedade socialista", "qual governo socialista",
+        "quais direitos no socialismo", "quais benefícios socialismo", "quais garantias sociais",
+        
+        "q tipos socialismo existem", "q diferença socialismo comunismo", "q características socialismo",
+        "q objetivo socialismo", "q proposta socialismo", "q princípios socialismo",
+        "q vantagens socialismo", "q desvantagens socialismo", "q problemas socialismo",
+        "q diferença socialismo capitalismo", "q países socialistas hoje", "q exemplos socialismo",
+        "q socialismo melhor", "q tipo mais eficiente", "q formas socialismo",
+        "q partido socialista brasil", "q política socialista", "q líderes socialistas",
+        "q economia socialista", "q sociedade socialista", "q governo socialista",
+        "q direitos socialismo", "q benefícios socialismo", "q garantias sociais",
+        "quais eh tipos socialismo", "qual eh diferença socialismo comunismo", "quais eh características",
+        "socialismo científico qual", "socialismo utópico qual", "socialismo democrático qual",
+        "social-democracia qual diferença", "socialismo de mercado qual", "ecosocialismo qual"
+      ],
+      "responses": [
+        "Principais tipos: socialismo científico (marxista), utópico (primeiros teóricos), democrático (via eleições), de mercado (China) e ecosocialismo. Características: propriedade coletiva, igualdade social, economia planificada, Estado forte, direitos trabalhistas garantidos.",
+        "Diferença do capitalismo: meios de produção coletivos vs privados. Do comunismo: no socialismo ainda existe Estado e classes. Vantagens: menos desigualdade, direitos garantidos. Críticas: menor liberdade econômica, possível ineficiência estatal."
+      ]
+    },
+    {
+      "intent": "o_que_e_socialismo_quanto",
+      "patterns": [
+        "quantos países socialistas existem", "quantos tipos de socialismo têm", "quantas pessoas vivem no socialismo",
+        "quanto tempo durou socialismo soviético", "quantos anos durou urss", "quanto tempo existiu socialismo real",
+        "quantos partidos socialistas no brasil", "quantas vezes pt ganhou eleição", "quantos votos teve lula",
+        "quanto custa implementar socialismo", "quanto investimento precisa", "quantos recursos são necessários",
+        "quantos empregos cria socialismo", "quanto aumenta salário", "quantos benefícios sociais",
+        "quantas horas trabalha no socialismo", "quanto ganha operário socialista", "quantos direitos têm",
+        "quantos livros marx escreveu", "quantas obras sobre socialismo", "quantos teóricos socialistas",
+        "quanto tempo para transição", "quantos anos leva mudança", "quantas etapas tem processo",
+        
+        "qts países socialistas existem", "qtos tipos socialismo têm", "qtas pessoas vivem socialismo",
+        "qto tempo durou socialismo soviético", "qtos anos durou urss", "qto tempo existiu socialismo real",
+        "qtos partidos socialistas brasil", "qtas vezes pt ganhou eleição", "qtos votos teve lula",
+        "qto custa implementar socialismo", "qto investimento precisa", "qtos recursos necessários",
+        "qtos empregos cria socialismo", "qto aumenta salário", "qtos benefícios sociais",
+        "qtas horas trabalha socialismo", "qto ganha operário socialista", "qtos direitos têm",
+        "qtos livros marx escreveu", "qtas obras sobre socialismo", "qtos teóricos socialistas",
+        "qto tempo pra transição", "qtos anos leva mudança", "qtas etapas tem processo",
+        "quantos eh países socialistas", "quantas eh pessoas vivem socialismo", "quanto eh tempo durou",
+        "são quantos países", "tem quantos tipos", "existem quantas formas",
+        "ao todo quantos anos", "no total quantas décadas", "durou quantos séculos"
+      ],
+      "responses": [
+        "Atualmente cerca de 5 países são considerados socialistas: Cuba, China, Vietnã, Laos e Coreia do Norte, somando mais de 1,5 bilhão de pessoas. A URSS durou 69 anos (1922-1991) como principal exemplo histórico.",
+        "Existem dezenas de tipos e variações socialistas. Marx escreveu centenas de obras. O processo de transição pode levar décadas. Hoje bilhões vivem sob alguma forma de política socialista (saúde pública, educação gratuita, etc.)."
+      ]
+    },
+    {
+      "intent": "o_que_e_socialismo_como",
+      "patterns": [
+        "como funciona o socialismo", "como é viver no socialismo", "como implementar socialismo",
+        "como surgiu o socialismo", "como se espalhou socialismo", "como evoluiu socialismo",
+        "como estudar socialismo", "como aprender sobre socialismo", "como entender socialismo",
+        "como é economia socialista", "como é sociedade socialista", "como é governo socialista",
+        "como é trabalhar no socialismo", "como é educação socialista", "como é saúde socialista",
+        "como chegar ao socialismo", "como fazer revolução socialista", "como construir socialismo",
+        "como se tornar socialista", "como aderir socialismo", "como apoiar socialismo",
+        "como funciona propriedade coletiva", "como é distribuição de renda", "como é planificação econômica",
+        
+        "cm funciona socialismo", "cm é viver socialismo", "cm implementar socialismo",
+        "cm surgiu socialismo", "cm se espalhou socialismo", "cm evoluiu socialismo",
+        "cm estudar socialismo", "cm aprender socialismo", "cm entender socialismo",
+        "cm é economia socialista", "cm é sociedade socialista", "cm é governo socialista",
+        "cm é trabalhar socialismo", "cm é educação socialista", "cm é saúde socialista",
+        "cm chegar ao socialismo", "cm fazer revolução socialista", "cm construir socialismo",
+        "cm se tornar socialista", "cm aderir socialismo", "cm apoiar socialismo",
+        "cm funciona propriedade coletiva", "cm é distribuição renda", "cm é planificação econômica",
+        "como eh funciona socialismo", "como eh é viver socialismo", "como eh implementar",
+        "como q funciona socialismo", "como q é viver socialismo", "como q implementar",
+        "como faz pra implementar socialismo", "como faz pra viver socialismo",
+        "cm faz pra implementar socialismo", "cm faz pra viver socialismo",
+        "como é que funciona", "como é q funciona", "como eh q funciona",
+        "cm eh que funciona", "cm é que funciona", "cm é q funciona"
+      ],
+      "responses": [
+        "No socialismo o Estado controla os principais meios de produção (fábricas, bancos, recursos naturais) e planifica a economia. Há propriedade coletiva, distribuição mais igualitária de renda, serviços públicos universais (saúde, educação) e maior participação popular nas decisões.",
+        "Funciona através da eliminação gradual da propriedade privada dos meios de produção, criação de empresas estatais ou cooperativas, planejamento econômico central, redistribuição de riqueza e construção de uma sociedade sem classes sociais extremas."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_realismo_que",
+      "patterns": [
+        "o que é realismo", "o que significa realismo", "o que quer dizer realismo", "o que são características do realismo",
+        "que negócio é esse de realismo", "que história é essa de realismo", "que parada é realismo",
+        "que coisa é realismo mesmo", "que diabos é realismo", "que raios é realismo",
+        "afinal o que é realismo", "mas o que é realismo", "então o que é realismo",
+        "cara o que é realismo", "mano o que é realismo", "véi o que é realismo",
+        "me explica o que é realismo", "me conta o que é realismo", "me fala o que é realismo",
+        "explica aí o que é realismo", "conta aí o que é realismo", "fala aí o que é realismo",
+        "qual é a do realismo", "qual é a história do realismo", "qual é a parada do realismo",
+        "como assim realismo", "tipo assim o que é realismo", "quer dizer o que é realismo",
+        "pô o que é realismo", "poxa o que é realismo", "caramba o que é realismo",
+        "nossa o que é realismo", "eita o que é realismo", "opa o que é realismo",
+        "rapaz o que é realismo", "cara de pau o que é realismo", "sem brincadeira o que é realismo",
+        "de verdade o que é realismo", "sério mesmo o que é realismo", "real o que é realismo",
+        "na moral o que é realismo", "na boa o que é realismo", "numa boa o que é realismo",
+        "tá mas o que é realismo", "ok mas o que é realismo", "beleza mas o que é realismo",
+        "hmm o que é realismo", "bom o que é realismo", "enfim o que é realismo",
+        "resumindo o que é realismo", "basicamente o que é realismo", "fundamentalmente o que é realismo",
+        "professor o que é realismo", "mestre o que é realismo", "doutor o que é realismo",
+        "gente o que é realismo", "pessoal o que é realismo", "galera o que é realismo",
+        "oxe o que é realismo", "uai o que é realismo", "ué o que é realismo",
+        "bah o que é realismo", "tche o que é realismo", "capaz o que é realismo",
+        "caraca o que é realismo", "puts o que é realismo", "putz o que é realismo",
+        
+        "oq é realismo", "oq significa realismo", "oque é realismo", "oque significa realismo",
+        "q é realismo", "q significa realismo", "que é realismo",
+        "realismo é oq", "realismo oq é", "realismo é q", "realismo q é",
+        "eh realismo", "é realismo msm", "eh realismo msm", "é realismo memo",
+        "q eh realismo", "que eh realismo", "oq significa realismo", "oque significa realismo",
+        "oq quer dizer realismo", "q quer dizer realismo", "oque quer dizer realismo",
+        "me explica oq é realismo", "me fala oq é realismo", "me conta oq é realismo",
+        "explica oq é realismo", "fala oq é realismo", "conta oq é realismo",
+        "cara oq é realismo", "mano oq é realismo", "vei oq é realismo",
+        "bicho oq é realismo", "rapaz oq é realismo", "gente oq é realismo",
+        "po oq é realismo", "pô oq é realismo", "poxa oq é realismo",
+        "caramba oq é realismo", "caraca oq é realismo", "nossa oq é realismo",
+        "eita oq é realismo", "opa oq é realismo", "uai oq é realismo",
+        "oxe oq é realismo", "ué oq é realismo", "bah oq é realismo",
+        "na moral oq é realismo", "na boa oq é realismo", "de boa oq é realismo",
+        "sério oq é realismo", "real oq é realismo", "tipo oq é realismo",
+        "então oq é realismo", "ent oq é realismo", "mas oq é realismo",
+        "tá mas oq é realismo", "ta mas oq é realismo", "ok mas oq é realismo",
+        "beleza mas oq é realismo", "blz mas oq é realismo", "bom oq é realismo",
+        "enfim oq é realismo", "resumindo oq é realismo", "basicamente oq é realismo",
+        "professor oq é realismo", "prof oq é realismo", "mestre oq é realismo",
+        "pessoal oq é realismo", "galera oq é realismo", "turma oq é realismo",
+        "movimento literário realismo", "escola literária realismo", "período realista",
+        "corrente artística realismo", "estilo realista", "arte realista",
+        "literatura realista", "prosa realista", "romance realista"
+      ],
+      "responses": [
+        "O Realismo foi um movimento literário do século XIX (1881-1893 no Brasil) que retratava a realidade de forma objetiva e crítica. Opunha-se ao idealismo romântico, focando na análise psicológica e social.",
+        "É uma escola literária que priorizava a observação científica da sociedade, o objetivismo, a análise de tipos humanos e a crítica aos costumes burgueses. Características: verossimilhança, contemporaneidade e determinismo."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_quem",
+      "patterns": [
+        "quem criou o realismo", "quem fundou o realismo", "quem começou o realismo",
+        "quem foram os autores realistas", "quem escreveu no realismo", "quem são os escritores realistas",
+        "quem representou o realismo", "quem participou do realismo", "quem fez parte do realismo",
+        "quem estudou realismo", "quem pesquisa realismo", "quem ensina realismo",
+        "quem gosta de realismo", "quem curte realismo", "quem ama realismo",
+        "quem lê realismo", "quem aprecia realismo", "quem admira realismo",
+        "quem influenciou o realismo", "quem inspirou o realismo", "quem motivou o realismo",
+        "quem trouxe o realismo pro Brasil", "quem introduziu realismo no Brasil", "quem implantou realismo aqui",
+        
+        "qm criou realismo", "qm fundou realismo", "qm começou realismo", "qm foram autores realistas",
+        "qm escreveu realismo", "qm são escritores realistas", "qm representou realismo", "qm participou realismo",
+        "qm fez parte realismo", "qm estudou realismo", "qm pesquisa realismo", "qm ensina realismo",
+        "qm gosta realismo", "qm curte realismo", "qm ama realismo", "qm lê realismo",
+        "qm aprecia realismo", "qm admira realismo", "qm influenciou realismo", "qm inspirou realismo",
+        "qm motivou realismo", "qm trouxe realismo pro Brasil", "qm introduziu realismo Brasil",
+        "principais autores realistas", "grandes nomes realismo", "escritores famosos realismo",
+        "romancistas realistas", "autores brasileiros realismo", "prosadores realistas",
+        "Machado de Assis", "Aluísio Azevedo", "Raul Pompéia", "Adolfo Caminha",
+        "Júlio Ribeiro", "Domingos Olímpio", "Inglês de Sousa", "Visconde de Taunay",
+        "Émile Zola", "Gustave Flaubert", "Honoré de Balzac", "Charles Dickens",
+        "Fiódor Dostoiévski", "Liev Tolstói", "Eça de Queirós", "Antero de Quental"
+      ],
+      "responses": [
+        "No Brasil, principais autores realistas: Machado de Assis, Aluísio Azevedo, Raul Pompéia, Adolfo Caminha. Na Europa: Gustave Flaubert, Émile Zola, Balzac, Eça de Queirós, Dickens.",
+        "Machado de Assis é considerado o maior representante do Realismo brasileiro. Outros importantes: Aluísio Azevedo (O Cortiço), Raul Pompéia (O Ateneu) e os naturalistas como Júlio Ribeiro."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_onde",
+      "patterns": [
+        "onde surgiu o realismo", "onde começou o realismo", "onde nasceu o realismo",
+        "onde se desenvolveu o realismo", "onde aconteceu o realismo", "onde teve realismo",
+        "onde estudar realismo", "onde aprender realismo", "onde pesquisar realismo",
+        "onde encontrar obras realistas", "onde achar livros realistas", "onde ver realismo",
+        "onde ler sobre realismo", "onde tem informação sobre realismo", "onde buscar realismo",
+        "em que lugar surgiu realismo", "em qual país começou realismo", "em que região teve realismo",
+        "de onde veio o realismo", "pra onde foi o realismo", "por onde passou o realismo",
+        "no Brasil onde teve realismo", "na Europa onde surgiu realismo", "na França onde começou realismo",
+        "na Inglaterra onde desenvolveu realismo", "em Portugal onde teve realismo",
+        
+        "aonde surgiu realismo", "aonde começou realismo", "aonde nasceu realismo", "aonde se desenvolveu realismo",
+        "aonde aconteceu realismo", "aonde teve realismo", "aonde estudar realismo", "aonde aprender realismo",
+        "kd surgiu realismo", "cadê começou realismo", "kd nasceu realismo", "cadê teve realismo",
+        "onde q surgiu realismo", "onde q começou realismo", "aonde q nasceu realismo", "aonde q teve realismo",
+        "em q lugar surgiu realismo", "em q país começou realismo", "Europa realismo", "Brasil realismo",
+        "França realismo", "Inglaterra realismo", "Portugal realismo", "Rússia realismo",
+        "origem do realismo", "berço do realismo", "nascimento do realismo", "início do realismo",
+        "contexto histórico realismo", "época do realismo", "período realista", "século XIX realismo"
+      ],
+      "responses": [
+        "O Realismo surgiu na França (século XIX) com autores como Flaubert e Balzac, espalhando-se pela Europa. No Brasil iniciou em 1881 com 'Memórias Póstumas de Brás Cubas' de Machado de Assis.",
+        "Desenvolveu-se no contexto pós-Revolução Industrial, urbanização e ascensão burguesa. No Brasil coincidiu com Abolição, República e transformações sociais do fim do século XIX."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_cujo",
+      "patterns": [
+        "movimento cuja característica é realismo", "escola cujo nome é realismo", "período cuja denominação é realismo",
+        "estilo cujo título é realismo", "corrente cujo foco é realismo", "tendência cuja essência é realismo",
+        "arte cuja base é realismo", "literatura cujo fundamento é realismo", "prosa cujo estilo é realismo",
+        "obra cuja escola é realismo", "livro cujo movimento é realismo", "autor cujo estilo é realismo",
+        "escritor cuja corrente é realismo", "romancista cujo período é realismo", "prosador cujo gênero é realismo",
+        "texto cujo movimento é realismo", "narrativa cujo estilo é realismo", "romance cujo período é realismo",
+        "século cujo movimento dominante foi realismo", "época cuja arte era realismo", "tempo cujo estilo era realismo",
+        "país cujo movimento literário foi realismo", "nação cuja literatura foi realista", "região cujo estilo foi realismo",
+        "sociedade cuja crítica está no realismo", "burguesia cujo retrato é realista", "classe cujo estudo é realista"
+      ],
+      "responses": [
+        "O Realismo é um movimento cujas características principais incluem objetivismo, verossimilhança, contemporaneidade, análise psicológica e crítica social burguesa.",
+        "É uma escola literária cujos pilares são a observação científica da realidade, o determinismo e a representação fiel dos tipos sociais e comportamentos humanos."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_qual",
+      "patterns": [
+        "quais são as características do realismo", "qual característica do realismo", "quais traços do realismo",
+        "qual tipo de realismo", "qual categoria de realismo", "qual classe de realismo",
+        "qual função do realismo", "qual papel do realismo", "qual importância do realismo",
+        "qual diferença entre realismo e romantismo", "qual melhor autor realista", "qual mais famoso realismo",
+        "qual mais importante realismo", "qual exemplo de realismo", "qual conceito de realismo",
+        "qual definição de realismo", "qual explicação de realismo", "em qual situação usar realismo",
+        "para qual ocasião serve realismo", "em qual momento aplicar realismo", "qual maneira de estudar realismo",
+        "qual jeito de entender realismo", "qual forma de aprender realismo", "qual vertente do realismo",
+        
+        "q são características realismo", "q característica realismo", "q traços realismo", "q tipo realismo",
+        "q categoria realismo", "q classe realismo", "q função realismo", "q papel realismo",
+        "q importância realismo", "q diferença realismo romantismo", "q melhor autor realista", "q exemplo realismo",
+        "q conceito realismo", "q definição realismo", "q explicação realismo", "em q situação usar realismo",
+        "pra q ocasião serve realismo", "q maneira estudar realismo", "q jeito entender realismo", "q forma aprender realismo",
+        "quais eh características realismo", "qual eh tipo realismo", "qual eh categoria realismo",
+        "realismo naturalismo", "realismo parnasianismo", "vertentes do realismo", "tipos de realismo",
+        "fases do realismo", "períodos do realismo", "etapas do realismo", "características principais realismo",
+        "objetivismo realismo", "verossimilhança realismo", "contemporaneidade realismo", "determinismo realismo",
+        "análise psicológica realismo", "crítica social realismo", "linguagem realista", "narrador realista"
+      ],
+      "responses": [
+        "Principais características do Realismo: objetivismo, verossimilhança, contemporaneidade, determinismo, análise psicológica, crítica social, linguagem culta e impessoalidade narrativa.",
+        "Opõe-se ao Romantismo: substitui subjetivismo por objetivismo, idealização por realidade, sentimentalismo por análise racional, escapismo por contemporaneidade, e heróis por anti-heróis burgueses."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_quanto",
+      "patterns": [
+        "quantos autores realistas existem", "quantos escritores do realismo", "quantas vertentes do realismo",
+        "quanto tempo durou o realismo", "quanto demora pra entender realismo", "quanto leva pra dominar realismo",
+        "quantas horas estudando realismo", "quantos dias com realismo", "quantas semanas praticando realismo",
+        "quantas pessoas sabem realismo", "quantos alunos estudam realismo", "quantos professores ensinam realismo",
+        "quantos tipos de realismo", "quantas classificações de realismo", "quantas obras realistas",
+        "quantos livros realistas", "quantos romances realistas", "quanto representa o realismo",
+        "quantas características do realismo", "quantos períodos do realismo", "quantas fases do realismo",
+        
+        "qts autores realistas existem", "qtos escritores realismo", "qtas vertentes realismo", "qto tempo durou realismo",
+        "qto demora entender realismo", "qto leva dominar realismo", "qtas horas estudando realismo", "qtos dias com realismo",
+        "qtas semanas praticando realismo", "qtas pessoas sabem realismo", "qtos alunos estudam realismo",
+        "qtos professores ensinam realismo", "qtos tipos realismo", "qtas classificações realismo", "qtas obras realistas",
+        "qtos livros realistas", "qtos romances realistas", "qto representa realismo", "qtas características realismo",
+        "qtos períodos realismo", "qtas fases realismo", "quantos eh autores realistas existem", "quantas eh vertentes realismo",
+        "quanto eh tempo durou realismo", "quantas eh pessoas sabem realismo", "quantos eh tipos realismo",
+        "são quantos autores realistas", "tem quantas vertentes realismo", "existem quantos tipos realismo",
+        "ao todo quantos autores realistas", "no total quantas vertentes realismo", "duração do realismo",
+        "período de duração realismo", "tempo que durou realismo", "anos do realismo", "século do realismo",
+        "década do realismo", "época do realismo", "fase do realismo"
+      ],
+      "responses": [
+        "O Realismo durou aproximadamente de 1881 a 1893 no Brasil (12 anos) e teve vertentes como Naturalismo e Parnasianismo. Dezenas de autores importantes participaram do movimento.",
+        "Principais características: cerca de 8-10 traços fundamentais. No Brasil coincidiu com importantes transformações: Abolição (1888), Proclamação da República (1889) e modernização urbana."
+      ]
+    },
+    {
+      "intent": "o_que_e_realismo_como",
+      "patterns": [
+        "como funciona o realismo", "como surgiu o realismo", "como se desenvolveu o realismo",
+        "como estudar realismo", "como aprender realismo", "como entender realismo",
+        "como dominar realismo", "como ensinar realismo", "como explicar realismo",
+        "como identificar realismo", "como reconhecer realismo", "como achar realismo",
+        "como encontrar realismo", "como memorizar realismo", "como decorar realismo",
+        "como praticar realismo", "como melhorar no realismo", "como classificar realismo",
+        "como analisar realismo", "como interpretar realismo", "como comentar realismo",
+        "de que forma estudar realismo", "de que maneira aprender realismo", "de que jeito entender realismo",
+        
+        "cm funciona realismo", "cm surgiu realismo", "cm se desenvolveu realismo", "cm estudar realismo",
+        "cm aprender realismo", "cm entender realismo", "cm dominar realismo", "cm ensinar realismo",
+        "cm explicar realismo", "cm identificar realismo", "cm reconhecer realismo", "cm achar realismo",
+        "cm encontrar realismo", "cm memorizar realismo", "cm decorar realismo", "cm praticar realismo",
+        "cm melhorar realismo", "cm classificar realismo", "cm analisar realismo", "cm interpretar realismo",
+        "de q forma estudar realismo", "de q maneira aprender realismo", "de q jeito entender realismo",
+        "como eh funciona realismo", "como eh surgiu realismo", "como eh se desenvolveu realismo",
+        "como q funciona realismo", "como q surgiu realismo", "como q se desenvolveu realismo",
+        "como faz pra entender realismo", "como faz pra aprender realismo", "como faz pra estudar realismo",
+        "cm faz pra entender realismo", "cm faz pra aprender realismo", "cm faz pra estudar realismo",
+        "como é que funciona realismo", "como é q funciona realismo", "como eh q funciona realismo",
+        "cm eh que funciona realismo", "cm é que funciona realismo", "cm é q funciona realismo",
+        "como assim realismo", "cm assim realismo", "como é isso de realismo", "cm é isso de realismo",
+        "como que é realismo", "cm que é realismo", "como mexer com realismo", "cm mexer com realismo",
+        "como lidar com realismo", "cm lidar com realismo", "como se virar com realismo",
+        "cm se virar com realismo", "cm saber se é realista", "como identificar texto realista",
+        "como reconhecer autor realista", "como analisar romance realista", "como interpretar obra realista"
+      ],
+      "responses": [
+        "Para entender Realismo: identifique objetivismo (narrador impessoal), verossimilhança (situações cotidianas), contemporaneidade (época do autor), análise psicológica detalhada e crítica aos costumes burgueses.",
+        "Analise o contexto histórico (século XIX, urbanização, burguesia), compare com Romantismo (objetivismo vs subjetivismo), estude obras-chave (Dom Casmurro, O Cortiço, O Ateneu) e observe técnicas narrativas científicas."
+      ]
+    }
+  ]
+}

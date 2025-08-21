@@ -1,0 +1,216 @@
+{
+  "intents": [
+    {
+      "intent": "contexto_historico_realismo_qual",
+      "patterns": [
+        "qual é o contexto histórico do realismo", "qual o contexto histórico do realismo", "qual contexto histórico do realismo",
+        "qual é o contexto social do realismo", "qual o contexto social do realismo", "qual contexto social do realismo",
+        "qual é o contexto histórico e social do realismo", "qual o contexto histórico e social do realismo",
+        "qual é a época do realismo", "qual a época do realismo", "qual época do realismo",
+        "qual é o período histórico do realismo", "qual o período histórico do realismo", "qual período histórico do realismo",
+        "qual é o momento histórico do realismo", "qual o momento histórico do realismo", "qual momento histórico do realismo",
+        "qual é o cenário histórico do realismo", "qual o cenário histórico do realismo", "qual cenário histórico do realismo",
+        "qual é a situação histórica do realismo", "qual a situação histórica do realismo", "qual situação histórica do realismo",
+        
+        "q é o contexto histórico do realismo", "q o contexto histórico do realismo", "q contexto histórico do realismo",
+        "q é o contexto social do realismo", "q o contexto social do realismo", "q contexto social do realismo",
+        "q é a época do realismo", "q a época do realismo", "q época do realismo",
+        "qual eh o contexto histórico do realismo", "qual eh a época do realismo", "qual eh o período histórico do realismo",
+        "qual contexto histórico realismo", "qual época realismo", "qual período realismo",
+        
+        "me fala qual é o contexto histórico do realismo", "me conta qual o contexto social do realismo",
+        "me explica qual é a época do realismo", "me diz qual o período histórico do realismo",
+        "fala aí qual é o contexto histórico do realismo", "conta aí qual a época do realismo",
+        "explica aí qual é o contexto social do realismo", "diz aí qual o momento histórico do realismo",
+        "cara qual é o contexto histórico do realismo", "mano qual a época do realismo",
+        "véi qual é o contexto social do realismo", "bicho qual o período histórico do realismo",
+        "rapaz qual é o contexto histórico do realismo", "gente qual a época do realismo",
+        
+        "professor qual é o contexto histórico do realismo", "prof qual a época do realismo",
+        "mestre qual é o contexto social do realismo", "doutor qual o período histórico do realismo",
+        "pessoal qual é o contexto histórico do realismo", "galera qual a época do realismo",
+        "turma qual é o contexto social do realismo", "nego qual o momento histórico do realismo"
+      ],
+      "responses": [
+        "O contexto histórico do Realismo brasileiro (1881-1893) é marcado pela REVOLUÇÃO INDUSTRIAL, ascensão da BURGUESIA, ABOLIÇÃO DA ESCRAVATURA (1888), PROCLAMAÇÃO DA REPÚBLICA (1889), urbanização acelerada e transformações sociais profundas que exigiam uma literatura mais crítica e objetiva.",
+        "Época de grandes mudanças: século XIX com Revolução Industrial transformando o capitalismo, surgimento de nova classe burguesa, movimentos abolicionista e republicano, modernização das cidades, influência do POSITIVISMO científico e necessidade de retratar a realidade social brasileira."
+      ]
+    },
+    {
+      "intent": "contexto_historico_realismo_como",
+      "patterns": [
+        "como era o contexto histórico do realismo", "como era o contexto social do realismo", "como era a época do realismo",
+        "como funcionava o contexto histórico do realismo", "como funcionava o contexto social do realismo", "como funcionava a época do realismo",
+        "como se dava o contexto histórico do realismo", "como se dava o contexto social do realismo", "como se dava a época do realismo",
+        "como acontecia o contexto histórico do realismo", "como acontecia o contexto social do realismo", "como acontecia a época do realismo",
+        "como se desenvolvia o contexto histórico do realismo", "como se desenvolvia o contexto social do realismo", "como se desenvolvia a época do realismo",
+        "como estava o contexto histórico do realismo", "como estava o contexto social do realismo", "como estava a época do realismo",
+        "como transcorria o contexto histórico do realismo", "como transcorria o contexto social do realismo", "como transcorria a época do realismo",
+        
+        "cm era o contexto histórico do realismo", "cm era o contexto social do realismo", "cm era a época do realismo",
+        "cm funcionava o contexto histórico do realismo", "cm funcionava o contexto social do realismo", "cm funcionava a época do realismo",
+        "cm se dava o contexto histórico do realismo", "cm se dava o contexto social do realismo", "cm se dava a época do realismo",
+        "como q era o contexto histórico do realismo", "como q funcionava o contexto social do realismo", "como q estava a época do realismo",
+        "como eh era o contexto histórico do realismo", "como eh funcionava o contexto social do realismo", "como eh estava a época do realismo",
+        
+        "me explica como era o contexto histórico do realismo", "me fala como funcionava o contexto social do realismo",
+        "me conta como se dava a época do realismo", "me diz como acontecia o contexto histórico do realismo",
+        "explica aí como era o contexto histórico do realismo", "fala aí como funcionava o contexto social do realismo",
+        "cara como era o contexto histórico do realismo", "mano como funcionava o contexto social do realismo",
+        "véi como se dava a época do realismo", "bicho como acontecia o contexto histórico do realismo",
+        
+        "como assim o contexto histórico do realismo", "como é isso do contexto histórico do realismo",
+        "como que era o contexto histórico do realismo", "como diabos era o contexto histórico do realismo"
+      ],
+      "responses": [
+        "O contexto histórico do Realismo era assim: Brasil passando por TRANSFORMAÇÕES RADICAIS - fim da escravidão criando mercado de trabalho livre, República substituindo Monarquia, cidades crescendo rapidamente, burguesia enriquecendo, tecnologia moderna (luz elétrica, telefone) chegando e gerando expectativas de progresso que nem sempre se realizavam.",
+        "Funcionava com CONTRADIÇÕES PROFUNDAS: progresso tecnológico versus desigualdades sociais, abolição versus marginalização dos ex-escravos, modernização versus tradições coloniais, enriquecimento burguês versus miséria operária - essas tensões sociais exigiam uma literatura mais crítica e realista."
+      ]
+    },
+    {
+      "intent": "contexto_historico_realismo_quando",
+      "patterns": [
+        "quando foi o contexto histórico do realismo", "quando aconteceu o contexto histórico do realismo", "quando ocorreu o contexto histórico do realismo",
+        "quando se deu o contexto histórico do realismo", "quando surgiu o contexto histórico do realismo", "quando começou o contexto histórico do realismo",
+        "quando se desenvolveu o contexto histórico do realismo", "quando se formou o contexto histórico do realismo", "quando se estabeleceu o contexto histórico do realismo",
+        "quando foi a época do realismo", "quando aconteceu a época do realismo", "quando ocorreu a época do realismo",
+        "quando foi o período do realismo", "quando aconteceu o período do realismo", "quando ocorreu o período do realismo",
+        "quando foi o momento histórico do realismo", "quando aconteceu o momento histórico do realismo", "quando ocorreu o momento histórico do realismo",
+        
+        "qdo foi o contexto histórico do realismo", "qdo aconteceu o contexto histórico do realismo", "qdo ocorreu o contexto histórico do realismo",
+        "qdo se deu o contexto histórico do realismo", "qdo surgiu o contexto histórico do realismo", "qdo começou o contexto histórico do realismo",
+        "quando q foi o contexto histórico do realismo", "quando q aconteceu a época do realismo", "quando q ocorreu o período do realismo",
+        "quando eh foi o contexto histórico do realismo", "quando eh aconteceu a época do realismo", "quando eh ocorreu o período do realismo",
+        
+        "em que época aconteceu o contexto histórico do realismo", "em qual período ocorreu o contexto histórico do realismo",
+        "em que momento se deu o contexto histórico do realismo", "em qual fase surgiu o contexto histórico do realismo",
+        "durante que tempo aconteceu o contexto histórico do realismo", "ao longo de quando ocorreu o contexto histórico do realismo",
+        "no decorrer de quando se desenvolveu o contexto histórico do realismo", "através de quando se formou o contexto histórico do realismo",
+        
+        "me fala quando foi o contexto histórico do realismo", "me conta quando aconteceu a época do realismo",
+        "me explica quando ocorreu o período do realismo", "me diz quando se deu o momento histórico do realismo",
+        "cara quando foi o contexto histórico do realismo", "mano quando aconteceu a época do realismo"
+      ],
+      "responses": [
+        "O contexto histórico do Realismo brasileiro aconteceu entre 1850-1900, com ápice em 1881-1893. Principais marcos: Lei Áurea (1888), Proclamação da República (1889), Revolução Industrial brasileira, urbanização acelerada e transformações sociais que influenciaram diretamente a literatura realista.",
+        "Desenvolveu-se na segunda metade do século XIX: 1850 início das transformações, 1881 marco inicial do Realismo literário ('Memórias Póstumas'), 1888 Abolição, 1889 República, 1893 consolidação do movimento - período de profundas mudanças econômicas, políticas e sociais."
+      ]
+    },
+    {
+      "intent": "contexto_historico_realismo_onde",
+      "patterns": [
+        "onde aconteceu o contexto histórico do realismo", "onde ocorreu o contexto histórico do realismo", "onde se deu o contexto histórico do realismo",
+        "onde surgiu o contexto histórico do realismo", "onde se desenvolveu o contexto histórico do realismo", "onde se formou o contexto histórico do realismo",
+        "onde foi o contexto histórico do realismo", "onde estava o contexto histórico do realismo", "onde ficava o contexto histórico do realismo",
+        "onde se estabeleceu o contexto histórico do realismo", "onde se manifestou o contexto histórico do realismo", "onde se expressou o contexto histórico do realismo",
+        "onde aconteceu a época do realismo", "onde ocorreu o período do realismo", "onde se deu o momento histórico do realismo",
+        
+        "aonde aconteceu o contexto histórico do realismo", "aonde ocorreu o contexto histórico do realismo", "aonde se deu o contexto histórico do realismo",
+        "aonde surgiu o contexto histórico do realismo", "aonde se desenvolveu o contexto histórico do realismo", "aonde se formou o contexto histórico do realismo",
+        "kd aconteceu o contexto histórico do realismo", "cadê o contexto histórico do realismo", "kd ficava o contexto histórico do realismo",
+        "onde q aconteceu o contexto histórico do realismo", "onde q ocorreu a época do realismo", "onde q se deu o período do realismo",
+        "aonde q aconteceu o contexto histórico do realismo", "aonde q ocorreu a época do realismo", "aonde q se deu o período do realismo",
+        
+        "em que lugar aconteceu o contexto histórico do realismo", "em qual local ocorreu o contexto histórico do realismo",
+        "em que região se deu o contexto histórico do realismo", "em qual área surgiu o contexto histórico do realismo",
+        "em que país aconteceu o contexto histórico do realismo", "em qual nação ocorreu o contexto histórico do realismo",
+        "em que cidade se deu o contexto histórico do realismo", "em qual metrópole surgiu o contexto histórico do realismo",
+        
+        "me fala onde aconteceu o contexto histórico do realismo", "me conta onde ocorreu a época do realismo",
+        "me explica onde se deu o período do realismo", "me diz onde surgiu o momento histórico do realismo",
+        "cara onde aconteceu o contexto histórico do realismo", "mano onde ocorreu a época do realismo"
+      ],
+      "responses": [
+        "O contexto histórico do Realismo aconteceu principalmente no BRASIL (Rio de Janeiro, São Paulo), mas também na Europa (França, Inglaterra). No Brasil: Court do Rio de Janeiro (centro político), São Paulo (desenvolvimento econômico), grandes fazendas de café, primeiras indústrias e centros urbanos em transformação.",
+        "Desenvolveu-se em locais específicos: RIO DE JANEIRO (capital do Império/República, cenário de 'Dom Casmurro'), SÃO PAULO (crescimento industrial), MINAS GERAIS (economia cafeeira), centros urbanos em modernização, bairros burgueses, cortiços operários - espaços que aparecem retratados nas obras realistas."
+      ]
+    },
+    {
+      "intent": "contexto_historico_realismo_por_que",
+      "patterns": [
+        "por que esse contexto histórico influenciou o realismo", "por que o contexto histórico gerou o realismo", "por que o contexto histórico criou o realismo",
+        "por que esse contexto histórico provocou o realismo", "por que o contexto histórico causou o realismo", "por que o contexto histórico originou o realismo",
+        "por que as transformações históricas influenciaram o realismo", "por que as mudanças sociais geraram o realismo", "por que as alterações históricas criaram o realismo",
+        "por que o contexto social influenciou o realismo", "por que o contexto social gerou o realismo", "por que o contexto social criou o realismo",
+        "por que a época influenciou o realismo", "por que o período gerou o realismo", "por que o momento histórico criou o realismo",
+        
+        "pq esse contexto histórico influenciou o realismo", "pq o contexto histórico gerou o realismo", "pq o contexto histórico criou o realismo",
+        "pq esse contexto histórico provocou o realismo", "pq o contexto histórico causou o realismo", "pq o contexto histórico originou o realismo",
+        "pq as transformações históricas influenciaram o realismo", "pq as mudanças sociais geraram o realismo", "pq as alterações históricas criaram o realismo",
+        "por q esse contexto histórico influenciou o realismo", "por q o contexto histórico gerou o realismo", "por q o contexto histórico criou o realismo",
+        "porque esse contexto histórico influenciou o realismo", "porque o contexto histórico gerou o realismo", "porque o contexto histórico criou o realismo",
+        
+        "qual motivo do contexto histórico influenciar o realismo", "qual razão do contexto histórico gerar o realismo", "qual causa do contexto histórico criar o realismo",
+        "que motivo tem o contexto histórico influenciar o realismo", "que razão tem o contexto histórico gerar o realismo", "que causa tem o contexto histórico criar o realismo",
+        "o que fez o contexto histórico influenciar o realismo", "o que causou o contexto histórico gerar o realismo", "o que motivou o contexto histórico criar o realismo",
+        
+        "me explica por que o contexto histórico influenciou o realismo", "me fala por que as mudanças sociais geraram o realismo",
+        "me conta por que o contexto social criou o realismo", "me diz por que a época provocou o realismo",
+        "cara por que o contexto histórico influenciou o realismo", "mano por que as transformações geraram o realismo"
+      ],
+      "responses": [
+        "O contexto histórico influenciou o Realismo porque as CONTRADIÇÕES SOCIAIS exigiam uma literatura crítica: burguesia enriquecendo × operários miseráveis, abolição × marginalização dos negros, modernização × tradições coloniais, progresso × desigualdades. Os escritores precisavam denunciar essas hipocrisias sociais.",
+        "As transformações históricas criaram o Realismo por necessidade: 1) Revolução Industrial gerou novos problemas sociais, 2) Ascensão burguesa precisava ser criticada, 3) Ciências (Positivismo) exigiam objetividade, 4) Urbanização criou novos conflitos humanos, 5) Abolição/República mudaram estruturas sociais que a literatura devia retratar."
+      ]
+    },
+    {
+      "intent": "contexto_historico_realismo_que",
+      "patterns": [
+        "que contexto histórico tinha o realismo", "que contexto social tinha o realismo", "que época tinha o realismo",
+        "que contexto histórico possuía o realismo", "que contexto social possuía o realismo", "que época possuía o realismo",
+        "que contexto histórico apresentava o realismo", "que contexto social apresentava o realismo", "que época apresentava o realismo",
+        "que contexto histórico mostrava o realismo", "que contexto social mostrava o realismo", "que época mostrava o realismo",
+        "que contexto histórico demonstrava o realismo", "que contexto social demonstrava o realismo", "que época demonstrava o realismo",
+        "que contexto histórico exibia o realismo", "que contexto social exibia o realismo", "que época exibia o realismo",
+        "que contexto histórico manifestava o realismo", "que contexto social manifestava o realismo", "que época manifestava o realismo",
+        
+        "q contexto histórico tinha o realismo", "q contexto social tinha o realismo", "q época tinha o realismo",
+        "q contexto histórico possuía o realismo", "q contexto social possuía o realismo", "q época possuía o realismo",
+        "q contexto histórico apresentava o realismo", "q contexto social apresentava o realismo", "q época apresentava o realismo",
+        "que eh contexto histórico tinha o realismo", "que eh contexto social possuía o realismo", "que eh época apresentava o realismo",
+        
+        "me fala que contexto histórico tinha o realismo", "me conta que contexto social possuía o realismo",
+        "me explica que época apresentava o realismo", "me diz que contexto histórico mostrava o realismo",
+        "fala aí que contexto histórico tinha o realismo", "conta aí que contexto social possuía o realismo",
+        "cara que contexto histórico tinha o realismo", "mano que contexto social possuía o realismo",
+        "véi que época apresentava o realismo", "bicho que contexto histórico mostrava o realismo",
+        
+        "que parada era o contexto histórico do realismo", "que negócio era o contexto histórico do realismo",
+        "que história era o contexto histórico do realismo", "que coisa era o contexto histórico do realismo"
+      ],
+      "responses": [
+        "O Realismo tinha um contexto histórico de PROFUNDAS TRANSFORMAÇÕES: Revolução Industrial mudando a economia, abolição da escravatura alterando relações sociais, Proclamação da República transformando a política, urbanização acelerada, ascensão da burguesia e surgimento de contradições sociais que precisavam ser denunciadas.",
+        "Possuía um contexto social marcado por: nova classe burguesa enriquecendo, operários em péssimas condições, ex-escravos marginalizados, modernização tecnológica (luz elétrica, telefone), crescimento das cidades, influência do Positivismo científico e necessidade de uma literatura mais crítica e objetiva."
+      ]
+    },
+    {
+      "intent": "contexto_historico_realismo_quais",
+      "patterns": [
+        "quais são os aspectos do contexto histórico do realismo", "quais os aspectos do contexto histórico do realismo", "quais aspectos do contexto histórico do realismo",
+        "quais são os elementos do contexto histórico do realismo", "quais os elementos do contexto histórico do realismo", "quais elementos do contexto histórico do realismo",
+        "quais são os fatores do contexto histórico do realismo", "quais os fatores do contexto histórico do realismo", "quais fatores do contexto histórico do realismo",
+        "quais são as características do contexto histórico do realismo", "quais as características do contexto histórico do realismo", "quais características do contexto histórico do realismo",
+        "quais são os traços do contexto histórico do realismo", "quais os traços do contexto histórico do realismo", "quais traços do contexto histórico do realismo",
+        "quais são as marcas do contexto histórico do realismo", "quais as marcas do contexto histórico do realismo", "quais marcas do contexto histórico do realismo",
+        "quais são os pontos do contexto histórico do realismo", "quais os pontos do contexto histórico do realismo", "quais pontos do contexto histórico do realismo",
+        
+        "q são os aspectos do contexto histórico do realismo", "q os aspectos do contexto histórico do realismo", "q aspectos do contexto histórico do realismo",
+        "q são os elementos do contexto histórico do realismo", "q os elementos do contexto histórico do realismo", "q elementos do contexto histórico do realismo",
+        "q são os fatores do contexto histórico do realismo", "q os fatores do contexto histórico do realismo", "q fatores do contexto histórico do realismo",
+        "quais eh são os aspectos do contexto histórico do realismo", "quais eh os elementos do contexto histórico do realismo", "quais eh os fatores do contexto histórico do realismo",
+        "quais são aspectos contexto histórico realismo", "quais aspectos contexto histórico realismo", "quais elementos contexto histórico realismo",
+        
+        "me fala quais são os aspectos do contexto histórico do realismo", "me conta quais os elementos do contexto histórico do realismo",
+        "me explica quais são os fatores do contexto histórico do realismo", "me diz quais as características do contexto histórico do realismo",
+        "fala aí quais são os aspectos do contexto histórico do realismo", "conta aí quais os elementos do contexto histórico do realismo",
+        "cara quais são os aspectos do contexto histórico do realismo", "mano quais os elementos do contexto histórico do realismo",
+        
+        "oxe quais são os aspectos do contexto histórico do realismo", "uai quais os elementos do contexto histórico do realismo"
+      ],
+      "responses": [
+        "Os principais aspectos do contexto histórico do Realismo são: REVOLUÇÃO INDUSTRIAL (transformação econômica), ABOLIÇÃO DA ESCRAVATURA (mudança social), PROCLAMAÇÃO DA REPÚBLICA (alteração política), URBANIZAÇÃO (crescimento das cidades), ASCENSÃO BURGUESA (nova classe dominante), POSITIVISMO (influência científica), MODERNIZAÇÃO TECNOLÓGICA (progresso técnico) e CONTRADIÇÕES SOCIAIS (desigualdades).",
+        "Elementos fundamentais: 1) Transformação do sistema capitalista, 2) Fim da monarquia e início da República, 3) Abolição gerando mercado de trabalho livre, 4) Crescimento urbano acelerado, 5) Surgimento de nova burguesia, 6) Chegada de tecnologias modernas, 7) Influência das ciências positivistas, 8) Agravamento das desigualdades sociais."
+      ]
+    }
+  ]
+}

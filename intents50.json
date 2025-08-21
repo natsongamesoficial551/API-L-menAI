@@ -1,0 +1,222 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_mudancas_sociais_que",
+      "patterns": [
+        "o que são mudanças sociais", "o que significa mudanças sociais", "o que quer dizer mudanças sociais", "o que são características das mudanças sociais",
+        "que negócio é esse de mudanças sociais", "que história é essa de mudanças sociais", "que parada é mudanças sociais",
+        "que coisa é mudanças sociais mesmo", "que diabos é mudanças sociais", "que raios é mudanças sociais",
+        "afinal o que são mudanças sociais", "mas o que são mudanças sociais", "então o que são mudanças sociais",
+        "cara o que são mudanças sociais", "mano o que são mudanças sociais", "véi o que são mudanças sociais",
+        "me explica o que são mudanças sociais", "me conta o que são mudanças sociais", "me fala o que são mudanças sociais",
+        "explica aí o que são mudanças sociais", "conta aí o que são mudanças sociais", "fala aí o que são mudanças sociais",
+        "qual é a das mudanças sociais", "qual é a história das mudanças sociais", "qual é a parada das mudanças sociais",
+        "como assim mudanças sociais", "tipo assim o que são mudanças sociais", "quer dizer o que são mudanças sociais",
+        "pô o que são mudanças sociais", "poxa o que são mudanças sociais", "caramba o que são mudanças sociais",
+        "nossa o que são mudanças sociais", "eita o que são mudanças sociais", "opa o que são mudanças sociais",
+        "rapaz o que são mudanças sociais", "cara de pau o que são mudanças sociais", "sem brincadeira o que são mudanças sociais",
+        "de verdade o que são mudanças sociais", "sério mesmo o que são mudanças sociais", "real o que são mudanças sociais",
+        "na moral o que são mudanças sociais", "na boa o que são mudanças sociais", "numa boa o que são mudanças sociais",
+        "tá mas o que são mudanças sociais", "ok mas o que são mudanças sociais", "beleza mas o que são mudanças sociais",
+        "hmm o que são mudanças sociais", "bom o que são mudanças sociais", "enfim o que são mudanças sociais",
+        "resumindo o que são mudanças sociais", "basicamente o que são mudanças sociais", "fundamentalmente o que são mudanças sociais",
+        "professor o que são mudanças sociais", "mestre o que são mudanças sociais", "doutor o que são mudanças sociais",
+        "gente o que são mudanças sociais", "pessoal o que são mudanças sociais", "galera o que são mudanças sociais",
+        "oxe o que são mudanças sociais", "uai o que são mudanças sociais", "ué o que são mudanças sociais",
+        "bah o que são mudanças sociais", "tche o que são mudanças sociais", "capaz o que são mudanças sociais",
+        "caraca o que são mudanças sociais", "puts o que são mudanças sociais", "putz o que são mudanças sociais",
+        
+        "oq são mudanças sociais", "oq significa mudanças sociais", "oque são mudanças sociais", "oque significa mudanças sociais",
+        "q são mudanças sociais", "q significa mudanças sociais", "que são mudanças sociais",
+        "mudanças sociais são oq", "mudanças sociais oq são", "mudanças sociais são q", "mudanças sociais q são",
+        "eh mudanças sociais", "é mudanças sociais msm", "eh mudanças sociais msm", "é mudanças sociais memo",
+        "q eh mudanças sociais", "que eh mudanças sociais", "oq significa mudanças sociais", "oque significa mudanças sociais",
+        "oq quer dizer mudanças sociais", "q quer dizer mudanças sociais", "oque quer dizer mudanças sociais",
+        "me explica oq são mudanças sociais", "me fala oq são mudanças sociais", "me conta oq são mudanças sociais",
+        "explica oq são mudanças sociais", "fala oq são mudanças sociais", "conta oq são mudanças sociais",
+        "cara oq são mudanças sociais", "mano oq são mudanças sociais", "vei oq são mudanças sociais",
+        "bicho oq são mudanças sociais", "rapaz oq são mudanças sociais", "gente oq são mudanças sociais",
+        "po oq são mudanças sociais", "pô oq são mudanças sociais", "poxa oq são mudanças sociais",
+        "caramba oq são mudanças sociais", "caraca oq são mudanças sociais", "nossa oq são mudanças sociais",
+        "eita oq são mudanças sociais", "opa oq são mudanças sociais", "uai oq são mudanças sociais",
+        "oxe oq são mudanças sociais", "ué oq são mudanças sociais", "bah oq são mudanças sociais",
+        "na moral oq são mudanças sociais", "na boa oq são mudanças sociais", "de boa oq são mudanças sociais",
+        "sério oq são mudanças sociais", "real oq são mudanças sociais", "tipo oq são mudanças sociais",
+        "então oq são mudanças sociais", "ent oq são mudanças sociais", "mas oq são mudanças sociais",
+        "tá mas oq são mudanças sociais", "ta mas oq são mudanças sociais", "ok mas oq são mudanças sociais",
+        "beleza mas oq são mudanças sociais", "blz mas oq são mudanças sociais", "bom oq são mudanças sociais",
+        "enfim oq são mudanças sociais", "resumindo oq são mudanças sociais", "basicamente oq são mudanças sociais",
+        "professor oq são mudanças sociais", "prof oq são mudanças sociais", "mestre oq são mudanças sociais",
+        "pessoal oq são mudanças sociais", "galera oq são mudanças sociais", "turma oq são mudanças sociais",
+        "transformações sociais literatura", "reformas sociais literatura", "revolução social literatura",
+        "crítica social literatura", "denúncia social literatura", "protesto social literatura"
+      ],
+      "responses": [
+        "As mudanças sociais na literatura referem-se às transformações propostas pelos autores através da crítica e denúncia das desigualdades, injustiças e contradições da sociedade, especialmente no Realismo e Naturalismo.",
+        "São alterações estruturais na sociedade retratadas e defendidas pela literatura engajada, que busca conscientizar o leitor sobre problemas sociais e propor soluções através da arte e da palavra."
+      ]
+    },
+    {
+      "intent": "o_que_e_mudancas_sociais_quem",
+      "patterns": [
+        "quem propôs mudanças sociais", "quem defendeu mudanças sociais", "quem escreveu sobre mudanças sociais",
+        "quem foram os autores das mudanças sociais", "quem fez mudanças sociais na literatura", "quem lutou por mudanças sociais",
+        "quem representou mudanças sociais", "quem participou das mudanças sociais", "quem fez parte das mudanças sociais",
+        "quem estudou mudanças sociais", "quem pesquisa mudanças sociais", "quem ensina mudanças sociais",
+        "quem gosta de mudanças sociais", "quem curte mudanças sociais", "quem ama mudanças sociais",
+        "quem lê mudanças sociais", "quem aprecia mudanças sociais", "quem admira mudanças sociais",
+        "quem influenciou mudanças sociais", "quem inspirou mudanças sociais", "quem motivou mudanças sociais",
+        "quem trouxe mudanças sociais pro Brasil", "quem introduziu mudanças sociais no Brasil", "quem implantou mudanças sociais aqui",
+        
+        "qm propôs mudanças sociais", "qm defendeu mudanças sociais", "qm escreveu mudanças sociais", "qm foram autores mudanças sociais",
+        "qm fez mudanças sociais literatura", "qm lutou mudanças sociais", "qm representou mudanças sociais", "qm participou mudanças sociais",
+        "qm fez parte mudanças sociais", "qm estudou mudanças sociais", "qm pesquisa mudanças sociais", "qm ensina mudanças sociais",
+        "qm gosta mudanças sociais", "qm curte mudanças sociais", "qm ama mudanças sociais", "qm lê mudanças sociais",
+        "qm aprecia mudanças sociais", "qm admira mudanças sociais", "qm influenciou mudanças sociais", "qm inspirou mudanças sociais",
+        "qm motivou mudanças sociais", "qm trouxe mudanças sociais pro Brasil", "qm introduziu mudanças sociais Brasil",
+        "autores engajados socialmente", "escritores críticos sociais", "romancistas reformadores",
+        "Machado de Assis crítica social", "Aluísio Azevedo mudanças sociais", "Lima Barreto denúncia social",
+        "Castro Alves abolicionista", "José de Alencar mudanças", "Raul Pompéia crítica",
+        "Émile Zola reformas", "Charles Dickens mudanças", "Victor Hugo justiça social",
+        "Voltaire iluminismo", "Montesquieu reformas", "Rousseau contrato social",
+        "intelectuais engajados", "escritores militantes", "artistas revolucionários"
+      ],
+      "responses": [
+        "No Brasil: Machado de Assis (crítica à sociedade burguesa), Lima Barreto (denúncia do racismo), Castro Alves (abolicionismo), Aluísio Azevedo (crítica social urbana). Na literatura mundial: Dickens, Zola, Victor Hugo.",
+        "Autores realistas e naturalistas foram os principais defensores de mudanças sociais, usando a literatura como instrumento de denúncia das desigualdades, exploração trabalhista, preconceitos e injustiças sociais."
+      ]
+    },
+    {
+      "intent": "o_que_e_mudancas_sociais_onde",
+      "patterns": [
+        "onde surgiram mudanças sociais", "onde começaram mudanças sociais", "onde nasceram mudanças sociais",
+        "onde se desenvolveram mudanças sociais", "onde aconteceram mudanças sociais", "onde tiveram mudanças sociais",
+        "onde estudar mudanças sociais", "onde aprender mudanças sociais", "onde pesquisar mudanças sociais",
+        "onde encontrar mudanças sociais", "onde achar mudanças sociais", "onde ver mudanças sociais",
+        "onde ler sobre mudanças sociais", "onde tem informação sobre mudanças sociais", "onde buscar mudanças sociais",
+        "em que lugar surgiram mudanças sociais", "em qual país começaram mudanças sociais", "em que região tiveram mudanças sociais",
+        "de onde vieram mudanças sociais", "pra onde foram mudanças sociais", "por onde passaram mudanças sociais",
+        "no Brasil onde tiveram mudanças sociais", "na Europa onde surgiram mudanças sociais", "na França onde começaram mudanças sociais",
+        
+        "aonde surgiram mudanças sociais", "aonde começaram mudanças sociais", "aonde nasceram mudanças sociais", "aonde se desenvolveram mudanças sociais",
+        "aonde aconteceram mudanças sociais", "aonde tiveram mudanças sociais", "aonde estudar mudanças sociais", "aonde aprender mudanças sociais",
+        "kd surgiram mudanças sociais", "cadê começaram mudanças sociais", "kd nasceram mudanças sociais", "cadê tiveram mudanças sociais",
+        "onde q surgiram mudanças sociais", "onde q começaram mudanças sociais", "aonde q nasceram mudanças sociais", "aonde q tiveram mudanças sociais",
+        "em q lugar surgiram mudanças sociais", "em q país começaram mudanças sociais", "Europa mudanças sociais", "Brasil mudanças sociais",
+        "França mudanças sociais", "Inglaterra mudanças sociais", "Alemanha mudanças sociais", "Rússia mudanças sociais",
+        "origem das mudanças sociais", "berço das mudanças sociais", "nascimento das mudanças sociais", "início das mudanças sociais",
+        "contexto das mudanças sociais", "época das mudanças sociais", "período das mudanças sociais", "século das mudanças sociais",
+        "revolução industrial mudanças", "iluminismo mudanças", "revolução francesa mudanças", "século XIX mudanças"
+      ],
+      "responses": [
+        "As mudanças sociais na literatura surgiram com o Iluminismo (século XVIII), se intensificaram na Revolução Francesa e ganharam força no século XIX com a Revolução Industrial, urbanização e surgimento da questão social.",
+        "No Brasil, emergiram no Romantismo (abolicionismo de Castro Alves) e se consolidaram no Realismo/Naturalismo (século XIX), refletindo transformações como abolição da escravatura, República e modernização urbana."
+      ]
+    },
+    {
+      "intent": "o_que_e_mudancas_sociais_cujo",
+      "patterns": [
+        "literatura cuja função é mudanças sociais", "obra cujo objetivo são mudanças sociais", "autor cujo propósito são mudanças sociais",
+        "movimento cuja característica são mudanças sociais", "escola cuja essência são mudanças sociais", "período cujo foco são mudanças sociais",
+        "estilo cujo objetivo são mudanças sociais", "corrente cujo propósito são mudanças sociais", "tendência cuja meta são mudanças sociais",
+        "arte cuja função são mudanças sociais", "texto cujo tema são mudanças sociais", "romance cujo enredo trata mudanças sociais",
+        "escritor cuja obra defende mudanças sociais", "romancista cujo estilo promove mudanças sociais", "prosador cujo trabalho busca mudanças sociais",
+        "narrativa cujo conteúdo aborda mudanças sociais", "história cuja trama envolve mudanças sociais", "personagem cuja luta são mudanças sociais",
+        "século cuja literatura promoveu mudanças sociais", "época cuja arte defendeu mudanças sociais", "tempo cujos autores buscaram mudanças sociais",
+        "país cuja literatura lutou por mudanças sociais", "nação cujos escritores promoveram mudanças sociais", "sociedade cuja crítica gerou mudanças sociais",
+        "classe cujo retrato motivou mudanças sociais", "grupo cuja denúncia causou mudanças sociais", "povo cuja luta inspirou mudanças sociais"
+      ],
+      "responses": [
+        "A literatura engajada é aquela cujo propósito principal são as mudanças sociais, usando a arte como instrumento de conscientização, denúncia e transformação da realidade social e política.",
+        "O Realismo/Naturalismo é o movimento cuja característica central são as mudanças sociais, através da crítica aos costumes burgueses, denúncia das desigualdades e proposição de reformas estruturais na sociedade."
+      ]
+    },
+    {
+      "intent": "o_que_e_mudancas_sociais_qual",
+      "patterns": [
+        "quais são as mudanças sociais", "qual tipo de mudanças sociais", "quais características das mudanças sociais",
+        "qual categoria de mudanças sociais", "qual classe de mudanças sociais", "qual espécie de mudanças sociais",
+        "qual função das mudanças sociais", "qual papel das mudanças sociais", "qual importância das mudanças sociais",
+        "qual diferença entre mudanças sociais e revolução", "qual melhor exemplo de mudanças sociais", "qual mais famosa mudanças sociais",
+        "qual mais importante mudanças sociais", "qual conceito de mudanças sociais", "qual definição de mudanças sociais",
+        "qual explicação de mudanças sociais", "em qual situação usar mudanças sociais", "para qual ocasião servem mudanças sociais",
+        "em qual momento aplicar mudanças sociais", "qual maneira de estudar mudanças sociais", "qual jeito de entender mudanças sociais",
+        
+        "q são mudanças sociais", "q tipo mudanças sociais", "q características mudanças sociais", "q categoria mudanças sociais",
+        "q classe mudanças sociais", "q função mudanças sociais", "q papel mudanças sociais", "q importância mudanças sociais",
+        "q diferença mudanças sociais revolução", "q melhor exemplo mudanças sociais", "q conceito mudanças sociais",
+        "q definição mudanças sociais", "q explicação mudanças sociais", "em q situação usar mudanças sociais",
+        "pra q ocasião servem mudanças sociais", "q maneira estudar mudanças sociais", "q jeito entender mudanças sociais",
+        "quais eh mudanças sociais", "qual eh tipo mudanças sociais", "qual eh categoria mudanças sociais",
+        "tipos de mudanças sociais", "formas de mudanças sociais", "modalidades de mudanças sociais",
+        "aspectos das mudanças sociais", "dimensões das mudanças sociais", "níveis das mudanças sociais",
+        "reformas sociais", "transformações sociais", "revoluções sociais", "evoluções sociais",
+        "progressos sociais", "avanços sociais", "melhorias sociais", "desenvolvimentos sociais",
+        "abolição escravatura", "direitos trabalhistas", "igualdade social", "justiça social"
+      ],
+      "responses": [
+        "Principais mudanças sociais na literatura: abolição da escravatura, direitos trabalhistas, igualdade de gênero, justiça social, reforma agrária, educação popular, democratização e crítica ao capitalismo selvagem.",
+        "Tipos: reformas graduais (evolução), revoluções (transformação radical), protestos (resistência), denúncias (conscientização) e proposições (soluções alternativas). Literatura como agente de transformação social e política."
+      ]
+    },
+    {
+      "intent": "o_que_e_mudancas_sociais_quanto",
+      "patterns": [
+        "quantas mudanças sociais existem", "quantos tipos de mudanças sociais", "quantas formas de mudanças sociais",
+        "quanto tempo levam mudanças sociais", "quanto demora pra acontecer mudanças sociais", "quanto leva pra conseguir mudanças sociais",
+        "quantas horas estudando mudanças sociais", "quantos dias com mudanças sociais", "quantas semanas praticando mudanças sociais",
+        "quantas pessoas defendem mudanças sociais", "quantos autores escrevem mudanças sociais", "quantos escritores promovem mudanças sociais",
+        "quantas obras tratam mudanças sociais", "quantos livros abordam mudanças sociais", "quantos romances defendem mudanças sociais",
+        "quanto representa mudanças sociais", "quantas características das mudanças sociais", "quantos aspectos das mudanças sociais",
+        
+        "qts mudanças sociais existem", "qtos tipos mudanças sociais", "qtas formas mudanças sociais", "qto tempo levam mudanças sociais",
+        "qto demora acontecer mudanças sociais", "qto leva conseguir mudanças sociais", "qtas horas estudando mudanças sociais", "qtos dias com mudanças sociais",
+        "qtas semanas praticando mudanças sociais", "qtas pessoas defendem mudanças sociais", "qtos autores escrevem mudanças sociais",
+        "qtos escritores promovem mudanças sociais", "qtas obras tratam mudanças sociais", "qtos livros abordam mudanças sociais",
+        "qtos romances defendem mudanças sociais", "qto representa mudanças sociais", "qtas características mudanças sociais",
+        "quantos eh tipos mudanças sociais", "quantas eh formas mudanças sociais", "quanto eh tempo levam mudanças sociais",
+        "são quantas mudanças sociais", "tem quantos tipos mudanças sociais", "existem quantas formas mudanças sociais",
+        "ao todo quantas mudanças sociais", "no total quantos tipos mudanças sociais", "duração das mudanças sociais",
+        "período das mudanças sociais", "tempo das mudanças sociais", "anos das mudanças sociais",
+        "décadas das mudanças sociais", "séculos das mudanças sociais", "gerações das mudanças sociais"
+      ],
+      "responses": [
+        "As mudanças sociais podem levar décadas ou séculos para se consolidar. Na literatura brasileira, temas como abolição (século XIX), direitos trabalhistas (século XX) e igualdade social (ongoing) são processos longos e graduais.",
+        "Existem diversos tipos: políticas, econômicas, culturais, educacionais, jurídicas. Centenas de autores ao longo da história dedicaram suas obras à promoção de transformações sociais através da literatura engajada."
+      ]
+    },
+    {
+      "intent": "o_que_e_mudancas_sociais_como",
+      "patterns": [
+        "como funcionam mudanças sociais", "como surgem mudanças sociais", "como se desenvolvem mudanças sociais",
+        "como estudar mudanças sociais", "como aprender mudanças sociais", "como entender mudanças sociais",
+        "como promover mudanças sociais", "como conseguir mudanças sociais", "como fazer mudanças sociais",
+        "como identificar mudanças sociais", "como reconhecer mudanças sociais", "como achar mudanças sociais",
+        "como encontrar mudanças sociais", "como analisar mudanças sociais", "como interpretar mudanças sociais",
+        "como classificar mudanças sociais", "como categorizar mudanças sociais", "como organizar mudanças sociais",
+        "de que forma estudar mudanças sociais", "de que maneira promover mudanças sociais", "de que jeito conseguir mudanças sociais",
+        
+        "cm funcionam mudanças sociais", "cm surgem mudanças sociais", "cm se desenvolvem mudanças sociais", "cm estudar mudanças sociais",
+        "cm aprender mudanças sociais", "cm entender mudanças sociais", "cm promover mudanças sociais", "cm conseguir mudanças sociais",
+        "cm fazer mudanças sociais", "cm identificar mudanças sociais", "cm reconhecer mudanças sociais", "cm achar mudanças sociais",
+        "cm encontrar mudanças sociais", "cm analisar mudanças sociais", "cm interpretar mudanças sociais", "cm classificar mudanças sociais",
+        "de q forma estudar mudanças sociais", "de q maneira promover mudanças sociais", "de q jeito conseguir mudanças sociais",
+        "como eh funcionam mudanças sociais", "como eh surgem mudanças sociais", "como eh se desenvolvem mudanças sociais",
+        "como q funcionam mudanças sociais", "como q surgem mudanças sociais", "como q se desenvolvem mudanças sociais",
+        "como faz pra promover mudanças sociais", "como faz pra conseguir mudanças sociais", "como faz pra fazer mudanças sociais",
+        "cm faz pra promover mudanças sociais", "cm faz pra conseguir mudanças sociais", "cm faz pra fazer mudanças sociais",
+        "como é que funcionam mudanças sociais", "como é q funcionam mudanças sociais", "como eh q funcionam mudanças sociais",
+        "cm eh que funcionam mudanças sociais", "cm é que funcionam mudanças sociais", "cm é q funcionam mudanças sociais",
+        "como assim mudanças sociais", "cm assim mudanças sociais", "como é isso de mudanças sociais", "cm é isso de mudanças sociais",
+        "como que são mudanças sociais", "cm que são mudanças sociais", "como mexer com mudanças sociais", "cm mexer com mudanças sociais",
+        "como lidar com mudanças sociais", "cm lidar com mudanças sociais", "como se virar com mudanças sociais",
+        "cm se virar com mudanças sociais", "como identificar literatura mudanças sociais", "como reconhecer autor engajado",
+        "como analisar crítica social", "como interpretar denúncia social", "métodos de mudanças sociais", "estratégias de mudanças sociais"
+      ],
+      "responses": [
+        "Para identificar mudanças sociais na literatura: observe críticas ao sistema vigente, denúncias de injustiças, propostas de reformas, personagens marginalizados, contexto histórico de transformações e linguagem engajada do autor.",
+        "As mudanças sociais na literatura funcionam através de: conscientização do leitor, denúncia de problemas, sensibilização emocional, proposição de alternativas, mobilização da opinião pública e influência no debate político da época."
+      ]
+    }
+  ]
+}

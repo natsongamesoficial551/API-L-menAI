@@ -1,0 +1,242 @@
+[
+  {
+    "pergunta": "romantismo",
+    "resposta": "O Romantismo é um movimento literário que privilegia sentimento, fantasia, liberdade, sonho, imaginação e espiritualismo. É caracterizado por ser introspectivo e idealizador, contrastando com o realismo."
+  },
+  {
+    "pergunta": "realismo",
+    "resposta": "O Realismo é um movimento que busca realidade, observação, denúncia, objetivismo e materialismo. Satiriza, destrói falsas imagens, critica a sociedade e propõe mudanças sociais."
+  },
+  {
+    "pergunta": "revolução industrial",
+    "resposta": "processo histórico em que o trabalho manual foi substituído por máquinas e surgiram fábricas, mudando a economia e a sociedade."
+  },
+  {
+    "pergunta": "abolição da escravatura",
+    "resposta": "problemas com integração ao mercado de trabalho, salários baixos e más condições sociais."
+  },
+  {
+    "pergunta": "sentimento",
+    "resposta": "O sentimento é uma das características principais do Romantismo, que privilegia as emoções junto com fantasia, liberdade, sonho, imaginação e espiritualismo."
+  },
+  {
+    "pergunta": "mudanças sociais",
+    "resposta": "As mudanças sociais na literatura referem-se às transformações propostas pelos autores através da crítica e denúncia das desigualdades, injustiças e contradições da sociedade, especialmente no Realismo e Naturalismo."
+  },
+  {
+    "pergunta": "fantasia",
+    "resposta": "A fantasia é elemento central do Romantismo, que valoriza a imaginação e o mundo dos sonhos em oposição ao objetivismo realista."
+  },
+  {
+    "pergunta": "liberdade",
+    "resposta": "A liberdade é uma das características do Romantismo, movimento que privilegia também sentimento, fantasia, sonho, imaginação e espiritualismo."
+  },
+  {
+    "pergunta": "sonho",
+    "resposta": "O sonho é elemento importante do Romantismo, que privilegia o mundo da imaginação e fantasia em contraste com a realidade concreta do Realismo."
+  },
+  {
+    "pergunta": "imaginação",
+    "resposta": "A imaginação é característica fundamental do Romantismo, que valoriza também sentimento, fantasia, liberdade, sonho e espiritualismo."
+  },
+  {
+    "pergunta": "espiritualismo",
+    "resposta": "O espiritualismo é uma das bases do Romantismo, contrastando com o materialismo do Realismo. Valoriza aspectos transcendentes e espirituais."
+  },
+  {
+    "pergunta": "realidade",
+    "resposta": "A realidade é o foco central do Realismo, que busca retratá-la através da observação, denúncia, objetivismo e materialismo, sem idealização."
+  },
+  {
+    "pergunta": "observação",
+    "resposta": "A observação é método fundamental do Realismo para captar a realidade, junto com denúncia, objetivismo e materialismo na crítica social."
+  },
+  {
+    "pergunta": "denúncia",
+    "resposta": "A denúncia é característica central do Realismo, que serve como instrumento para criticar desigualdades sociais e contradições do capitalismo industrial."
+  },
+  {
+    "pergunta": "objetivismo",
+    "resposta": "O objetivismo caracteriza o Realismo, buscando neutralidade e racionalidade em oposição ao subjetivismo e sentimentalismo românticos."
+  },
+  {
+    "pergunta": "materialismo",
+    "resposta": "O materialismo é base filosófica do Realismo, focando em aspectos concretos e materiais da existência, contrastando com o espiritualismo romântico."
+  },
+  {
+    "pergunta": "concreto",
+    "resposta": "O personagem realista é concreto, não idealizado, mostrando falhas de caráter, vícios e fragilidades humanas reais."
+  },
+  {
+    "pergunta": "presente",
+    "resposta": "O momento presente é foco do Realismo, que se interessa pela realidade contemporânea, diferentemente do romantismo introspectivo."
+  },
+  {
+    "pergunta": "introspectivo",
+    "resposta": "O Romantismo é introspectivo e idealizador, voltado para o mundo interior dos sentimentos, contrastando com o estilo externo do Realismo."
+  },
+  {
+    "pergunta": "idealizador",
+    "resposta": "O Romantismo é idealizador, criando personagens e situações idealizadas, diferente do Realismo que mostra personagens concretos e não idealizados."
+  },
+  {
+    "pergunta": "externo",
+    "resposta": "O Realismo é um estilo externo, preocupado com o mundo real e social, ao contrário do romantismo que era mais introspectivo."
+  },
+  {
+    "pergunta": "europa",
+    "resposta": "A Europa foi fonte de influência das transformações que chegaram ao Brasil, trazendo as ideias e movimentos que influenciaram o Realismo."
+  },
+  {
+    "pergunta": "revolução industrial",
+    "resposta": "A Revolução Industrial trouxe novo sistema capitalista, surgimento de burguesia e nova elite, contexto fundamental para o desenvolvimento do Realismo."
+  },
+  {
+    "pergunta": "capitalista",
+    "resposta": "O novo sistema capitalista surgiu com a Revolução Industrial, criando contradições sociais que o Realismo se propôs a denunciar."
+  },
+  {
+    "pergunta": "burguesia",
+    "resposta": "A burguesia surgiu como nova elite com a Revolução Industrial e o sistema capitalista, sendo alvo de críticas na literatura realista."
+  },
+  {
+    "pergunta": "abolição",
+    "resposta": "A abolição da escravatura trouxe problemas de integração ao mercado de trabalho, salários baixos e más condições sociais, temas do Realismo."
+  },
+  {
+    "pergunta": "escravatura",
+    "resposta": "A escravatura e sua abolição criaram problemas sociais como dificuldades de integração ao trabalho e más condições de vida, retratados pelo Realismo."
+  },
+  {
+    "pergunta": "socialismo",
+    "resposta": "O socialismo foi um dos movimentos sociais e políticos que influenciaram o contexto histórico e as ideias do Realismo no século XIX."
+  },
+  {
+    "pergunta": "anarquismo",
+    "resposta": "O anarquismo, junto com o socialismo, foi movimento social e político que influenciou o pensamento crítico da literatura realista."
+  },
+  {
+    "pergunta": "monarquia",
+    "resposta": "A decadência da monarquia no Brasil entre 1850 e 1900 fez parte do contexto histórico que influenciou a literatura realista."
+  },
+  {
+    "pergunta": "abolicionista",
+    "resposta": "A luta abolicionista foi um dos movimentos sociais importantes do Brasil entre 1850 e 1900, contexto da literatura realista."
+  },
+  {
+    "pergunta": "republicano",
+    "resposta": "O movimento republicano foi parte das transformações políticas do Brasil entre 1850 e 1900, influenciando o contexto do Realismo."
+  },
+  {
+    "pergunta": "prosa",
+    "resposta": "A literatura realista privilegia a prosa em detrimento da poesia, usando-a como instrumento de denúncia social."
+  },
+  {
+    "pergunta": "poesia",
+    "resposta": "A poesia foi preterida pela prosa na literatura realista, que priorizou a narrativa como forma de crítica e denúncia social."
+  },
+  {
+    "pergunta": "crítico",
+    "resposta": "O senso crítico e irônico é constante no Realismo, com narradores que fazem julgamentos indiretos sobre sociedade e homem."
+  },
+  {
+    "pergunta": "irônico",
+    "resposta": "O tom irônico caracteriza a literatura realista, junto com o senso crítico constante na análise da sociedade e comportamento humano."
+  },
+  {
+    "pergunta": "neutro",
+    "resposta": "O narrador realista parece neutro, mas na verdade faz julgamentos indiretos sobre a sociedade e o homem através da ironia."
+  },
+  {
+    "pergunta": "julgamentos",
+    "resposta": "Os julgamentos indiretos caracterizam o narrador realista, que critica sociedade e homem de forma aparentemente neutra mas irônica."
+  },
+  {
+    "pergunta": "vícios",
+    "resposta": "Os vícios são mostrados nos personagens realistas não idealizados, junto com falhas de caráter e fragilidades humanas."
+  },
+  {
+    "pergunta": "fragilidades",
+    "resposta": "As fragilidades humanas são expostas nos personagens realistas concretos, que mostram também vícios e falhas de caráter."
+  },
+  {
+    "pergunta": "minuciosas",
+    "resposta": "As descrições minuciosas de espaço e eventos são técnica narrativa do Realismo para aumentar o efeito de verossimilhança."
+  },
+  {
+    "pergunta": "verossimilhança",
+    "resposta": "O efeito de verossimilhança é aumentado pelas descrições minuciosas de espaço e eventos na técnica narrativa realista."
+  },
+  {
+    "pergunta": "lento",
+    "resposta": "O ritmo mais lento caracteriza o enredo dos romances realistas devido ao maior detalhamento e descrições minuciosas."
+  },
+  {
+    "pergunta": "científicas",
+    "resposta": "As descobertas científicas da segunda metade do século XIX prometiam melhorar a qualidade de vida através de diversas invenções."
+  },
+  {
+    "pergunta": "elétrica",
+    "resposta": "A luz elétrica foi uma das invenções da segunda metade do século XIX, junto com automóvel, telefone, telégrafo e locomotiva a vapor."
+  },
+  {
+    "pergunta": "automóvel",
+    "resposta": "O automóvel foi uma das invenções tecnológicas do século XIX que representava o progresso e a modernidade da época."
+  },
+  {
+    "pergunta": "telefone",
+    "resposta": "O telefone foi uma das importantes invenções da segunda metade do século XIX que prometia revolucionar a comunicação."
+  },
+  {
+    "pergunta": "telégrafo",
+    "resposta": "O telégrafo foi uma das invenções tecnológicas do século XIX que representava os avanços científicos da modernidade."
+  },
+  {
+    "pergunta": "locomotiva",
+    "resposta": "A locomotiva a vapor foi uma das importantes invenções da segunda metade do século XIX, simbolizando o progresso industrial."
+  },
+  {
+    "pergunta": "vapor",
+    "resposta": "A locomotiva a vapor representou um dos avanços tecnológicos da segunda metade do século XIX junto com outras invenções modernas."
+  },
+  {
+    "pergunta": "tecnológico",
+    "resposta": "O progresso tecnológico da segunda metade do século XIX contrastava com avanços sociais menores, gerando desilusão com a modernidade."
+  },
+  {
+    "pergunta": "desilusão",
+    "resposta": "A desilusão com a modernidade é tema recorrente na prosa realista, pois os avanços sociais ficaram aquém dos tecnológicos."
+  },
+  {
+    "pergunta": "modernidade",
+    "resposta": "A modernidade trouxe avanços tecnológicos, mas os progressos sociais ficaram aquém das expectativas, gerando desilusão na literatura realista."
+  },
+  {
+    "pergunta": "diferenças entre romantismo e realismo",
+    "resposta": "O Romantismo privilegia sentimento, fantasia, liberdade, sonho, imaginação e espiritualismo. Já o Realismo busca realidade, observação, denúncia, objetivismo e materialismo. O personagem realista é concreto, não idealizado."
+  },
+  {
+    "pergunta": "características do realismo",
+    "resposta": "O Realismo satiriza, destrói falsas imagens e critica a sociedade. Propõe mudanças sociais, é comprometido com o momento presente e é um estilo externo, preocupado com o mundo real."
+  },
+  {
+    "pergunta": "contexto histórico e social",
+    "resposta": "Influência da Europa na segunda metade do século XIX com Revolução Industrial, novo sistema capitalista, surgimento de burguesia, abolição da escravatura e movimentos como socialismo e anarquismo."
+  },
+  {
+    "pergunta": "função política e social da literatura realista",
+    "resposta": "A literatura privilegia a prosa, serve como instrumento de denúncia das desigualdades sociais. Mantém senso crítico e irônico constante, com personagens não idealizados mostrando vícios e fragilidades."
+  },
+  {
+    "pergunta": "técnica narrativa",
+    "resposta": "Inclui descrições minuciosas de espaço e eventos para aumentar efeito de verossimilhança. O maior detalhamento gera ritmo mais lento no enredo dos romances realistas."
+  },
+  {
+    "pergunta": "ciência",
+    "resposta": "Na segunda metade do século XIX, as descobertas científicas prometiam melhorar qualidade de vida através de invenções como luz elétrica, automóvel, telefone, telégrafo e locomotiva a vapor."
+  },
+  {
+    "pergunta": "tecnologia",
+    "resposta": "As inovações tecnológicas do século XIX incluíam luz elétrica, automóvel, telefone, telégrafo e locomotiva a vapor, mas os avanços sociais ficaram aquém do progresso tecnológico."
+  }
+]

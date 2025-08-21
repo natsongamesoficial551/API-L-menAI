@@ -1,0 +1,236 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_revolucao_industrial_que",
+      "patterns": [
+        "o que é revolução industrial", "o que foi a revolução industrial", "o que significa revolução industrial", "o que quer dizer revolução industrial",
+        "que negócio é esse de revolução industrial", "que história é essa de revolução industrial", "que parada é revolução industrial",
+        "que coisa é revolução industrial mesmo", "que diabos é revolução industrial", "que raios é revolução industrial",
+        "afinal o que é revolução industrial", "mas o que é revolução industrial", "então o que é revolução industrial",
+        "cara o que é revolução industrial", "mano o que é revolução industrial", "véi o que é revolução industrial",
+        "me explica o que é revolução industrial", "me conta o que é revolução industrial", "me fala o que é revolução industrial",
+        "explica aí o que é revolução industrial", "conta aí o que é revolução industrial", "fala aí o que é revolução industrial",
+        "qual é a da revolução industrial", "qual é a história da revolução industrial", "qual é a parada da revolução industrial",
+        "como assim revolução industrial", "tipo assim o que é revolução industrial", "quer dizer o que é revolução industrial",
+        "pô o que é revolução industrial", "poxa o que é revolução industrial", "caramba o que é revolução industrial",
+        "nossa o que é revolução industrial", "eita o que é revolução industrial", "opa o que é revolução industrial",
+        "rapaz o que é revolução industrial", "cara de pau o que é revolução industrial", "sem brincadeira o que é revolução industrial",
+        "de verdade o que é revolução industrial", "sério mesmo o que é revolução industrial", "real o que é revolução industrial",
+        "na moral o que é revolução industrial", "na boa o que é revolução industrial", "numa boa o que é revolução industrial",
+        "tá mas o que é revolução industrial", "ok mas o que é revolução industrial", "beleza mas o que é revolução industrial",
+        "hmm o que é revolução industrial", "bom o que é revolução industrial", "enfim o que é revolução industrial",
+        "resumindo o que é revolução industrial", "basicamente o que é revolução industrial", "fundamentalmente o que é revolução industrial",
+        "professor o que é revolução industrial", "mestre o que é revolução industrial", "doutor o que é revolução industrial",
+        "gente o que é revolução industrial", "pessoal o que é revolução industrial", "galera o que é revolução industrial",
+        "oxe o que é revolução industrial", "uai o que é revolução industrial", "ué o que é revolução industrial",
+        "bah o que é revolução industrial", "tche o que é revolução industrial", "capaz o que é revolução industrial",
+        "caraca o que é revolução industrial", "puts o que é revolução industrial", "putz o que é revolução industrial",
+        
+        "oq é revolução industrial", "oq foi revolução industrial", "oque é revolução industrial", "oque foi revolução industrial",
+        "q é revolução industrial", "q foi revolução industrial", "que é revolução industrial",
+        "revolução industrial é oq", "revolução industrial oq é", "revolução industrial foi oq", "revolução industrial oq foi",
+        "revolução industrial é q", "revolução industrial q é", "revolução industrial foi q", "revolução industrial q foi",
+        "eh revolução industrial", "é revolução industrial msm", "eh revolução industrial msm", "é revolução industrial memo",
+        "q eh revolução industrial", "que eh revolução industrial", "oq eh revolução industrial", "oque eh revolução industrial",
+        "oq significa revolução industrial", "oque significa revolução industrial", "q significa revolução industrial",
+        "oq quer dizer revolução industrial", "q quer dizer revolução industrial", "oque quer dizer revolução industrial",
+        "me explica oq é revolução industrial", "me fala oq é revolução industrial", "me conta oq é revolução industrial",
+        "explica oq é revolução industrial", "fala oq é revolução industrial", "conta oq é revolução industrial",
+        "cara oq é revolução industrial", "mano oq é revolução industrial", "vei oq é revolução industrial",
+        "bicho oq é revolução industrial", "rapaz oq é revolução industrial", "gente oq é revolução industrial",
+        "po oq é revolução industrial", "pô oq é revolução industrial", "poxa oq é revolução industrial",
+        "caramba oq é revolução industrial", "caraca oq é revolução industrial", "nossa oq é revolução industrial",
+        "eita oq é revolução industrial", "opa oq é revolução industrial", "uai oq é revolução industrial",
+        "oxe oq é revolução industrial", "ué oq é revolução industrial", "bah oq é revolução industrial",
+        "na moral oq é revolução industrial", "na boa oq é revolução industrial", "de boa oq é revolução industrial",
+        "sério oq é revolução industrial", "real oq é revolução industrial", "tipo oq é revolução industrial",
+        "então oq é revolução industrial", "ent oq é revolução industrial", "mas oq é revolução industrial",
+        "tá mas oq é revolução industrial", "ta mas oq é revolução industrial", "ok mas oq é revolução industrial",
+        "beleza mas oq é revolução industrial", "blz mas oq é revolução industrial", "bom oq é revolução industrial",
+        "enfim oq é revolução industrial", "resumindo oq é revolução industrial", "basicamente oq é revolução industrial",
+        "professor oq é revolução industrial", "prof oq é revolução industrial", "mestre oq é revolução industrial",
+        "pessoal oq é revolução industrial", "galera oq é revolução industrial", "turma oq é revolução industrial",
+        "nego oq é revolução industrial", "povo oq é revolução industrial", "geral oq é revolução industrial",
+        "alguém sabe oq é revolução industrial", "ngm sabe oq é revolução industrial", "ninguém sabe oq é revolução industrial",
+        "vc sabe oq é revolução industrial", "você sabe oq é revolução industrial", "tu sabe oq é revolução industrial",
+        "cê sabe oq é revolução industrial", "vocês sabem oq é revolução industrial", "vcs sabem oq é revolução industrial",
+        "quem sabe oq é revolução industrial", "qm sabe oq é revolução industrial", "qual é da revolução industrial",
+        "qual a da revolução industrial", "qual eh a da revolução industrial", "qual é a parada da revolução industrial",
+        "qual a parada da revolução industrial", "qual eh o conceito de revolução industrial",
+        "qual é o conceito de revolução industrial", "qual o conceito de revolução industrial",
+        "define revolução industrial", "define revolução industrial aí", "define revolução industrial pra mim",
+        "conceito de revolução industrial", "conceito revolução industrial", "significado revolução industrial",
+        "explicação de revolução industrial", "explicação revolução industrial", "definição revolução industrial",
+        "a revolução industrial é oq", "a revolução industrial oq é", "essa revolução industrial é oq",
+        "essa parada de revolução industrial é oq", "esse negócio de revolução industrial é oq", "essa coisa de revolução industrial é oq",
+        
+        "primeira revolução industrial", "segunda revolução industrial", "terceira revolução industrial", "revolução industrial 1.0",
+        "revolução industrial 2.0", "revolução industrial 3.0", "revolução industrial 4.0", "indústria 4.0",
+        "manufatura", "máquina a vapor", "fábrica", "operário", "capitalismo", "industrialização"
+      ],
+      "responses": [
+        "A Revolução Industrial foi um período de transformação econômica e social que começou na Inglaterra no século XVIII. Marcou a transição da produção artesanal para a mecanizada, com o uso de máquinas a vapor, criação de fábricas e mudanças profundas na sociedade.",
+        "Foi um processo histórico iniciado por volta de 1760 na Inglaterra que revolucionou a produção através da mecanização, substituindo o trabalho manual por máquinas, criando o sistema fabril e transformando a economia agrária em industrial."
+      ]
+    },
+    {
+      "intent": "o_que_e_revolucao_industrial_quem",
+      "patterns": [
+        "quem participou da revolução industrial", "quem esteve na revolução industrial", "quem fez a revolução industrial",
+        "quem começou a revolução industrial", "quem iniciou a revolução industrial", "quem liderou a revolução industrial",
+        "quem inventou a revolução industrial", "quem criou a revolução industrial", "quem causou a revolução industrial",
+        "quem trabalhou na revolução industrial", "quem viveu a revolução industrial", "quem sofreu com a revolução industrial",
+        "quem se beneficiou da revolução industrial", "quem ganhou com revolução industrial", "quem perdeu na revolução industrial",
+        "quem eram os operários", "quem eram os industriais", "quem eram os capitalistas",
+        "quem eram os burgueses", "quem era o proletariado", "quem trabalhava nas fábricas",
+        "quem inventou a máquina a vapor", "quem criou as fábricas", "quem desenvolveu as máquinas",
+        "quem financiou a revolução industrial", "quem investiu na revolução industrial", "quem lucrou com revolução industrial",
+        
+        "qm participou revolução industrial", "qm esteve revolução industrial", "qm fez revolução industrial",
+        "qm começou revolução industrial", "qm iniciou revolução industrial", "qm liderou revolução industrial",
+        "qm inventou revolução industrial", "qm criou revolução industrial", "qm causou revolução industrial",
+        "qm trabalhou revolução industrial", "qm viveu revolução industrial", "qm sofreu revolução industrial",
+        "qm se beneficiou revolução industrial", "qm ganhou revolução industrial", "qm perdeu revolução industrial",
+        "qm eram operários", "qm eram industriais", "qm eram capitalistas", "qm eram burgueses",
+        "qm era proletariado", "qm trabalhava fábricas", "qm inventou máquina vapor",
+        "qm criou fábricas", "qm desenvolveu máquinas", "qm financiou revolução industrial",
+        "todo mundo participou revolução industrial", "qualquer um viveu revolução industrial", "geral participou revolução industrial",
+        "james watt", "adam smith", "thomas newcomen", "richard arkwright", "eli whitney"
+      ],
+      "responses": [
+        "Participaram operários, industriais, burgueses, capitalistas e inventores como James Watt (máquina a vapor). O processo envolveu toda a sociedade: trabalhadores migraram para cidades, empresários investiram em fábricas e surgiu uma nova classe operária.",
+        "Principais figuras incluem inventores, empresários capitalistas, operários fabris e o emergente proletariado urbano. Transformou a vida de milhões de pessoas na Europa e depois no mundo."
+      ]
+    },
+    {
+      "intent": "o_que_e_revolucao_industrial_onde",
+      "patterns": [
+        "onde aconteceu a revolução industrial", "onde foi a revolução industrial", "onde começou a revolução industrial",
+        "onde iniciou a revolução industrial", "onde surgiu a revolução industrial", "onde ocorreu a revolução industrial",
+        "onde se desenvolveu a revolução industrial", "onde se espalhou a revolução industrial", "onde chegou a revolução industrial",
+        "em que lugar aconteceu revolução industrial", "em qual país começou revolução industrial", "em que região surgiu revolução industrial",
+        "na inglaterra revolução industrial", "na europa revolução industrial", "no mundo revolução industrial",
+        "em que continente revolução industrial", "em que cidade revolução industrial", "em que estado revolução industrial",
+        "revolução industrial aconteceu onde", "revolução industrial foi onde", "revolução industrial começou onde",
+        
+        "aonde aconteceu revolução industrial", "aonde foi revolução industrial", "aonde começou revolução industrial",
+        "aonde surgiu revolução industrial", "aonde se desenvolveu revolução industrial", "aonde chegou revolução industrial",
+        "kd aconteceu revolução industrial", "cadê aconteceu revolução industrial", "onde q aconteceu revolução industrial",
+        "onde q foi revolução industrial", "onde q começou revolução industrial", "onde q surgiu revolução industrial",
+        "aonde q aconteceu revolução industrial", "aonde q foi revolução industrial", "aonde q começou revolução industrial",
+        "em q lugar aconteceu revolução industrial", "em q país começou revolução industrial", "em q região surgiu revolução industrial",
+        "inglaterra", "europa", "manchester", "birmingham", "londres", "escócia", "frança", "alemanha", "estados unidos"
+      ],
+      "responses": [
+        "A Revolução Industrial começou na Inglaterra por volta de 1760, especialmente nas regiões de Manchester, Birmingham e outras cidades industriais. Depois se espalhou para França, Alemanha, Estados Unidos e resto da Europa nos séculos XVIII e XIX.",
+        "Iniciou-se na Grã-Bretanha devido a fatores como disponibilidade de carvão, capital acumulado, mão de obra abundante e mercado consumidor. Posteriormente se expandiu para Europa continental e América do Norte."
+      ]
+    },
+    {
+      "intent": "o_que_e_revolucao_industrial_cujo",
+      "patterns": [
+        "revolução cujo impacto foi imenso", "período cuja importância é fundamental", "época cujas mudanças foram profundas",
+        "processo cujo resultado transformou o mundo", "fenômeno cuja influência perdura", "movimento cujos efeitos são duradouros",
+        "transformação cuja magnitude foi gigantesca", "mudança cujo alcance foi global", "revolução cujas consequências são eternas",
+        "era cuja tecnologia revolucionou tudo", "tempo cujas invenções mudaram a vida", "fase cujo progresso foi acelerado",
+        "período cujos avanços foram extraordinários", "época cuja produtividade aumentou drasticamente", "momento cujo crescimento foi exponencial",
+        "sociedade cuja estrutura se transformou", "economia cujo sistema mudou completamente", "mundo cujas relações se alteraram",
+        "história cujo rumo foi modificado", "civilização cujo desenvolvimento se acelerou", "humanidade cujo futuro foi redefinido"
+      ],
+      "responses": [
+        "A Revolução Industrial foi um processo cujas transformações sociais, econômicas e tecnológicas mudaram completamente a forma como a humanidade produz, trabalha e vive.",
+        "Foi uma época cujas inovações tecnológicas e mudanças sociais estabeleceram as bases do mundo moderno e da sociedade industrial."
+      ]
+    },
+    {
+      "intent": "o_que_e_revolucao_industrial_qual",
+      "patterns": [
+        "quais foram as fases da revolução industrial", "qual foi a primeira revolução industrial", "qual segunda revolução industrial",
+        "qual terceira revolução industrial", "qual quarta revolução industrial", "quais características da revolução industrial",
+        "qual importância da revolução industrial", "qual impacto da revolução industrial", "quais consequências da revolução industrial",
+        "quais mudanças trouxe revolução industrial", "qual diferença antes e depois revolução industrial", "quais inventos da revolução industrial",
+        "quais máquinas da revolução industrial", "qual tecnologia da revolução industrial", "quais inovações da revolução industrial",
+        "qual período da revolução industrial", "qual século da revolução industrial", "qual data da revolução industrial",
+        "quais países participaram revolução industrial", "qual foi o primeiro país", "quais cidades importantes",
+        "qual sistema econômico surgiu", "qual modo de produção", "qual tipo de sociedade formou",
+        
+        "q foram as fases revolução industrial", "q foi primeira revolução industrial", "q segunda revolução industrial",
+        "q terceira revolução industrial", "q quarta revolução industrial", "q características revolução industrial",
+        "q importância revolução industrial", "q impacto revolução industrial", "q consequências revolução industrial",
+        "q mudanças trouxe revolução industrial", "q diferença antes depois revolução industrial", "q inventos revolução industrial",
+        "q máquinas revolução industrial", "q tecnologia revolução industrial", "q inovações revolução industrial",
+        "q período revolução industrial", "q século revolução industrial", "q data revolução industrial",
+        "q países participaram revolução industrial", "q foi primeiro país", "q cidades importantes",
+        "q sistema econômico surgiu", "q modo de produção", "q tipo sociedade formou",
+        "quais eh fases revolução industrial", "qual eh primeira revolução industrial", "quais eh características",
+        "máquina a vapor qual importância", "tear mecânico qual função", "locomotiva qual impacto",
+        "fábrica qual diferença", "operário qual condição", "burguesia qual papel"
+      ],
+      "responses": [
+        "A Revolução Industrial teve várias fases: 1ª (1760-1840) com máquina a vapor e têxtil, 2ª (1840-1914) com eletricidade e químicos, 3ª (1950-) com computadores, 4ª (atual) com inteligência artificial e automação.",
+        "Principais características: mecanização da produção, sistema fabril, urbanização, surgimento do proletariado, capitalismo industrial, divisão do trabalho e produção em massa."
+      ]
+    },
+    {
+      "intent": "o_que_e_revolucao_industrial_quanto",
+      "patterns": [
+        "quantas fases teve a revolução industrial", "quantos anos durou a revolução industrial", "quanto tempo levou a revolução industrial",
+        "quantas revoluções industriais existiram", "quantas pessoas participaram", "quantos trabalhadores envolvidos",
+        "quantas fábricas surgiram", "quantas máquinas foram criadas", "quantas invenções aconteceram",
+        "quanto custou a revolução industrial", "quanto dinheiro foi investido", "quantos recursos foram usados",
+        "quantas cidades cresceram", "quantos países se industrializaram", "quantas regiões foram afetadas",
+        "quanto aumentou a produção", "quanto cresceu a economia", "quantas vezes mais produtivo",
+        "quantas horas trabalhavam os operários", "quanto ganhavam os trabalhadores", "quantos dias por semana",
+        "quanto tempo para se espalhar", "quantos séculos durou", "quantas décadas de transformação",
+        
+        "qts fases teve revolução industrial", "qtos anos durou revolução industrial", "qto tempo levou revolução industrial",
+        "qtas revoluções industriais existiram", "qtas pessoas participaram", "qtos trabalhadores envolvidos",
+        "qtas fábricas surgiram", "qtas máquinas foram criadas", "qtas invenções aconteceram",
+        "qto custou revolução industrial", "qto dinheiro foi investido", "qtos recursos foram usados",
+        "qtas cidades cresceram", "qtos países se industrializaram", "qtas regiões foram afetadas",
+        "qto aumentou produção", "qto cresceu economia", "qtas vezes mais produtivo",
+        "qtas horas trabalhavam operários", "qto ganhavam trabalhadores", "qtos dias por semana",
+        "qto tempo pra espalhar", "qtos séculos durou", "qtas décadas transformação",
+        "quantos eh fases revolução industrial", "quantas eh revoluções industriais", "quanto eh tempo durou",
+        "são quantas fases", "tem quantas revoluções", "existem quantas etapas",
+        "ao todo quantos anos", "no total quantos séculos", "durou quantas décadas"
+      ],
+      "responses": [
+        "A Revolução Industrial é tradicionalmente dividida em 4 fases principais, iniciando por volta de 1760 na Inglaterra e continuando até hoje. A primeira fase durou cerca de 80 anos (1760-1840), envolvendo milhões de trabalhadores.",
+        "Durou aproximadamente 3 séculos de transformações contínuas, com impacto em bilhões de pessoas globalmente. Os operários trabalhavam 12-16 horas por dia, 6 dias por semana, em condições precárias."
+      ]
+    },
+    {
+      "intent": "o_que_e_revolucao_industrial_como",
+      "patterns": [
+        "como aconteceu a revolução industrial", "como começou a revolução industrial", "como se desenvolveu a revolução industrial",
+        "como funcionava a revolução industrial", "como era a revolução industrial", "como ocorreu a revolução industrial",
+        "como surgiu a revolução industrial", "como se espalhou a revolução industrial", "como evoluiu a revolução industrial",
+        "como estudar revolução industrial", "como aprender revolução industrial", "como entender revolução industrial",
+        "como foi o processo da revolução industrial", "como eram as fábricas", "como trabalhavam os operários",
+        "como funcionavam as máquinas", "como era a vida antes", "como mudou depois",
+        "como era o trabalho artesanal", "como virou trabalho industrial", "como transformou a sociedade",
+        "de que forma aconteceu", "de que maneira se desenvolveu", "de que jeito funcionava",
+        
+        "cm aconteceu revolução industrial", "cm começou revolução industrial", "cm se desenvolveu revolução industrial",
+        "cm funcionava revolução industrial", "cm era revolução industrial", "cm ocorreu revolução industrial",
+        "cm surgiu revolução industrial", "cm se espalhou revolução industrial", "cm evoluiu revolução industrial",
+        "cm estudar revolução industrial", "cm aprender revolução industrial", "cm entender revolução industrial",
+        "cm foi processo revolução industrial", "cm eram fábricas", "cm trabalhavam operários",
+        "cm funcionavam máquinas", "cm era vida antes", "cm mudou depois",
+        "cm era trabalho artesanal", "cm virou trabalho industrial", "cm transformou sociedade",
+        "de q forma aconteceu", "de q maneira se desenvolveu", "de q jeito funcionava",
+        "como eh aconteceu revolução industrial", "como eh começou revolução industrial", "como eh funcionava",
+        "como q aconteceu revolução industrial", "como q começou revolução industrial", "como q funcionava",
+        "como faz pra estudar revolução industrial", "como faz pra entender revolução industrial",
+        "cm faz pra estudar revolução industrial", "cm faz pra entender revolução industrial",
+        "como é que aconteceu", "como é q aconteceu", "como eh q aconteceu",
+        "cm eh que aconteceu", "cm é que aconteceu", "cm é q aconteceu"
+      ],
+      "responses": [
+        "A Revolução Industrial aconteceu gradualmente: começou com inovações na agricultura, seguida pela mecanização têxtil, invenção da máquina a vapor, criação de fábricas, migração rural-urbana e formação da classe operária. O processo foi cumulativo e acelerado.",
+        "Desenvolveu-se através da combinação de fatores: acúmulo de capital, inovações tecnológicas, disponibilidade de recursos naturais (carvão), mão de obra abundante e mercados consumidores. As máquinas substituíram gradualmente o trabalho manual artesanal."
+      ]
+    }
+  ]
+}

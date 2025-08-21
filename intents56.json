@@ -1,0 +1,288 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_anarquismo_que",
+      "patterns": [
+        "o que é anarquismo", "o que significa anarquismo", "o que quer dizer anarquismo",
+        "que negócio é esse de anarquismo", "que história é essa de anarquismo", "que parada é anarquismo",
+        "que coisa é anarquismo mesmo", "que diabos é anarquismo", "que raios é anarquismo",
+        "afinal o que é anarquismo", "mas o que é anarquismo", "então o que é anarquismo",
+        "cara o que é anarquismo", "mano o que é anarquismo", "véi o que é anarquismo",
+        "me explica o que é anarquismo", "me conta o que é anarquismo", "me fala o que é anarquismo",
+        "explica aí o que é anarquismo", "conta aí o que é anarquismo", "fala aí o que é anarquismo",
+        "qual é a do anarquismo", "qual é a história do anarquismo", "qual é a parada do anarquismo",
+        "como assim anarquismo", "tipo assim o que é anarquismo", "quer dizer o que é anarquismo",
+        "pô o que é anarquismo", "poxa o que é anarquismo", "caramba o que é anarquismo",
+        "nossa o que é anarquismo", "eita o que é anarquismo", "opa o que é anarquismo",
+        "rapaz o que é anarquismo", "cara de pau o que é anarquismo", "sem brincadeira o que é anarquismo",
+        "de verdade o que é anarquismo", "sério mesmo o que é anarquismo", "real o que é anarquismo",
+        "na moral o que é anarquismo", "na boa o que é anarquismo", "numa boa o que é anarquismo",
+        "tá mas o que é anarquismo", "ok mas o que é anarquismo", "beleza mas o que é anarquismo",
+        "hmm o que é anarquismo", "bom o que é anarquismo", "enfim o que é anarquismo",
+        "resumindo o que é anarquismo", "basicamente o que é anarquismo", "fundamentalmente o que é anarquismo",
+        "professor o que é anarquismo", "mestre o que é anarquismo", "doutor o que é anarquismo",
+        "gente o que é anarquismo", "pessoal o que é anarquismo", "galera o que é anarquismo",
+        "oxe o que é anarquismo", "uai o que é anarquismo", "ué o que é anarquismo",
+        "bah o que é anarquismo", "tche o que é anarquismo", "capaz o que é anarquismo",
+        "caraca o que é anarquismo", "puts o que é anarquismo", "putz o que é anarquismo",
+        
+        "oq é anarquismo", "oque é anarquismo", "q é anarquismo",
+        "anarquismo é oq", "anarquismo oq é", "anarquismo é q", "anarquismo q é",
+        "é anarquismo msm", "eh anarquismo msm", "é anarquismo memo",
+        "q eh anarquismo", "que eh anarquismo", "oq significa anarquismo", "q significa anarquismo",
+        "oq quer dizer anarquismo", "q quer dizer anarquismo", "me explica oq é anarquismo",
+        "me fala oq é anarquismo", "me conta oq é anarquismo", "explica oq é anarquismo",
+        "fala oq é anarquismo", "conta oq é anarquismo", "cara oq é anarquismo",
+        "mano oq é anarquismo", "vei oq é anarquismo", "bicho oq é anarquismo",
+        "rapaz oq é anarquismo", "gente oq é anarquismo", "po oq é anarquismo",
+        "pô oq é anarquismo", "poxa oq é anarquismo", "caramba oq é anarquismo",
+        "caraca oq é anarquismo", "nossa oq é anarquismo", "eita oq é anarquismo",
+        "opa oq é anarquismo", "uai oq é anarquismo", "oxe oq é anarquismo",
+        "ué oq é anarquismo", "bah oq é anarquismo", "na moral oq é anarquismo",
+        "na boa oq é anarquismo", "de boa oq é anarquismo", "sério oq é anarquismo",
+        "real oq é anarquismo", "tipo oq é anarquismo", "então oq é anarquismo",
+        "ent oq é anarquismo", "mas oq é anarquismo", "tá mas oq é anarquismo",
+        "ta mas oq é anarquismo", "ok mas oq é anarquismo", "beleza mas oq é anarquismo",
+        "blz mas oq é anarquismo", "bom oq é anarquismo", "enfim oq é anarquismo",
+        "resumindo oq é anarquismo", "basicamente oq é anarquismo", "professor oq é anarquismo",
+        "prof oq é anarquismo", "mestre oq é anarquismo", "pessoal oq é anarquismo",
+        "galera oq é anarquismo", "turma oq é anarquismo", "nego oq é anarquismo",
+        "povo oq é anarquismo", "geral oq é anarquismo", "alguém sabe oq é anarquismo",
+        "ngm sabe oq é anarquismo", "ninguém sabe oq é anarquismo", "vc sabe oq é anarquismo",
+        "você sabe oq é anarquismo", "tu sabe oq é anarquismo", "cê sabe oq é anarquismo",
+        "define anarquismo", "define anarquismo aí", "define anarquismo pra mim",
+        "conceito de anarquismo", "conceito anarquismo", "significado anarquismo",
+        "explicação de anarquismo", "explicação anarquismo", "definição anarquismo",
+        "filosofia anarquista", "ideologia anarquista", "movimento anarquista",
+        "teoria anarquista", "doutrina anarquista", "pensamento anarquista",
+        "política anarquista", "sociedade anarquista", "organização anarquista",
+        "anarquia é oq", "sem governo", "ausência de estado", "autogestão"
+      ],
+      "responses": [
+        "Anarquismo é uma filosofia política que defende a abolição de todas as formas de autoridade coercitiva, especialmente o Estado, propondo uma sociedade baseada na cooperação voluntária, autogestão e organização horizontal sem hierarquias.",
+        "É uma corrente de pensamento que acredita que as pessoas podem se organizar de forma livre e igualitária, sem necessidade de governos ou autoridades centralizadas, priorizando a liberdade individual e a solidariedade mútua."
+      ]
+    },
+    {
+      "intent": "o_que_e_anarquismo_quando",
+      "patterns": [
+        "quando surgiu anarquismo", "quando começou anarquismo", "quando nasceu anarquismo",
+        "quando foi criado anarquismo", "quando apareceu anarquismo", "desde quando existe anarquismo",
+        "em que ano surgiu anarquismo", "em que século nasceu anarquismo", "em que época começou anarquismo",
+        "em que período surgiu anarquismo", "quando foi fundado anarquismo", "quando foi inventado anarquismo",
+        "há quanto tempo existe anarquismo", "faz quanto tempo existe anarquismo", "quantos anos tem anarquismo",
+        "quando proudhon criou anarquismo", "quando bakunin defendeu anarquismo", "quando kropotkin escreveu sobre anarquismo",
+        "quando foi primeira internacional", "quando foi comuna de paris", "quando houve revolução espanhola",
+        "século 19 anarquismo", "século 18 anarquismo", "século 20 anarquismo",
+        "era industrial e anarquismo", "revolução francesa e anarquismo", "iluminismo e anarquismo",
+        
+        "qdo surgiu anarquismo", "qdo começou anarquismo", "qdo nasceu anarquismo",
+        "qdo foi criado anarquismo", "qdo apareceu anarquismo", "desde qdo existe anarquismo",
+        "em q ano surgiu anarquismo", "em q século nasceu anarquismo", "em q época começou anarquismo",
+        "em q período surgiu anarquismo", "qdo foi fundado anarquismo", "qdo foi inventado anarquismo",
+        "há qto tempo existe anarquismo", "faz qto tempo existe anarquismo", "qtos anos tem anarquismo",
+        "qdo proudhon criou anarquismo", "qdo bakunin defendeu anarquismo", "qdo kropotkin escreveu anarquismo",
+        "qdo foi primeira internacional", "qdo foi comuna de paris", "qdo houve revolução espanhola",
+        "século 19 anarquismo", "século 18 anarquismo", "século 20 anarquismo",
+        "era industrial e anarquismo", "revolução francesa e anarquismo", "iluminismo e anarquismo",
+        "origem temporal anarquismo", "história cronológica anarquismo", "desenvolvimento histórico anarquismo",
+        "evolução temporal anarquismo", "marco histórico anarquismo", "data fundação anarquismo"
+      ],
+      "responses": [
+        "O anarquismo moderno surgiu no século XIX, por volta de 1840, com Pierre-Joseph Proudhon sendo o primeiro a se autodenominar 'anarquista'. O movimento se desenvolveu durante a era industrial e teve marcos importantes como a Primeira Internacional (1864) e a Comuna de Paris (1871).",
+        "Embora ideias libertárias existam há milênios, o anarquismo como movimento político organizado nasceu na metade do século XIX (1840-1860), consolidando-se com pensadores como Proudhon, Bakunin e posteriormente Kropotkin."
+      ]
+    },
+    {
+      "intent": "o_que_e_anarquismo_onde",
+      "patterns": [
+        "onde surgiu anarquismo", "onde nasceu anarquismo", "onde começou anarquismo",
+        "onde foi criado anarquismo", "onde apareceu anarquismo", "onde se desenvolveu anarquismo",
+        "em que país surgiu anarquismo", "em que lugar nasceu anarquismo", "em que região começou anarquismo",
+        "onde tinha mais anarquistas", "onde anarquismo era forte", "onde anarquismo se espalhou",
+        "frança e anarquismo", "rússia e anarquismo", "espanha e anarquismo", "itália e anarquismo",
+        "alemanha e anarquismo", "inglaterra e anarquismo", "estados unidos e anarquismo",
+        "brasil e anarquismo", "argentina e anarquismo", "méxico e anarquismo",
+        "europa e anarquismo", "américa e anarquismo", "ásia e anarquismo",
+        "onde proudhon morava", "onde bakunin atuou", "onde kropotkin viveu",
+        "onde foi comuna de paris", "onde teve revolução espanhola", "onde foram coletividades anarquistas",
+        
+        "aonde surgiu anarquismo", "aonde nasceu anarquismo", "aonde começou anarquismo",
+        "aonde foi criado anarquismo", "aonde apareceu anarquismo", "aonde se desenvolveu anarquismo",
+        "em q país surgiu anarquismo", "em q lugar nasceu anarquismo", "em q região começou anarquismo",
+        "aonde tinha mais anarquistas", "aonde anarquismo era forte", "aonde anarquismo se espalhou",
+        "frança e anarquismo", "rússia e anarquismo", "espanha e anarquismo", "itália e anarquismo",
+        "alemanha e anarquismo", "inglaterra e anarquismo", "eua e anarquismo",
+        "brasil e anarquismo", "argentina e anarquismo", "méxico e anarquismo",
+        "europa e anarquismo", "américa e anarquismo", "ásia e anarquismo",
+        "aonde proudhon morava", "aonde bakunin atuou", "aonde kropotkin viveu",
+        "aonde foi comuna paris", "aonde teve revolução espanhola", "aonde foram coletividades anarquistas",
+        "geografia do anarquismo", "localização anarquismo", "distribuição geográfica anarquismo",
+        "centros anarquistas", "regiões anarquistas", "focos anarquistas"
+      ],
+      "responses": [
+        "O anarquismo surgiu na França com Proudhon e se espalhou pela Europa (Rússia com Bakunin, Espanha, Itália) e depois para as Américas. A Espanha foi onde teve maior força prática, especialmente na Catalunha durante a Guerra Civil (1936-1939).",
+        "Nasceu na França, desenvolveu-se fortemente na Rússia, Espanha, Itália e chegou ao Brasil no final do século XIX com imigrantes europeus. Teve experiências práticas significativas na Espanha, Ucrânia e comunidades rurais em diversos países."
+      ]
+    },
+    {
+      "intent": "o_que_e_anarquismo_quem",
+      "patterns": [
+        "quem criou anarquismo", "quem fundou anarquismo", "quem inventou anarquismo",
+        "quem foi proudhon", "quem foi bakunin", "quem foi kropotkin", "quem foi malatesta",
+        "quem foram os anarquistas famosos", "quem são os principais anarquistas", "quem defendeu anarquismo",
+        "quem escreveu sobre anarquismo", "quem teorizou anarquismo", "quem praticou anarquismo",
+        "quem foi max stirner", "quem foi emma goldman", "quem foi nestor makhno",
+        "quem foi elisée reclus", "quem foi louise michel", "quem foi sacco e vanzetti",
+        "quem foi buenaventura durruti", "quem foi josé oiticica", "quem foi edgar leuenroth",
+        "quem eram os anarco-sindicalistas", "quem eram os anarco-comunistas", "quem eram os mutualistas",
+        "quem participou comuna de paris", "quem lutou revolução espanhola", "quem fez coletivizações",
+        "quem perseguiu anarquistas", "quem apoiou anarquismo", "quem combateu anarquismo",
+        
+        "qm criou anarquismo", "qm fundou anarquismo", "qm inventou anarquismo",
+        "qm foi proudhon", "qm foi bakunin", "qm foi kropotkin", "qm foi malatesta",
+        "qm foram anarquistas famosos", "qm são principais anarquistas", "qm defendeu anarquismo",
+        "qm escreveu sobre anarquismo", "qm teorizou anarquismo", "qm praticou anarquismo",
+        "qm foi max stirner", "qm foi emma goldman", "qm foi nestor makhno",
+        "qm foi elisée reclus", "qm foi louise michel", "qm foi sacco vanzetti",
+        "qm foi buenaventura durruti", "qm foi josé oiticica", "qm foi edgar leuenroth",
+        "qm eram anarco-sindicalistas", "qm eram anarco-comunistas", "qm eram mutualistas",
+        "qm participou comuna paris", "qm lutou revolução espanhola", "qm fez coletivizações",
+        "qm perseguiu anarquistas", "qm apoiou anarquismo", "qm combateu anarquismo",
+        "pensadores anarquistas", "filósofos anarquistas", "teóricos anarquistas",
+        "ativistas anarquistas", "militantes anarquistas", "revolucionários anarquistas"
+      ],
+      "responses": [
+        "Principais pensadores anarquistas: Pierre-Joseph Proudhon (primeiro a se chamar anarquista), Mikhail Bakunin (coletivista), Piotr Kropotkin (comunista libertário), Max Stirner (individualista), Emma Goldman, Errico Malatesta. No Brasil: José Oiticica e Edgar Leuenroth.",
+        "O anarquismo foi desenvolvido por diversos pensadores: Proudhon na França, Bakunin na Rússia, Kropotkin (cientista e teórico), além de ativistas como Emma Goldman, Nestor Makhno e Buenaventura Durruti na Espanha."
+      ]
+    },
+    {
+      "intent": "o_que_e_anarquismo_por_que",
+      "patterns": [
+        "por que existe anarquismo", "por que surgiu anarquismo", "por que pessoas viram anarquistas",
+        "por que anarquismo é importante", "por que anarquismo faz sentido", "por que defendem anarquismo",
+        "motivos do anarquismo", "razões do anarquismo", "causas do anarquismo",
+        "por que são contra o estado", "por que são contra governo", "por que são contra autoridade",
+        "por que querem autogestão", "por que defendem liberdade", "por que lutam contra hierarquia",
+        "por que anarquistas existem", "por que movimento anarquista", "por que filosofia anarquista",
+        "por que criticam capitalismo", "por que criticam socialismo autoritário", "por que criticam democracia",
+        "por que acreditam em cooperação", "por que defendem solidariedade", "por que querem igualdade",
+        "problemas que levam ao anarquismo", "injustiças que motivam anarquismo", "opressão e anarquismo",
+        "exploração e anarquismo", "desigualdade e anarquismo", "autoritarismo e anarquismo",
+        
+        "pq existe anarquismo", "pq surgiu anarquismo", "pq pessoas viram anarquistas",
+        "pq anarquismo é importante", "pq anarquismo faz sentido", "pq defendem anarquismo",
+        "motivos do anarquismo", "razões do anarquismo", "causas do anarquismo",
+        "pq são contra estado", "pq são contra governo", "pq são contra autoridade",
+        "pq querem autogestão", "pq defendem liberdade", "pq lutam contra hierarquia",
+        "pq anarquistas existem", "pq movimento anarquista", "pq filosofia anarquista",
+        "pq criticam capitalismo", "pq criticam socialismo autoritário", "pq criticam democracia",
+        "pq acreditam cooperação", "pq defendem solidariedade", "pq querem igualdade",
+        "problemas q levam anarquismo", "injustiças q motivam anarquismo", "opressão e anarquismo",
+        "exploração e anarquismo", "desigualdade e anarquismo", "autoritarismo e anarquismo",
+        "qual motivação anarquismo", "qual razão anarquismo", "qual causa anarquismo",
+        "o que leva ao anarquismo", "o que motiva anarquismo", "o que causa anarquismo"
+      ],
+      "responses": [
+        "O anarquismo surgiu como resposta à opressão estatal, exploração capitalista e hierarquias autoritárias. Anarquistas acreditam que o poder corrompe e que as pessoas podem se organizar melhor através da cooperação voluntária, autogestão e solidariedade mútua.",
+        "Existe porque questiona todas as formas de dominação - Estado, capitalismo, patriarcado, racismo. Defende que a liberdade individual só é possível com igualdade social, e que autoridades centralizadas sempre acabam servindo aos próprios interesses em detrimento do povo."
+      ]
+    },
+    {
+      "intent": "o_que_e_anarquismo_como",
+      "patterns": [
+        "como funciona anarquismo", "como seria sociedade anarquista", "como aplicar anarquismo",
+        "como praticar anarquismo", "como viver anarquismo", "como organizar sociedade anarquista",
+        "como seria economia anarquista", "como seria política anarquista", "como seria educação anarquista",
+        "como anarquistas se organizam", "como tomam decisões", "como resolvem conflitos",
+        "como produzem sem patrão", "como vivem sem governo", "como funcionam coletivos",
+        "como é autogestão", "como é democracia direta", "como é horizontalidade",
+        "como é federalismo libertário", "como são assembleias", "como são cooperativas",
+        "como era na espanha revolucionária", "como foi comuna de paris", "como são comunidades anarquistas",
+        "como estudar anarquismo", "como entender anarquismo", "como começar no anarquismo",
+        "como ser anarquista", "como praticar princípios anarquistas", "como aplicar teoria anarquista",
+        
+        "cm funciona anarquismo", "cm seria sociedade anarquista", "cm aplicar anarquismo",
+        "cm praticar anarquismo", "cm viver anarquismo", "cm organizar sociedade anarquista",
+        "cm seria economia anarquista", "cm seria política anarquista", "cm seria educação anarquista",
+        "cm anarquistas se organizam", "cm tomam decisões", "cm resolvem conflitos",
+        "cm produzem sem patrão", "cm vivem sem governo", "cm funcionam coletivos",
+        "cm é autogestão", "cm é democracia direta", "cm é horizontalidade",
+        "cm é federalismo libertário", "cm são assembleias", "cm são cooperativas",
+        "cm era espanha revolucionária", "cm foi comuna paris", "cm são comunidades anarquistas",
+        "cm estudar anarquismo", "cm entender anarquismo", "cm começar anarquismo",
+        "cm ser anarquista", "cm praticar princípios anarquistas", "cm aplicar teoria anarquista",
+        "de q forma funciona anarquismo", "de q maneira aplicar anarquismo", "de q jeito praticar anarquismo",
+        "método anarquista", "sistema anarquista", "organização anarquista",
+        "estrutura anarquista", "funcionamento anarquista", "processo anarquista"
+      ],
+      "responses": [
+        "O anarquismo funciona através de autogestão: assembleias para tomar decisões, cooperativas de trabalho, federações de comunidades, educação libertária, economia baseada em mutualismo ou comunismo libertário. Exemplos históricos: coletividades na Espanha (1936-1939) e Comuna de Paris.",
+        "Seria uma sociedade de organizações horizontais - sem chefes, com decisões por consenso ou democracia direta, economia cooperativa, educação livre, federações voluntárias de comunidades autônomas. A ordem surgiria da cooperação, não da coerção."
+      ]
+    },
+    {
+      "intent": "o_que_e_anarquismo_tipos",
+      "patterns": [
+        "tipos de anarquismo", "correntes anarquistas", "vertentes do anarquismo",
+        "quais tipos de anarquismo", "quantos tipos de anarquismo", "variações do anarquismo",
+        "anarco-comunismo", "anarco-sindicalismo", "mutualismo", "anarco-individualismo",
+        "anarco-coletivismo", "anarco-capitalismo", "anarco-primitivismo", "anarco-feminismo",
+        "anarquismo cristão", "anarquismo verde", "anarquismo pós-civilizacional", "anarquismo insurrecionalista",
+        "diferenças entre anarquismos", "classificação do anarquismo", "escolas anarquistas",
+        "tendências anarquistas", "facções anarquistas", "ramos do anarquismo",
+        "o que é mutualismo proudhon", "o que é anarco-comunismo kropotkin", "o que é coletivismo bakunin",
+        "anarquismo de mercado", "anarquismo sem adjetivos", "plataformismo", "anarquismo clássico",
+        "neo-anarquismo", "pós-anarquismo", "anarquismo contemporâneo", "anarquismo moderno",
+        
+        "tipos anarquismo", "correntes anarquistas", "vertentes anarquismo",
+        "q tipos anarquismo", "qtos tipos anarquismo", "variações anarquismo",
+        "anarco-comunismo", "anarco-sindicalismo", "mutualismo", "anarco-individualismo",
+        "anarco-coletivismo", "anarco-capitalismo", "anarco-primitivismo", "anarco-feminismo",
+        "anarquismo cristão", "anarquismo verde", "anarquismo pós-civilizacional", "anarquismo insurrecionalista",
+        "diferenças entre anarquismos", "classificação anarquismo", "escolas anarquistas",
+        "tendências anarquistas", "facções anarquistas", "ramos anarquismo",
+        "oq é mutualismo proudhon", "oq é anarco-comunismo kropotkin", "oq é coletivismo bakunin",
+        "anarquismo de mercado", "anarquismo sem adjetivos", "plataformismo", "anarquismo clássico",
+        "neo-anarquismo", "pós-anarquismo", "anarquismo contemporâneo", "anarquismo moderno",
+        "categorias anarquistas", "divisões anarquismo", "ramificações anarquistas"
+      ],
+      "responses": [
+        "Principais tipos: ANARCO-COMUNISMO (Kropotkin - propriedade comum), MUTUALISMO (Proudhon - mercado sem capitalismo), ANARCO-SINDICALISMO (organização pelos sindicatos), COLETIVISMO (Bakunin), INDIVIDUALISMO (Stirner), além de anarco-feminismo, anarquismo verde e outras correntes.",
+        "Existem diversas correntes: anarco-comunismo (comunismo libertário), mutualismo (mercado livre sem capitalismo), anarco-sindicalismo (luta através dos sindicatos), individualismo (foco na liberdade individual), coletivismo, anarco-feminismo, entre outras variações."
+      ]
+    },
+    {
+      "intent": "o_que_e_anarquismo_diferenca",
+      "patterns": [
+        "diferença anarquismo e comunismo", "diferença anarquismo e socialismo", "diferença anarquismo e capitalismo",
+        "diferença anarquismo e liberalismo", "diferença anarquismo e democracia", "diferença anarquismo e autoritarismo",
+        "diferença anarquismo e marxismo", "diferença anarquismo e fascismo", "diferença anarquismo e nazismo",
+        "anarquismo vs comunismo", "anarquismo vs socialismo", "anarquismo vs capitalismo",
+        "anarquismo vs liberalismo", "anarquismo vs democracia", "anarquismo vs marxismo",
+        "anarquismo ou comunismo", "anarquismo ou socialismo", "anarquismo ou capitalismo",
+        "anarquismo é comunismo", "anarquismo é socialismo", "anarquismo é capitalismo",
+        "anarquismo não é comunismo", "anarquismo não é socialismo", "anarquismo não é capitalismo",
+        "semelhanças anarquismo comunismo", "semelhanças anarquismo socialismo", "pontos em comum",
+        "o que distingue anarquismo", "características únicas anarquismo", "especificidade anarquista",
+        
+        "diferença anarquismo e comunismo", "diferença anarquismo e socialismo", "diferença anarquismo e capitalismo",
+        "diferença anarquismo e liberalismo", "diferença anarquismo e democracia", "diferença anarquismo e autoritarismo",
+        "diferença anarquismo e marxismo", "diferença anarquismo e fascismo", "diferença anarquismo e nazismo",
+        "anarquismo vs comunismo", "anarquismo vs socialismo", "anarquismo vs capitalismo",
+        "anarquismo vs liberalismo", "anarquismo vs democracia", "anarquismo vs marxismo",
+        "anarquismo ou comunismo", "anarquismo ou socialismo", "anarquismo ou capitalismo",
+        "anarquismo eh comunismo", "anarquismo eh socialismo", "anarquismo eh capitalismo",
+        "anarquismo não eh comunismo", "anarquismo não eh socialismo", "anarquismo não eh capitalismo",
+        "semelhanças anarquismo comunismo", "semelhanças anarquismo socialismo", "pontos comum",
+        "oq distingue anarquismo", "características únicas anarquismo", "especificidade anarquista",
+        "comparação anarquismo outras ideologias", "contraste anarquismo", "distinção anarquista"
+      ],
+      "responses": [
+        "Diferenças principais: COMUNISMO tem Estado transitório, ANARQUISMO rejeita todo Estado; CAPITALISMO tem hierarquias econômicas, ANARQUISMO quer igualdade; DEMOCRACIA tem representação, ANARQUISMO prefere participação direta; LIBERALISMO aceita desigualdade, ANARQUISMO busca justiça social.",
+        "Anarquismo difere do marxismo por rejeitar o 'Estado operário', do capitalismo por combater a exploração, do liberalismo por criticar hierarquias, e da social-democracia por não aceitar reformas graduais - quer transformação radical imediata."
+      ]
+    }
+  ]
+}

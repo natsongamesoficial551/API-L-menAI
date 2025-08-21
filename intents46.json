@@ -1,0 +1,194 @@
+{
+  "intents": [
+    {
+      "intent": "diferencas_romantismo_realismo_qual_quais_que_oq",
+      "patterns": [
+        "qual a diferença entre romantismo e realismo", "qual diferença romantismo realismo", "qual a diferença do romantismo pro realismo", "qual diferença entre realismo e romantismo",
+        "quais as diferenças entre romantismo e realismo", "quais diferenças romantismo realismo", "quais as diferenças do romantismo pro realismo", "quais diferenças entre realismo e romantismo",
+        "que diferença tem entre romantismo e realismo", "que diferenças existem entre romantismo realismo", "que diferença há entre realismo e romantismo", "que diferenças têm romantismo realismo",
+        "o que diferencia romantismo de realismo", "o que diferencia realismo de romantismo", "oq diferencia romantismo de realismo", "oq diferencia realismo de romantismo",
+        "oque diferencia romantismo realismo", "oque diferencia realismo romantismo", "q diferencia romantismo realismo", "q diferencia realismo romantismo",
+        
+        "qual eh a diferença entre romantismo realismo", "qual é diferença romantismo realismo", "quais eh as diferenças entre romantismo realismo", "quais são diferenças romantismo realismo",
+        "q eh a diferença entre romantismo realismo", "q é diferença romantismo realismo", "que eh diferença entre romantismo realismo", "que é diferença romantismo realismo",
+        "oq eh a diferença entre romantismo realismo", "oq é diferença romantismo realismo", "oque eh diferença entre romantismo realismo", "oque é diferença romantismo realismo",
+        
+        "diferença romantismo pra realismo", "diferença realismo pra romantismo", "diferenças romantismo pro realismo", "diferenças realismo pro romantismo",
+        "diferença do romantismo pro realismo", "diferença do realismo pro romantismo", "diferenças do romantismo pro realismo", "diferenças do realismo pro romantismo",
+        "diferença entre romantismo x realismo", "diferenças entre romantismo x realismo", "romantismo x realismo diferenças", "realismo x romantismo diferenças",
+        "romantismo vs realismo diferenças", "realismo vs romantismo diferenças", "diferença romantismo vs realismo", "diferença realismo vs romantismo",
+        
+        "qual a diferença romantismo realismo", "quais as diferenças romantismo realismo", "que diferença romantismo realismo", "oq diferencia romantismo realismo",
+        "qual diferença tem romantismo realismo", "quais diferenças tem romantismo realismo", "que diferenças tem romantismo realismo", "oq tem de diferente romantismo realismo",
+        "qual a principal diferença romantismo realismo", "quais as principais diferenças romantismo realismo", "que principais diferenças romantismo realismo",
+        "oq muda entre romantismo realismo", "oque muda romantismo realismo", "q muda entre romantismo realismo", "que muda romantismo realismo",
+        
+        "cara qual diferença romantismo realismo", "mano qual diferença romantismo realismo", "véi quais diferenças romantismo realismo", "gente que diferença romantismo realismo",
+        "po qual diferença romantismo realismo", "pô quais diferenças romantismo realismo", "poxa que diferença romantismo realismo", "caramba oq diferencia romantismo realismo",
+        "nossa qual diferença romantismo realismo", "eita quais diferenças romantismo realismo", "opa que diferença romantismo realismo", "uai oq diferencia romantismo realismo",
+        "bah qual diferença romantismo realismo", "tche quais diferenças romantismo realismo", "oxe que diferença romantismo realismo", "capaz oq diferencia romantismo realismo",
+        
+        "me fala qual diferença romantismo realismo", "me conta quais diferenças romantismo realismo", "me explica que diferença romantismo realismo",
+        "explica qual diferença romantismo realismo", "conta quais diferenças romantismo realismo", "fala que diferença romantismo realismo",
+        "me diz qual diferença romantismo realismo", "diz quais diferenças romantismo realismo", "fale que diferença romantismo realismo",
+        
+        "professor qual diferença romantismo realismo", "prof quais diferenças romantismo realismo", "mestre que diferença romantismo realismo",
+        "pessoal qual diferença romantismo realismo", "galera quais diferenças romantismo realismo", "turma que diferença romantismo realismo",
+        
+        "qual eh mesmo a diferença romantismo realismo", "quais eh mesmo as diferenças romantismo realismo", "que eh mesmo diferença romantismo realismo",
+        "qual é mesmo diferença romantismo realismo", "quais são mesmo diferenças romantismo realismo", "que é mesmo diferença romantismo realismo",
+        "afinal qual diferença romantismo realismo", "afinal quais diferenças romantismo realismo", "afinal que diferença romantismo realismo",
+        "então qual diferença romantismo realismo", "então quais diferenças romantismo realismo", "então que diferença romantismo realismo",
+        "mas qual diferença romantismo realismo", "mas quais diferenças romantismo realismo", "mas que diferença romantismo realismo",
+        
+        "na real qual diferença romantismo realismo", "na moral quais diferenças romantismo realismo", "de boa que diferença romantismo realismo",
+        "sério qual diferença romantismo realismo", "real quais diferenças romantismo realismo", "tipo que diferença romantismo realismo",
+        
+        "comparação romantismo realismo", "contraste romantismo realismo", "romantismo comparado com realismo", "realismo comparado com romantismo",
+        "semelhanças e diferenças romantismo realismo", "pontos diferentes romantismo realismo", "características diferentes romantismo realismo",
+        
+        "diferença romantismo realismo", "diferenças romantismo realismo", "romantismo e realismo diferenças", "realismo e romantismo diferenças",
+        "romantismo realismo oq muda", "realismo romantismo q muda", "romantismo realismo q eh diferente", "realismo romantismo oq eh diferente",
+        "qual eh romantismo qual eh realismo", "q eh romantismo q eh realismo", "oq eh romantismo oq eh realismo", "que eh romantismo que eh realismo",
+        
+        "romantismo ou realismo", "realismo ou romantismo", "romantismo x realismo qual melhor", "realismo x romantismo qual melhor",
+        "prefere romantismo ou realismo", "gosta mais romantismo ou realismo", "acha melhor romantismo ou realismo",
+        
+        "romantismo tem oq", "realismo tem oq", "romantismo tem q", "realismo tem q", "romantismo possui oq", "realismo possui oq",
+        "características romantismo", "características realismo", "jeito romantismo", "jeito realismo", "estilo romantismo", "estilo realismo",
+        
+        "como saber se eh romantismo ou realismo", "cm saber se eh romantismo ou realismo", "como identificar romantismo realismo",
+        "cm identificar romantismo realismo", "como distinguir romantismo realismo", "cm distinguir romantismo realismo",
+        
+        "romantismo mais oq que realismo", "realismo mais oq que romantismo", "romantismo eh mais oq", "realismo eh mais oq",
+        "romantismo foca em oq", "realismo foca em oq", "romantismo trata de oq", "realismo trata de oq",
+        
+        "pq romantismo eh diferente realismo", "pq realismo eh diferente romantismo", "porque romantismo diferente realismo",
+        "porque realismo diferente romantismo", "por q romantismo diferente realismo", "por q realismo diferente romantismo",
+        
+        "quando usar romantismo quando usar realismo", "qdo usar romantismo qdo usar realismo", "quando eh romantismo quando eh realismo",
+        "qdo eh romantismo qdo eh realismo", "em q situação romantismo realismo", "em que caso romantismo realismo",
+        
+        "onde tem romantismo onde tem realismo", "aonde tem romantismo aonde tem realismo", "onde encontra romantismo realismo",
+        "aonde encontra romantismo realismo", "onde aparece romantismo realismo", "aonde aparece romantismo realismo",
+        
+        "quem criou romantismo quem criou realismo", "qm criou romantismo qm criou realismo", "quem fez romantismo quem fez realismo",
+        "qm fez romantismo qm fez realismo", "quem inventou romantismo realismo", "qm inventou romantismo realismo",
+        
+        "como eh romantismo como eh realismo", "cm eh romantismo cm eh realismo", "como funciona romantismo realismo",
+        "cm funciona romantismo realismo", "como que eh romantismo realismo", "cm que eh romantismo realismo",
+        
+        "resumo romantismo realismo", "resumo diferenças romantismo realismo", "resumindo romantismo realismo",
+        "resumindo diferenças romantismo realismo", "em resumo romantismo realismo", "basicamente romantismo realismo",
+        
+        "qual mais famoso romantismo ou realismo", "q mais famoso romantismo ou realismo", "qual mais usado romantismo realismo",
+        "q mais usado romantismo realismo", "qual mais importante romantismo realismo", "q mais importante romantismo realismo",
+        
+        "vantagens romantismo sobre realismo", "vantagens realismo sobre romantismo", "benefícios romantismo realismo",
+        "pontos positivos romantismo realismo", "pontos negativos romantismo realismo", "prós e contras romantismo realismo",
+        
+        "exemplo romantismo exemplo realismo", "exemplos romantismo realismo", "modelo romantismo modelo realismo",
+        "amostra romantismo amostra realismo", "caso romantismo caso realismo", "situação romantismo situação realismo",
+        
+        "facil romantismo ou realismo", "fácil romantismo ou realismo", "difícil romantismo ou realismo",
+        "complicado romantismo ou realismo", "simples romantismo ou realismo", "complexo romantismo ou realismo",
+        
+        "gosto romantismo ou realismo", "prefiro romantismo ou realismo", "melhor romantismo ou realismo",
+        "pior romantismo ou realismo", "legal romantismo ou realismo", "chato romantismo ou realismo",
+        
+        "romantismo legal realismo chato", "realismo legal romantismo chato", "romantismo interessante realismo não",
+        "realismo interessante romantismo não", "romantismo boring realismo legal", "realismo boring romantismo legal",
+        
+        "nunca entendi romantismo realismo", "não entendo romantismo realismo", "nao entendo romantismo realismo",
+        "confuso romantismo realismo", "perdido romantismo realismo", "sem noção romantismo realismo",
+        
+        "ajuda romantismo realismo", "socorro romantismo realismo", "me salva romantismo realismo",
+        "tô perdido romantismo realismo", "to perdido romantismo realismo", "não sei romantismo realismo",
+        
+        "prova romantismo realismo", "teste romantismo realismo", "exercício romantismo realismo",
+        "questão romantismo realismo", "dúvida romantismo realismo", "pergunta romantismo realismo",
+        
+        "qual diferença principal romantismo realismo", "qual a maior diferença romantismo realismo", "qual diferença mais importante romantismo realismo",
+        "quais diferenças básicas romantismo realismo", "quais diferenças fundamentais romantismo realismo", "quais diferenças essenciais romantismo realismo",
+        "qual diferença central romantismo realismo", "quais diferenças cruciais romantismo realismo", "qual diferença key romantismo realismo",
+        
+        "que nem romantismo que nem realismo", "que tipo romantismo que tipo realismo", "que estilo romantismo que estilo realismo",
+        "que jeito romantismo que jeito realismo", "que forma romantismo que forma realismo", "que maneira romantismo que maneira realismo",
+        "que modo romantismo que modo realismo", "que aspecto romantismo que aspecto realismo", "que característica romantismo que característica realismo",
+        
+        "oq tem de especial romantismo", "oq tem de especial realismo", "oq tem de único romantismo", "oq tem de único realismo",
+        "oq marca romantismo", "oq marca realismo", "oq define romantismo", "oq define realismo", "oq caracteriza romantismo", "oq caracteriza realismo",
+        "oque faz romantismo ser romantismo", "oque faz realismo ser realismo", "q faz romantismo diferente", "q faz realismo diferente",
+        
+        "como distinguir romantismo de realismo na literatura", "cm distinguir romantismo realismo na literatura", "como identificar se texto eh romantismo realismo",
+        "cm identificar se texto eh romantismo realismo", "como reconhecer romantismo realismo", "cm reconhecer romantismo realismo",
+        "como perceber se eh romantismo ou realismo", "cm perceber se eh romantismo ou realismo", "como notar diferença romantismo realismo",
+        
+        "onde mais aparece romantismo", "onde mais aparece realismo", "aonde mais tem romantismo", "aonde mais tem realismo",
+        "onde romantismo eh mais forte", "onde realismo eh mais forte", "aonde romantismo domina", "aonde realismo domina",
+        "onde encontro mais romantismo", "onde encontro mais realismo", "aonde acho romantismo", "aonde acho realismo",
+        
+        "quando romantismo virou moda", "quando realismo virou moda", "qdo romantismo era popular", "qdo realismo era popular",
+        "quando romantismo começou", "quando realismo começou", "qdo romantismo surgiu", "qdo realismo surgiu", "quando romantismo acabou", "quando realismo acabou",
+        "qdo romantismo foi importante", "qdo realismo foi importante", "quando romantismo tava em alta", "quando realismo tava em alta",
+        
+        "quem prefere romantismo", "quem prefere realismo", "qm gosta mais romantismo", "qm gosta mais realismo",
+        "quem defende romantismo", "quem defende realismo", "qm apoia romantismo", "qm apoia realismo", "quem curte romantismo", "quem curte realismo",
+        "quem critica romantismo", "quem critica realismo", "qm não gosta romantismo", "qm não gosta realismo",
+        
+        "como estudar romantismo realismo", "cm estudar romantismo realismo", "como aprender romantismo realismo", "cm aprender romantismo realismo",
+        "como decorar diferenças romantismo realismo", "cm decorar diferenças romantismo realismo", "como memorizar romantismo realismo",
+        "cm memorizar romantismo realismo", "como não esquecer romantismo realismo", "cm não esquecer romantismo realismo",
+        
+        "qual época romantismo qual época realismo", "q época romantismo q época realismo", "qual período romantismo qual período realismo",
+        "q período romantismo q período realismo", "qual século romantismo qual século realismo", "q século romantismo q século realismo",
+        "qual ano romantismo qual ano realismo", "q ano romantismo q ano realismo", "qual data romantismo qual data realismo",
+        
+        "quanto tempo durou romantismo", "qto tempo durou realismo", "quanto durou romantismo", "qto durou realismo",
+        "quantos anos romantismo", "qtos anos realismo", "quanto tempo romantismo dominando", "qto tempo realismo dominando",
+        "quanto romantismo influenciou", "qto realismo influenciou", "quantos escritores romantismo", "qtos escritores realismo",
+        
+        "cujo movimento eh romantismo", "cujo movimento eh realismo", "cuja escola eh romantismo", "cuja escola eh realismo",
+        "cujo estilo eh romantismo", "cujo estilo eh realismo", "cuja tendência eh romantismo", "cuja tendência eh realismo",
+        "cujos autores romantismo", "cujos autores realismo", "cujas obras romantismo", "cujas obras realismo",
+        
+        "brasil teve romantismo ou realismo", "br teve romantismo ou realismo", "portugal teve romantismo realismo", "pt teve romantismo realismo",
+        "frança romantismo realismo", "alemanha romantismo realismo", "inglaterra romantismo realismo", "eua romantismo realismo",
+        "mundo romantismo realismo", "europa romantismo realismo", "américa romantismo realismo", "ásia romantismo realismo",
+        
+        "escola romantismo escola realismo", "universidade ensina romantismo realismo", "faculdade romantismo realismo", "colégio romantismo realismo",
+        "enem romantismo realismo", "vestibular romantismo realismo", "concurso romantismo realismo", "prova enem romantismo realismo",
+        
+        "livro romantismo livro realismo", "autor romantismo autor realismo", "escritor romantismo escritor realismo", "poeta romantismo poeta realismo",
+        "romance romantismo romance realismo", "poesia romantismo poesia realismo", "teatro romantismo teatro realismo", "literatura romantismo realismo",
+        
+        "filme romantismo filme realismo", "série romantismo série realismo", "novela romantismo novela realismo", "música romantismo música realismo",
+        "arte romantismo arte realismo", "pintura romantismo pintura realismo", "escultura romantismo escultura realismo"
+      ],
+      "responses": [
+        "A principal diferença é que o Romantismo valoriza a emoção, o subjetivismo e a idealização, enquanto o Realismo prioriza a objetividade, a crítica social e o retrato fiel da realidade sem idealizações.",
+        "Romantismo: sentimentalismo, nacionalismo, natureza exuberante, heróis idealizados. Realismo: personagens comuns, problemas sociais reais, linguagem coloquial, crítica às instituições.",
+        "O Romantismo foca na imaginação, fantasia e escapismo da realidade, já o Realismo retrata fielmente a sociedade com seus defeitos e problemas cotidianos.",
+        "Romantismo = emoção predomina sobre razão, ideais nacionalistas, amor platônico. Realismo = razão sobre emoção, crítica social, amor carnal e real.",
+        "No Romantismo os personagens são heróis perfeitos e vilões malvados, no Realismo são pessoas comuns com defeitos e qualidades como qualquer um.",
+        "Romantismo exalta a natureza como refúgio, Realismo mostra o ambiente urbano e rural de forma crua, sem romantização.",
+        "A linguagem do Romantismo é elevada e formal, a do Realismo é simples e próxima da fala do povo.",
+        "Romantismo = fuga da realidade através dos sonhos, Realismo = mergulho profundo na realidade concreta da época.",
+        "Os românticos idealizavam a mulher como anjo ou demônio, os realistas a retratavam como ser humano normal com virtudes e defeitos.",
+        "Romantismo surgiu como reação ao racionalismo, Realismo como reação ao exagero sentimental romântico.",
+        "No Romantismo predomina o 'eu lírico' subjetivo, no Realismo o narrador observador objetivo da sociedade.",
+        "Romantismo valoriza o medieval e exótico, Realismo foca no presente e no cotidiano burguês.",
+        "Os românticos morriam de amor, tuberculose ou suicídio, os realistas morriam de doenças reais ou causas sociais.",
+        "Romantismo = art pour l'art (arte pela arte), Realismo = arte com função social e denúncia.",
+        "A religiosidade romântica é mística e medieval, a realista é crítica às instituições religiosas.",
+        "Romantismo exalta o individualismo do gênio incompreendido, Realismo critica o individualismo burguês.",
+        "No Romantismo o final costuma ser trágico e melancólico, no Realismo pode ser feliz mas sempre verossímil.",
+        "Os românticos usavam muito o 'mal do século' e spleen, os realistas focavam em neuroses e patologias reais.",
+        "Romantismo = tempo histórico idealizado (passado glorioso), Realismo = tempo presente com todos seus problemas.",
+        "A ironia romântica é melancólica e filosófica, a realista é social e crítica aos costumes da época.",
+        "Romantismo influenciado pelo idealismo alemão, Realismo pelo positivismo e ciências sociais.",
+        "No Brasil: Romantismo = indianismo e saudade, Realismo = abolicionismo e crítica ao Império."
+      ]
+    }
+  ]
+}

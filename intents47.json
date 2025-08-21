@@ -1,0 +1,222 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_romantismo_que",
+      "patterns": [
+        "o que é romantismo", "o que significa romantismo", "o que quer dizer romantismo", "o que são características do romantismo",
+        "que negócio é esse de romantismo", "que história é essa de romantismo", "que parada é romantismo",
+        "que coisa é romantismo mesmo", "que diabos é romantismo", "que raios é romantismo",
+        "afinal o que é romantismo", "mas o que é romantismo", "então o que é romantismo",
+        "cara o que é romantismo", "mano o que é romantismo", "véi o que é romantismo",
+        "me explica o que é romantismo", "me conta o que é romantismo", "me fala o que é romantismo",
+        "explica aí o que é romantismo", "conta aí o que é romantismo", "fala aí o que é romantismo",
+        "qual é a do romantismo", "qual é a história do romantismo", "qual é a parada do romantismo",
+        "como assim romantismo", "tipo assim o que é romantismo", "quer dizer o que é romantismo",
+        "pô o que é romantismo", "poxa o que é romantismo", "caramba o que é romantismo",
+        "nossa o que é romantismo", "eita o que é romantismo", "opa o que é romantismo",
+        "rapaz o que é romantismo", "cara de pau o que é romantismo", "sem brincadeira o que é romantismo",
+        "de verdade o que é romantismo", "sério mesmo o que é romantismo", "real o que é romantismo",
+        "na moral o que é romantismo", "na boa o que é romantismo", "numa boa o que é romantismo",
+        "tá mas o que é romantismo", "ok mas o que é romantismo", "beleza mas o que é romantismo",
+        "hmm o que é romantismo", "bom o que é romantismo", "enfim o que é romantismo",
+        "resumindo o que é romantismo", "basicamente o que é romantismo", "fundamentalmente o que é romantismo",
+        "professor o que é romantismo", "mestre o que é romantismo", "doutor o que é romantismo",
+        "gente o que é romantismo", "pessoal o que é romantismo", "galera o que é romantismo",
+        "oxe o que é romantismo", "uai o que é romantismo", "ué o que é romantismo",
+        "bah o que é romantismo", "tche o que é romantismo", "capaz o que é romantismo",
+        "caraca o que é romantismo", "puts o que é romantismo", "putz o que é romantismo",
+        
+        "oq é romantismo", "oq significa romantismo", "oque é romantismo", "oque significa romantismo",
+        "q é romantismo", "q significa romantismo", "que é romantismo",
+        "romantismo é oq", "romantismo oq é", "romantismo é q", "romantismo q é",
+        "eh romantismo", "é romantismo msm", "eh romantismo msm", "é romantismo memo",
+        "q eh romantismo", "que eh romantismo", "oq significa romantismo", "oque significa romantismo",
+        "oq quer dizer romantismo", "q quer dizer romantismo", "oque quer dizer romantismo",
+        "me explica oq é romantismo", "me fala oq é romantismo", "me conta oq é romantismo",
+        "explica oq é romantismo", "fala oq é romantismo", "conta oq é romantismo",
+        "cara oq é romantismo", "mano oq é romantismo", "vei oq é romantismo",
+        "bicho oq é romantismo", "rapaz oq é romantismo", "gente oq é romantismo",
+        "po oq é romantismo", "pô oq é romantismo", "poxa oq é romantismo",
+        "caramba oq é romantismo", "caraca oq é romantismo", "nossa oq é romantismo",
+        "eita oq é romantismo", "opa oq é romantismo", "uai oq é romantismo",
+        "oxe oq é romantismo", "ué oq é romantismo", "bah oq é romantismo",
+        "na moral oq é romantismo", "na boa oq é romantismo", "de boa oq é romantismo",
+        "sério oq é romantismo", "real oq é romantismo", "tipo oq é romantismo",
+        "então oq é romantismo", "ent oq é romantismo", "mas oq é romantismo",
+        "tá mas oq é romantismo", "ta mas oq é romantismo", "ok mas oq é romantismo",
+        "beleza mas oq é romantismo", "blz mas oq é romantismo", "bom oq é romantismo",
+        "enfim oq é romantismo", "resumindo oq é romantismo", "basicamente oq é romantismo",
+        "professor oq é romantismo", "prof oq é romantismo", "mestre oq é romantismo",
+        "pessoal oq é romantismo", "galera oq é romantismo", "turma oq é romantismo",
+        "movimento literário romantismo", "escola literária romantismo", "período romântico",
+        "corrente artística romantismo", "estilo romântico", "arte romântica",
+        "literatura romântica", "poesia romântica", "prosa romântica"
+      ],
+      "responses": [
+        "O Romantismo foi um movimento artístico e literário dos séculos XVIII-XIX que valorizava os sentimentos, a natureza, o individualismo e a liberdade criativa. Surgiu como reação ao racionalismo clássico.",
+        "É uma escola literária que priorizava a emoção sobre a razão, o subjetivismo, o nacionalismo e temas como amor, morte, natureza e crítica social. Principais características: sentimentalismo, idealização e escapismo."
+      ]
+    },
+    {
+      "intent": "o_que_e_romantismo_quem",
+      "patterns": [
+        "quem criou o romantismo", "quem fundou o romantismo", "quem começou o romantismo",
+        "quem foram os autores românticos", "quem escreveu no romantismo", "quem são os poetas românticos",
+        "quem representou o romantismo", "quem participou do romantismo", "quem fez parte do romantismo",
+        "quem estudou romantismo", "quem pesquisa romantismo", "quem ensina romantismo",
+        "quem gosta de romantismo", "quem curte romantismo", "quem ama romantismo",
+        "quem lê romantismo", "quem aprecia romantismo", "quem admira romantismo",
+        "quem influenciou o romantismo", "quem inspirou o romantismo", "quem motivou o romantismo",
+        "quem trouxe o romantismo pro Brasil", "quem introduziu romantismo no Brasil", "quem implantou romantismo aqui",
+        
+        "qm criou romantismo", "qm fundou romantismo", "qm começou romantismo", "qm foram autores românticos",
+        "qm escreveu romantismo", "qm são poetas românticos", "qm representou romantismo", "qm participou romantismo",
+        "qm fez parte romantismo", "qm estudou romantismo", "qm pesquisa romantismo", "qm ensina romantismo",
+        "qm gosta romantismo", "qm curte romantismo", "qm ama romantismo", "qm lê romantismo",
+        "qm aprecia romantismo", "qm admira romantismo", "qm influenciou romantismo", "qm inspirou romantismo",
+        "qm motivou romantismo", "qm trouxe romantismo pro Brasil", "qm introduziu romantismo Brasil",
+        "principais autores românticos", "grandes nomes romantismo", "escritores famosos romantismo",
+        "poetas conhecidos romantismo", "autores brasileiros romantismo", "romancistas românticos",
+        "Castro Alves", "Álvares de Azevedo", "Casimiro de Abreu", "Gonçalves Dias",
+        "José de Alencar", "Machado de Assis", "Bernardo Guimarães", "Visconde de Taunay",
+        "Fagundes Varela", "Junqueira Freire", "Tobias Barreto", "Sousândrade"
+      ],
+      "responses": [
+        "No Brasil, principais autores românticos: Gonçalves Dias, Castro Alves, Álvares de Azevedo, José de Alencar, Casimiro de Abreu, Fagundes Varela. Na Europa: Byron, Goethe, Victor Hugo, Chateaubriand.",
+        "O movimento foi desenvolvido por diversos autores em diferentes países. No Brasil destacaram-se três gerações: indianista (Gonçalves Dias), byroniana (Álvares de Azevedo) e condoreira (Castro Alves)."
+      ]
+    },
+    {
+      "intent": "o_que_e_romantismo_onde",
+      "patterns": [
+        "onde surgiu o romantismo", "onde começou o romantismo", "onde nasceu o romantismo",
+        "onde se desenvolveu o romantismo", "onde aconteceu o romantismo", "onde teve romantismo",
+        "onde estudar romantismo", "onde aprender romantismo", "onde pesquisar romantismo",
+        "onde encontrar obras românticas", "onde achar livros românticos", "onde ver romantismo",
+        "onde ler sobre romantismo", "onde tem informação sobre romantismo", "onde buscar romantismo",
+        "em que lugar surgiu romantismo", "em qual país começou romantismo", "em que região teve romantismo",
+        "de onde veio o romantismo", "pra onde foi o romantismo", "por onde passou o romantismo",
+        "no Brasil onde teve romantismo", "na Europa onde surgiu romantismo", "na França onde começou romantismo",
+        "na Alemanha onde desenvolveu romantismo", "na Inglaterra onde teve romantismo",
+        
+        "aonde surgiu romantismo", "aonde começou romantismo", "aonde nasceu romantismo", "aonde se desenvolveu romantismo",
+        "aonde aconteceu romantismo", "aonde teve romantismo", "aonde estudar romantismo", "aonde aprender romantismo",
+        "kd surgiu romantismo", "cadê começou romantismo", "kd nasceu romantismo", "cadê teve romantismo",
+        "onde q surgiu romantismo", "onde q começou romantismo", "aonde q nasceu romantismo", "aonde q teve romantismo",
+        "em q lugar surgiu romantismo", "em q país começou romantismo", "Europa romantismo", "Brasil romantismo",
+        "França romantismo", "Alemanha romantismo", "Inglaterra romantismo", "Portugal romantismo",
+        "origem do romantismo", "berço do romantismo", "nascimento do romantismo", "início do romantismo"
+      ],
+      "responses": [
+        "O Romantismo surgiu na Europa (Inglaterra e Alemanha) no século XVIII, espalhando-se pela França e outros países. No Brasil chegou em 1836 com 'Suspiros Poéticos' de Gonçalves de Magalhães.",
+        "Teve origem no contexto europeu pós-Revolução Francesa e Industrial, manifestando-se em diferentes países. No Brasil desenvolveu-se principalmente no Rio de Janeiro e São Paulo durante o século XIX."
+      ]
+    },
+    {
+      "intent": "o_que_e_romantismo_cujo",
+      "patterns": [
+        "movimento cuja característica é romantismo", "escola cujo nome é romantismo", "período cuja denominação é romantismo",
+        "estilo cujo título é romantismo", "corrente cujo foco é romantismo", "tendência cuja essência é romantismo",
+        "arte cuja base é romantismo", "literatura cujo fundamento é romantismo", "poesia cujo estilo é romantismo",
+        "obra cuja escola é romantismo", "livro cujo movimento é romantismo", "autor cujo estilo é romantismo",
+        "poeta cuja corrente é romantismo", "escritor cujo período é romantismo", "romancista cujo gênero é romantismo",
+        "texto cujo movimento é romantismo", "verso cujo estilo é romantismo", "prosa cujo período é romantismo",
+        "século cujo movimento dominante foi romantismo", "época cuja arte era romantismo", "tempo cujo estilo era romantismo",
+        "país cujo movimento literário foi romantismo", "nação cuja literatura foi romântica", "região cujo estilo foi romantismo"
+      ],
+      "responses": [
+        "O Romantismo é um movimento cujas características principais incluem subjetivismo, sentimentalismo, nacionalismo e valorização da natureza e das tradições populares.",
+        "É uma escola literária cujos pilares são a liberdade criativa, a expressão dos sentimentos e a oposição aos padrões clássicos rígidos."
+      ]
+    },
+    {
+      "intent": "o_que_e_romantismo_qual",
+      "patterns": [
+        "quais são as características do romantismo", "qual característica do romantismo", "quais traços do romantismo",
+        "qual tipo de romantismo", "qual categoria de romantismo", "qual classe de romantismo",
+        "qual função do romantismo", "qual papel do romantismo", "qual importância do romantismo",
+        "qual diferença entre romantismo e classicismo", "qual melhor autor romântico", "qual mais famoso romantismo",
+        "qual mais importante romantismo", "qual exemplo de romantismo", "qual conceito de romantismo",
+        "qual definição de romantismo", "qual explicação de romantismo", "em qual situação usar romantismo",
+        "para qual ocasião serve romantismo", "em qual momento aplicar romantismo", "qual maneira de estudar romantismo",
+        "qual jeito de entender romantismo", "qual forma de aprender romantismo", "qual geração do romantismo",
+        
+        "q são características romantismo", "q característica romantismo", "q traços romantismo", "q tipo romantismo",
+        "q categoria romantismo", "q classe romantismo", "q função romantismo", "q papel romantismo",
+        "q importância romantismo", "q diferença romantismo classicismo", "q melhor autor romântico", "q exemplo romantismo",
+        "q conceito romantismo", "q definição romantismo", "q explicação romantismo", "em q situação usar romantismo",
+        "pra q ocasião serve romantismo", "q maneira estudar romantismo", "q jeito entender romantismo", "q forma aprender romantismo",
+        "quais eh características romantismo", "qual eh tipo romantismo", "qual eh categoria romantismo",
+        "primeira geração romantismo", "segunda geração romantismo", "terceira geração romantismo",
+        "geração indianista", "geração byroniana", "geração condoreira", "fases do romantismo",
+        "períodos do romantismo", "etapas do romantismo", "características principais romantismo"
+      ],
+      "responses": [
+        "Principais características do Romantismo: subjetivismo, sentimentalismo, idealização, nacionalismo, valorização da natureza, liberdade criativa, individualismo, escapismo e oposição ao racionalismo clássico.",
+        "No Brasil teve 3 gerações: 1ª Indianista (Gonçalves Dias) - exaltação da pátria e do índio; 2ª Byroniana (Álvares de Azevedo) - pessimismo e spleen; 3ª Condoreira (Castro Alves) - poesia social e abolicionismo."
+      ]
+    },
+    {
+      "intent": "o_que_e_romantismo_quanto",
+      "patterns": [
+        "quantos autores românticos existem", "quantos escritores do romantismo", "quantas gerações do romantismo",
+        "quanto tempo durou o romantismo", "quanto demora pra entender romantismo", "quanto leva pra dominar romantismo",
+        "quantas horas estudando romantismo", "quantos dias com romantismo", "quantas semanas praticando romantismo",
+        "quantas pessoas sabem romantismo", "quantos alunos estudam romantismo", "quantos professores ensinam romantismo",
+        "quantos tipos de romantismo", "quantas classificações de romantismo", "quantas obras românticas",
+        "quantos livros românticos", "quantos poemas românticos", "quanto representa o romantismo",
+        "quantas características do romantismo", "quantos períodos do romantismo", "quantas fases do romantismo",
+        
+        "qts autores românticos existem", "qtos escritores romantismo", "qtas gerações romantismo", "qto tempo durou romantismo",
+        "qto demora entender romantismo", "qto leva dominar romantismo", "qtas horas estudando romantismo", "qtos dias com romantismo",
+        "qtas semanas praticando romantismo", "qtas pessoas sabem romantismo", "qtos alunos estudam romantismo",
+        "qtos professores ensinam romantismo", "qtos tipos romantismo", "qtas classificações romantismo", "qtas obras românticas",
+        "qtos livros românticos", "qtos poemas românticos", "qto representa romantismo", "qtas características romantismo",
+        "qtos períodos romantismo", "qtas fases romantismo", "quantos eh autores românticos existem", "quantas eh gerações romantismo",
+        "quanto eh tempo durou romantismo", "quantas eh pessoas sabem romantismo", "quantos eh tipos romantismo",
+        "são quantos autores românticos", "tem quantas gerações romantismo", "existem quantos tipos romantismo",
+        "ao todo quantos autores românticos", "no total quantas gerações romantismo", "duração do romantismo",
+        "período de duração romantismo", "tempo que durou romantismo", "anos do romantismo"
+      ],
+      "responses": [
+        "O Romantismo durou aproximadamente de 1836 a 1881 no Brasil (45 anos) e teve 3 gerações principais. Centenas de autores participaram do movimento em diferentes países.",
+        "No Brasil: 1ª geração (1836-1850), 2ª geração (1850-1860), 3ª geração (1860-1881). Principais características: cerca de 8-10 traços fundamentais que definem o movimento."
+      ]
+    },
+    {
+      "intent": "o_que_e_romantismo_como",
+      "patterns": [
+        "como funciona o romantismo", "como surgiu o romantismo", "como se desenvolveu o romantismo",
+        "como estudar romantismo", "como aprender romantismo", "como entender romantismo",
+        "como dominar romantismo", "como ensinar romantismo", "como explicar romantismo",
+        "como identificar romantismo", "como reconhecer romantismo", "como achar romantismo",
+        "como encontrar romantismo", "como memorizar romantismo", "como decorar romantismo",
+        "como praticar romantismo", "como melhorar no romantismo", "como classificar romantismo",
+        "como analisar romantismo", "como interpretar romantismo", "como comentar romantismo",
+        "de que forma estudar romantismo", "de que maneira aprender romantismo", "de que jeito entender romantismo",
+        
+        "cm funciona romantismo", "cm surgiu romantismo", "cm se desenvolveu romantismo", "cm estudar romantismo",
+        "cm aprender romantismo", "cm entender romantismo", "cm dominar romantismo", "cm ensinar romantismo",
+        "cm explicar romantismo", "cm identificar romantismo", "cm reconhecer romantismo", "cm achar romantismo",
+        "cm encontrar romantismo", "cm memorizar romantismo", "cm decorar romantismo", "cm praticar romantismo",
+        "cm melhorar romantismo", "cm classificar romantismo", "cm analisar romantismo", "cm interpretar romantismo",
+        "de q forma estudar romantismo", "de q maneira aprender romantismo", "de q jeito entender romantismo",
+        "como eh funciona romantismo", "como eh surgiu romantismo", "como eh se desenvolveu romantismo",
+        "como q funciona romantismo", "como q surgiu romantismo", "como q se desenvolveu romantismo",
+        "como faz pra entender romantismo", "como faz pra aprender romantismo", "como faz pra estudar romantismo",
+        "cm faz pra entender romantismo", "cm faz pra aprender romantismo", "cm faz pra estudar romantismo",
+        "como é que funciona romantismo", "como é q funciona romantismo", "como eh q funciona romantismo",
+        "cm eh que funciona romantismo", "cm é que funciona romantismo", "cm é q funciona romantismo",
+        "como assim romantismo", "cm assim romantismo", "como é isso de romantismo", "cm é isso de romantismo",
+        "como que é romantismo", "cm que é romantismo", "como mexer com romantismo", "cm mexer com romantismo",
+        "como lidar com romantismo", "cm lidar com romantismo", "como se virar com romantismo",
+        "cm se virar com romantismo", "cm saber se é romântico", "como identificar texto romântico",
+        "como reconhecer autor romântico", "como analisar poesia romântica", "como interpretar obra romântica"
+      ],
+      "responses": [
+        "Para entender Romantismo: identifique subjetivismo (eu-lírico expressivo), sentimentalismo (emoções intensas), idealização (amor platônico), nacionalismo (exaltação da pátria) e linguagem emotiva. Analise o contexto histórico pós-independência.",
+        "Estude as 3 gerações: observe temas (indianismo, spleen, abolicionismo), autores principais (Gonçalves Dias, Álvares de Azevedo, Castro Alves) e características específicas. Compare com Classicismo para entender as diferenças."
+      ]
+    }
+  ]
+}

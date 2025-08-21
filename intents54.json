@@ -1,0 +1,259 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_abolicao_escravatura_que",
+      "patterns": [
+        "o que é abolição da escravatura", "o que foi abolição da escravatura", "o que significa abolição da escravatura", "o que quer dizer abolição da escravatura",
+        "que negócio é esse de abolição da escravatura", "que história é essa de abolição da escravatura", "que parada é abolição da escravatura",
+        "que coisa é abolição da escravatura mesmo", "que diabos é abolição da escravatura", "que raios é abolição da escravatura",
+        "afinal o que é abolição da escravatura", "mas o que é abolição da escravatura", "então o que é abolição da escravatura",
+        "cara o que é abolição da escravatura", "mano o que é abolição da escravatura", "véi o que é abolição da escravatura",
+        "me explica o que é abolição da escravatura", "me conta o que é abolição da escravatura", "me fala o que é abolição da escravatura",
+        "explica aí o que é abolição da escravatura", "conta aí o que é abolição da escravatura", "fala aí o que é abolição da escravatura",
+        "qual é a da abolição da escravatura", "qual é a história da abolição da escravatura", "qual é a parada da abolição da escravatura",
+        "como assim abolição da escravatura", "tipo assim o que é abolição da escravatura", "quer dizer o que é abolição da escravatura",
+        "pô o que é abolição da escravatura", "poxa o que é abolição da escravatura", "caramba o que é abolição da escravatura",
+        "nossa o que é abolição da escravatura", "eita o que é abolição da escravatura", "opa o que é abolição da escravatura",
+        "rapaz o que é abolição da escravatura", "cara de pau o que é abolição da escravatura", "sem brincadeira o que é abolição da escravatura",
+        "de verdade o que é abolição da escravatura", "sério mesmo o que é abolição da escravatura", "real o que é abolição da escravatura",
+        "na moral o que é abolição da escravatura", "na boa o que é abolição da escravatura", "numa boa o que é abolição da escravatura",
+        "tá mas o que é abolição da escravatura", "ok mas o que é abolição da escravatura", "beleza mas o que é abolição da escravatura",
+        "hmm o que é abolição da escravatura", "bom o que é abolição da escravatura", "enfim o que é abolição da escravatura",
+        "resumindo o que é abolição da escravatura", "basicamente o que é abolição da escravatura", "fundamentalmente o que é abolição da escravatura",
+        "professor o que é abolição da escravatura", "mestre o que é abolição da escravatura", "doutor o que é abolição da escravatura",
+        "gente o que é abolição da escravatura", "pessoal o que é abolição da escravatura", "galera o que é abolição da escravatura",
+        "oxe o que é abolição da escravatura", "uai o que é abolição da escravatura", "ué o que é abolição da escravatura",
+        "bah o que é abolição da escravatura", "tche o que é abolição da escravatura", "capaz o que é abolição da escravatura",
+        "caraca o que é abolição da escravatura", "puts o que é abolição da escravatura", "putz o que é abolição da escravatura",
+        
+        "oq é abolição da escravatura", "oque é abolição da escravatura", "q é abolição da escravatura",
+        "abolição da escravatura é oq", "abolição da escravatura oq é", "abolição da escravatura é q", "abolição da escravatura q é",
+        "é abolição da escravatura msm", "eh abolição da escravatura msm", "é abolição da escravatura memo",
+        "q eh abolição da escravatura", "que eh abolição da escravatura", "oq significa abolição da escravatura", "q significa abolição da escravatura",
+        "oq quer dizer abolição da escravatura", "q quer dizer abolição da escravatura", "me explica oq é abolição da escravatura",
+        "me fala oq é abolição da escravatura", "me conta oq é abolição da escravatura", "explica oq é abolição da escravatura",
+        "fala oq é abolição da escravatura", "conta oq é abolição da escravatura", "cara oq é abolição da escravatura",
+        "mano oq é abolição da escravatura", "vei oq é abolição da escravatura", "bicho oq é abolição da escravatura",
+        "rapaz oq é abolição da escravatura", "gente oq é abolição da escravatura", "po oq é abolição da escravatura",
+        "pô oq é abolição da escravatura", "poxa oq é abolição da escravatura", "caramba oq é abolição da escravatura",
+        "caraca oq é abolição da escravatura", "nossa oq é abolição da escravatura", "eita oq é abolição da escravatura",
+        "opa oq é abolição da escravatura", "uai oq é abolição da escravatura", "oxe oq é abolição da escravatura",
+        "ué oq é abolição da escravatura", "bah oq é abolição da escravatura", "na moral oq é abolição da escravatura",
+        "na boa oq é abolição da escravatura", "de boa oq é abolição da escravatura", "sério oq é abolição da escravatura",
+        "real oq é abolição da escravatura", "tipo oq é abolição da escravatura", "então oq é abolição da escravatura",
+        "ent oq é abolição da escravatura", "mas oq é abolição da escravatura", "tá mas oq é abolição da escravatura",
+        "ta mas oq é abolição da escravatura", "ok mas oq é abolição da escravatura", "beleza mas oq é abolição da escravatura",
+        "blz mas oq é abolição da escravatura", "bom oq é abolição da escravatura", "enfim oq é abolição da escravatura",
+        "resumindo oq é abolição da escravatura", "basicamente oq é abolição da escravatura", "professor oq é abolição da escravatura",
+        "prof oq é abolição da escravatura", "mestre oq é abolição da escravatura", "pessoal oq é abolição da escravatura",
+        "galera oq é abolição da escravatura", "turma oq é abolição da escravatura", "nego oq é abolição da escravatura",
+        "povo oq é abolição da escravatura", "geral oq é abolição da escravatura", "alguém sabe oq é abolição da escravatura",
+        "ngm sabe oq é abolição da escravatura", "ninguém sabe oq é abolição da escravatura", "vc sabe oq é abolição da escravatura",
+        "você sabe oq é abolição da escravatura", "tu sabe oq é abolição da escravatura", "cê sabe oq é abolição da escravatura",
+        "vocês sabem oq é abolição da escravatura", "vcs sabem oq é abolição da escravatura", "quem sabe oq é abolição da escravatura",
+        "qm sabe oq é abolição da escravatura", "qual é da abolição da escravatura", "qual a da abolição da escravatura",
+        "qual eh a da abolição da escravatura", "qual é a parada da abolição da escravatura", "qual a parada da abolição da escravatura",
+        "qual eh o conceito de abolição da escravatura", "qual é o conceito de abolição da escravatura", "qual o conceito de abolição da escravatura",
+        "define abolição da escravatura", "define abolição da escravatura aí", "define abolição da escravatura pra mim",
+        "conceito de abolição da escravatura", "conceito abolição da escravatura", "significado abolição da escravatura",
+        "explicação de abolição da escravatura", "explicação abolição da escravatura", "definição abolição da escravatura",
+        "a abolição da escravatura é oq", "essa parada de abolição da escravatura é oq", "esse negócio de abolição da escravatura é oq",
+        "essa coisa de abolição da escravatura é oq", "lei áurea", "13 de maio", "13 maio", "princesa isabel", "fim da escravidão"
+      ],
+      "responses": [
+        "A Abolição da Escravatura foi o fim legal da escravidão no Brasil, oficializada pela Lei Áurea em 13 de maio de 1888, assinada pela Princesa Isabel. Representou o fim de mais de 300 anos de trabalho escravo no país.",
+        "Foi o processo histórico que culminou na libertação dos escravos no Brasil através da Lei Áurea (1888), tornando o Brasil o último país das Américas a abolir a escravidão oficialmente."
+      ]
+    },
+    {
+      "intent": "o_que_e_abolicao_escravatura_quando",
+      "patterns": [
+        "quando foi a abolição da escravatura", "quando aconteceu abolição da escravatura", "quando ocorreu abolição da escravatura",
+        "quando foi assinada lei áurea", "quando foi criada lei áurea", "quando princesa isabel assinou lei áurea",
+        "em que ano foi abolição da escravatura", "em que data foi abolição da escravatura", "que dia foi abolição da escravatura",
+        "que ano aconteceu abolição da escravatura", "que data aconteceu abolição da escravatura", "em que século foi abolição da escravatura",
+        "quando começou abolição da escravatura", "quando terminou escravidão no brasil", "quando acabou escravidão no brasil",
+        "desde quando não tem mais escravidão", "a partir de quando acabou escravidão", "quando escravidão foi proibida",
+        "quando foi decretado fim da escravidão", "quando foi oficializado fim da escravidão", "quando virou crime ter escravo",
+        "há quanto tempo foi abolida escravidão", "faz quanto tempo foi abolição da escravatura", "quantos anos faz abolição da escravatura",
+        "em que período foi abolição da escravatura", "em que época foi abolição da escravatura", "em que momento foi abolição da escravatura",
+        
+        "qdo foi abolição da escravatura", "qdo aconteceu abolição da escravatura", "qdo ocorreu abolição da escravatura",
+        "qdo foi assinada lei áurea", "qdo foi criada lei áurea", "qdo princesa isabel assinou lei áurea",
+        "em q ano foi abolição da escravatura", "em q data foi abolição da escravatura", "q dia foi abolição da escravatura",
+        "q ano aconteceu abolição da escravatura", "q data aconteceu abolição da escravatura", "em q século foi abolição da escravatura",
+        "qdo começou abolição da escravatura", "qdo terminou escravidão brasil", "qdo acabou escravidão brasil",
+        "desde qdo não tem mais escravidão", "a partir de qdo acabou escravidão", "qdo escravidão foi proibida",
+        "qdo foi decretado fim escravidão", "qdo foi oficializado fim escravidão", "qdo virou crime ter escravo",
+        "há qto tempo foi abolida escravidão", "faz qto tempo foi abolição da escravatura", "qtos anos faz abolição da escravatura",
+        "em q período foi abolição da escravatura", "em q época foi abolição da escravatura", "em q momento foi abolição da escravatura",
+        "ano abolição escravatura", "data abolição escravatura", "dia abolição escravatura", "século abolição escravatura",
+        "1888 abolição da escravatura", "13 maio 1888", "treze de maio", "maio de 1888", "século 19 abolição",
+        "século dezenove abolição", "império brasileiro abolição", "período imperial abolição", "segunda metade século 19"
+      ],
+      "responses": [
+        "A Abolição da Escravatura no Brasil aconteceu em 13 de maio de 1888, quando a Princesa Isabel assinou a Lei Áurea durante o Segundo Reinado de Dom Pedro II.",
+        "Foi em 1888, no dia 13 de maio, que a escravidão foi oficialmente abolida no Brasil através da Lei nº 3.353, conhecida como Lei Áurea."
+      ]
+    },
+    {
+      "intent": "o_que_e_abolicao_escravatura_onde",
+      "patterns": [
+        "onde aconteceu abolição da escravatura", "onde foi assinada lei áurea", "onde princesa isabel assinou lei áurea",
+        "em que lugar foi abolição da escravatura", "em que local foi abolição da escravatura", "em que cidade foi abolição da escravatura",
+        "onde foi decretada abolição da escravatura", "onde foi oficializada abolição da escravatura", "onde ficava corte imperial",
+        "onde estava princesa isabel quando assinou", "onde morava princesa isabel", "onde era capital do império",
+        "em que país foi abolição da escravatura", "em que estado foi assinada lei áurea", "em que região foi abolição",
+        "onde estava dom pedro ii", "onde ficava palácio imperial", "onde era sede governo imperial",
+        "onde foram feitas campanhas abolicionistas", "onde tinha mais escravos", "onde começou movimento abolicionista",
+        "em que cidades tinha escravidão", "onde escravidão era mais forte", "onde tinha fazendas escravocratas",
+        "onde trabalhavam escravos", "onde ficavam senzalas", "onde eram vendidos escravos",
+        
+        "aonde aconteceu abolição da escravatura", "aonde foi assinada lei áurea", "aonde princesa isabel assinou lei áurea",
+        "em q lugar foi abolição da escravatura", "em q local foi abolição da escravatura", "em q cidade foi abolição da escravatura",
+        "aonde foi decretada abolição da escravatura", "aonde foi oficializada abolição da escravatura", "aonde ficava corte imperial",
+        "aonde estava princesa isabel quando assinou", "aonde morava princesa isabel", "aonde era capital império",
+        "em q país foi abolição da escravatura", "em q estado foi assinada lei áurea", "em q região foi abolição",
+        "aonde estava dom pedro ii", "aonde ficava palácio imperial", "aonde era sede governo imperial",
+        "aonde foram feitas campanhas abolicionistas", "aonde tinha mais escravos", "aonde começou movimento abolicionista",
+        "em q cidades tinha escravidão", "aonde escravidão era mais forte", "aonde tinha fazendas escravocratas",
+        "aonde trabalhavam escravos", "aonde ficavam senzalas", "aonde eram vendidos escravos",
+        "rio de janeiro lei áurea", "rj lei áurea", "capital império lei áurea", "corte imperial lei áurea",
+        "palácio imperial lei áurea", "brasil abolição escravatura", "império brasileiro abolição"
+      ],
+      "responses": [
+        "A Lei Áurea foi assinada no Rio de Janeiro, que era a capital do Império Brasileiro na época. A cerimônia aconteceu no Paço Imperial, sede do governo imperial.",
+        "No Brasil, especificamente no Rio de Janeiro, então capital do Império. A Princesa Isabel assinou a lei no Palácio Imperial, encerrando a escravidão em todo o território nacional."
+      ]
+    },
+    {
+      "intent": "o_que_e_abolicao_escravatura_quem",
+      "patterns": [
+        "quem assinou lei áurea", "quem aboliu escravidão no brasil", "quem foi princesa isabel",
+        "quem participou abolição da escravatura", "quem lutou pela abolição da escravatura", "quem defendeu abolição da escravatura",
+        "quem foram os abolicionistas", "quem era contra escravidão", "quem queria fim da escravidão",
+        "quem criou lei áurea", "quem fez lei áurea", "quem escreveu lei áurea", "quem propôs lei áurea",
+        "quem era a favor da abolição", "quem apoiou abolição da escravatura", "quem incentivou abolição da escravatura",
+        "quem foi joaquim nabuco", "quem foi andré rebouças", "quem foi josé do patrocínio",
+        "quem foi castro alves", "quem foi luiz gama", "quem foi antônio bento",
+        "quem eram os escravos libertados", "quem se beneficiou com abolição", "quem foi prejudicado com abolição",
+        "quem era dom pedro ii", "quem era imperador na época", "quem governava brasil em 1888",
+        "quem foi visconde de ouro preto", "quem era primeiro ministro", "quem estava no poder",
+        
+        "qm assinou lei áurea", "qm aboliu escravidão brasil", "qm foi princesa isabel",
+        "qm participou abolição da escravatura", "qm lutou abolição da escravatura", "qm defendeu abolição da escravatura",
+        "qm foram abolicionistas", "qm era contra escravidão", "qm queria fim escravidão",
+        "qm criou lei áurea", "qm fez lei áurea", "qm escreveu lei áurea", "qm propôs lei áurea",
+        "qm era a favor abolição", "qm apoiou abolição da escravatura", "qm incentivou abolição da escravatura",
+        "qm foi joaquim nabuco", "qm foi andré rebouças", "qm foi josé do patrocínio",
+        "qm foi castro alves", "qm foi luiz gama", "qm foi antônio bento",
+        "qm eram escravos libertados", "qm se beneficiou abolição", "qm foi prejudicado abolição",
+        "qm era dom pedro ii", "qm era imperador época", "qm governava brasil 1888",
+        "qm foi visconde ouro preto", "qm era primeiro ministro", "qm estava no poder",
+        "isabel princesa regente", "isabel cristina", "dom pedro segundo", "pedro ii imperador",
+        "movimento abolicionista quem", "campanha abolicionista quem", "luta abolicionista quem"
+      ],
+      "responses": [
+        "A Lei Áurea foi assinada pela Princesa Isabel em 13 de maio de 1888. Ela era filha de Dom Pedro II e estava exercendo a regência do Império. Principais abolicionistas incluem Joaquim Nabuco, José do Patrocínio, André Rebouças, Castro Alves e Luiz Gama.",
+        "Princesa Isabel (Isabel Cristina) assinou a lei que aboliu a escravidão. O movimento abolicionista contou com figuras como Joaquim Nabuco, André Rebouças, José do Patrocínio e outros que lutaram pela causa."
+      ]
+    },
+    {
+      "intent": "o_que_e_abolicao_escravatura_por_que",
+      "patterns": [
+        "por que aconteceu abolição da escravatura", "por que foi abolida escravidão", "por que acabou escravidão no brasil",
+        "por que princesa isabel assinou lei áurea", "por que foi criada lei áurea", "por que brasil aboliu escravidão",
+        "motivos da abolição da escravatura", "razões da abolição da escravatura", "causas da abolição da escravatura",
+        "fatores que levaram abolição da escravatura", "o que causou abolição da escravatura", "o que motivou abolição da escravatura",
+        "por que demorou tanto pra abolir escravidão", "por que brasil foi último abolir escravidão",
+        "por que escravidão era ruim", "por que escravidão tinha que acabar", "por que escravidão é errada",
+        "pressão internacional abolição da escravatura", "economia e abolição da escravatura", "política e abolição da escravatura",
+        "sociedade e abolição da escravatura", "igreja e abolição da escravatura", "imprensa e abolição da escravatura",
+        "resistência escrava e abolição", "fugas de escravos e abolição", "revoltas escravas e abolição",
+        "campanha abolicionista por que", "movimento abolicionista por que", "luta abolicionista por que",
+        
+        "pq aconteceu abolição da escravatura", "pq foi abolida escravidão", "pq acabou escravidão brasil",
+        "pq princesa isabel assinou lei áurea", "pq foi criada lei áurea", "pq brasil aboliu escravidão",
+        "motivos abolição da escravatura", "razões abolição da escravatura", "causas abolição da escravatura",
+        "fatores q levaram abolição da escravatura", "oq causou abolição da escravatura", "oq motivou abolição da escravatura",
+        "pq demorou tanto pra abolir escravidão", "pq brasil foi último abolir escravidão",
+        "pq escravidão era ruim", "pq escravidão tinha q acabar", "pq escravidão é errada",
+        "pressão internacional abolição da escravatura", "economia e abolição da escravatura", "política e abolição da escravatura",
+        "por causa de q foi abolição da escravatura", "devido a q foi abolição da escravatura", "em função de q foi abolição",
+        "qual motivo abolição da escravatura", "qual razão abolição da escravatura", "qual causa abolição da escravatura",
+        "que levou a abolição da escravatura", "que causou abolição da escravatura", "que motivou abolição da escravatura",
+        "trabalho assalariado vs escravidão", "mão de obra livre vs escrava", "imigração européia e abolição",
+        "café e abolição da escravatura", "economia cafeeira e abolição", "modernização e abolição da escravatura"
+      ],
+      "responses": [
+        "A abolição da escravatura aconteceu devido a múltiplos fatores: pressão internacional, crescimento do movimento abolicionista, resistência dos próprios escravos, mudanças econômicas (preferência por trabalho assalariado), pressão da Igreja e da imprensa, e a necessidade de modernizar o país.",
+        "Principais motivos: o Brasil estava isolado internacionalmente como último país escravocrata das Américas, a economia cafeeira começava a preferir trabalhadores livres, havia forte pressão do movimento abolicionista e resistência constante dos escravos através de fugas e revoltas."
+      ]
+    },
+    {
+      "intent": "o_que_e_abolicao_escravatura_como",
+      "patterns": [
+        "como aconteceu abolição da escravatura", "como foi processo abolição da escravatura", "como foi abolida escravidão",
+        "como princesa isabel assinou lei áurea", "como foi criada lei áurea", "como foi feita campanha abolicionista",
+        "como era movimento abolicionista", "como lutaram pela abolição", "como defenderam abolição da escravatura",
+        "como funcionava escravidão antes", "como viviam escravos", "como eram tratados escravos",
+        "como escravos reagiram à abolição", "como foi recepção da lei áurea", "como população reagiu abolição",
+        "como fazendeiros reagiram abolição", "como elite reagiu abolição da escravatura", "como governo reagiu abolição",
+        "como foi transição pós-abolição", "como ficaram ex-escravos", "como mudou sociedade após abolição",
+        "como era situação antes lei áurea", "como era brasil antes abolição", "como era economia antes abolição",
+        "como foi o dia 13 de maio 1888", "como foi assinatura da lei áurea", "como foi cerimônia lei áurea",
+        "como abolição afetou economia", "como abolição mudou brasil", "como abolição impactou sociedade",
+        
+        "cm aconteceu abolição da escravatura", "cm foi processo abolição da escravatura", "cm foi abolida escravidão",
+        "cm princesa isabel assinou lei áurea", "cm foi criada lei áurea", "cm foi feita campanha abolicionista",
+        "cm era movimento abolicionista", "cm lutaram abolição", "cm defenderam abolição da escravatura",
+        "cm funcionava escravidão antes", "cm viviam escravos", "cm eram tratados escravos",
+        "cm escravos reagiram abolição", "cm foi recepção lei áurea", "cm população reagiu abolição",
+        "cm fazendeiros reagiram abolição", "cm elite reagiu abolição da escravatura", "cm governo reagiu abolição",
+        "cm foi transição pós-abolição", "cm ficaram ex-escravos", "cm mudou sociedade após abolição",
+        "cm era situação antes lei áurea", "cm era brasil antes abolição", "cm era economia antes abolição",
+        "cm foi dia 13 maio 1888", "cm foi assinatura lei áurea", "cm foi cerimônia lei áurea",
+        "cm abolição afetou economia", "cm abolição mudou brasil", "cm abolição impactou sociedade",
+        "de q forma aconteceu abolição", "de q maneira foi abolição", "de q jeito aconteceu abolição",
+        "processo da abolição da escravatura", "etapas abolição da escravatura", "fases abolição da escravatura",
+        "cronologia abolição da escravatura", "sequência abolição da escravatura", "desenvolvimento abolição escravatura"
+      ],
+      "responses": [
+        "A abolição aconteceu gradualmente: Lei do Ventre Livre (1871), Lei dos Sexagenários (1885), e finalmente a Lei Áurea (1888). O movimento abolicionista usou jornais, comícios, literatura e pressão política. A assinatura foi rápida - apenas dois artigos: escravidão extinta e revogação de leis contrárias.",
+        "O processo envolveu campanhas abolicionistas intensas, resistência escrava crescente, pressão internacional e mudanças econômicas. No dia 13/05/1888, a Princesa Isabel assinou rapidamente a lei de apenas dois artigos que acabou com a escravidão de forma imediata em todo território nacional."
+      ]
+    },
+    {
+      "intent": "o_que_e_abolicao_escravatura_consequencias",
+      "patterns": [
+        "consequências da abolição da escravatura", "o que mudou após abolição da escravatura", "resultado da abolição da escravatura",
+        "efeitos da abolição da escravatura", "impactos da abolição da escravatura", "mudanças após abolição da escravatura",
+        "o que aconteceu depois da abolição", "como ficou brasil após abolição", "situação pós-abolição da escravatura",
+        "ex-escravos após abolição", "libertos após lei áurea", "negros após abolição da escravatura",
+        "fazendeiros após abolição", "economia após abolição da escravatura", "agricultura após abolição",
+        "café após abolição da escravatura", "mão de obra após abolição", "trabalho após abolição da escravatura",
+        "imigração após abolição", "europeus após abolição da escravatura", "imigrantes após abolição",
+        "sociedade após abolição da escravatura", "racismo após abolição", "preconceito após abolição da escravatura",
+        "república e abolição da escravatura", "proclamação república e abolição", "fim império e abolição",
+        "problemas após abolição da escravatura", "dificuldades pós-abolição", "desafios após abolição da escravatura",
+        
+        "consequências abolição da escravatura", "oq mudou após abolição da escravatura", "resultado abolição da escravatura",
+        "efeitos abolição da escravatura", "impactos abolição da escravatura", "mudanças após abolição da escravatura",
+        "oq aconteceu depois abolição", "cm ficou brasil após abolição", "situação pós-abolição da escravatura",
+        "ex-escravos após abolição", "libertos após lei áurea", "negros após abolição da escravatura",
+        "fazendeiros após abolição", "economia após abolição da escravatura", "agricultura após abolição",
+        "café após abolição da escravatura", "mão obra após abolição", "trabalho após abolição da escravatura",
+        "imigração após abolição", "europeus após abolição da escravatura", "imigrantes após abolição",
+        "sociedade após abolição da escravatura", "racismo após abolição", "preconceito após abolição da escravatura",
+        "república e abolição da escravatura", "proclamação república e abolição", "fim império e abolição",
+        "problemas após abolição da escravatura", "dificuldades pós-abolição", "desafios após abolição da escravatura",
+        "marginalização após abolição", "exclusão após abolição da escravatura", "abandono ex-escravos",
+        "favelas e abolição da escravatura", "migração urbana pós-abolição", "êxodo rural pós-abolição"
+      ],
+      "responses": [
+        "As principais consequências foram: marginalização dos ex-escravos sem apoio governamental, intensificação da imigração européia, crise na agricultura cafeeira, crescimento urbano desordenado, perpetuação do racismo, instabilidade política que contribuiu para a Proclamação da República (1889).",
+        "A abolição não incluiu políticas de integração - ex-escravos ficaram abandonados, sem terra, emprego ou educação. Houve migração para cidades, formação de favelas, substituição por imigrantes europeus e manutenção das desigualdades raciais que persistem até hoje."
+      ]
+    }
+  ]
+}

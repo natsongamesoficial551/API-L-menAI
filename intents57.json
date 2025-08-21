@@ -1,0 +1,297 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_prosa_que",
+      "patterns": [
+        "o que é prosa", "o que foi prosa", "o que significa prosa", "o que quer dizer prosa",
+        "que negócio é esse de prosa", "que história é essa de prosa", "que parada é prosa",
+        "que coisa é prosa mesmo", "que diabos é prosa", "que raios é prosa",
+        "afinal o que é prosa", "mas o que é prosa", "então o que é prosa",
+        "cara o que é prosa", "mano o que é prosa", "véi o que é prosa",
+        "me explica o que é prosa", "me conta o que é prosa", "me fala o que é prosa",
+        "explica aí o que é prosa", "conta aí o que é prosa", "fala aí o que é prosa",
+        "qual é a da prosa", "qual é a história da prosa", "qual é a parada da prosa",
+        "como assim prosa", "tipo assim o que é prosa", "quer dizer o que é prosa",
+        "pô o que é prosa", "poxa o que é prosa", "caramba o que é prosa",
+        "nossa o que é prosa", "eita o que é prosa", "opa o que é prosa",
+        "rapaz o que é prosa", "cara de pau o que é prosa", "sem brincadeira o que é prosa",
+        "de verdade o que é prosa", "sério mesmo o que é prosa", "real o que é prosa",
+        "na moral o que é prosa", "na boa o que é prosa", "numa boa o que é prosa",
+        "tá mas o que é prosa", "ok mas o que é prosa", "beleza mas o que é prosa",
+        "hmm o que é prosa", "bom o que é prosa", "enfim o que é prosa",
+        "resumindo o que é prosa", "basicamente o que é prosa", "fundamentalmente o que é prosa",
+        "professor o que é prosa", "mestre o que é prosa", "doutor o que é prosa",
+        "gente o que é prosa", "pessoal o que é prosa", "galera o que é prosa",
+        "oxe o que é prosa", "uai o que é prosa", "ué o que é prosa",
+        "bah o que é prosa", "tche o que é prosa", "capaz o que é prosa",
+        "caraca o que é prosa", "puts o que é prosa", "putz o que é prosa",
+        
+        "oq é prosa", "oque é prosa", "q é prosa",
+        "prosa é oq", "prosa oq é", "prosa é q", "prosa q é",
+        "é prosa msm", "eh prosa msm", "é prosa memo",
+        "q eh prosa", "que eh prosa", "oq significa prosa", "q significa prosa",
+        "oq quer dizer prosa", "q quer dizer prosa", "me explica oq é prosa",
+        "me fala oq é prosa", "me conta oq é prosa", "explica oq é prosa",
+        "fala oq é prosa", "conta oq é prosa", "cara oq é prosa",
+        "mano oq é prosa", "vei oq é prosa", "bicho oq é prosa",
+        "rapaz oq é prosa", "gente oq é prosa", "po oq é prosa",
+        "pô oq é prosa", "poxa oq é prosa", "caramba oq é prosa",
+        "caraca oq é prosa", "nossa oq é prosa", "eita oq é prosa",
+        "opa oq é prosa", "uai oq é prosa", "oxe oq é prosa",
+        "ué oq é prosa", "bah oq é prosa", "na moral oq é prosa",
+        "na boa oq é prosa", "de boa oq é prosa", "sério oq é prosa",
+        "real oq é prosa", "tipo oq é prosa", "então oq é prosa",
+        "ent oq é prosa", "mas oq é prosa", "tá mas oq é prosa",
+        "ta mas oq é prosa", "ok mas oq é prosa", "beleza mas oq é prosa",
+        "blz mas oq é prosa", "bom oq é prosa", "enfim oq é prosa",
+        "resumindo oq é prosa", "basicamente oq é prosa", "professor oq é prosa",
+        "prof oq é prosa", "mestre oq é prosa", "pessoal oq é prosa",
+        "galera oq é prosa", "turma oq é prosa", "nego oq é prosa",
+        "povo oq é prosa", "geral oq é prosa", "alguém sabe oq é prosa",
+        "ngm sabe oq é prosa", "ninguém sabe oq é prosa", "vc sabe oq é prosa",
+        "você sabe oq é prosa", "tu sabe oq é prosa", "cê sabe oq é prosa",
+        "vocês sabem oq é prosa", "vcs sabem oq é prosa", "quem sabe oq é prosa",
+        "qm sabe oq é prosa", "qual é da prosa", "qual a da prosa",
+        "qual eh a da prosa", "qual é a parada da prosa", "qual a parada da prosa",
+        "qual eh o conceito de prosa", "qual é o conceito de prosa", "qual o conceito de prosa",
+        "define prosa", "define prosa aí", "define prosa pra mim",
+        "conceito de prosa", "conceito prosa", "significado prosa",
+        "explicação de prosa", "explicação prosa", "definição prosa",
+        "a prosa é oq", "essa parada de prosa é oq", "esse negócio de prosa é oq",
+        "essa coisa de prosa é oq", "texto em prosa", "escrita em prosa", "literatura em prosa"
+      ],
+      "responses": [
+        "Prosa é a forma de expressão literária escrita em TEXTO CORRIDO, sem divisão em versos, com linguagem mais próxima da fala cotidiana. Diferente da poesia, a prosa usa parágrafos e frases organizadas de forma linear, sendo a base dos romances, novelas, contos e crônicas.",
+        "É o modo de escrever SEM VERSOS nem métrica, usado na narrativa literária. A prosa organiza as ideias em períodos e parágrafos, permitindo maior liberdade expressiva e sendo ideal para contar histórias, desenvolver personagens e descrever ambientes detalhadamente."
+      ]
+    },
+    {
+      "intent": "o_que_e_prosa_quando",
+      "patterns": [
+        "quando surgiu a prosa", "quando apareceu prosa", "quando começou prosa",
+        "quando foi criada prosa", "quando se desenvolveu prosa", "quando prosa foi inventada",
+        "em que época surgiu prosa", "em que período apareceu prosa", "em que tempo começou prosa",
+        "que ano surgiu prosa", "que século surgiu prosa", "que época surgiu prosa",
+        "quando prosa se popularizou", "quando prosa ficou famosa", "quando prosa se espalhou",
+        "quando começou ser usada prosa", "quando prosa virou comum", "quando prosa se estabeleceu",
+        "desde quando existe prosa", "há quanto tempo existe prosa", "faz quanto tempo surgiu prosa",
+        "quando prosa chegou ao brasil", "quando brasil começou usar prosa", "quando prosa brasileira começou",
+        "em que momento histórico surgiu prosa", "em que contexto surgiu prosa", "em qual fase surgiu prosa",
+        "durante que período se desenvolveu prosa", "ao longo de quando evoluiu prosa", "no decorrer de quando cresceu prosa",
+        
+        "qdo surgiu prosa", "qdo apareceu prosa", "qdo começou prosa",
+        "qdo foi criada prosa", "qdo se desenvolveu prosa", "qdo prosa foi inventada",
+        "em q época surgiu prosa", "em q período apareceu prosa", "em q tempo começou prosa",
+        "q ano surgiu prosa", "q século surgiu prosa", "q época surgiu prosa",
+        "qdo prosa se popularizou", "qdo prosa ficou famosa", "qdo prosa se espalhou",
+        "qdo começou ser usada prosa", "qdo prosa virou comum", "qdo prosa se estabeleceu",
+        "desde qdo existe prosa", "há qto tempo existe prosa", "faz qto tempo surgiu prosa",
+        "qdo prosa chegou brasil", "qdo brasil começou usar prosa", "qdo prosa brasileira começou",
+        "em q momento histórico surgiu prosa", "em q contexto surgiu prosa", "em qual fase surgiu prosa",
+        "durante q período se desenvolveu prosa", "ao longo de qdo evoluiu prosa", "no decorrer de qdo cresceu prosa",
+        "origem da prosa", "história da prosa", "evolução da prosa", "desenvolvimento prosa",
+        "antigüidade e prosa", "idade média e prosa", "renascimento e prosa", "barroco e prosa",
+        "romantismo e prosa", "realismo e prosa", "modernismo e prosa", "prosa contemporânea"
+      ],
+      "responses": [
+        "A prosa como forma literária surgiu na ANTIGUIDADE CLÁSSICA (Grécia e Roma), mas se desenvolveu especialmente na IDADE MÉDIA com as novelas de cavalaria. No Brasil, a prosa literária se estabeleceu no século XIX com o ROMANTISMO (1836 - 'A Moreninha' de Joaquim Manuel de Macedo).",
+        "Desenvolveu-se gradualmente: Antiguidade (primeiros textos em prosa), Idade Média (narrativas medievais), Renascimento (consolidação), mas a PROSA MODERNA surge nos séculos XVIII-XIX. No Brasil, ganhou força com o Romantismo (1836) e se consolidou com o Realismo (1881)."
+      ]
+    },
+    {
+      "intent": "o_que_e_prosa_onde",
+      "patterns": [
+        "onde surgiu prosa", "onde apareceu prosa", "onde começou prosa",
+        "onde foi criada prosa", "onde se desenvolveu prosa", "onde prosa foi inventada",
+        "em que lugar surgiu prosa", "em que local apareceu prosa", "em que região começou prosa",
+        "em que país surgiu prosa", "em que nação apareceu prosa", "em qual território começou prosa",
+        "onde prosa se popularizou", "onde prosa ficou famosa", "onde prosa se espalhou",
+        "onde mais se usa prosa", "onde prosa é mais comum", "onde prosa é mais popular",
+        "onde encontrar prosa", "onde ver prosa", "onde ler prosa",
+        "onde estudar prosa", "onde aprender prosa", "onde ensinar prosa",
+        "onde prosa brasileira surgiu", "onde começou prosa no brasil", "onde prosa nacional começou",
+        "em que cidade surgiu prosa", "em qual metrópole apareceu prosa", "em que centro começou prosa",
+        
+        "aonde surgiu prosa", "aonde apareceu prosa", "aonde começou prosa",
+        "aonde foi criada prosa", "aonde se desenvolveu prosa", "aonde prosa foi inventada",
+        "em q lugar surgiu prosa", "em q local apareceu prosa", "em q região começou prosa",
+        "em q país surgiu prosa", "em q nação apareceu prosa", "em qual território começou prosa",
+        "aonde prosa se popularizou", "aonde prosa ficou famosa", "aonde prosa se espalhou",
+        "aonde mais se usa prosa", "aonde prosa é mais comum", "aonde prosa é mais popular",
+        "aonde encontrar prosa", "aonde ver prosa", "aonde ler prosa",
+        "aonde estudar prosa", "aonde aprender prosa", "aonde ensinar prosa",
+        "aonde prosa brasileira surgiu", "aonde começou prosa brasil", "aonde prosa nacional começou",
+        "em q cidade surgiu prosa", "em qual metrópole apareceu prosa", "em q centro começou prosa",
+        "grécia e prosa", "roma e prosa", "europa e prosa", "frança e prosa",
+        "inglaterra e prosa", "alemanha e prosa", "brasil e prosa", "portugal e prosa",
+        "rio de janeiro e prosa", "são paulo e prosa", "minas gerais e prosa"
+      ],
+      "responses": [
+        "A prosa surgiu na GRÉCIA ANTIGA e ROMA, desenvolveu-se na Europa (especialmente França, Inglaterra, Alemanha) durante a Idade Média e Renascimento. No Brasil, a prosa literária começou no RIO DE JANEIRO e SÃO PAULO no século XIX, irradiando-se por todo território nacional.",
+        "Originou-se no MUNDO CLÁSSICO (Grécia/Roma), evoluiu na EUROPA MEDIEVAL, consolidou-se na FRANÇA e INGLATERRA nos séculos XVII-XVIII. No Brasil, concentrou-se inicialmente nos grandes centros urbanos: Rio de Janeiro (capital cultural) e São Paulo (desenvolvimento econômico)."
+      ]
+    },
+    {
+      "intent": "o_que_e_prosa_quem",
+      "patterns": [
+        "quem criou prosa", "quem inventou prosa", "quem desenvolveu prosa",
+        "quem foram os primeiros prosadores", "quem escreveu primeira prosa", "quem começou prosa",
+        "quem são os grandes prosadores", "quem são mestres da prosa", "quem são principais prosadores",
+        "quem escreve prosa", "quem usa prosa", "quem faz prosa",
+        "quem são prosadores brasileiros", "quem são escritores prosa brasil", "quem faz prosa no brasil",
+        "quem foi machado de assis", "quem foi josé de alencar", "quem foi joaquim manuel de macedo",
+        "quem foi aluísio azevedo", "quem foi raul pompéia", "quem foi lima barreto",
+        "quem foi graciliano ramos", "quem foi jorge amado", "quem foi clarice lispector",
+        "quem são prosadores famosos", "quem são escritores famosos prosa", "quem são grandes nomes prosa",
+        "quem popularizou prosa", "quem difundiu prosa", "quem espalhou prosa",
+        
+        "qm criou prosa", "qm inventou prosa", "qm desenvolveu prosa",
+        "qm foram primeiros prosadores", "qm escreveu primeira prosa", "qm começou prosa",
+        "qm são grandes prosadores", "qm são mestres prosa", "qm são principais prosadores",
+        "qm escreve prosa", "qm usa prosa", "qm faz prosa",
+        "qm são prosadores brasileiros", "qm são escritores prosa brasil", "qm faz prosa brasil",
+        "qm foi machado assis", "qm foi josé alencar", "qm foi joaquim manuel macedo",
+        "qm foi aluísio azevedo", "qm foi raul pompéia", "qm foi lima barreto",
+        "qm foi graciliano ramos", "qm foi jorge amado", "qm foi clarice lispector",
+        "qm são prosadores famosos", "qm são escritores famosos prosa", "qm são grandes nomes prosa",
+        "qm popularizou prosa", "qm difundiu prosa", "qm espalhou prosa",
+        "autores de prosa", "escritores de prosa", "prosadores clássicos", "prosadores modernos",
+        "romancistas brasileiros", "contistas brasileiros", "cronistas brasileiros"
+      ],
+      "responses": [
+        "Os grandes prosadores brasileiros incluem MACHADO DE ASSIS (mestre absoluto), José de Alencar, Joaquim Manuel de Macedo (romantismo), Aluísio Azevedo, Raul Pompéia (realismo/naturalismo), Lima Barreto, Graciliano Ramos, Jorge Amado, Clarice Lispector (modernismo), entre muitos outros.",
+        "Principais nomes: MACHADO DE ASSIS (maior prosador brasileiro), Guimarães Rosa, Clarice Lispector, Graciliano Ramos, José de Alencar, Lima Barreto, Monteiro Lobato, Érico Veríssimo, Jorge Amado - cada um contribuiu para o desenvolvimento e aperfeiçoamento da prosa nacional."
+      ]
+    },
+    {
+      "intent": "o_que_e_prosa_por_que",
+      "patterns": [
+        "por que existe prosa", "por que foi criada prosa", "por que surgiu prosa",
+        "por que prosa é importante", "por que prosa é necessária", "por que prosa é útil",
+        "por que usar prosa", "por que escrever prosa", "por que ler prosa",
+        "por que prosa é melhor que verso", "por que prosa é diferente poesia", "por que prosa não é poesia",
+        "motivos da prosa", "razões da prosa", "causas da prosa",
+        "fatores que levaram à prosa", "o que causou prosa", "o que motivou prosa",
+        "por que prosa se popularizou", "por que prosa ficou famosa", "por que prosa se espalhou",
+        "por que literatura usa prosa", "por que escritores usam prosa", "por que autores preferem prosa",
+        "vantagens da prosa", "benefícios da prosa", "importância da prosa",
+        "finalidade da prosa", "objetivo da prosa", "propósito da prosa",
+        
+        "pq existe prosa", "pq foi criada prosa", "pq surgiu prosa",
+        "pq prosa é importante", "pq prosa é necessária", "pq prosa é útil",
+        "pq usar prosa", "pq escrever prosa", "pq ler prosa",
+        "pq prosa é melhor que verso", "pq prosa é diferente poesia", "pq prosa não é poesia",
+        "motivos prosa", "razões prosa", "causas prosa",
+        "fatores q levaram prosa", "oq causou prosa", "oq motivou prosa",
+        "pq prosa se popularizou", "pq prosa ficou famosa", "pq prosa se espalhou",
+        "pq literatura usa prosa", "pq escritores usam prosa", "pq autores preferem prosa",
+        "vantagens prosa", "benefícios prosa", "importância prosa",
+        "finalidade prosa", "objetivo prosa", "propósito prosa",
+        "por causa de q existe prosa", "devido a q surgiu prosa", "em função de q foi criada prosa",
+        "qual motivo da prosa", "qual razão da prosa", "qual causa da prosa",
+        "que levou à prosa", "que causou prosa", "que motivou prosa"
+      ],
+      "responses": [
+        "A prosa existe porque permite MAIOR LIBERDADE NARRATIVA: facilita contar histórias complexas, desenvolver personagens profundamente, descrever ambientes detalhadamente, expressar pensamentos e diálogos naturalmente, sem as limitações métricas da poesia. É ideal para romances, novelas e contos.",
+        "Foi desenvolvida por necessidade expressiva: a poesia tinha limitações para narrativas longas e complexas. A prosa oferece FLEXIBILIDADE TOTAL - permite explorar psicologia dos personagens, construir enredos elaborados, retratar sociedade realisticamente e aproximar literatura da linguagem cotidiana do leitor."
+      ]
+    },
+    {
+      "intent": "o_que_e_prosa_como",
+      "patterns": [
+        "como funciona prosa", "como é feita prosa", "como se escreve prosa",
+        "como é estrutura da prosa", "como é organizada prosa", "como é construída prosa",
+        "como identificar prosa", "como reconhecer prosa", "como saber se é prosa",
+        "como ler prosa", "como interpretar prosa", "como analisar prosa",
+        "como estudar prosa", "como aprender prosa", "como ensinar prosa",
+        "como prosa se diferencia poesia", "como prosa é diferente verso", "como distinguir prosa poesia",
+        "como prosa se desenvolve", "como prosa evolui", "como prosa muda",
+        "como é linguagem da prosa", "como é estilo da prosa", "como é forma da prosa",
+        "como prosa conta história", "como prosa narra", "como prosa descreve",
+        "como prosa cria personagens", "como prosa constrói enredo", "como prosa desenvolve tema",
+        
+        "cm funciona prosa", "cm é feita prosa", "cm se escreve prosa",
+        "cm é estrutura prosa", "cm é organizada prosa", "cm é construída prosa",
+        "cm identificar prosa", "cm reconhecer prosa", "cm saber se é prosa",
+        "cm ler prosa", "cm interpretar prosa", "cm analisar prosa",
+        "cm estudar prosa", "cm aprender prosa", "cm ensinar prosa",
+        "cm prosa se diferencia poesia", "cm prosa é diferente verso", "cm distinguir prosa poesia",
+        "cm prosa se desenvolve", "cm prosa evolui", "cm prosa muda",
+        "cm é linguagem prosa", "cm é estilo prosa", "cm é forma prosa",
+        "cm prosa conta história", "cm prosa narra", "cm prosa descreve",
+        "cm prosa cria personagens", "cm prosa constrói enredo", "cm prosa desenvolve tema",
+        "de q forma funciona prosa", "de q maneira é feita prosa", "de q jeito se escreve prosa",
+        "processo da prosa", "técnica da prosa", "método da prosa",
+        "características da prosa", "elementos da prosa", "aspectos da prosa"
+      ],
+      "responses": [
+        "A prosa funciona através de TEXTO CORRIDO organizado em parágrafos, sem métrica ou rima. Utiliza linguagem mais próxima da fala comum, desenvolve narrativas lineares, constrói personagens complexos, descreve ambientes detalhadamente e permite diálogos naturais entre as personagens.",
+        "É estruturada em PERÍODOS E PARÁGRAFOS que se sucedem logicamente. A prosa usa recursos como: narração (contar fatos), descrição (retratar cenários/pessoas), dissertação (expor ideias), diálogo (fala dos personagens) e monólogo interior (pensamentos), criando textos fluidos e compreensíveis."
+      ]
+    },
+    {
+      "intent": "o_que_e_prosa_tipos",
+      "patterns": [
+        "quais são os tipos de prosa", "quais tipos de prosa existem", "quais são as formas de prosa",
+        "que tipos de prosa têm", "que formas de prosa existem", "que espécies de prosa há",
+        "classificação da prosa", "categorias de prosa", "divisões da prosa",
+        "gêneros da prosa", "modalidades de prosa", "variedades de prosa",
+        "romance e prosa", "novela e prosa", "conto e prosa", "crônica e prosa",
+        "ensaio e prosa", "biografia e prosa", "autobiografia e prosa", "memórias e prosa",
+        "prosa épica", "prosa dramática", "prosa lírica", "prosa narrativa",
+        "prosa descritiva", "prosa dissertativa", "prosa argumentativa", "prosa expositiva",
+        "prosa literária", "prosa não-literária", "prosa artística", "prosa científica",
+        "prosa jornalística", "prosa técnica", "prosa didática", "prosa informativa",
+        
+        "quais são tipos prosa", "quais tipos prosa existem", "quais são formas prosa",
+        "q tipos prosa têm", "q formas prosa existem", "q espécies prosa há",
+        "classificação prosa", "categorias prosa", "divisões prosa",
+        "gêneros prosa", "modalidades prosa", "variedades prosa",
+        "romance e prosa", "novela e prosa", "conto e prosa", "crônica e prosa",
+        "ensaio e prosa", "biografia e prosa", "autobiografia e prosa", "memórias e prosa",
+        "prosa épica", "prosa dramática", "prosa lírica", "prosa narrativa",
+        "prosa descritiva", "prosa dissertativa", "prosa argumentativa", "prosa expositiva",
+        "prosa literária", "prosa não-literária", "prosa artística", "prosa científica",
+        "prosa jornalística", "prosa técnica", "prosa didática", "prosa informativa",
+        "diferentes tipos prosa", "vários tipos prosa", "diversos tipos prosa",
+        "principais tipos prosa", "principais formas prosa", "principais gêneros prosa"
+      ],
+      "responses": [
+        "Os principais tipos de prosa são: NARRATIVA (romance, novela, conto, crônica), DESCRITIVA (retratos de pessoas, lugares, objetos), DISSERTATIVA (ensaios, artigos, textos argumentativos), EPISTOLAR (cartas), AUTOBIOGRÁFICA (memórias, biografias) e mista (combinação de diferentes formas).",
+        "Divide-se em: PROSA LITERÁRIA (romances, contos, novelas, crônicas - com função estética) e PROSA NÃO-LITERÁRIA (jornalística, científica, técnica, didática - com função informativa/utilitária). A literária ainda se subdivide em épica, dramática, lírica e narrativa conforme sua estrutura."
+      ]
+    },
+    {
+      "intent": "o_que_e_prosa_exemplos",
+      "patterns": [
+        "exemplos de prosa", "exemplo de prosa", "mostra exemplo prosa",
+        "dá exemplo de prosa", "me dá exemplo prosa", "me mostra exemplo prosa",
+        "tem exemplo de prosa", "há exemplo de prosa", "existe exemplo prosa",
+        "quais são exemplos prosa", "quais exemplos prosa", "que exemplos prosa",
+        "obras de prosa", "livros de prosa", "textos de prosa",
+        "prosa brasileira exemplos", "prosa nacional exemplos", "prosa literatura brasileira exemplos",
+        "romances exemplos prosa", "contos exemplos prosa", "novelas exemplos prosa",
+        "dom casmurro prosa", "o cortiço prosa", "senhora prosa", "iracema prosa",
+        "memórias póstumas prosa", "quincas borba prosa", "o mulato prosa",
+        "a moreninha prosa", "lucíola prosa", "cinco minutos prosa",
+        
+        "exemplos prosa", "exemplo prosa", "mostra exemplo prosa",
+        "dá exemplo prosa", "me dá exemplo prosa", "me mostra exemplo prosa",
+        "tem exemplo prosa", "há exemplo prosa", "existe exemplo prosa",
+        "quais são exemplos prosa", "quais exemplos prosa", "q exemplos prosa",
+        "obras prosa", "livros prosa", "textos prosa",
+        "prosa brasileira exemplos", "prosa nacional exemplos", "prosa literatura brasileira exemplos",
+        "romances exemplos prosa", "contos exemplos prosa", "novelas exemplos prosa",
+        "dom casmurro prosa", "cortiço prosa", "senhora prosa", "iracema prosa",
+        "memórias póstumas prosa", "quincas borba prosa", "mulato prosa",
+        "moreninha prosa", "lucíola prosa", "cinco minutos prosa",
+        "cita exemplos prosa", "menciona exemplos prosa", "lista exemplos prosa",
+        "fala exemplos prosa", "conta exemplos prosa", "apresenta exemplos prosa"
+      ],
+      "responses": [
+        "Exemplos clássicos de prosa brasileira: 'Dom Casmurro', 'Memórias Póstumas de Brás Cubas' e 'Quincas Borba' (Machado de Assis), 'O Cortiço' (Aluísio Azevedo), 'Senhora' e 'Iracema' (José de Alencar), 'A Moreninha' (Joaquim Manuel de Macedo), 'O Ateneu' (Raul Pompéia).",
+        "Obras fundamentais da prosa nacional: MACHADO DE ASSIS (Dom Casmurro, Memórias Póstumas), JOSÉ DE ALENCAR (Senhora, Lucíola, Iracema), ALUÍSIO AZEVEDO (O Cortiço, O Mulato), LIMA BARRETO (Triste Fim de Policarpo Quaresma), GRACILIANO RAMOS (Vidas Secas, São Bernardo)."
+      ]
+    }
+  ]
+}

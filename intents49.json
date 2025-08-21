@@ -1,0 +1,235 @@
+{
+  "intents": [
+    {
+      "intent": "caracteristicas_realismo_quais",
+      "patterns": [
+        "quais são as características do realismo", "quais as características do realismo", "quais características do realismo",
+        "quais são os traços do realismo", "quais os traços do realismo", "quais traços do realismo",
+        "quais são as marcas do realismo", "quais as marcas do realismo", "quais marcas do realismo",
+        "quais são os aspectos do realismo", "quais os aspectos do realismo", "quais aspectos do realismo",
+        "quais são os elementos do realismo", "quais os elementos do realismo", "quais elementos do realismo",
+        "quais são as qualidades do realismo", "quais as qualidades do realismo", "quais qualidades do realismo",
+        "quais são as propriedades do realismo", "quais as propriedades do realismo", "quais propriedades do realismo",
+        "quais são as peculiaridades do realismo", "quais as peculiaridades do realismo", "quais peculiaridades do realismo",
+        "quais são as particularidades do realismo", "quais as particularidades do realismo", "quais particularidades do realismo",
+        "quais são as especificidades do realismo", "quais as especificidades do realismo", "quais especificidades do realismo",
+        
+        "q são as características do realismo", "q as características do realismo", "q características do realismo",
+        "q são os traços do realismo", "q os traços do realismo", "q traços do realismo",
+        "q são as marcas do realismo", "q as marcas do realismo", "q marcas do realismo",
+        "q são os aspectos do realismo", "q os aspectos do realismo", "q aspectos do realismo",
+        "q são os elementos do realismo", "q os elementos do realismo", "q elementos do realismo",
+        "quais eh as características do realismo", "quais eh os traços do realismo", "quais eh as marcas do realismo",
+        "quais são características realismo", "quais características realismo", "quais traços realismo",
+        "quais marcas realismo", "quais aspectos realismo", "quais elementos realismo",
+        
+        "me fala quais são as características do realismo", "me conta quais as características do realismo",
+        "me explica quais são as características do realismo", "me diz quais as características do realismo",
+        "fala aí quais são as características do realismo", "conta aí quais as características do realismo",
+        "explica aí quais são as características do realismo", "diz aí quais as características do realismo",
+        "cara quais são as características do realismo", "mano quais as características do realismo",
+        "véi quais são as características do realismo", "bicho quais as características do realismo",
+        "rapaz quais são as características do realismo", "gente quais as características do realismo",
+        
+        "professor quais são as características do realismo", "prof quais as características do realismo",
+        "mestre quais são as características do realismo", "doutor quais as características do realismo",
+        "pessoal quais são as características do realismo", "galera quais as características do realismo",
+        "turma quais são as características do realismo", "nego quais as características do realismo",
+        
+        "oxe quais são as características do realismo", "uai quais as características do realismo",
+        "ué quais são as características do realismo", "bah quais as características do realismo",
+        "tche quais são as características do realismo", "capaz quais as características do realismo",
+        "caraca quais são as características do realismo", "nossa quais as características do realismo",
+        "eita quais são as características do realismo", "opa quais as características do realismo"
+      ],
+      "responses": [
+        "As principais características do Realismo são: OBJETIVISMO (impessoalidade narrativa), VEROSSIMILHANÇA (retrato fiel da realidade), CONTEMPORANEIDADE (temas da época), DETERMINISMO (influência do meio), ANÁLISE PSICOLÓGICA (estudo do comportamento), CRÍTICA SOCIAL (costumes burgueses), LINGUAGEM CULTA (norma padrão) e ANTI-HEROÍSMO (personagens comuns).",
+        "Características fundamentais: 1) Objetivismo e impessoalidade, 2) Verossimilhança e realidade cotidiana, 3) Contemporaneidade dos temas, 4) Determinismo científico, 5) Análise psicológica profunda, 6) Crítica aos costumes da burguesia, 7) Linguagem erudita, 8) Personagens anti-heroicos."
+      ]
+    },
+    {
+      "intent": "caracteristicas_realismo_que",
+      "patterns": [
+        "que características tem o realismo", "que traços tem o realismo", "que marcas tem o realismo",
+        "que aspectos tem o realismo", "que elementos tem o realismo", "que qualidades tem o realismo",
+        "que características possui o realismo", "que traços possui o realismo", "que marcas possui o realismo",
+        "que características apresenta o realismo", "que traços apresenta o realismo", "que marcas apresenta o realismo",
+        "que características mostra o realismo", "que traços mostra o realismo", "que marcas mostra o realismo",
+        "que características demonstra o realismo", "que traços demonstra o realismo", "que marcas demonstra o realismo",
+        "que características exibe o realismo", "que traços exibe o realismo", "que marcas exibe o realismo",
+        "que características manifesta o realismo", "que traços manifesta o realismo", "que marcas manifesta o realismo",
+        
+        "q características tem o realismo", "q traços tem o realismo", "q marcas tem o realismo",
+        "q aspectos tem o realismo", "q elementos tem o realismo", "q qualidades tem o realismo",
+        "q características possui o realismo", "q traços possui o realismo", "q marcas possui o realismo",
+        "q características apresenta o realismo", "q traços apresenta o realismo", "q marcas apresenta o realismo",
+        "que eh características tem o realismo", "que eh traços tem o realismo", "que eh marcas tem o realismo",
+        
+        "me fala que características tem o realismo", "me conta que traços tem o realismo",
+        "me explica que características possui o realismo", "me diz que marcas tem o realismo",
+        "fala aí que características tem o realismo", "conta aí que traços tem o realismo",
+        "cara que características tem o realismo", "mano que traços tem o realismo",
+        "véi que características possui o realismo", "bicho que marcas tem o realismo",
+        
+        "que parada é essa das características do realismo", "que negócio são as características do realismo",
+        "que história é essa das características do realismo", "que coisa são as características do realismo",
+        "que diabos são as características do realismo", "que raios são as características do realismo"
+      ],
+      "responses": [
+        "O Realismo tem características como objetivismo (narração impessoal), verossimilhança (semelhança com a realidade), contemporaneidade (temas atuais da época), análise psicológica detalhada e crítica social aos costumes burgueses.",
+        "Possui traços marcantes: retrato fiel da realidade, determinismo científico, linguagem culta, personagens típicos da burguesia, descrições minuciosas e abordagem racional dos conflitos humanos."
+      ]
+    },
+    {
+      "intent": "caracteristicas_realismo_como",
+      "patterns": [
+        "como são as características do realismo", "como são os traços do realismo", "como são as marcas do realismo",
+        "como são os aspectos do realismo", "como são os elementos do realismo", "como são as qualidades do realismo",
+        "como funcionam as características do realismo", "como funcionam os traços do realismo", "como funcionam as marcas do realismo",
+        "como aparecem as características do realismo", "como aparecem os traços do realismo", "como aparecem as marcas do realismo",
+        "como se apresentam as características do realismo", "como se apresentam os traços do realismo", "como se apresentam as marcas do realismo",
+        "como se manifestam as características do realismo", "como se manifestam os traços do realismo", "como se manifestam as marcas do realismo",
+        "como se mostram as características do realismo", "como se mostram os traços do realismo", "como se mostram as marcas do realismo",
+        "como se expressam as características do realismo", "como se expressam os traços do realismo", "como se expressam as marcas do realismo",
+        
+        "cm são as características do realismo", "cm são os traços do realismo", "cm são as marcas do realismo",
+        "cm são os aspectos do realismo", "cm são os elementos do realismo", "cm são as qualidades do realismo",
+        "cm funcionam as características do realismo", "cm funcionam os traços do realismo", "cm funcionam as marcas do realismo",
+        "cm aparecem as características do realismo", "cm aparecem os traços do realismo", "cm aparecem as marcas do realismo",
+        "como eh são as características do realismo", "como eh funcionam os traços do realismo", "como eh aparecem as marcas do realismo",
+        "como q são as características do realismo", "como q funcionam os traços do realismo", "como q aparecem as marcas do realismo",
+        
+        "me explica como são as características do realismo", "me fala como funcionam os traços do realismo",
+        "me conta como aparecem as características do realismo", "me diz como são as marcas do realismo",
+        "explica aí como são as características do realismo", "fala aí como funcionam os traços do realismo",
+        "cara como são as características do realismo", "mano como funcionam os traços do realismo",
+        "véi como são as características do realismo", "bicho como aparecem as marcas do realismo",
+        
+        "como assim as características do realismo", "como é isso das características do realismo",
+        "como que são as características do realismo", "como diabos são as características do realismo"
+      ],
+      "responses": [
+        "As características do Realismo funcionam assim: o objetivismo elimina o eu-lírico emotivo, a verossimilhança cria situações críveis, a contemporaneidade aborda problemas atuais, o determinismo explica comportamentos pelo meio social, e a análise psicológica detalha a mente dos personagens.",
+        "Manifestam-se através de: narração em 3ª pessoa impessoal, descrições detalhadas de ambientes urbanos, personagens da classe média/alta, conflitos psicológicos realistas, linguagem erudita sem exageros e crítica aos vícios da sociedade burguesa."
+      ]
+    },
+    {
+      "intent": "caracteristicas_realismo_onde",
+      "patterns": [
+        "onde aparecem as características do realismo", "onde ficam as características do realismo", "onde estão as características do realismo",
+        "onde encontro as características do realismo", "onde vejo as características do realismo", "onde acho as características do realismo",
+        "onde localizo as características do realismo", "onde identifico as características do realismo", "onde reconheço as características do realismo",
+        "onde se manifestam as características do realismo", "onde se mostram as características do realismo", "onde se expressam as características do realismo",
+        "onde surgem as características do realismo", "onde se desenvolvem as características do realismo", "onde se apresentam as características do realismo",
+        
+        "aonde aparecem as características do realismo", "aonde ficam as características do realismo", "aonde estão as características do realismo",
+        "aonde encontro as características do realismo", "aonde vejo as características do realismo", "aonde acho as características do realismo",
+        "kd as características do realismo", "cadê as características do realismo", "kd ficam as características do realismo",
+        "onde q aparecem as características do realismo", "onde q ficam as características do realismo", "onde q estão as características do realismo",
+        "aonde q aparecem as características do realismo", "aonde q ficam as características do realismo", "aonde q estão as características do realismo",
+        
+        "em que lugar aparecem as características do realismo", "em qual parte ficam as características do realismo",
+        "em que texto vejo as características do realismo", "em qual obra encontro as características do realismo",
+        "em que livro acho as características do realismo", "em qual romance vejo as características do realismo",
+        "em que autor identifico as características do realismo", "em qual escritor reconheço as características do realismo",
+        "nas obras onde aparecem as características do realismo", "nos textos onde ficam as características do realismo",
+        "nos livros onde estão as características do realismo", "nos romances onde vejo as características do realismo",
+        
+        "me fala onde aparecem as características do realismo", "me conta onde ficam as características do realismo",
+        "me explica onde estão as características do realismo", "me diz onde encontro as características do realismo",
+        "cara onde aparecem as características do realismo", "mano onde ficam as características do realismo"
+      ],
+      "responses": [
+        "As características do Realismo aparecem nas obras de Machado de Assis (Dom Casmurro, Memórias Póstumas), Aluísio Azevedo (O Cortiço), Raul Pompéia (O Ateneu) e outros autores do século XIX brasileiro.",
+        "Encontram-se em romances e contos realistas: narração objetiva, descrições de ambientes urbanos (Rio de Janeiro, São Paulo), análise de personagens burgueses, crítica aos costumes da época e linguagem erudita sem sentimentalismo."
+      ]
+    },
+    {
+      "intent": "caracteristicas_realismo_quando",
+      "patterns": [
+        "quando aparecem as características do realismo", "quando surgem as características do realismo", "quando se manifestam as características do realismo",
+        "quando ficam evidentes as características do realismo", "quando se mostram as características do realismo", "quando se expressam as características do realismo",
+        "quando se desenvolvem as características do realismo", "quando se apresentam as características do realismo", "quando se revelam as características do realismo",
+        "quando posso ver as características do realismo", "quando consigo identificar as características do realismo", "quando reconheço as características do realismo",
+        "quando dá pra perceber as características do realismo", "quando fica claro as características do realismo", "quando fica óbvio as características do realismo",
+        
+        "qdo aparecem as características do realismo", "qdo surgem as características do realismo", "qdo se manifestam as características do realismo",
+        "qdo ficam evidentes as características do realismo", "qdo se mostram as características do realismo", "qdo se expressam as características do realismo",
+        "quando q aparecem as características do realismo", "quando q surgem as características do realismo", "quando q se manifestam as características do realismo",
+        "quando eh aparecem as características do realismo", "quando eh surgem as características do realismo", "quando eh se manifestam as características do realismo",
+        
+        "em que momento aparecem as características do realismo", "em qual época surgem as características do realismo",
+        "em que período se manifestam as características do realismo", "em qual fase ficam evidentes as características do realismo",
+        "durante que tempo aparecem as características do realismo", "ao longo de quando surgem as características do realismo",
+        "no decorrer de quando se manifestam as características do realismo", "através de quando ficam evidentes as características do realismo",
+        
+        "me fala quando aparecem as características do realismo", "me conta quando surgem as características do realismo",
+        "me explica quando se manifestam as características do realismo", "me diz quando ficam evidentes as características do realismo",
+        "cara quando aparecem as características do realismo", "mano quando surgem as características do realismo"
+      ],
+      "responses": [
+        "As características do Realismo aparecem no período de 1881 a 1893 no Brasil, iniciando com 'Memórias Póstumas de Brás Cubas' e consolidando-se com obras como 'O Cortiço' e 'Dom Casmurro'.",
+        "Manifestam-se durante o século XIX, especialmente após 1850 na Europa e 1881 no Brasil, coincidindo com transformações sociais: urbanização, ascensão burguesa, Abolição e Proclamação da República."
+      ]
+    },
+    {
+      "intent": "caracteristicas_realismo_por_que",
+      "patterns": [
+        "por que o realismo tem essas características", "por que existem essas características no realismo", "por que o realismo possui essas características",
+        "por que surgem essas características no realismo", "por que aparecem essas características no realismo", "por que se manifestam essas características no realismo",
+        "por que o realismo desenvolveu essas características", "por que o realismo apresenta essas características", "por que o realismo mostra essas características",
+        "por que são essas as características do realismo", "por que essas são as características do realismo", "por que assim são as características do realismo",
+        "por que dessa forma as características do realismo", "por que desse jeito as características do realismo", "por que desta maneira as características do realismo",
+        
+        "pq o realismo tem essas características", "pq existem essas características no realismo", "pq o realismo possui essas características",
+        "pq surgem essas características no realismo", "pq aparecem essas características no realismo", "pq se manifestam essas características no realismo",
+        "pq o realismo desenvolveu essas características", "pq o realismo apresenta essas características", "pq o realismo mostra essas características",
+        "por q o realismo tem essas características", "por q existem essas características no realismo", "por q o realismo possui essas características",
+        "porque o realismo tem essas características", "porque existem essas características no realismo", "porque o realismo possui essas características",
+        
+        "qual motivo das características do realismo", "qual razão das características do realismo", "qual causa das características do realismo",
+        "que motivo tem as características do realismo", "que razão tem as características do realismo", "que causa tem as características do realismo",
+        "o que motivou as características do realismo", "o que causou as características do realismo", "o que originou as características do realismo",
+        
+        "me explica por que o realismo tem essas características", "me fala por que existem essas características no realismo",
+        "me conta por que o realismo possui essas características", "me diz por que surgem essas características no realismo",
+        "cara por que o realismo tem essas características", "mano por que existem essas características no realismo"
+      ],
+      "responses": [
+        "O Realismo desenvolveu essas características como reação ao Romantismo idealista e devido ao contexto histórico: Revolução Industrial, urbanização, positivismo científico, ascensão burguesa e necessidade de retratar a realidade social de forma objetiva e crítica.",
+        "Essas características surgiram porque: 1) A ciência influenciou a literatura (objetivismo), 2) A burguesia precisava ser criticada (análise social), 3) O público queria realidade, não fantasia (verossimilhança), 4) A psicologia moderna exigia análise profunda dos personagens."
+      ]
+    },
+    {
+      "intent": "caracteristicas_realismo_quantas",
+      "patterns": [
+        "quantas são as características do realismo", "quantas características tem o realismo", "quantas características possui o realismo",
+        "quantas são os traços do realismo", "quantos traços tem o realismo", "quantos traços possui o realismo",
+        "quantas são as marcas do realismo", "quantas marcas tem o realismo", "quantas marcas possui o realismo",
+        "quantos são os aspectos do realismo", "quantos aspectos tem o realismo", "quantos aspectos possui o realismo",
+        "quantos são os elementos do realismo", "quantos elementos tem o realismo", "quantos elementos possui o realismo",
+        "quantas são as qualidades do realismo", "quantas qualidades tem o realismo", "quantas qualidades possui o realismo",
+        
+        "qtas são as características do realismo", "qtas características tem o realismo", "qtas características possui o realismo",
+        "qtos são os traços do realismo", "qtos traços tem o realismo", "qtos traços possui o realismo",
+        "qtas são as marcas do realismo", "qtas marcas tem o realismo", "qtas marcas possui o realismo",
+        "qtos são os aspectos do realismo", "qtos aspectos tem o realismo", "qtos aspectos possui o realismo",
+        "quantas eh são as características do realismo", "quantos eh traços tem o realismo", "quantas eh marcas possui o realismo",
+        
+        "ao todo quantas são as características do realismo", "no total quantas características tem o realismo",
+        "são quantas as características do realismo", "tem quantas características o realismo",
+        "possui quantas características o realismo", "apresenta quantas características o realismo",
+        "existem quantas características do realismo", "há quantas características no realismo",
+        
+        "me fala quantas são as características do realismo", "me conta quantas características tem o realismo",
+        "me explica quantas características possui o realismo", "me diz quantos traços tem o realismo",
+        "cara quantas são as características do realismo", "mano quantas características tem o realismo",
+        "véi quantas características possui o realismo", "bicho quantos traços tem o realismo"
+      ],
+      "responses": [
+        "O Realismo possui 8 características principais: objetivismo, verossimilhança, contemporaneidade, determinismo, análise psicológica, crítica social, linguagem culta e anti-heroísmo. Alguns estudiosos identificam até 10-12 traços específicos.",
+        "São cerca de 8 a 10 características fundamentais, dependendo da classificação: as essenciais são objetivismo, verossimilhança, contemporaneidade, determinismo científico, análise psicológica profunda, crítica aos costumes burgueses, impessoalidade narrativa e realismo social."
+      ]
+    }
+  ]
+}
