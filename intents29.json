@@ -1,0 +1,314 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_pesca",
+      "patterns": [
+        "oq é pesca",
+        "o que é pesca",
+        "que que é pesca",
+        "me explica oq é pesca",
+        "que negócio é pesca",
+        "pesca é o que",
+        "como é que funciona pesca",
+        "que parada é essa de pesca",
+        "oq significa pesca",
+        "definiçao de pesca",
+        "conceito de pesca",
+        "pesca serve pra que",
+        "qual é a da pesca",
+        "como que é pesca",
+        "que tipo de coisa é pesca",
+        "pesca é que tipo de atividade",
+        "me fala sobre pesca",
+        "explica essa pesca aí",
+        "que história é essa de pesca",
+        "oq quer dizer pesca"
+      ],
+      "responses": [
+        "Pesca é a atividade de capturar peixes e outros animais aquáticos dos rios, lagos e mares. É uma das atividades humanas mais antigas, usada tanto para alimentação quanto para renda.",
+        "É o ato de pegar peixes na água usando diferentes técnicas como anzol, rede, tarrafa. Pode ser feita para comer, vender ou até por diversão.",
+        "Pesca é quando a pessoa vai pro rio, lago ou mar pegar peixe. Tem gente que pesca pra comer, outros pra vender, e alguns só por hobby mesmo.",
+        "É uma atividade onde você captura peixes e outros bichos aquáticos. Desde sempre o ser humano pesca pra se alimentar e sustentar a família."
+      ]
+    },
+    {
+      "intent": "como_pescar",
+      "patterns": [
+        "como pescar",
+        "como que pesca",
+        "como é que pesca",
+        "ensina a pescar",
+        "me ensina pescar",
+        "quero aprender pescar",
+        "como fazer pesca",
+        "jeito de pescar",
+        "modo de pescar",
+        "forma de pescar",
+        "técnica de pesca",
+        "método de pesca",
+        "como pegar peixe",
+        "como capturar peixe",
+        "passo a passo pesca",
+        "tutorial de pesca",
+        "como começar pescar",
+        "pra iniciante como pesca",
+        "primeira vez pescando",
+        "dicas pra pescar"
+      ],
+      "responses": [
+        "Pra pescar você precisa de vara, anzol, linha e isca. Joga a linha na água, espera o peixe morder e puxa quando sentir o puxão. É importante ter paciência!",
+        "Começa com equipamento básico: vara de pescar, molinete, anzol e minhoca de isca. Escolhe um local com peixe, joga a linha e aguarda. Quando balançar, é hora de puxar!",
+        "Primeiro arruma o equipamento: vara, linha, anzol e isca (pode ser minhoca, milho ou ração). Vai num lugar bom pra pesca, joga na água e espera com paciência o peixe morder.",
+        "É simples: pega uma vara com linha e anzol, coloca isca, joga na água e espera. Quando sentir o peixe puxando, levanta a vara devagar pra não arrebentar a linha."
+      ]
+    },
+    {
+      "intent": "que_peixe_pescar",
+      "patterns": [
+        "que peixe pescar",
+        "q peixe pegar",
+        "que tipo de peixe tem",
+        "quais peixes posso pescar",
+        "que peixe dá pra pegar",
+        "que espécie de peixe",
+        "peixe bom pra pescar",
+        "que peixe tem no rio",
+        "que peixe tem no mar",
+        "peixes mais comuns",
+        "que peixe é fácil pegar",
+        "peixe gostoso pra comer",
+        "peixe que vale a pena",
+        "que bicho pesco",
+        "que tem pra pescar",
+        "especies de peixe",
+        "tipos de peixe",
+        "variedade de peixe",
+        "peixes da região",
+        "peixe daqui"
+      ],
+      "responses": [
+        "Depende do lugar! No rio tem traíra, tucunaré, dourado, pintado. No mar tem robalo, corvina, pescada. Cada região tem seus peixes típicos.",
+        "Varia conforme o local: água doce tem tilápia, carpa, bagre, lambari. No litoral encontra tainha, linguado, garoupa. O importante é conhecer os peixes da sua região.",
+        "Tem muita opção! Rios e lagos: piau, mandi, piava, cascudo. No mar: sardinha, anchova, pampo. Procura saber que peixes tem na sua área.",
+        "Cada ambiente tem os seus: interior tem mais traíra, lambari, bagre. Litoral tem anchova, pescadinha, camarão. Pergunta pros pescadores locais que eles sabem."
+      ]
+    },
+    {
+      "intent": "onde_pescar",
+      "patterns": [
+        "onde pescar",
+        "local pra pescar",
+        "lugar bom pra pescar",
+        "onde tem pesca",
+        "aonde ir pescar",
+        "local de pesca",
+        "lugar de pesca",
+        "onde encontrar peixe",
+        "rio bom pra pescar",
+        "lago pra pescar",
+        "pesqueiro",
+        "pesque pague",
+        "clube de pesca",
+        "onde é permitido pescar",
+        "pode pescar onde",
+        "lugar livre pra pesca",
+        "ponto de pesca",
+        "area de pesca",
+        "região boa pra pescar",
+        "redondeza pra pescar"
+      ],
+      "responses": [
+        "Tem várias opções: rios, lagos, represas, mar, pesqueiros (pesque-pague). Importante verificar se é permitido pescar no local e se precisa de licença.",
+        "Você pode ir em rios públicos, lagos, represas, pesqueiros particulares ou praia. Sempre confira as regras do local e se precisa pagar entrada.",
+        "Lugares comuns: pesqueiros da região, rios que passam na cidade, represas, clube de pesca. No litoral tem cais, píer, praia. Vê qual é mais perto de você.",
+        "Depende de onde você mora: interior tem mais rios e represas, litoral tem mar e mangue. Pesqueiros são boas opções pra iniciante porque tem estrutura."
+      ]
+    },
+    {
+      "intent": "equipamentos_pesca",
+      "patterns": [
+        "equipamento de pesca",
+        "material pra pescar",
+        "que precisa pra pescar",
+        "oq usar pra pescar",
+        "acessórios de pesca",
+        "kit de pesca",
+        "vara de pescar",
+        "anzol",
+        "linha de pesca",
+        "molinete",
+        "carretilha",
+        "isca",
+        "rede",
+        "tarrafa",
+        "equipamentos básicos",
+        "material básico",
+        "ferramentas de pesca",
+        "utensílios pesca",
+        "apetrechos de pesca",
+        "bagulho pra pescar"
+      ],
+      "responses": [
+        "Básico: vara de pescar, molinete, linha, anzol, chumbada e isca. Pra começar é só isso mesmo. Depois você vai comprando outros acessórios conforme a necessidade.",
+        "Pra iniciar precisa de: vara (pode ser simples), linha de nylon, anzóis de vários tamanhos, chumbada, isca (minhoca, milho). Opcional: molinete, balde, cadeira.",
+        "Material essencial: vara de 2-3 metros, linha 0.20-0.30, anzóis variados, chumbo, isca natural ou artificial. Com isso já dá pra começar a pescar.",
+        "Kit iniciante: vara telescópica, carretel pequeno, linha, anzóis, chumbada, minhocas. Depois vai incrementando com alicate, balde, puçá, caixa de apetrechos."
+      ]
+    },
+    {
+      "intent": "melhor_horario_pescar",
+      "patterns": [
+        "que horas pescar",
+        "melhor horário pra pescar",
+        "hora boa pra pesca",
+        "quando pescar",
+        "que período pescar",
+        "manhã ou tarde",
+        "pesca de noite",
+        "pesca de madrugada",
+        "horário do peixe",
+        "hora que peixe come",
+        "quando peixe morde mais",
+        "época boa pra pescar",
+        "temporada de pesca",
+        "dia bom pra pescar",
+        "quando tem mais peixe",
+        "peixe ativo que horas",
+        "momento certo pra pescar",
+        "timing da pesca",
+        "quando vale a pena ir",
+        "horário ideal"
+      ],
+      "responses": [
+        "Melhor horário é cedo de manhã (5h-8h) e final da tarde (17h-19h). Nesses momentos o peixe está mais ativo se alimentando.",
+        "Peixe morde mais no amanhecer e anoitecer. Evita o sol forte do meio-dia. Lua nova e lua cheia também são boas épocas pra pescar.",
+        "Horários top: madrugada, manhã cedo e fim de tarde. O peixe fica mais esperto no calor do dia. Tempo nublado também ajuda bastante.",
+        "Pesca melhor de manhã cedinho e quando o sol está se pondo. Peixe não gosta muito de sol forte. Chuva fraca também é boa pra pesca."
+      ]
+    },
+    {
+      "intent": "isca_para_pesca",
+      "patterns": [
+        "que isca usar",
+        "melhor isca",
+        "isca boa pra pescar",
+        "que usar de isca",
+        "isca natural",
+        "isca artificial",
+        "minhoca",
+        "milho",
+        "ração",
+        "camarão",
+        "sardinha",
+        "lambari",
+        "que peixe gosta",
+        "que atrai peixe",
+        "comida do peixe",
+        "que colocar no anzol",
+        "isca caseira",
+        "isca barata",
+        "isca fácil de achar",
+        "que funciona como isca"
+      ],
+      "responses": [
+        "Iscas mais usadas: minhoca (universal), milho (pra várias espécies), ração de peixe, camarão. Cada peixe tem sua preferência, mas minhoca funciona pra maioria.",
+        "Naturais: minhoca, milho, queijo, sardinha, camarão, lambari. Artificiais: spinner, colher, jig. Pra começar, minhoca e milho são ótimas opções.",
+        "Minhoca é coringa, serve pra quase todo peixe. Milho também é boa pedida. Camarão pra peixe maior. Ração de cachorro também funciona bem.",
+        "Iscas baratas e eficientes: minhoca (compra na loja de pesca), milho de latinha, queijo, pão. Peixe carnívoro prefere sardinha ou lambari como isca."
+      ]
+    },
+    {
+      "intent": "licenca_pesca",
+      "patterns": [
+        "precisa licença pra pescar",
+        "documento pra pescar",
+        "autorização pesca",
+        "pode pescar sem licença",
+        "licença de pesca",
+        "como tirar licença",
+        "onde tirar licença",
+        "carteira de pesca",
+        "registro pra pescar",
+        "permissão pesca",
+        "lei da pesca",
+        "regras pra pescar",
+        "é crime pescar",
+        "multa por pescar",
+        "ibama pesca",
+        "fiscalização pesca",
+        "pesca amadora",
+        "pesca profissional",
+        "liberado pescar",
+        "permitido pescar"
+      ],
+      "responses": [
+        "Pra pesca amadora precisa sim da licença do IBAMA. É gratuita e vale por 1 ano. Tira online no site do IBAMA ou nos Correios. Sem ela pode dar multa.",
+        "Licença é obrigatória! É de graça pro pescador amador, paga só taxa administrativa pequena. Faz pela internet mesmo, é rapidinho. Sempre leva junto na pescaria.",
+        "Sim, precisa de licença de pesca amadora. É baratinha e faz online. Vale pra todo Brasil por 1 ano. Importante andar com ela porque o IBAMA fiscaliza.",
+        "Licença é necessária pra pescar legalmente. Pesca sem licença dá multa pesada. É fácil de tirar no site do IBAMA, custa pouquinho e evita dor de cabeça."
+      ]
+    },
+    {
+      "intent": "pesca_iniciante",
+      "patterns": [
+        "como começar pescar",
+        "iniciante na pesca",
+        "primeira vez pescando",
+        "nunca pesquei",
+        "começar do zero",
+        "aprender pescar",
+        "pesca pra iniciante",
+        "novato na pesca",
+        "dicas pra quem nunca pescou",
+        "começando na pesca",
+        "pesca básica",
+        "fundamentos da pesca",
+        "pesca simples",
+        "fácil de pescar",
+        "sem experiência",
+        "tutorial iniciante",
+        "passo a passo iniciante",
+        "primeira pescaria",
+        "começar hobby pesca",
+        "entrar na pesca"
+      ],
+      "responses": [
+        "Pra começar: compra equipamento básico (vara, linha, anzol), vai num pesqueiro perto de casa, usa minhoca de isca. Importante ter paciência e curtir o momento!",
+        "Primeiro passo: equipamento simples e local fácil (pesque-pague). Leva lanche, água, protetor solar. Não se cobra muito, pesca é diversão e relaxamento.",
+        "Dica de ouro: começa em pesqueiro porque tem peixe garantido e estrutura. Pede ajuda pros outros pescadores, pessoal da pesca é gente boa e ensina.",
+        "Inicia devagar: vara barata, isca simples (minhoca), local conhecido. O importante é pegar o jeito e gostar. Com o tempo vai aprimorando técnica e equipamentos."
+      ]
+    },
+    {
+      "intent": "pesca_sustentavel",
+      "patterns": [
+        "pesca sustentável",
+        "pescar sem prejudicar",
+        "conservação dos peixes",
+        "pesca responsável",
+        "proteger meio ambiente",
+        "pesca ecológica",
+        "não devastar",
+        "preservar natureza",
+        "pesca consciente",
+        "cuidar dos rios",
+        "não acabar com peixe",
+        "pescar certo",
+        "respeitar natureza",
+        "pesca limpa",
+        "não poluir",
+        "manter peixes",
+        "futuro da pesca",
+        "sustentabilidade",
+        "equilíbrio ecológico",
+        "pesca sem impacto"
+      ],
+      "responses": [
+        "Pesca sustentável: respeita tamanho mínimo dos peixes, período de defeso (reprodução), não usa rede muito fina, não pesca mais que vai consumir.",
+        "Ser responsável: soltar peixe pequeno, não pescar na piracema, levar lixo embora, não usar explosivos ou veneno. Pescou, cuida da natureza!",
+        "Dicas importantes: pesca só o que vai comer, respeita cota por pescador, não mata fêmea com ovos, mantém ambiente limpo. Pesca é pra sempre!",
+        "Consciência ambiental: conhece as regras ambientais, usa equipamentos legais, preserva vegetação da margem, educa outros pescadores. Natureza agradece!"
+      ]
+    }
+  ]
+}

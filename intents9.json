@@ -1,0 +1,472 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_seculos_xix_xx",
+      "patterns": [
+        "o que é séculos xix-xx",
+        "o que são séculos xix-xx", 
+        "oq é séculos xix-xx",
+        "oq são séculos xix-xx",
+        "o que seria séculos xix-xx",
+        "o que seriam séculos xix-xx",
+        "oq seria séculos xix-xx",
+        "oq seriam séculos xix-xx",
+        "o que significa séculos xix-xx",
+        "oq significa séculos xix-xx",
+        "o que representa séculos xix-xx",
+        "oq representa séculos xix-xx",
+        "defina séculos xix-xx",
+        "define séculos xix-xx",
+        "conceito de séculos xix-xx",
+        "séculos xix-xx definição",
+        "definição de séculos xix-xx",
+        "significado de séculos xix-xx",
+        "me explique o que é séculos xix-xx",
+        "me explica oq é séculos xix-xx",
+        "explique o que são séculos xix-xx",
+        "explica oq são séculos xix-xx"
+      ],
+      "responses": [
+        "Os séculos XIX-XX representam o período de intensificação da exploração amazônica através do ciclo da borracha, mineração, construção de estradas, conflitos fundiários e criação das primeiras áreas de proteção ambiental.",
+        "Significam a fase histórica de transformação acelerada da Amazônia com exploração de recursos naturais, desenvolvimento de infraestruturas, urbanização e início da consciência sobre preservação ambiental.",
+        "São os séculos de modernização forçada da região amazônica: extração massiva de borracha, atividades mineradoras, abertura de vias de acesso e primeiros esforços de conservação da floresta.",
+        "Representam o período de incorporação da Amazônia ao sistema capitalista mundial através de ciclos econômicos exploratórios, construção de infraestruturas e surgimento de políticas ambientais."
+      ]
+    },
+    {
+      "intent": "o_que_e_problemas_atuais",
+      "patterns": [
+        "o que são problemas atuais",
+        "o que é problemas atuais", 
+        "oq são problemas atuais",
+        "oq é problemas atuais",
+        "o que seriam problemas atuais",
+        "o que seria problemas atuais",
+        "oq seriam problemas atuais",
+        "oq seria problemas atuais",
+        "o que significam problemas atuais",
+        "oq significam problemas atuais",
+        "o que representam problemas atuais",
+        "oq representam problemas atuais",
+        "defina problemas atuais",
+        "define problemas atuais",
+        "conceito de problemas atuais",
+        "problemas atuais definição",
+        "definição de problemas atuais",
+        "significado de problemas atuais",
+        "me explique o que são problemas atuais",
+        "me explica oq são problemas atuais",
+        "explique o que são problemas atuais",
+        "explica oq são problemas atuais"
+      ],
+      "responses": [
+        "Os problemas atuais incluem mineração ilegal que polui rios, conflitos armados principalmente na Colômbia, desmatamento acelerado e queimadas que destroem territórios indígenas amazônicos.",
+        "Representam as ameaças contemporâneas aos povos indígenas: exploração mineral clandestina, violência de grupos armados, destruição florestal massiva e degradação ambiental sistemática.",
+        "São os desafios presentes que afetam comunidades nativas: garimpo ilegal, narcotráfico, desflorestamento industrial, incêndios criminosos e poluição de ecossistemas aquáticos.",
+        "Significam as crises atuais na Amazônia: atividades extrativistas ilegais, conflitos territoriais violentos, devastação ambiental acelerada e contaminação de recursos naturais vitais."
+      ]
+    },
+    {
+      "intent": "quais_seculos_xix_xx",
+      "patterns": [
+        "quais são os séculos xix-xx",
+        "quais características dos séculos xix-xx",
+        "quais são as características dos séculos xix-xx",
+        "quais eventos dos séculos xix-xx",
+        "quais são os eventos dos séculos xix-xx",
+        "quais aspectos dos séculos xix-xx",
+        "quais são os aspectos dos séculos xix-xx",
+        "quais processos dos séculos xix-xx",
+        "quais são os processos dos séculos xix-xx",
+        "quais atividades dos séculos xix-xx",
+        "quais são as atividades dos séculos xix-xx"
+      ],
+      "responses": [
+        "As características incluem: ciclo da borracha com exploração massiva, atividades de mineração intensiva, construção de estradas e ferrovias, conflitos fundiários violentos e criação das primeiras áreas protegidas.",
+        "Os eventos principais envolvem: boom econômico da borracha, descoberta de jazidas minerais, desenvolvimento de infraestruturas de transporte, disputas territoriais e início de políticas de conservação ambiental.",
+        "Os aspectos centrais são: extração de recursos naturais, modernização forçada da região, urbanização acelerada, conflitos sociais e surgimento da consciência sobre preservação da floresta amazônica.",
+        "Os processos incluem: incorporação ao capitalismo mundial, transformação de paisagens naturais, migração populacional massiva, resistência indígena e estabelecimento de primeiras reservas ambientais."
+      ]
+    },
+    {
+      "intent": "quais_problemas_atuais",
+      "patterns": [
+        "quais são os problemas atuais",
+        "quais características dos problemas atuais",
+        "quais são as características dos problemas atuais",
+        "quais tipos de problemas atuais",
+        "quais são os tipos de problemas atuais",
+        "quais aspectos dos problemas atuais",
+        "quais são os aspectos dos problemas atuais",
+        "quais formas de problemas atuais",
+        "quais são as formas de problemas atuais",
+        "quais ameaças atuais",
+        "quais são as ameaças atuais"
+      ],
+      "responses": [
+        "Os problemas incluem: mineração ilegal que contamina rios com mercúrio, conflitos armados especialmente na Colômbia, desmatamento acelerado para agropecuária e queimadas criminosas que destroem a floresta.",
+        "As características envolvem: garimpo clandestino poluindo ecossistemas aquáticos, violência de narcotraficantes e paramilitares, desflorestamento industrial massivo e incêndios intencionais para apropriação de terras.",
+        "Os tipos incluem: exploração mineral ilegal, guerrilhas e grupos armados, devastação florestal sistemática, poluição de rios e nascentes, invasão de territórios indígenas protegidos.",
+        "As ameaças são: contaminação por mercúrio e outros químicos, conflitos territoriais violentos, destruição de biodiversidade, mudanças climáticas e perda de culturas ancestrais indígenas."
+      ]
+    },
+    {
+      "intent": "quem_seculos_xix_xx",
+      "patterns": [
+        "quem causou séculos xix-xx",
+        "quem promoveu séculos xix-xx",
+        "quem participou dos séculos xix-xx",
+        "quem esteve envolvido nos séculos xix-xx",
+        "quem realizou séculos xix-xx",
+        "quem executou séculos xix-xx",
+        "quem foram os agentes dos séculos xix-xx",
+        "quem provocou séculos xix-xx",
+        "quem gerou séculos xix-xx",
+        "quem criou séculos xix-xx",
+        "quem fez séculos xix-xx",
+        "quem desenvolveu séculos xix-xx"
+      ],
+      "responses": [
+        "Os responsáveis incluem: exploradores de borracha, empresas mineradoras, construtores de estradas, latifundiários, governos nacionais e posteriormente conservacionistas que criaram áreas protegidas.",
+        "Participaram: seringalistas que exploravam borracha, mineradores em busca de ouro, engenheiros de infraestruturas, colonos migrantes, políticos desenvolvimentistas e ambientalistas pioneiros.",
+        "Os agentes foram: empresários extrativistas, companhias multinacionais, trabalhadores migrantes, autoridades governamentais, fazendeiros expansionistas e primeiros defensores da conservação ambiental.",
+        "Estiveram envolvidos: capitalistas da borracha, corporações mineradoras, construtoras de ferrovias, imigrantes europeus, Estados nacionais e cientistas que promoveram a proteção da natureza."
+      ]
+    },
+    {
+      "intent": "quem_problemas_atuais",
+      "patterns": [
+        "quem causa problemas atuais",
+        "quem promove problemas atuais",
+        "quem gera problemas atuais",
+        "quem cria problemas atuais",
+        "quem faz problemas atuais",
+        "quem está envolvido nos problemas atuais",
+        "quem participa dos problemas atuais",
+        "quem realiza problemas atuais",
+        "quem são os responsáveis pelos problemas atuais",
+        "quem provoca problemas atuais",
+        "quem executa problemas atuais",
+        "quem desenvolve problemas atuais"
+      ],
+      "responses": [
+        "Os responsáveis incluem: garimpeiros ilegais, narcotraficantes, grupos armados, madeireiros criminosos, fazendeiros invasores, empresas mineradoras e políticos corruptos que permitem essas atividades.",
+        "Causam problemas: mineradores clandestinos, cartéis de drogas, paramilitares, exploradores florestais ilegais, latifundiários, corporações extrativistas e autoridades omissas ou coniventes.",
+        "Estão envolvidos: criminosos ambientais, organizações armadas, invasores de terras, empresários inescrupulosos, agentes do narcotráfico, mineradoras ilegais e políticos que facilitam a impunidade.",
+        "Geram problemas: garimpeiros que usam mercúrio, guerrilheiros e milícias, desmatadores profissionais, contrabandistas, grileiros de terras, multinacionais predatórias e governos negligentes."
+      ]
+    },
+    {
+      "intent": "onde_aonde_seculos_xix_xx",
+      "patterns": [
+        "onde aconteceram séculos xix-xx",
+        "onde ocorreram séculos xix-xx",
+        "aonde aconteceram séculos xix-xx",
+        "aonde ocorreram séculos xix-xx",
+        "onde se deram séculos xix-xx",
+        "aonde se deram séculos xix-xx",
+        "onde foram séculos xix-xx",
+        "aonde foram séculos xix-xx",
+        "localização dos séculos xix-xx",
+        "em que lugar séculos xix-xx",
+        "em q lugar séculos xix-xx",
+        "em que região séculos xix-xx",
+        "em q região séculos xix-xx",
+        "situação dos séculos xix-xx",
+        "posição dos séculos xix-xx"
+      ],
+      "responses": [
+        "Aconteceram principalmente na região amazônica do Brasil, Peru, Colômbia e Equador, especialmente ao longo dos rios onde se extraía borracha e nas áreas de mineração e construção de infraestruturas.",
+        "Ocorreram na bacia amazônica continental, particularmente nas áreas de seringais, jazidas minerais, rotas de transporte fluvial e posteriormente nas primeiras unidades de conservação criadas.",
+        "Se deram nos territórios indígenas amazônicos invadidos por atividades extrativistas, regiões de mineração, áreas de construção de estradas e locais onde se estabeleceram as primeiras áreas protegidas.",
+        "Foram localizados na floresta amazônica e suas bordas, abrangendo rios navegáveis, zonas de extração de borracha, sítios minerários e territórios posteriormente transformados em reservas ambientais."
+      ]
+    },
+    {
+      "intent": "onde_aonde_problemas_atuais",
+      "patterns": [
+        "onde acontecem problemas atuais",
+        "onde ocorrem problemas atuais",
+        "aonde acontecem problemas atuais",
+        "aonde ocorrem problemas atuais",
+        "onde se dão problemas atuais",
+        "aonde se dão problemas atuais",
+        "onde estão problemas atuais",
+        "aonde estão problemas atuais",
+        "localização dos problemas atuais",
+        "em que lugar problemas atuais",
+        "em q lugar problemas atuais",
+        "em que região problemas atuais",
+        "em q região problemas atuais",
+        "situação dos problemas atuais",
+        "posição dos problemas atuais"
+      ],
+      "responses": [
+        "Acontecem principalmente na Amazônia brasileira, colombiana, peruana e equatoriana, especialmente em territórios indígenas invadidos por garimpeiros, áreas de conflito armado e regiões de desmatamento.",
+        "Ocorrem na bacia amazônica, particularmente em zonas de mineração ilegal, territórios controlados por grupos armados, fronteiras entre países e áreas de expansão agropecuária predatória.",
+        "Se dão nos territórios indígenas amazônicos, regiões de garimpo clandestino, áreas de narcotráfico, zonas de conflito na Colômbia e locais de desflorestamento acelerado.",
+        "Estão localizados na floresta amazônica continental, abrangendo rios contaminados, terras indígenas invadidas, regiões de violência armada e áreas de queimadas criminosas sistêmicas."
+      ]
+    },
+    {
+      "intent": "como_seculos_xix_xx",
+      "patterns": [
+        "como aconteceram séculos xix-xx",
+        "como ocorreram séculos xix-xx",
+        "como foram séculos xix-xx",
+        "como se deram séculos xix-xx",
+        "como funcionaram séculos xix-xx",
+        "como se processaram séculos xix-xx",
+        "modo dos séculos xix-xx",
+        "jeito dos séculos xix-xx",
+        "forma dos séculos xix-xx",
+        "maneira dos séculos xix-xx",
+        "processo dos séculos xix-xx",
+        "desenvolvimento dos séculos xix-xx"
+      ],
+      "responses": [
+        "Aconteceram através da exploração massiva de borracha com trabalho forçado, mineração intensiva, construção de ferrovias e estradas, invasão de territórios indígenas e criação de primeiras áreas protegidas.",
+        "Ocorreram mediante boom econômico da borracha, descoberta de jazidas minerais, desenvolvimento de infraestruturas de transporte, migração populacional massiva e início de políticas conservacionistas.",
+        "Se deram por meio de ciclos econômicos exploratórios, modernização forçada da região, urbanização acelerada, conflitos fundiários violentos e surgimento da consciência ambiental.",
+        "Funcionaram através de incorporação ao capitalismo mundial, transformação de paisagens naturais, resistência indígena, exploração de recursos e estabelecimento de primeiras reservas florestais."
+      ]
+    },
+    {
+      "intent": "como_problemas_atuais",
+      "patterns": [
+        "como acontecem problemas atuais",
+        "como ocorrem problemas atuais",
+        "como são problemas atuais",
+        "como se dão problemas atuais",
+        "como funcionam problemas atuais",
+        "como se processam problemas atuais",
+        "modo dos problemas atuais",
+        "jeito dos problemas atuais",
+        "forma dos problemas atuais",
+        "maneira dos problemas atuais",
+        "processo dos problemas atuais",
+        "desenvolvimento dos problemas atuais"
+      ],
+      "responses": [
+        "Acontecem através de invasões de garimpeiros que usam mercúrio, ações de grupos armados que controlam territórios, desflorestamento com motosserras e queimadas criminosas para apropriação de terras.",
+        "Ocorrem mediante mineração clandestina que polui rios, conflitos violentos entre facções armadas, devastação florestal sistemática e incêndios intencionais para expansão agropecuária.",
+        "Se dão por meio de atividades extrativistas ilegais, narcotráfico que financia violência, exploração madeireira predatória e práticas criminosas que destroem ecossistemas amazônicos.",
+        "Funcionam através de redes criminosas organizadas, corrupção institucional, impunidade sistemática, pressão econômica internacional e ausência de fiscalização efetiva nos territórios remotos."
+      ]
+    },
+    {
+      "intent": "por_que_porque_seculos_xix_xx",
+      "patterns": [
+        "por que aconteceram séculos xix-xx",
+        "pq aconteceram séculos xix-xx",
+        "por que ocorreram séculos xix-xx",
+        "pq ocorreram séculos xix-xx",
+        "porque aconteceram séculos xix-xx",
+        "pq aconteceram séculos xix-xx",
+        "por que existem séculos xix-xx",
+        "pq existem séculos xix-xx",
+        "por que houve séculos xix-xx",
+        "pq houve séculos xix-xx",
+        "motivos dos séculos xix-xx",
+        "razões dos séculos xix-xx"
+      ],
+      "responses": [
+        "Aconteceram devido à demanda mundial por borracha, descoberta de riquezas minerais, necessidade de integração territorial, pressão do capitalismo industrial e posteriormente consciência sobre preservação ambiental.",
+        "Ocorreram por causa da revolução industrial que precisava de borracha, exploração de recursos naturais, construção de infraestruturas nacionais, migração populacional e surgimento do movimento conservacionista.",
+        "Houve pelos interesses econômicos internacionais, expansão das fronteiras nacionais, modernização forçada da região, exploração capitalista predatória e primeiras preocupações com destruição ambiental.",
+        "Existem pelas transformações do capitalismo mundial, incorporação da Amazônia ao mercado global, políticas desenvolvimentistas estatais, pressão demográfica e início da consciência ecológica internacional."
+      ]
+    },
+    {
+      "intent": "por_que_porque_problemas_atuais",
+      "patterns": [
+        "por que acontecem problemas atuais",
+        "pq acontecem problemas atuais",
+        "por que ocorrem problemas atuais",
+        "pq ocorrem problemas atuais",
+        "porque acontecem problemas atuais",
+        "pq acontecem problemas atuais",
+        "por que existem problemas atuais",
+        "pq existem problemas atuais",
+        "por que há problemas atuais",
+        "pq há problemas atuais",
+        "motivos dos problemas atuais",
+        "razões dos problemas atuais"
+      ],
+      "responses": [
+        "Acontecem devido à ganância por ouro e outros minerais, conflitos armados pelo controle territorial, pressão econômica por terras agrícolas, narcotráfico lucrativo e fiscalização insuficiente.",
+        "Ocorrem por causa da demanda internacional por commodities, violência de grupos criminosos, expansão do agronegócio, tráfico de drogas rentável e corrupção institucional generalizada.",
+        "Existem pelos altos preços de metais preciosos, disputas territoriais violentas, especulação fundiária, economia ilegal do narcotráfico e ausência de controle estatal efetivo.",
+        "Há problemas pela pressão do mercado global, impunidade criminal, pobreza regional, influência de organizações criminosas e políticas ambientais inadequadas ou mal implementadas."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_seculos_xix_xx",
+      "patterns": [
+        "para que servem séculos xix-xx",
+        "pra que servem séculos xix-xx",
+        "para que existem séculos xix-xx",
+        "pra que existem séculos xix-xx",
+        "para que estudar séculos xix-xx",
+        "pra que estudar séculos xix-xx",
+        "para que conhecer séculos xix-xx",
+        "pra que conhecer séculos xix-xx",
+        "para que saber séculos xix-xx",
+        "pra que saber séculos xix-xx"
+      ],
+      "responses": [
+        "Servem para compreender a modernização forçada da Amazônia, entender ciclos econômicos exploratórios, reconhecer padrões históricos de exploração e valorizar primeiros esforços de conservação ambiental.",
+        "Existem para ensinar sobre transformações capitalistas na região, mostrar resistência indígena, demonstrar impactos da industrialização e orientar políticas de desenvolvimento sustentável.",
+        "Estudar serve para entender origens dos problemas atuais, compreender dinâmicas econômicas regionais, valorizar lutas sociais históricas e construir alternativas de desenvolvimento mais justas.",
+        "Conhecer ajuda a reconhecer padrões de exploração, entender formação territorial contemporânea, valorizar patrimônio ambiental e promover modelos de desenvolvimento que respeitem povos indígenas."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_problemas_atuais",
+      "patterns": [
+        "para que servem problemas atuais",
+        "pra que servem problemas atuais",
+        "para que existem problemas atuais",
+        "pra que existem problemas atuais",
+        "para que estudar problemas atuais",
+        "pra que estudar problemas atuais",
+        "para que conhecer problemas atuais",
+        "pra que conhecer problemas atuais",
+        "para que saber problemas atuais",
+        "pra que saber problemas atuais"
+      ],
+      "responses": [
+        "Estudar problemas atuais serve para denunciar crimes ambientais, defender direitos indígenas, promover políticas de proteção, combater impunidade e construir soluções sustentáveis para a Amazônia.",
+        "Conhecer serve para conscientizar sobre urgência ambiental, apoiar movimentos indígenas, pressionar autoridades, combater desinformação e mobilizar sociedade civil para ação.",
+        "Saber ajuda a entender ameaças contemporâneas, desenvolver estratégias de resistência, promover justiça social, proteger biodiversidade e garantir direitos territoriais ancestrais.",
+        "Existem para alertar sobre destruição em curso, mobilizar opinião pública, orientar políticas públicas, fortalecer organizações indígenas e criar alternativas econômicas sustentáveis."
+      ]
+    },
+    {
+      "intent": "quando_seculos_xix_xx",
+      "patterns": [
+        "quando aconteceram séculos xix-xx",
+        "qdo aconteceram séculos xix-xx",
+        "quando ocorreram séculos xix-xx",
+        "qdo ocorreram séculos xix-xx",
+        "quando começaram séculos xix-xx",
+        "qdo começaram séculos xix-xx",
+        "quando foram séculos xix-xx",
+        "qdo foram séculos xix-xx",
+        "quando iniciaram séculos xix-xx",
+        "qdo iniciaram séculos xix-xx"
+      ],
+      "responses": [
+        "Aconteceram entre 1800-1900 (século XIX) e 1900-2000 (século XX), marcados pelo ciclo da borracha (1870-1910), mineração intensiva, construção de infraestruturas e criação de áreas protegidas.",
+        "Ocorreram durante os séculos XIX e XX, destacando-se o boom da borracha no final do século XIX, desenvolvimento de estradas no século XX e primeiras políticas ambientais.",
+        "Começaram no século XIX com exploração da borracha, intensificaram-se no século XX com mineração e infraestruturas, culminando com primeiras áreas de conservação ambiental.",
+        "Foram nos períodos 1800-1900 e 1900-2000, caracterizados por ciclos econômicos exploratórios, modernização regional, conflitos sociais e surgimento da consciência conservacionista."
+      ]
+    },
+    {
+      "intent": "quando_problemas_atuais",
+      "patterns": [
+        "quando acontecem problemas atuais",
+        "qdo acontecem problemas atuais",
+        "quando ocorrem problemas atuais",
+        "qdo ocorrem problemas atuais",
+        "quando começaram problemas atuais",
+        "qdo começaram problemas atuais",
+        "quando surgiram problemas atuais",
+        "qdo surgiram problemas atuais",
+        "quando iniciaram problemas atuais",
+        "qdo iniciaram problemas atuais"
+      ],
+      "responses": [
+        "Acontecem atualmente no século XXI, intensificando-se desde os anos 2000 com mineração ilegal crescente, conflitos armados persistentes na Colômbia e aceleração do desmatamento.",
+        "Ocorrem hoje em dia, agravando-se nas últimas décadas com garimpo ilegal massivo, violência de grupos criminosos, destruição florestal sistemática e poluição de rios.",
+        "Começaram décadas atrás mas intensificaram-se recentemente com pressão econômica global, enfraquecimento de fiscalização, expansão de atividades ilegais e mudanças climáticas.",
+        "Surgiram ao longo do tempo mas tornaram-se críticos no presente século com narcotráfico consolidado, mineração clandestina generalizada e políticas ambientais inadequadas."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_seculos_xix_xx",
+      "patterns": [
+        "quantos séculos xix-xx existem",
+        "qtos séculos xix-xx existem",
+        "quantas fases dos séculos xix-xx",
+        "qtas fases dos séculos xix-xx",
+        "quantos períodos dos séculos xix-xx",
+        "qtos períodos dos séculos xix-xx",
+        "quantas etapas dos séculos xix-xx",
+        "qtas etapas dos séculos xix-xx",
+        "quantos eventos dos séculos xix-xx",
+        "qtos eventos dos séculos xix-xx"
+      ],
+      "responses": [
+        "Existem múltiplas fases: início da exploração da borracha (século XIX), boom econômico da borracha (1870-1910), mineração intensiva (século XX), construção de infraestruturas e criação de áreas protegidas.",
+        "Há diversos períodos: exploração inicial de recursos, ciclo da borracha, desenvolvimento de transportes, conflitos fundiários, urbanização regional e primeiras políticas de conservação ambiental.",
+        "Incluem várias etapas: descoberta de seringais, exploração massiva da borracha, declínio do ciclo gomífero, mineração aurífera, abertura de estradas e estabelecimento de reservas florestais.",
+        "Envolvem diferentes momentos: transformações econômicas, modernização forçada, migração populacional, resistência indígena, desenvolvimento de infraestruturas e surgimento da consciência ecológica."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_problemas_atuais",
+      "patterns": [
+        "quantos problemas atuais existem",
+        "qtos problemas atuais existem",
+        "quantas formas de problemas atuais",
+        "qtas formas de problemas atuais",
+        "quantos tipos de problemas atuais",
+        "qtos tipos de problemas atuais",
+        "quantas ameaças atuais",
+        "qtas ameaças atuais",
+        "quantos aspectos dos problemas atuais",
+        "qtos aspectos dos problemas atuais"
+      ],
+      "responses": [
+        "Existem múltiplos problemas: mineração ilegal com contaminação por mercúrio, conflitos armados especialmente na Colômbia, desmatamento acelerado e queimadas criminosas sistemáticas.",
+        "Há diversos tipos: garimpo clandestino poluidor, violência de narcotraficantes e paramilitares, desflorestamento industrial, invasão de territórios indígenas e degradação de ecossistemas aquáticos.",
+        "Incluem várias ameaças: exploração mineral predatória, guerrilhas e grupos armados, devastação florestal massiva, poluição química de rios e perda acelerada de biodiversidade.",
+        "Envolvem diferentes aspectos: crimes ambientais organizados, conflitos territoriais violentos, destruição de patrimônio natural, contaminação tóxica e violação de direitos indígenas fundamentais."
+      ]
+    },
+    {
+      "intent": "sera_que_seculos_xix_xx",
+      "patterns": [
+        "será que existiram séculos xix-xx",
+        "será q existiram séculos xix-xx",
+        "será que aconteceram séculos xix-xx",
+        "será q aconteceram séculos xix-xx",
+        "será que foram importantes séculos xix-xx",
+        "será q foram importantes séculos xix-xx",
+        "será que transformaram a amazônia",
+        "será q transformaram a amazônia",
+        "será que afetaram povos indígenas",
+        "será q afetaram povos indígenas"
+      ],
+      "responses": [
+        "Sim, definitivamente existiram e foram fundamentais: transformaram drasticamente a Amazônia através do ciclo da borracha, mineração, infraestruturas e criação de primeiras áreas de proteção ambiental.",
+        "Com certeza aconteceram e foram decisivos: marcaram modernização forçada da região, exploração massiva de recursos, conflitos sociais e início da consciência sobre conservação da floresta.",
+        "Certamente foram importantes e transformadores: incorporaram a Amazônia ao capitalismo mundial, causaram migração populacional massiva, resistência indígena e primeiras políticas ambientais.",
+        "Sim, afetaram profundamente povos indígenas: através de invasão territorial, exploração de recursos, conflitos fundiários, urbanização e posteriormente criação de áreas protegidas."
+      ]
+    },
+    {
+      "intent": "sera_que_problemas_atuais",
+      "patterns": [
+        "será que existem problemas atuais",
+        "será q existem problemas atuais",
+        "será que acontecem problemas atuais",
+        "será q acontecem problemas atuais",
+        "será que são graves problemas atuais",
+        "será q são graves problemas atuais",
+        "será que afetam povos indígenas",
+        "será q afetam povos indígenas",
+        "será que são reais problemas atuais",
+        "será q são reais problemas atuais"
+      ],
+      "responses": [
+        "Sim, definitivamente existem e são extremamente graves: mineração ilegal polui rios, conflitos armados matam pessoas, desmatamento destrói floresta e queimadas devastam territórios indígenas.",
+        "Com certeza acontecem e são críticos: garimpo contamina ecossistemas, narcotráfico financia violência, desflorestamento acelera e povos nativos sofrem invasões constantes de seus territórios.",
+        "Certamente são reais e urgentes: crimes ambientais se multiplicam, grupos armados controlam áreas, destruição florestal cresce e comunidades indígenas enfrentam ameaças diárias.",
+        "Sim, afetam gravemente povos indígenas: através de invasão territorial, contaminação de rios, violência armada, perda de biodiversidade e destruição de seus modos de vida tradicionais."
+      ]
+    }
+  ]
+}

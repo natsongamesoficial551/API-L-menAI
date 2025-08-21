@@ -1,0 +1,252 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_igapos",
+      "patterns": [
+        "o que são igapós",
+        "o que é igapó",
+        "me explica o que são igapós",
+        "igapós da amazônia",
+        "que são essas florestas alagadas",
+        "floresta inundada amazônia",
+        "águas pretas da amazônia",
+        "mata alagada",
+        "floresta submersa",
+        "árvores na água",
+        "como é uma floresta alagada",
+        "floresta que fica embaixo d'água",
+        "vegetação inundada",
+        "mata inundada amazônica",
+        "ecossistema aquático florestal",
+        "florestas que ficam na água",
+        "árvores dentro da água",
+        "mata que alaga",
+        "floresta embaixo d'água",
+        "igapó amazônico"
+      ],
+      "responses": [
+        "Igapós são florestas permanentemente alagadas por águas escuras e ácidas na Amazônia. As árvores crescem dentro da água, desenvolvendo raízes aéreas para respirar.",
+        "São áreas da floresta amazônica que ficam sempre embaixo d'água preta. As plantas se adaptaram para viver submersas, criando um ecossistema aquático único.",
+        "É um tipo de mata alagada onde as árvores crescem dentro de águas escuras e ácidas. Fica permanentemente inundado, diferente de outras áreas que só alagam na cheia.",
+        "Representa florestas submersas com águas pretas ricas em taninos. As plantas desenvolveram adaptações especiais para sobreviver sempre debaixo d'água."
+      ]
+    },
+    {
+      "intent": "onde_ficam_igapos",
+      "patterns": [
+        "onde ficam os igapós",
+        "onde tem floresta alagada",
+        "em que lugar tem igapó",
+        "onde posso ver igapós",
+        "localização dos igapós",
+        "onde existem florestas inundadas",
+        "que região tem mata alagada",
+        "onde encontro águas pretas",
+        "em que países tem igapós",
+        "onde fica essa floresta submersa",
+        "que lugar da amazônia tem isso",
+        "onde tem árvores na água",
+        "região dos igapós",
+        "onde ver floresta embaixo d'água",
+        "localização mata alagada",
+        "onde tem esse tipo de floresta",
+        "que área da amazônia",
+        "onde acontecem os igapós",
+        "território dos igapós",
+        "geografia dos igapós"
+      ],
+      "responses": [
+        "Ficam principalmente nas bacias dos rios de água preta como o Rio Negro, espalhados por Brasil, Colômbia, Peru, Equador e Venezuela na região amazônica.",
+        "Estão localizados em áreas baixas da Amazônia onde os rios de água escura transbordam permanentemente, criando florestas inundadas em vários países.",
+        "Se encontram nas margens de rios de água preta na Amazônia, especialmente na Colômbia (42% do território) e regiões similares dos países vizinhos.",
+        "Existem nas planícies alagáveis da Amazônia, principalmente onde há rios de águas escuras e ácidas que mantêm a floresta sempre submersa."
+      ]
+    },
+    {
+      "intent": "como_funcionam_igapos",
+      "patterns": [
+        "como funcionam os igapós",
+        "como as plantas vivem na água",
+        "como árvores crescem embaixo d'água",
+        "como sobrevivem na água",
+        "adaptação das plantas à água",
+        "como respiram as árvores na água",
+        "como se desenvolvem submersos",
+        "ciclo de vida no igapó",
+        "como as plantas se adaptaram",
+        "respiração das plantas aquáticas",
+        "como crescem na água preta",
+        "nutrição das plantas submersas",
+        "fotossíntese debaixo d'água",
+        "como sobrevivem sempre alagadas",
+        "adaptações para vida aquática",
+        "como funciona ecossistema alagado",
+        "processo de inundação permanente",
+        "mecanismos de sobrevivência",
+        "como as raízes funcionam na água",
+        "sistema radicular aquático"
+      ],
+      "responses": [
+        "As plantas desenvolveram raízes aéreas que ficam acima da água para captar oxigênio. As folhas também se adaptaram para fazer fotossíntese mesmo submersas.",
+        "Funciona através de adaptações especiais: as árvores crescem raízes que sobem até a superfície da água para respirar, enquanto o tronco fica submerso.",
+        "As plantas criaram sistemas únicos de sobrevivência: raízes respiratórias aéreas, folhas resistentes à água ácida e capacidade de processar nutrientes da água preta.",
+        "Opera por meio de evolução adaptativa: a vegetação desenvolveu mecanismos para viver permanentemente alagada, com raízes especiais e metabolismo adaptado à água ácida."
+      ]
+    },
+    {
+      "intent": "importancia_igapos",
+      "patterns": [
+        "importância dos igapós",
+        "para que servem os igapós",
+        "benefícios das florestas alagadas",
+        "por que igapós são importantes",
+        "função dos igapós",
+        "papel ecológico dos igapós",
+        "utilidade das matas alagadas",
+        "vantagens dos igapós",
+        "contribuição dos igapós",
+        "valor dos ecossistemas alagados",
+        "significado ambiental dos igapós",
+        "relevância das florestas inundadas",
+        "impacto dos igapós",
+        "influência dos igapós no clima",
+        "serviços ambientais dos igapós",
+        "conservação dos igapós",
+        "proteção das florestas alagadas",
+        "preservação dos igapós",
+        "sustentabilidade dos igapós",
+        "ecologia dos igapós"
+      ],
+      "responses": [
+        "São importantes para regular o ciclo da água, servem como berçário para muitos peixes, filtram naturalmente a água e mantêm a biodiversidade aquática única.",
+        "Servem para controlar enchentes, abrigam espécies de peixes ornamentais, purificam a água naturalmente e conectam diferentes áreas da floresta através dos rios.",
+        "Beneficiam o meio ambiente controlando o fluxo de água, oferecendo habitat para animais aquáticos especializados e mantendo o equilíbrio dos ecossistemas amazônicos.",
+        "Contribuem para a estabilidade climática regional, preservam espécies únicas adaptadas à vida aquática e funcionam como filtros naturais para os rios amazônicos."
+      ]
+    },
+    {
+      "intent": "animais_igapos",
+      "patterns": [
+        "que animais vivem nos igapós",
+        "fauna dos igapós",
+        "bichos das florestas alagadas",
+        "peixes dos igapós",
+        "animais aquáticos dos igapós",
+        "vida animal nos igapós",
+        "espécies dos igapós",
+        "biodiversidade dos igapós",
+        "animais que vivem na água preta",
+        "peixes de água preta",
+        "aves dos igapós",
+        "mamíferos dos igapós",
+        "répteis dos igapós",
+        "insetos dos igapós",
+        "vida selvagem igapós",
+        "animais nativos dos igapós",
+        "ecossistema animal dos igapós",
+        "cadeia alimentar dos igapós",
+        "espécies endêmicas dos igapós",
+        "animais típicos da mata alagada"
+      ],
+      "responses": [
+        "Vivem muitos peixes ornamentais como neon, cardinal e acará-disco, além de botos, preguiças, aves aquáticas e diversos tipos de insetos adaptados à água preta.",
+        "Incluem peixes coloridos de aquário, jacarés, aves como garças e martim-pescadores, macacos que se deslocam pelas copas das árvores e anfíbios únicos.",
+        "Habitam espécies como peixe-boi, tartarugas aquáticas, peixes ornamentais diversos, aves pescadoras e mamíferos que navegam entre as árvores submersas.",
+        "Abrigam fauna especializada: peixes de água ácida, botos cor-de-rosa, aves aquáticas migratórias, preguiças e diversos invertebrados adaptados ao ambiente alagado."
+      ]
+    },
+    {
+      "intent": "aguas_pretas_igapos",
+      "patterns": [
+        "por que a água é preta",
+        "água preta dos igapós",
+        "cor da água dos igapós",
+        "por que água escura",
+        "água ácida dos igapós",
+        "composição da água preta",
+        "características da água dos igapós",
+        "taninos na água",
+        "água escura amazônica",
+        "química da água dos igapós",
+        "propriedades da água preta",
+        "origem da cor escura",
+        "formação da água preta",
+        "qualidade da água dos igapós",
+        "acidez da água dos igapós",
+        "transparência da água preta",
+        "nutrientes da água dos igapós",
+        "ph da água dos igapós",
+        "minerais na água preta",
+        "filtração natural da água"
+      ],
+      "responses": [
+        "A água fica preta devido aos taninos liberados pela decomposição lenta de folhas e galhos. É como um chá natural muito concentrado que deixa a água escura e ácida.",
+        "Fica escura por causa das substâncias orgânicas que se dissolvem na água quando as plantas se decompoem lentamente no ambiente alagado, criando uma cor de chá forte.",
+        "A cor preta vem dos taninos - mesma substância que deixa o chá escuro. A decomposição da matéria orgânica na água libera esses compostos naturalmente.",
+        "É escura devido à alta concentração de matéria orgânica dissolvida. As folhas e galhos que apodrecem na água liberam substâncias que a deixam com cor de café."
+      ]
+    },
+    {
+      "intent": "diferenca_varzea_igapo",
+      "patterns": [
+        "diferença entre várzea e igapó",
+        "igapó vs várzea",
+        "várzea ou igapó",
+        "tipos de floresta alagada",
+        "diferença mata alagada",
+        "várzea e igapó diferenças",
+        "como distinguir várzea igapó",
+        "características várzea igapó",
+        "várzea x igapó",
+        "comparação várzea igapó",
+        "o que diferencia várzea de igapó",
+        "distinção entre ecossistemas alagados",
+        "tipos de alagamento amazônico",
+        "classificação florestas inundadas",
+        "diferenças ecológicas várzea igapó",
+        "água branca vs água preta",
+        "inundação sazonal vs permanente",
+        "solo várzea vs solo igapó",
+        "nutrientes várzea igapó",
+        "biodiversidade várzea igapó"
+      ],
+      "responses": [
+        "Igapó tem água preta e fica alagado o ano todo, enquanto várzea tem água barrenta e só alaga na época de cheia dos rios. O solo também é diferente.",
+        "A diferença principal é: igapó é permanentemente alagado com água escura e ácida, várzea alaga sazonalmente com água barrenta rica em nutrientes.",
+        "Igapó fica sempre embaixo d'água preta e tem solo pobre, já a várzea alaga só na cheia com água clara/barrenta e tem solo muito fértil.",
+        "São dois tipos distintos: igapó com inundação permanente e água ácida escura, várzea com alagamento temporário e água rica em sedimentos e nutrientes."
+      ]
+    },
+    {
+      "intent": "turismo_igapos",
+      "patterns": [
+        "turismo nos igapós",
+        "visitar igapós",
+        "passeio nos igapós",
+        "ecoturismo igapós",
+        "como conhecer igapós",
+        "turismo floresta alagada",
+        "visitação aos igapós",
+        "trilha nos igapós",
+        "navegação nos igapós",
+        "tour pelos igapós",
+        "roteiro turístico igapós",
+        "onde fazer turismo igapós",
+        "agências turismo igapós",
+        "hospedagem próximo igapós",
+        "melhor época visitar igapós",
+        "atividades turísticas igapós",
+        "guias turísticos igapós",
+        "barcos para igapós",
+        "canoa nos igapós",
+        "pesca nos igapós"
+      ],
+      "responses": [
+        "O turismo nos igapós é feito principalmente de barco ou canoa, especialmente na região do Rio Negro. É possível fazer passeios para observar a vida aquática e a floresta submersa.",
+        "Pode-se visitar através de ecoturismo com guias locais, navegando entre as árvores submersas para observar peixes, aves e a paisagem única das florestas alagadas.",
+        "O acesso é por embarcações pequenas que permitem navegar entre as árvores. É uma experiência única para ver como a natureza se adaptou à vida aquática.",
+        "Oferece experiências de turismo ecológico navegando pela floresta inundada, observação da fauna aquática, pesca esportiva e contemplação da paisagem única."
+      ]
+    }
+  ]
+}

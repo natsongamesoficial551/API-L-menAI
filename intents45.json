@@ -1,0 +1,269 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_obliquo_que",
+      "patterns": [
+        "o que são pronomes pessoais do caso oblíquo", "o que é pronome pessoal do caso oblíquo", "o que significa pronome pessoal caso oblíquo", "o que quer dizer pronome pessoal caso oblíquo",
+        "que negócio é esse de pronome pessoal caso oblíquo", "que história é essa de pronome caso oblíquo", "que parada são pronomes pessoais caso oblíquo",
+        "que coisa são pronomes caso oblíquo mesmo", "que diabos são pronomes pessoais caso oblíquo", "que raios são pronomes caso oblíquo",
+        "afinal o que são pronomes pessoais caso oblíquo", "mas o que são pronomes caso oblíquo", "então o que são pronomes pessoais caso oblíquo",
+        "cara o que são pronomes caso oblíquo", "mano o que são pronomes pessoais caso oblíquo", "véi o que são pronomes caso oblíquo",
+        "me explica o que são pronomes pessoais caso oblíquo", "me conta o que são pronomes caso oblíquo", "me fala o que são pronomes pessoais caso oblíquo",
+        "explica aí o que são pronomes caso oblíquo", "conta aí o que são pronomes pessoais caso oblíquo", "fala aí o que são pronomes caso oblíquo",
+        "qual é a dos pronomes pessoais caso oblíquo", "qual é a história dos pronomes caso oblíquo", "qual é a parada dos pronomes pessoais caso oblíquo",
+        "como assim pronomes pessoais caso oblíquo", "tipo assim o que são pronomes caso oblíquo", "quer dizer o que são pronomes pessoais caso oblíquo",
+        "pô o que são pronomes caso oblíquo", "poxa o que são pronomes pessoais caso oblíquo", "caramba o que são pronomes caso oblíquo",
+        "nossa o que são pronomes pessoais caso oblíquo", "eita o que são pronomes caso oblíquo", "opa o que são pronomes pessoais caso oblíquo",
+        "rapaz o que são pronomes caso oblíquo", "cara de pau o que são pronomes pessoais caso oblíquo", "sem brincadeira o que são pronomes caso oblíquo",
+        "de verdade o que são pronomes pessoais caso oblíquo", "sério mesmo o que são pronomes caso oblíquo", "real o que são pronomes pessoais caso oblíquo",
+        "na moral o que são pronomes caso oblíquo", "na boa o que são pronomes pessoais caso oblíquo", "numa boa o que são pronomes caso oblíquo",
+        "tá mas o que são pronomes pessoais caso oblíquo", "ok mas o que são pronomes caso oblíquo", "beleza mas o que são pronomes pessoais caso oblíquo",
+        "hmm o que são pronomes caso oblíquo", "bom o que são pronomes pessoais caso oblíquo", "enfim o que são pronomes caso oblíquo",
+        "resumindo o que são pronomes pessoais caso oblíquo", "basicamente o que são pronomes caso oblíquo", "fundamentalmente o que são pronomes pessoais caso oblíquo",
+        "professor o que são pronomes caso oblíquo", "mestre o que são pronomes pessoais caso oblíquo", "doutor o que são pronomes caso oblíquo",
+        "gente o que são pronomes pessoais caso oblíquo", "pessoal o que são pronomes caso oblíquo", "galera o que são pronomes pessoais caso oblíquo",
+        "oxe o que são pronomes caso oblíquo", "uai o que são pronomes pessoais caso oblíquo", "ué o que são pronomes caso oblíquo",
+        "bah o que são pronomes pessoais caso oblíquo", "tche o que são pronomes caso oblíquo", "capaz o que são pronomes pessoais caso oblíquo",
+        "caraca o que são pronomes caso oblíquo", "puts o que são pronomes pessoais caso oblíquo", "putz o que são pronomes caso oblíquo",
+        
+        "oq são pronomes pessoais caso oblíquo", "oq são pronomes caso oblíquo", "oque são pronomes pessoais caso oblíquo", "oque são pronomes caso oblíquo",
+        "q são pronomes pessoais caso oblíquo", "q são pronomes caso oblíquo", "que são pronomes caso oblíquo",
+        "pronomes pessoais caso oblíquo são oq", "pronomes caso oblíquo são oq", "pronomes pessoais caso oblíquo oq são", "pronomes caso oblíquo oq são",
+        "pronomes pessoais caso oblíquo são q", "pronomes caso oblíquo são q", "pronomes pessoais caso oblíquo q são", "pronomes caso oblíquo q são",
+        "eh pronomes pessoais caso oblíquo", "é pronomes caso oblíquo msm", "eh pronomes caso oblíquo msm", "é pronomes pessoais caso oblíquo memo",
+        "q eh pronomes pessoais caso oblíquo", "q eh pronomes caso oblíquo", "que eh pronomes pessoais caso oblíquo", "que eh pronomes caso oblíquo",
+        "oq significa pronomes pessoais caso oblíquo", "oque significa pronomes caso oblíquo", "q significa pronomes pessoais caso oblíquo", "q significa pronomes caso oblíquo",
+        "oq quer dizer pronomes pessoais caso oblíquo", "q quer dizer pronomes caso oblíquo", "oque quer dizer pronomes pessoais caso oblíquo", "q quer dizer pronomes caso oblíquo",
+        "me explica oq são pronomes pessoais caso oblíquo", "me fala oq são pronomes caso oblíquo", "me conta oq são pronomes pessoais caso oblíquo",
+        "explica oq são pronomes caso oblíquo", "fala oq são pronomes pessoais caso oblíquo", "conta oq são pronomes caso oblíquo",
+        "cara oq são pronomes pessoais caso oblíquo", "mano oq são pronomes caso oblíquo", "vei oq são pronomes pessoais caso oblíquo",
+        "bicho oq são pronomes caso oblíquo", "rapaz oq são pronomes pessoais caso oblíquo", "gente oq são pronomes caso oblíquo",
+        "po oq são pronomes pessoais caso oblíquo", "pô oq são pronomes caso oblíquo", "poxa oq são pronomes pessoais caso oblíquo",
+        "caramba oq são pronomes caso oblíquo", "caraca oq são pronomes pessoais caso oblíquo", "nossa oq são pronomes caso oblíquo",
+        "eita oq são pronomes pessoais caso oblíquo", "opa oq são pronomes caso oblíquo", "uai oq são pronomes pessoais caso oblíquo",
+        "oxe oq são pronomes caso oblíquo", "ué oq são pronomes pessoais caso oblíquo", "bah oq são pronomes caso oblíquo",
+        "na moral oq são pronomes pessoais caso oblíquo", "na boa oq são pronomes caso oblíquo", "de boa oq são pronomes pessoais caso oblíquo",
+        "sério oq são pronomes caso oblíquo", "real oq são pronomes pessoais caso oblíquo", "tipo oq são pronomes caso oblíquo",
+        "então oq são pronomes pessoais caso oblíquo", "ent oq são pronomes caso oblíquo", "mas oq são pronomes pessoais caso oblíquo",
+        "tá mas oq são pronomes caso oblíquo", "ta mas oq são pronomes pessoais caso oblíquo", "ok mas oq são pronomes caso oblíquo",
+        "beleza mas oq são pronomes pessoais caso oblíquo", "blz mas oq são pronomes caso oblíquo", "bom oq são pronomes pessoais caso oblíquo",
+        "enfim oq são pronomes caso oblíquo", "resumindo oq são pronomes pessoais caso oblíquo", "basicamente oq são pronomes caso oblíquo",
+        "professor oq são pronomes pessoais caso oblíquo", "prof oq são pronomes caso oblíquo", "mestre oq são pronomes pessoais caso oblíquo",
+        "pessoal oq são pronomes caso oblíquo", "galera oq são pronomes pessoais caso oblíquo", "turma oq são pronomes caso oblíquo",
+        "nego oq são pronomes pessoais caso oblíquo", "povo oq são pronomes caso oblíquo", "geral oq são pronomes pessoais caso oblíquo",
+        "alguém sabe oq são pronomes caso oblíquo", "ngm sabe oq são pronomes pessoais caso oblíquo", "ninguém sabe oq são pronomes caso oblíquo",
+        "vc sabe oq são pronomes pessoais caso oblíquo", "você sabe oq são pronomes caso oblíquo", "tu sabe oq são pronomes pessoais caso oblíquo",
+        "cê sabe oq são pronomes caso oblíquo", "vocês sabem oq são pronomes pessoais caso oblíquo", "vcs sabem oq são pronomes caso oblíquo",
+        "quem sabe oq são pronomes pessoais caso oblíquo", "qm sabe oq são pronomes caso oblíquo", "qual é dos pronomes pessoais caso oblíquo",
+        "qual a dos pronomes caso oblíquo", "qual eh a dos pronomes pessoais caso oblíquo", "qual é a parada dos pronomes caso oblíquo",
+        "qual a parada dos pronomes pessoais caso oblíquo", "qual eh o conceito de pronomes caso oblíquo",
+        "qual é o conceito de pronomes pessoais caso oblíquo", "qual o conceito de pronomes caso oblíquo",
+        "define pronomes pessoais caso oblíquo", "define pronomes caso oblíquo aí", "define pronomes pessoais caso oblíquo pra mim",
+        "conceito de pronomes caso oblíquo", "conceito pronomes pessoais caso oblíquo", "significado pronomes caso oblíquo",
+        "explicação de pronomes pessoais caso oblíquo", "explicação pronomes caso oblíquo", "definição pronomes pessoais caso oblíquo",
+        "os pronomes pessoais caso oblíquo são oq", "os pronomes caso oblíquo oq são", "esses pronomes pessoais caso oblíquo são oq",
+        "essa parada de pronomes caso oblíquo é oq", "esse negócio de pronomes pessoais caso oblíquo é oq", "essa coisa de pronomes caso oblíquo é oq",
+        
+        "me mim te ti lhe o a se si nos vos lhes os as", "me mim comigo te ti contigo lhe o a se si consigo",
+        "nos conosco vos convosco lhes os as", "quais são me mim te ti", "quais são lhe o a se si",
+        "lista pronomes caso oblíquo", "lista pronomes pessoais caso oblíquo", "todos pronomes caso oblíquo",
+        "todos pronomes pessoais caso oblíquo", "exemplos pronomes caso oblíquo", "exemplos pronomes pessoais caso oblíquo"
+      ],
+      "responses": [
+        "Pronomes pessoais do caso oblíquo são: me, mim, comigo, te, ti, contigo, lhe, o, a, se, si, consigo, nos, conosco, vos, convosco, lhes, os, as. Eles substituem nomes e funcionam como complemento do verbo.",
+        "São palavras que substituem as pessoas do discurso funcionando como objeto direto ou indireto: me, mim (1ª pessoa singular), te, ti (2ª pessoa), lhe, o/a (3ª pessoa), nos (1ª pessoa plural), vos (2ª pessoa plural), lhes, os/as (3ª pessoa plural)."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_obliquo_quem",
+      "patterns": [
+        "quem usa pronomes pessoais caso oblíquo", "quem precisa de pronomes caso oblíquo", "quem estuda pronomes pessoais caso oblíquo",
+        "quem ensina pronomes caso oblíquo", "quem aprende pronomes pessoais caso oblíquo", "quem sabe pronomes caso oblíquo",
+        "quem entende pronomes pessoais caso oblíquo", "quem domina pronomes caso oblíquo", "quem manja pronomes pessoais caso oblíquo",
+        "quem curte pronomes caso oblíquo", "quem gosta de pronomes pessoais caso oblíquo", "quem ama pronomes caso oblíquo",
+        "quem odeia pronomes pessoais caso oblíquo", "quem detesta pronomes caso oblíquo", "quem tem dificuldade com pronomes pessoais caso oblíquo",
+        "quem se enrola com pronomes caso oblíquo", "quem tem facilidade com pronomes pessoais caso oblíquo", "quem pega rápido pronomes caso oblíquo",
+        "quem se confunde com pronomes pessoais caso oblíquo", "quem erra pronomes caso oblíquo", "quem acerta pronomes pessoais caso oblíquo",
+        "quem decora pronomes caso oblíquo", "quem memoriza pronomes pessoais caso oblíquo", "quem esquece pronomes caso oblíquo",
+        "todo mundo usa pronomes pessoais caso oblíquo", "qualquer um precisa pronomes caso oblíquo", "geral usa pronomes pessoais caso oblíquo",
+        
+        "qm usa pronomes pessoais caso oblíquo", "qm precisa pronomes caso oblíquo", "qm estuda pronomes pessoais caso oblíquo", "qm ensina pronomes caso oblíquo",
+        "qm aprende pronomes pessoais caso oblíquo", "qm sabe pronomes caso oblíquo", "qm entende pronomes pessoais caso oblíquo", "qm domina pronomes caso oblíquo",
+        "qm manja pronomes pessoais caso oblíquo", "qm curte pronomes caso oblíquo", "qm gosta pronomes pessoais caso oblíquo", "qm ama pronomes caso oblíquo",
+        "qm odeia pronomes pessoais caso oblíquo", "qm detesta pronomes caso oblíquo", "qm tem dificuldade pronomes pessoais caso oblíquo",
+        "qm se enrola pronomes caso oblíquo", "qm tem facilidade pronomes pessoais caso oblíquo", "qm pega rápido pronomes caso oblíquo",
+        "qm se confunde pronomes pessoais caso oblíquo", "qm erra pronomes caso oblíquo", "qm acerta pronomes pessoais caso oblíquo",
+        "qm decora pronomes caso oblíquo", "qm memoriza pronomes pessoais caso oblíquo", "qm esquece pronomes caso oblíquo",
+        "td mundo usa pronomes pessoais caso oblíquo", "todo mundo usa pronomes caso oblíquo", "qq um precisa pronomes pessoais caso oblíquo",
+        "qualquer um precisa pronomes caso oblíquo", "geral usa pronomes pessoais caso oblíquo", "nego usa pronomes caso oblíquo",
+        "o povo usa pronomes pessoais caso oblíquo", "a galera usa pronomes caso oblíquo", "turma usa pronomes pessoais caso oblíquo",
+        "pessoal usa pronomes caso oblíquo", "molecada usa pronomes pessoais caso oblíquo", "gurizada usa pronomes caso oblíquo",
+        "rapaziada usa pronomes pessoais caso oblíquo", "cambada usa pronomes caso oblíquo", "corja usa pronomes pessoais caso oblíquo",
+        "eu uso pronomes caso oblíquo", "vc usa pronomes pessoais caso oblíquo", "você usa pronomes caso oblíquo", "tu usa pronomes pessoais caso oblíquo",
+        "cê usa pronomes caso oblíquo", "ele usa pronomes pessoais caso oblíquo", "ela usa pronomes caso oblíquo", "nós usamos pronomes pessoais caso oblíquo",
+        "vcs usam pronomes caso oblíquo", "vocês usam pronomes pessoais caso oblíquo", "eles usam pronomes caso oblíquo", "elas usam pronomes pessoais caso oblíquo",
+        "brasileiro usa pronomes caso oblíquo", "br usa pronomes pessoais caso oblíquo", "gringo usa pronomes caso oblíquo",
+        "português usa pronomes pessoais caso oblíquo", "pt usa pronomes caso oblíquo", "professor usa pronomes pessoais caso oblíquo",
+        "prof usa pronomes caso oblíquo", "aluno usa pronomes pessoais caso oblíquo", "estudante usa pronomes caso oblíquo",
+        "criança usa pronomes pessoais caso oblíquo", "adulto usa pronomes caso oblíquo", "velho usa pronomes pessoais caso oblíquo",
+        "jovem usa pronomes caso oblíquo", "adolescente usa pronomes pessoais caso oblíquo", "teen usa pronomes caso oblíquo",
+        "menino usa pronomes pessoais caso oblíquo", "menina usa pronomes caso oblíquo", "moleque usa pronomes pessoais caso oblíquo"
+      ],
+      "responses": [
+        "Toda pessoa que fala português usa pronomes pessoais do caso oblíquo para complementar verbos e se referir indiretamente às pessoas.",
+        "Qualquer um que queira se comunicar em português precisa conhecer estes pronomes para formar frases corretas."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_obliquo_onde",
+      "patterns": [
+        "onde ficam os pronomes pessoais caso oblíquo", "onde tão os pronomes caso oblíquo", "onde aparecem os pronomes pessoais caso oblíquo",
+        "onde encontra pronomes caso oblíquo", "onde usa pronomes pessoais caso oblíquo", "onde aplica pronomes caso oblíquo",
+        "onde estuda pronomes pessoais caso oblíquo", "onde aprende pronomes caso oblíquo", "onde ensina pronomes pessoais caso oblíquo",
+        "onde vê pronomes caso oblíquo", "onde acha pronomes pessoais caso oblíquo", "onde localiza pronomes caso oblíquo",
+        "onde identifica pronomes pessoais caso oblíquo", "onde reconhece pronomes caso oblíquo", "onde percebe pronomes pessoais caso oblíquo",
+        "onde nota pronomes caso oblíquo", "onde observa pronomes pessoais caso oblíquo", "onde moram pronomes caso oblíquo",
+        "de onde vêm pronomes pessoais caso oblíquo", "pra onde vão pronomes caso oblíquo", "por onde passam pronomes pessoais caso oblíquo",
+        "em que lugar ficam pronomes caso oblíquo", "em qual posição tão pronomes pessoais caso oblíquo", "em que parte aparecem pronomes caso oblíquo",
+        "na frase onde ficam pronomes pessoais caso oblíquo", "na oração onde tão pronomes caso oblíquo", "no texto onde aparecem pronomes pessoais caso oblíquo",
+        "no livro onde encontra pronomes caso oblíquo", "na escola onde ensina pronomes pessoais caso oblíquo", "em casa onde pratica pronomes caso oblíquo",
+        
+        "aonde ficam pronomes pessoais caso oblíquo", "aonde ta pronomes caso oblíquo", "aonde tá pronomes pessoais caso oblíquo", "aonde aparecem pronomes caso oblíquo",
+        "aonde encontra pronomes pessoais caso oblíquo", "aonde usa pronomes caso oblíquo", "aonde aplica pronomes pessoais caso oblíquo",
+        "kd os pronomes pessoais caso oblíquo", "cadê os pronomes caso oblíquo", "kd pronomes pessoais caso oblíquo", "cadê pronomes caso oblíquo",
+        "onde q ficam pronomes caso oblíquo", "onde q ta pronomes pessoais caso oblíquo", "onde q tá pronomes caso oblíquo",
+        "onde q aparecem pronomes pessoais caso oblíquo", "onde q encontra pronomes caso oblíquo", "onde q usa pronomes pessoais caso oblíquo",
+        "aonde q ficam pronomes caso oblíquo", "aonde q ta pronomes pessoais caso oblíquo", "aonde q tá pronomes caso oblíquo",
+        "aonde q aparecem pronomes pessoais caso oblíquo", "aonde q encontra pronomes caso oblíquo", "aonde q usa pronomes pessoais caso oblíquo",
+        "em q lugar ficam pronomes caso oblíquo", "em q posição ta pronomes pessoais caso oblíquo", "em q parte aparecem pronomes caso oblíquo",
+        "na frase aonde ficam pronomes pessoais caso oblíquo", "na oração aonde ta pronomes caso oblíquo", "no texto aonde aparecem pronomes pessoais caso oblíquo",
+        "no livro aonde encontra pronomes caso oblíquo", "na escola aonde ensina pronomes pessoais caso oblíquo", "em casa aonde pratica pronomes caso oblíquo",
+        "depois do verbo pronomes pessoais caso oblíquo", "antes do verbo pronomes caso oblíquo", "junto com verbo pronomes pessoais caso oblíquo",
+        "como objeto direto pronomes caso oblíquo", "como objeto indireto pronomes pessoais caso oblíquo", "funcionando como complemento pronomes caso oblíquo"
+      ],
+      "responses": [
+        "Os pronomes pessoais do caso oblíquo ficam na posição de objeto direto ou indireto, geralmente depois do verbo ou antes em próclise.",
+        "Aparecem em conversas, textos, livros e qualquer comunicação em português, sempre como complemento verbal."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_obliquo_cujo",
+      "patterns": [
+        "pronomes cuja função é importante", "palavras cujo nome são pronomes caso oblíquo", "classe cuja denominação são pronomes pessoais caso oblíquo",
+        "categoria cujo título são pronomes caso oblíquo", "elementos cujo papel são pronomes pessoais caso oblíquo", "componentes cuja função são pronomes caso oblíquo",
+        "termos cujo significado são pronomes pessoais caso oblíquo", "vocábulos cujo conceito são pronomes caso oblíquo", "expressões cujo valor são pronomes pessoais caso oblíquo",
+        "matéria cujo conteúdo são pronomes caso oblíquo", "disciplina cujo foco são pronomes pessoais caso oblíquo", "assunto cujo tema são pronomes caso oblíquo",
+        "livro cujo título menciona pronomes pessoais caso oblíquo", "texto cujo assunto trata pronomes caso oblíquo", "aula cuja matéria ensina pronomes pessoais caso oblíquo",
+        "curso cujo programa inclui pronomes caso oblíquo", "professor cujo expertise são pronomes pessoais caso oblíquo", "aluno cuja dúvida envolve pronomes caso oblíquo",
+        "pessoa cujo interesse são pronomes pessoais caso oblíquo", "sistema cujo funcionamento usa pronomes caso oblíquo", "método cujo processo emprega pronomes pessoais caso oblíquo",
+        "língua cuja base são pronomes caso oblíquo", "idioma cujos pilares incluem pronomes pessoais caso oblíquo", "comunicação cuja essência tem pronomes caso oblíquo",
+        "frase cuja estrutura precisa pronomes pessoais caso oblíquo", "oração cujo objeto são pronomes caso oblíquo", "gramática cujas regras governam pronomes pessoais caso oblíquo"
+      ],
+      "responses": [
+        "Os pronomes pessoais do caso oblíquo são palavras cuja função principal é substituir nomes e exercer papel de complemento verbal.",
+        "São termos cujas características indicam pessoa do discurso funcionando como objeto direto ou indireto na comunicação."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_obliquo_qual",
+      "patterns": [
+        "quais são os pronomes pessoais caso oblíquo", "qual pronome caso oblíquo usar", "qual pronome pessoal caso oblíquo escolher",
+        "qual tipo de pronomes caso oblíquo", "qual categoria de pronomes pessoais caso oblíquo", "qual classe de pronomes caso oblíquo",
+        "qual função dos pronomes pessoais caso oblíquo", "qual papel dos pronomes caso oblíquo", "qual importância dos pronomes pessoais caso oblíquo",
+        "qual diferença entre pronomes caso oblíquo", "qual melhor pronome pessoal caso oblíquo", "qual mais usado pronomes caso oblíquo",
+        "qual mais comum pronomes pessoais caso oblíquo", "qual mais importante pronomes caso oblíquo", "qual exemplo de pronomes pessoais caso oblíquo",
+        "qual conceito de pronomes caso oblíquo", "qual definição de pronomes pessoais caso oblíquo", "qual explicação de pronomes caso oblíquo",
+        "em qual situação usar pronomes pessoais caso oblíquo", "para qual ocasião servem pronomes caso oblíquo", "em qual momento aplicar pronomes pessoais caso oblíquo",
+        "qual maneira de usar pronomes caso oblíquo", "qual jeito de aplicar pronomes pessoais caso oblíquo", "qual forma de empregar pronomes caso oblíquo",
+        "qual pronome serve pra primeira pessoa", "qual pronome é pra segunda pessoa", "qual pronome é pra terceira pessoa",
+        
+        "q são os pronomes pessoais caso oblíquo", "q pronome caso oblíquo usar", "q pronome pessoal caso oblíquo escolher", "q tipo pronomes caso oblíquo",
+        "q categoria pronomes pessoais caso oblíquo", "q classe pronomes caso oblíquo", "q função dos pronomes pessoais caso oblíquo", "q papel pronomes caso oblíquo",
+        "q importância pronomes pessoais caso oblíquo", "q diferença pronomes caso oblíquo", "q melhor pronome pessoal caso oblíquo",
+        "q mais usado pronomes caso oblíquo", "q mais comum pronomes pessoais caso oblíquo", "q exemplo pronomes caso oblíquo", "q conceito pronomes pessoais caso oblíquo",
+        "q definição pronomes caso oblíquo", "q explicação pronomes pessoais caso oblíquo", "em q situação usar pronomes caso oblíquo",
+        "pra q ocasião servem pronomes pessoais caso oblíquo", "em q momento aplicar pronomes caso oblíquo", "q maneira usar pronomes pessoais caso oblíquo",
+        "q jeito aplicar pronomes caso oblíquo", "q forma empregar pronomes pessoais caso oblíquo", "q pronome serve pra primeira pessoa",
+        "q pronome eh pra segunda pessoa", "q pronome é pra terceira pessoa", "quais eh os pronomes pessoais caso oblíquo",
+        "quais eh pronomes caso oblíquo", "qual eh tipo pronomes pessoais caso oblíquo", "qual eh categoria pronomes caso oblíquo",
+        "qual eh classe pronomes pessoais caso oblíquo", "qual eh função pronomes caso oblíquo", "qual eh papel pronomes pessoais caso oblíquo",
+        "lista completa pronomes caso oblíquo", "todos pronomes pessoais caso oblíquo", "pronomes caso oblíquo completos",
+        "me mim te ti lhe quais mais", "o a se si nos quais outros", "primeira pessoa qual pronome", "segunda pessoa qual pronome", "terceira pessoa qual pronome"
+      ],
+      "responses": [
+        "Os pronomes pessoais do caso oblíquo são: ME/MIM/COMIGO (1ª pessoa singular), TE/TI/CONTIGO (2ª pessoa singular), LHE/O/A/SE/SI/CONSIGO (3ª pessoa singular), NOS/CONOSCO (1ª pessoa plural), VOS/CONVOSCO (2ª pessoa plural), LHES/OS/AS (3ª pessoa plural).",
+        "Use ME/MIM para você mesmo como objeto, TE/TI para quem está ouvindo, LHE/O/A para quem não está presente, e suas formas plurais para grupos."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_obliquo_quanto",
+      "patterns": [
+        "quantos pronomes pessoais caso oblíquo existem", "quantos pronomes caso oblíquo têm no português", "quantas formas de pronomes pessoais caso oblíquo",
+        "quanto tempo pra aprender pronomes caso oblíquo", "quanto demora pra entender pronomes pessoais caso oblíquo", "quanto leva pra dominar pronomes caso oblíquo",
+        "quantas horas estudando pronomes pessoais caso oblíquo", "quantos dias com pronomes caso oblíquo", "quantas semanas praticando pronomes pessoais caso oblíquo",
+        "quantas pessoas sabem pronomes caso oblíquo", "quantos alunos estudam pronomes pessoais caso oblíquo", "quantos professores ensinam pronomes caso oblíquo",
+        "quantos tipos de pronomes pessoais caso oblíquo", "quantas classificações de pronomes caso oblíquo", "quantos pronomes numa frase",
+        "quantos pronomes pessoais caso oblíquo por parágrafo", "quantos pronomes caso oblíquo no texto", "quanto representa os pronomes pessoais caso oblíquo",
+        "quantas vezes usa pronomes caso oblíquo por dia", "quantas variações de pronomes pessoais caso oblíquo", "quantas pessoas gramaticais existem",
+        
+        "qts pronomes pessoais caso oblíquo existem", "qtos pronomes caso oblíquo existem", "qts pronomes pessoais caso oblíquo tem português",
+        "qtos pronomes caso oblíquo tem português", "qtas formas pronomes pessoais caso oblíquo", "qto tempo pra aprender pronomes caso oblíquo",
+        "qto demora entender pronomes pessoais caso oblíquo", "qto leva dominar pronomes caso oblíquo", "qtas horas estudando pronomes pessoais caso oblíquo",
+        "qtos dias com pronomes caso oblíquo", "qtas semanas praticando pronomes pessoais caso oblíquo", "qtas pessoas sabem pronomes caso oblíquo",
+        "qtos alunos estudam pronomes pessoais caso oblíquo", "qtos professores ensinam pronomes caso oblíquo", "qtos tipos pronomes pessoais caso oblíquo",
+        "qtas classificações pronomes caso oblíquo", "qtos pronomes numa frase", "qtos pronomes pessoais caso oblíquo parágrafo",
+        "qtos pronomes caso oblíquo texto", "qto representa pronomes pessoais caso oblíquo", "qtas vezes usa pronomes caso oblíquo dia",
+        "qtas variações pronomes pessoais caso oblíquo", "qtas pessoas gramaticais existem", "quantos eh pronomes pessoais caso oblíquo existem",
+        "quantas eh formas pronomes caso oblíquo", "quanto eh tempo aprender pronomes pessoais caso oblíquo", "quantas eh pessoas sabem pronomes caso oblíquo",
+        "quantos eh tipos pronomes pessoais caso oblíquo", "são quantos pronomes caso oblíquo", "tem quantos pronomes pessoais caso oblíquo",
+        "existem quantos pronomes caso oblíquo", "ao todo quantos pronomes pessoais caso oblíquo", "no total quantos pronomes caso oblíquo"
+      ],
+      "responses": [
+        "São 19 pronomes pessoais do caso oblíquo: me, mim, comigo, te, ti, contigo, lhe, o, a, se, si, consigo, nos, conosco, vos, convosco, lhes, os, as. Representam as 3 pessoas do discurso em diferentes formas.",
+        "Existem formas átonas (me, te, lhe, se, nos, vos, lhes, o, a, os, as) e tônicas (mim, ti, si, comigo, contigo, consigo, conosco, convosco), totalizando 19 pronomes."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_obliquo_como",
+      "patterns": [
+        "como funcionam os pronomes pessoais caso oblíquo", "como usar pronomes caso oblíquo", "como aplicar pronomes pessoais caso oblíquo",
+        "como estudar pronomes caso oblíquo", "como aprender pronomes pessoais caso oblíquo", "como entender pronomes caso oblíquo",
+        "como dominar pronomes pessoais caso oblíquo", "como ensinar pronomes caso oblíquo", "como explicar pronomes pessoais caso oblíquo",
+        "como identificar pronomes caso oblíquo", "como reconhecer pronomes pessoais caso oblíquo", "como achar pronomes caso oblíquo",
+        "como encontrar pronomes pessoais caso oblíquo", "como memorizar pronomes caso oblíquo", "como decorar pronomes pessoais caso oblíquo",
+        "como praticar pronomes caso oblíquo", "como melhorar nos pronomes pessoais caso oblíquo", "como classificar pronomes caso oblíquo",
+        "como analisar pronomes pessoais caso oblíquo", "como corrigir pronomes caso oblíquo", "como evitar erro em pronomes pessoais caso oblíquo",
+        "como não errar pronomes caso oblíquo", "como acertar pronomes pessoais caso oblíquo", "como usar certo pronomes caso oblíquo",
+        "de que forma usar pronomes pessoais caso oblíquo", "de que maneira aplicar pronomes caso oblíquo", "de que jeito utilizar pronomes pessoais caso oblíquo",
+        
+        "cm funcionam pronomes pessoais caso oblíquo", "cm usar pronomes caso oblíquo", "cm aplicar pronomes pessoais caso oblíquo", "cm estudar pronomes caso oblíquo",
+        "cm aprender pronomes pessoais caso oblíquo", "cm entender pronomes caso oblíquo", "cm dominar pronomes pessoais caso oblíquo", "cm ensinar pronomes caso oblíquo",
+        "cm explicar pronomes pessoais caso oblíquo", "cm identificar pronomes caso oblíquo", "cm reconhecer pronomes pessoais caso oblíquo", "cm achar pronomes caso oblíquo",
+        "cm encontrar pronomes pessoais caso oblíquo", "cm memorizar pronomes caso oblíquo", "cm decorar pronomes pessoais caso oblíquo", "cm praticar pronomes caso oblíquo",
+        "cm melhorar pronomes pessoais caso oblíquo", "cm classificar pronomes caso oblíquo", "cm analisar pronomes pessoais caso oblíquo", "cm corrigir pronomes caso oblíquo",
+        "cm evitar erro pronomes pessoais caso oblíquo", "cm não errar pronomes caso oblíquo", "cm acertar pronomes pessoais caso oblíquo", "cm usar certo pronomes caso oblíquo",
+        "de q forma usar pronomes pessoais caso oblíquo", "de q maneira aplicar pronomes caso oblíquo", "de q jeito utilizar pronomes pessoais caso oblíquo",
+        "como eh funcionam pronomes caso oblíquo", "como eh usar pronomes pessoais caso oblíquo", "como eh aplicar pronomes caso oblíquo",
+        "como eh estudar pronomes pessoais caso oblíquo", "como eh aprender pronomes caso oblíquo", "como eh entender pronomes pessoais caso oblíquo",
+        "como q funcionam pronomes caso oblíquo", "como q usar pronomes pessoais caso oblíquo", "como q aplicar pronomes caso oblíquo",
+        "como q estudar pronomes pessoais caso oblíquo", "como q aprender pronomes caso oblíquo", "como q entender pronomes pessoais caso oblíquo",
+        "como faz pra usar pronomes caso oblíquo", "como faz pra aprender pronomes pessoais caso oblíquo", "como faz pra entender pronomes caso oblíquo",
+        "como faz pra dominar pronomes pessoais caso oblíquo", "cm faz pra usar pronomes caso oblíquo", "cm faz pra aprender pronomes pessoais caso oblíquo",
+        "cm faz pra entender pronomes caso oblíquo", "cm faz pra dominar pronomes pessoais caso oblíquo", "como é que funcionam pronomes caso oblíquo",
+        "como é q funcionam pronomes pessoais caso oblíquo", "como eh q funcionam pronomes caso oblíquo", "cm eh que funcionam pronomes pessoais caso oblíquo",
+        "cm é que funcionam pronomes caso oblíquo", "cm é q funcionam pronomes pessoais caso oblíquo", "como diabos funcionam pronomes caso oblíquo",
+        "cm diabos funcionam pronomes pessoais caso oblíquo", "como raios usar pronomes caso oblíquo", "cm raios usar pronomes pessoais caso oblíquo",
+        "como assim pronomes caso oblíquo", "cm assim pronomes pessoais caso oblíquo", "como é isso de pronomes caso oblíquo",
+        "cm é isso de pronomes pessoais caso oblíquo", "como que são pronomes caso oblíquo", "cm que são pronomes pessoais caso oblíquo",
+        "como mexer com pronomes caso oblíquo", "cm mexer com pronomes pessoais caso oblíquo", "como lidar com pronomes caso oblíquo",
+        "cm lidar com pronomes pessoais caso oblíquo", "como se virar com pronomes caso oblíquo", "cm se virar com pronomes pessoais caso oblíquo",
+        "quando usar me", "quando usar te", "quando usar lhe", "quando usar o", "quando usar a", "quando usar nos", "quando usar vos", "quando usar lhes",
+        "quando usar mim", "quando usar ti", "quando usar si", "cm saber qual pronome usar", "como saber qual pronome pessoal caso oblíquo usar"
+      ],
+      "responses": [
+        "Os pronomes pessoais do caso oblíquo funcionam como complemento verbal: Ele ME viu, Eu TE conheço, Nós O chamamos. Podem vir antes (próclise) ou depois (ênclise) do verbo.",
+        "Use ME/MIM quando você for o objeto da ação, TE/TI para quem escuta, LHE/O/A para terceira pessoa, e as formas plurais para grupos. Atenção: MIM, TI, SI sempre com preposição."
+      ]
+    }
+  ]
+}

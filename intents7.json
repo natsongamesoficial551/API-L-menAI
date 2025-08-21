@@ -1,0 +1,494 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_huaorani",
+      "patterns": [
+        "o que é huaorani",
+        "o que são huaorani", 
+        "oq é huaorani",
+        "oq são huaorani",
+        "o que seria huaorani",
+        "o que seriam huaorani",
+        "oq seria huaorani",
+        "oq seriam huaorani",
+        "o que significa huaorani",
+        "oq significa huaorani",
+        "o que representa huaorani",
+        "oq representa huaorani",
+        "defina huaorani",
+        "define huaorani",
+        "conceito de huaorani",
+        "huaorani definição",
+        "definição dos huaorani",
+        "significado de huaorani",
+        "me explique o que é huaorani",
+        "me explica oq é huaorani",
+        "explique o que são huaorani",
+        "explica oq são huaorani"
+      ],
+      "responses": [
+        "Os Huaorani são um povo originário da Amazônia que habita o Equador, vivendo da caça, pesca e coleta, mantendo cultura própria e espiritualidade ligada à natureza.",
+        "Huaorani representa uma etnia indígena ancestral da região amazônica equatoriana, grupo que preserva tradições milenares baseadas em práticas sustentáveis e conexão espiritual com a floresta.",
+        "São um povo nativo amazônico localizado no Equador, que mantém cultura tradicional, espiritualidade natural e sobrevive através da caça, pesca e coleta sustentável.",
+        "Os Huaorani significam uma comunidade étnica originária que habita territórios amazônicos equatorianos, preservando saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "o_que_e_waorani",
+      "patterns": [
+        "o que é waorani",
+        "o que são waorani", 
+        "oq é waorani",
+        "oq são waorani",
+        "o que seria waorani",
+        "o que seriam waorani",
+        "oq seria waorani",
+        "oq seriam waorani",
+        "o que significa waorani",
+        "oq significa waorani",
+        "o que representa waorani",
+        "oq representa waorani",
+        "defina waorani",
+        "define waorani",
+        "conceito de waorani",
+        "waorani definição",
+        "definição dos waorani",
+        "significado de waorani",
+        "me explique o que é waorani",
+        "me explica oq é waorani",
+        "explique o que são waorani",
+        "explica oq são waorani"
+      ],
+      "responses": [
+        "Os Waorani são um povo originário da Amazônia que habita o Equador, vivendo da caça, pesca e coleta, mantendo cultura própria e espiritualidade ligada à natureza.",
+        "Waorani representa uma etnia indígena ancestral da região amazônica equatoriana, grupo que preserva tradições milenares baseadas em práticas sustentáveis e conexão espiritual com a floresta.",
+        "São um povo nativo amazônico localizado no Equador, que mantém cultura tradicional, espiritualidade natural e sobrevive através da caça, pesca e coleta sustentável.",
+        "Os Waorani significam uma comunidade étnica originária que habita territórios amazônicos equatorianos, preservando saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "quais_huaorani",
+      "patterns": [
+        "quais são os huaorani",
+        "quais características dos huaorani",
+        "quais são as características dos huaorani",
+        "quais tradições dos huaorani",
+        "quais são as tradições dos huaorani",
+        "quais culturas dos huaorani",
+        "quais são as culturas dos huaorani",
+        "quais costumes dos huaorani",
+        "quais são os costumes dos huaorani",
+        "quais práticas dos huaorani",
+        "quais são as práticas dos huaorani",
+        "quais atividades dos huaorani",
+        "quais são as atividades dos huaorani"
+      ],
+      "responses": [
+        "Os Huaorani são povos originários do Equador amazônico que vivem da caça, pesca e coleta, mantendo tradições ancestrais, cultura própria e espiritualidade ligada à natureza.",
+        "As características dos Huaorani incluem serem habitantes ancestrais da Amazônia equatoriana, praticarem caça sustentável, pesca, coleta e manterem conexão espiritual com a floresta.",
+        "Os Huaorani possuem tradições milenares baseadas em práticas sustentáveis, cultura própria, espiritualidade natural e modos de vida integrados ao ambiente amazônico equatoriano.",
+        "São caracterizados por serem guardiões de saberes ancestrais, praticantes de caça tradicional, pesca e coleta, mantendo culturas únicas na região amazônica do Equador."
+      ]
+    },
+    {
+      "intent": "quais_waorani",
+      "patterns": [
+        "quais são os waorani",
+        "quais características dos waorani",
+        "quais são as características dos waorani",
+        "quais tradições dos waorani",
+        "quais são as tradições dos waorani",
+        "quais culturas dos waorani",
+        "quais são as culturas dos waorani",
+        "quais costumes dos waorani",
+        "quais são os costumes dos waorani",
+        "quais práticas dos waorani",
+        "quais são as práticas dos waorani",
+        "quais atividades dos waorani",
+        "quais são as atividades dos waorani"
+      ],
+      "responses": [
+        "Os Waorani são povos originários do Equador amazônico que vivem da caça, pesca e coleta, mantendo tradições ancestrais, cultura própria e espiritualidade ligada à natureza.",
+        "As características dos Waorani incluem serem habitantes ancestrais da Amazônia equatoriana, praticarem caça sustentável, pesca, coleta e manterem conexão espiritual com a floresta.",
+        "Os Waorani possuem tradições milenares baseadas em práticas sustentáveis, cultura própria, espiritualidade natural e modos de vida integrados ao ambiente amazônico equatoriano.",
+        "São caracterizados por serem guardiões de saberes ancestrais, praticantes de caça tradicional, pesca e coleta, mantendo culturas únicas na região amazônica do Equador."
+      ]
+    },
+    {
+      "intent": "quem_huaorani",
+      "patterns": [
+        "quem são os huaorani",
+        "quem é o povo huaorani",
+        "quem representa os huaorani",
+        "quem são essas pessoas huaorani",
+        "quem vive como huaorani",
+        "quem habita com os huaorani",
+        "quem mora com os huaorani",
+        "quem convive com os huaorani",
+        "quem são os membros huaorani",
+        "quem faz parte dos huaorani",
+        "quem pertence aos huaorani",
+        "quem integra os huaorani"
+      ],
+      "responses": [
+        "Os Huaorani são um povo originário que habita a região amazônica do Equador, grupo étnico ancestral que vive da caça, pesca e coleta com cultura própria e espiritualidade natural.",
+        "São habitantes indígenas milenares da Amazônia equatoriana, comunidade que preserva tradições ancestrais, mantém práticas sustentáveis e conexão espiritual com a floresta.",
+        "Representam uma etnia nativa amazônica do Equador, pessoas que conservam saberes tradicionais, vivem de forma sustentável e mantêm espiritualidade ligada à natureza.",
+        "Os Huaorani são membros de uma comunidade ancestral que habita territórios amazônicos equatorianos, preservando culturas únicas e modos de vida integrados ao meio ambiente."
+      ]
+    },
+    {
+      "intent": "quem_waorani",
+      "patterns": [
+        "quem são os waorani",
+        "quem é o povo waorani",
+        "quem representa os waorani",
+        "quem são essas pessoas waorani",
+        "quem vive como waorani",
+        "quem habita com os waorani",
+        "quem mora com os waorani",
+        "quem convive com os waorani",
+        "quem são os membros waorani",
+        "quem faz parte dos waorani",
+        "quem pertence aos waorani",
+        "quem integra os waorani"
+      ],
+      "responses": [
+        "Os Waorani são um povo originário que habita a região amazônica do Equador, grupo étnico ancestral que vive da caça, pesca e coleta com cultura própria e espiritualidade natural.",
+        "São habitantes indígenas milenares da Amazônia equatoriana, comunidade que preserva tradições ancestrais, mantém práticas sustentáveis e conexão espiritual com a floresta.",
+        "Representam uma etnia nativa amazônica do Equador, pessoas que conservam saberes tradicionais, vivem de forma sustentável e mantêm espiritualidade ligada à natureza.",
+        "Os Waorani são membros de uma comunidade ancestral que habita territórios amazônicos equatorianos, preservando culturas únicas e modos de vida integrados ao meio ambiente."
+      ]
+    },
+    {
+      "intent": "onde_aonde_huaorani",
+      "patterns": [
+        "onde vivem os huaorani",
+        "onde ficam os huaorani",
+        "aonde ficam os huaorani",
+        "aonde vivem os huaorani",
+        "onde estão os huaorani",
+        "aonde estão os huaorani",
+        "onde se localizam os huaorani",
+        "onde habitam os huaorani",
+        "aonde habitam os huaorani",
+        "onde moram os huaorani",
+        "aonde moram os huaorani",
+        "localização dos huaorani",
+        "em que lugar ficam os huaorani",
+        "em q lugar ficam os huaorani",
+        "em que país vivem os huaorani",
+        "em q país vivem os huaorani",
+        "situação dos huaorani",
+        "posição dos huaorani"
+      ],
+      "responses": [
+        "Os Huaorani vivem na região amazônica do Equador, habitando territórios florestais tradicionais onde mantêm suas culturas ancestrais e espiritualidade ligada à natureza.",
+        "Localizam-se na Amazônia equatoriana, onde encontramos este povo originário preservando tradições milenares em suas terras tradicionais na floresta tropical.",
+        "Os Huaorani estão situados na parte amazônica do Equador, região onde habitam há milhares de anos mantendo culturas próprias e práticas sustentáveis.",
+        "Encontram-se nos territórios amazônicos equatorianos, área florestal onde este grupo étnico preserva saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "onde_aonde_waorani",
+      "patterns": [
+        "onde vivem os waorani",
+        "onde ficam os waorani",
+        "aonde ficam os waorani",
+        "aonde vivem os waorani",
+        "onde estão os waorani",
+        "aonde estão os waorani",
+        "onde se localizam os waorani",
+        "onde habitam os waorani",
+        "aonde habitam os waorani",
+        "onde moram os waorani",
+        "aonde moram os waorani",
+        "localização dos waorani",
+        "em que lugar ficam os waorani",
+        "em q lugar ficam os waorani",
+        "em que país vivem os waorani",
+        "em q país vivem os waorani",
+        "situação dos waorani",
+        "posição dos waorani"
+      ],
+      "responses": [
+        "Os Waorani vivem na região amazônica do Equador, habitando territórios florestais tradicionais onde mantêm suas culturas ancestrais e espiritualidade ligada à natureza.",
+        "Localizam-se na Amazônia equatoriana, onde encontramos este povo originário preservando tradições milenares em suas terras tradicionais na floresta tropical.",
+        "Os Waorani estão situados na parte amazônica do Equador, região onde habitam há milhares de anos mantendo culturas próprias e práticas sustentáveis.",
+        "Encontram-se nos territórios amazônicos equatorianos, área florestal onde este grupo étnico preserva saberes ancestrais e modos de vida integrados à natureza."
+      ]
+    },
+    {
+      "intent": "como_huaorani",
+      "patterns": [
+        "como vivem os huaorani",
+        "como são os huaorani",
+        "como é a vida dos huaorani",
+        "como é a cultura dos huaorani",
+        "como é a espiritualidade dos huaorani",
+        "como sobrevivem os huaorani",
+        "como se alimentam os huaorani",
+        "como trabalham os huaorani",
+        "como se organizam os huaorani",
+        "modo de vida dos huaorani",
+        "jeito dos huaorani",
+        "estilo dos huaorani",
+        "características dos huaorani",
+        "aspectos dos huaorani"
+      ],
+      "responses": [
+        "Os Huaorani vivem da caça, pesca e coleta na Amazônia equatoriana, mantendo cultura própria e espiritualidade ligada à natureza, preservando tradições ancestrais sustentáveis.",
+        "Vivem de forma tradicional através da caça, pesca ancestral e coleta de frutos, possuindo cultura única e espiritualidade profundamente conectada à floresta amazônica.",
+        "Mantêm modos de vida sustentáveis baseados na caça, pesca tradicional e coleta, desenvolvendo cultura própria e espiritualidade integrada ao ambiente natural equatoriano.",
+        "Sobrevivem através de práticas ancestrais como caça, pesca e coleta, organizando-se com cultura tradicional e espiritualidade natural, mantendo harmonia com a floresta."
+      ]
+    },
+    {
+      "intent": "como_waorani",
+      "patterns": [
+        "como vivem os waorani",
+        "como são os waorani",
+        "como é a vida dos waorani",
+        "como é a cultura dos waorani",
+        "como é a espiritualidade dos waorani",
+        "como sobrevivem os waorani",
+        "como se alimentam os waorani",
+        "como trabalham os waorani",
+        "como se organizam os waorani",
+        "modo de vida dos waorani",
+        "jeito dos waorani",
+        "estilo dos waorani",
+        "características dos waorani",
+        "aspectos dos waorani"
+      ],
+      "responses": [
+        "Os Waorani vivem da caça, pesca e coleta na Amazônia equatoriana, mantendo cultura própria e espiritualidade ligada à natureza, preservando tradições ancestrais sustentáveis.",
+        "Vivem de forma tradicional através da caça, pesca ancestral e coleta de frutos, possuindo cultura única e espiritualidade profundamente conectada à floresta amazônica.",
+        "Mantêm modos de vida sustentáveis baseados na caça, pesca tradicional e coleta, desenvolvendo cultura própria e espiritualidade integrada ao ambiente natural equatoriano.",
+        "Sobrevivem através de práticas ancestrais como caça, pesca e coleta, organizando-se com cultura tradicional e espiritualidade natural, mantendo harmonia com a floresta."
+      ]
+    },
+    {
+      "intent": "por_que_porque_huaorani",
+      "patterns": [
+        "por que preservar os huaorani",
+        "pq preservar os huaorani",
+        "por que são importantes os huaorani",
+        "pq são importantes os huaorani",
+        "porque proteger os huaorani",
+        "pq proteger os huaorani",
+        "por que existem os huaorani",
+        "pq existem os huaorani",
+        "por que estudar os huaorani",
+        "pq estudar os huaorani",
+        "porque valorizar os huaorani",
+        "pq valorizar os huaorani",
+        "por que respeitar os huaorani",
+        "pq respeitar os huaorani"
+      ],
+      "responses": [
+        "É importante preservar os Huaorani porque mantêm conhecimentos ancestrais amazônicos, cultura única, espiritualidade natural e práticas sustentáveis que protegem a floresta equatoriana há milênios.",
+        "São fundamentais pois preservam sabedoria tradicional sobre a Amazônia, biodiversidade e medicina natural, sendo guardiões da floresta equatoriana com culturas milenares.",
+        "Sua importância decorre da preservação de cultura ancestral, conhecimentos sobre plantas medicinais, práticas sustentáveis e espiritualidade que mantém equilíbrio ambiental.",
+        "São essenciais porque representam diversidade cultural, saberes ancestrais amazônicos, técnicas sustentáveis de sobrevivência e conexão espiritual que beneficia toda humanidade."
+      ]
+    },
+    {
+      "intent": "por_que_porque_waorani",
+      "patterns": [
+        "por que preservar os waorani",
+        "pq preservar os waorani",
+        "por que são importantes os waorani",
+        "pq são importantes os waorani",
+        "porque proteger os waorani",
+        "pq proteger os waorani",
+        "por que existem os waorani",
+        "pq existem os waorani",
+        "por que estudar os waorani",
+        "pq estudar os waorani",
+        "porque valorizar os waorani",
+        "pq valorizar os waorani",
+        "por que respeitar os waorani",
+        "pq respeitar os waorani"
+      ],
+      "responses": [
+        "É importante preservar os Waorani porque mantêm conhecimentos ancestrais amazônicos, cultura única, espiritualidade natural e práticas sustentáveis que protegem a floresta equatoriana há milênios.",
+        "São fundamentais pois preservam sabedoria tradicional sobre a Amazônia, biodiversidade e medicina natural, sendo guardiões da floresta equatoriana com culturas milenares.",
+        "Sua importância decorre da preservação de cultura ancestral, conhecimentos sobre plantas medicinais, práticas sustentáveis e espiritualidade que mantém equilíbrio ambiental.",
+        "São essenciais porque representam diversidade cultural, saberes ancestrais amazônicos, técnicas sustentáveis de sobrevivência e conexão espiritual que beneficia toda humanidade."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_huaorani",
+      "patterns": [
+        "para que servem os huaorani",
+        "pra que servem os huaorani",
+        "para que existem os huaorani",
+        "pra que existem os huaorani",
+        "para que proteger os huaorani",
+        "pra que proteger os huaorani",
+        "para que preservar os huaorani",
+        "pra que preservar os huaorani",
+        "para que estudar os huaorani",
+        "pra que estudar os huaorani"
+      ],
+      "responses": [
+        "Os Huaorani servem para preservar conhecimentos ancestrais amazônicos, manter cultura tradicional equatoriana, proteger a floresta através de práticas sustentáveis e conservar espiritualidade natural.",
+        "Existem para manter viva sabedoria milenar sobre a Amazônia, preservar biodiversidade, ensinar sustentabilidade e manter conexão espiritual com meio ambiente.",
+        "Servem como guardiões da floresta amazônica equatoriana, preservadores de conhecimentos sobre plantas medicinais, mantenedores de cultura única e exemplos de vida sustentável.",
+        "Sua função é conservar tradições ancestrais, proteger territórios florestais, manter conhecimentos sobre biodiversidade e demonstrar formas harmônicas de viver na natureza."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_waorani",
+      "patterns": [
+        "para que servem os waorani",
+        "pra que servem os waorani",
+        "para que existem os waorani",
+        "pra que existem os waorani",
+        "para que proteger os waorani",
+        "pra que proteger os waorani",
+        "para que preservar os waorani",
+        "pra que preservar os waorani",
+        "para que estudar os waorani",
+        "pra que estudar os waorani"
+      ],
+      "responses": [
+        "Os Waorani servem para preservar conhecimentos ancestrais amazônicos, manter cultura tradicional equatoriana, proteger a floresta através de práticas sustentáveis e conservar espiritualidade natural.",
+        "Existem para manter viva sabedoria milenar sobre a Amazônia, preservar biodiversidade, ensinar sustentabilidade e manter conexão espiritual com meio ambiente.",
+        "Servem como guardiões da floresta amazônica equatoriana, preservadores de conhecimentos sobre plantas medicinais, mantenedores de cultura única e exemplos de vida sustentável.",
+        "Sua função é conservar tradições ancestrais, proteger territórios florestais, manter conhecimentos sobre biodiversidade e demonstrar formas harmônicas de viver na natureza."
+      ]
+    },
+    {
+      "intent": "quando_huaorani",
+      "patterns": [
+        "quando surgiram os huaorani",
+        "qdo surgiram os huaorani",
+        "quando chegaram os huaorani",
+        "qdo chegaram os huaorani",
+        "quando existem os huaorani",
+        "qdo existem os huaorani",
+        "quando se formaram os huaorani",
+        "qdo se formaram os huaorani",
+        "quando apareceram os huaorani",
+        "qdo apareceram os huaorani"
+      ],
+      "responses": [
+        "Os Huaorani existem há milhares de anos na Amazônia equatoriana, sendo habitantes ancestrais que vivem na região há milênios, mantendo tradições e cultura própria.",
+        "Surgiram há milhares de anos como povos originários da floresta amazônica, sendo os primeiros habitantes da região equatoriana com história milenar.",
+        "Existem desde tempos imemoriais na Amazônia, muito antes da chegada dos europeus, preservando culturas e conhecimentos ancestrais há milhares de anos.",
+        "Formaram-se ao longo de milhares de anos como habitantes nativos amazônicos, desenvolvendo cultura própria e espiritualidade ligada à floresta desde épocas remotas."
+      ]
+    },
+    {
+      "intent": "quando_waorani",
+      "patterns": [
+        "quando surgiram os waorani",
+        "qdo surgiram os waorani",
+        "quando chegaram os waorani",
+        "qdo chegaram os waorani",
+        "quando existem os waorani",
+        "qdo existem os waorani",
+        "quando se formaram os waorani",
+        "qdo se formaram os waorani",
+        "quando apareceram os waorani",
+        "qdo apareceram os waorani"
+      ],
+      "responses": [
+        "Os Waorani existem há milhares de anos na Amazônia equatoriana, sendo habitantes ancestrais que vivem na região há milênios, mantendo tradições e cultura própria.",
+        "Surgiram há milhares de anos como povos originários da floresta amazônica, sendo os primeiros habitantes da região equatoriana com história milenar.",
+        "Existem desde tempos imemoriais na Amazônia, muito antes da chegada dos europeus, preservando culturas e conhecimentos ancestrais há milhares de anos.",
+        "Formaram-se ao longo de milhares de anos como habitantes nativos amazônicos, desenvolvendo cultura própria e espiritualidade ligada à floresta desde épocas remotas."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_huaorani",
+      "patterns": [
+        "quantos huaorani existem",
+        "qtos huaorani existem",
+        "quantas pessoas huaorani tem",
+        "qtas pessoas huaorani tem",
+        "quantos são os huaorani",
+        "qtos são os huaorani",
+        "quantas comunidades huaorani existem",
+        "qtas comunidades huaorani existem",
+        "quantas aldeias huaorani tem",
+        "qtas aldeias huaorani tem",
+        "quantos membros huaorani tem",
+        "qtos membros huaorani tem"
+      ],
+      "responses": [
+        "Os Huaorani formam várias comunidades e aldeias na região amazônica equatoriana, constituindo um dos povos originários significativos que mantêm cultura tradicional e espiritualidade natural.",
+        "Existem diversas comunidades Huaorani distribuídas pela Amazônia equatoriana, grupo étnico que se organiza em aldeias preservando tradições ancestrais e práticas sustentáveis.",
+        "São um povo originário com múltiplas comunidades na floresta amazônica equatoriana, mantendo população que preserva saberes tradicionais e conexão espiritual com natureza.",
+        "Os Huaorani constituem várias aldeias e comunidades na região, representando grupo étnico importante que conserva cultura própria e modos de vida sustentáveis amazônicos."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_waorani",
+      "patterns": [
+        "quantos waorani existem",
+        "qtos waorani existem",
+        "quantas pessoas waorani tem",
+        "qtas pessoas waorani tem",
+        "quantos são os waorani",
+        "qtos são os waorani",
+        "quantas comunidades waorani existem",
+        "qtas comunidades waorani existem",
+        "quantas aldeias waorani tem",
+        "qtas aldeias waorani tem",
+        "quantos membros waorani tem",
+        "qtos membros waorani tem"
+      ],
+      "responses": [
+        "Os Waorani formam várias comunidades e aldeias na região amazônica equatoriana, constituindo um dos povos originários significativos que mantêm cultura tradicional e espiritualidade natural.",
+        "Existem diversas comunidades Waorani distribuídas pela Amazônia equatoriana, grupo étnico que se organiza em aldeias preservando tradições ancestrais e práticas sustentáveis.",
+        "São um povo originário com múltiplas comunidades na floresta amazônica equatoriana, mantendo população que preserva saberes tradicionais e conexão espiritual com natureza.",
+        "Os Waorani constituem várias aldeias e comunidades na região, representando grupo étnico importante que conserva cultura própria e modos de vida sustentáveis amazônicos."
+      ]
+    },
+    {
+      "intent": "sera_que_huaorani",
+      "patterns": [
+        "será que existem os huaorani",
+        "será q existem os huaorani",
+        "será que os huaorani são importantes",
+        "será q os huaorani são importantes",
+        "será que preservam cultura os huaorani",
+        "será q preservam cultura os huaorani",
+        "será que vivem na amazonia os huaorani",
+        "será q vivem na amazonia os huaorani",
+        "será que são indígenas os huaorani",
+        "será q são indigenas os huaorani"
+      ],
+      "responses": [
+        "Sim, definitivamente existem os Huaorani na Amazônia equatoriana e são extremamente importantes: preservam conhecimentos ancestrais, mantêm cultura própria e espiritualidade natural.",
+        "Com certeza os Huaorani são reais e vitais: vivem da caça, pesca e coleta, conservam tradições milenares e são guardiões da floresta amazônica.",
+        "Certamente existem e preservam cultura única: mantêm saberes ancestrais, espiritualidade ligada à natureza e práticas sustentáveis na região equatoriana há milhares de anos.",
+        "Sim, são povos indígenas autênticos e fundamentais: conservam tradições únicas, conhecimentos sobre floresta e técnicas sustentáveis, sendo patrimônio cultural amazônico."
+      ]
+    },
+    {
+      "intent": "sera_que_waorani",
+      "patterns": [
+        "será que existem os waorani",
+        "será q existem os waorani",
+        "será que os waorani são importantes",
+        "será q os waorani são importantes",
+        "será que preservam cultura os waorani",
+        "será q preservam cultura os waorani",
+        "será que vivem na amazonia os waorani",
+        "será q vivem na amazonia os waorani",
+        "será que são indígenas os waorani",
+        "será q são indigenas os waorani"
+      ],
+      "responses": [
+        "Sim, definitivamente existem os Waorani na Amazônia equatoriana e são extremamente importantes: preservam conhecimentos ancestrais, mantêm cultura própria e espiritualidade natural.",
+        "Com certeza os Waorani são reais e vitais: vivem da caça, pesca e coleta, conservam tradições milenares e são guardiões da floresta amazônica.",
+        "Certamente existem e preservam cultura única: mantêm saberes ancestrais, espiritualidade ligada à natureza e práticas sustentáveis na região equatoriana há milhares de anos.",
+        "Sim, são povos indígenas autênticos e fundamentais: conservam tradições únicas, conhecimentos sobre floresta e técnicas sustentáveis, sendo patrimônio cultural amazônico."
+      ]
+    }
+  ]
+}

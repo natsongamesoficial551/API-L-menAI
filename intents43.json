@@ -1,0 +1,270 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_reto_que",
+      "patterns": [
+        "o que são pronomes pessoais do caso reto", "o que é pronome pessoal do caso reto", "o que significa pronome pessoal caso reto", "o que quer dizer pronome pessoal caso reto",
+        "que negócio é esse de pronome pessoal caso reto", "que história é essa de pronome caso reto", "que parada são pronomes pessoais caso reto",
+        "que coisa são pronomes caso reto mesmo", "que diabos são pronomes pessoais caso reto", "que raios são pronomes caso reto",
+        "afinal o que são pronomes pessoais caso reto", "mas o que são pronomes caso reto", "então o que são pronomes pessoais caso reto",
+        "cara o que são pronomes caso reto", "mano o que são pronomes pessoais caso reto", "véi o que são pronomes caso reto",
+        "me explica o que são pronomes pessoais caso reto", "me conta o que são pronomes caso reto", "me fala o que são pronomes pessoais caso reto",
+        "explica aí o que são pronomes caso reto", "conta aí o que são pronomes pessoais caso reto", "fala aí o que são pronomes caso reto",
+        "qual é a dos pronomes pessoais caso reto", "qual é a história dos pronomes caso reto", "qual é a parada dos pronomes pessoais caso reto",
+        "como assim pronomes pessoais caso reto", "tipo assim o que são pronomes caso reto", "quer dizer o que são pronomes pessoais caso reto",
+        "pô o que são pronomes caso reto", "poxa o que são pronomes pessoais caso reto", "caramba o que são pronomes caso reto",
+        "nossa o que são pronomes pessoais caso reto", "eita o que são pronomes caso reto", "opa o que são pronomes pessoais caso reto",
+        "rapaz o que são pronomes caso reto", "cara de pau o que são pronomes pessoais caso reto", "sem brincadeira o que são pronomes caso reto",
+        "de verdade o que são pronomes pessoais caso reto", "sério mesmo o que são pronomes caso reto", "real o que são pronomes pessoais caso reto",
+        "na moral o que são pronomes caso reto", "na boa o que são pronomes pessoais caso reto", "numa boa o que são pronomes caso reto",
+        "tá mas o que são pronomes pessoais caso reto", "ok mas o que são pronomes caso reto", "beleza mas o que são pronomes pessoais caso reto",
+        "hmm o que são pronomes caso reto", "bom o que são pronomes pessoais caso reto", "enfim o que são pronomes caso reto",
+        "resumindo o que são pronomes pessoais caso reto", "basicamente o que são pronomes caso reto", "fundamentalmente o que são pronomes pessoais caso reto",
+        "professor o que são pronomes caso reto", "mestre o que são pronomes pessoais caso reto", "doutor o que são pronomes caso reto",
+        "gente o que são pronomes pessoais caso reto", "pessoal o que são pronomes caso reto", "galera o que são pronomes pessoais caso reto",
+        "oxe o que são pronomes caso reto", "uai o que são pronomes pessoais caso reto", "ué o que são pronomes caso reto",
+        "bah o que são pronomes pessoais caso reto", "tche o que são pronomes caso reto", "capaz o que são pronomes pessoais caso reto",
+        "caraca o que são pronomes caso reto", "puts o que são pronomes pessoais caso reto", "putz o que são pronomes caso reto",
+        
+        "oq são pronomes pessoais caso reto", "oq são pronomes caso reto", "oque são pronomes pessoais caso reto", "oque são pronomes caso reto",
+        "q são pronomes pessoais caso reto", "q são pronomes caso reto", "que são pronomes caso reto",
+        "pronomes pessoais caso reto são oq", "pronomes caso reto são oq", "pronomes pessoais caso reto oq são", "pronomes caso reto oq são",
+        "pronomes pessoais caso reto são q", "pronomes caso reto são q", "pronomes pessoais caso reto q são", "pronomes caso reto q são",
+        "eh pronomes pessoais caso reto", "é pronomes caso reto msm", "eh pronomes caso reto msm", "é pronomes pessoais caso reto memo",
+        "q eh pronomes pessoais caso reto", "q eh pronomes caso reto", "que eh pronomes pessoais caso reto", "que eh pronomes caso reto",
+        "oq significa pronomes pessoais caso reto", "oque significa pronomes caso reto", "q significa pronomes pessoais caso reto", "q significa pronomes caso reto",
+        "oq quer dizer pronomes pessoais caso reto", "q quer dizer pronomes caso reto", "oque quer dizer pronomes pessoais caso reto", "q quer dizer pronomes caso reto",
+        "me explica oq são pronomes pessoais caso reto", "me fala oq são pronomes caso reto", "me conta oq são pronomes pessoais caso reto",
+        "explica oq são pronomes caso reto", "fala oq são pronomes pessoais caso reto", "conta oq são pronomes caso reto",
+        "cara oq são pronomes pessoais caso reto", "mano oq são pronomes caso reto", "vei oq são pronomes pessoais caso reto",
+        "bicho oq são pronomes caso reto", "rapaz oq são pronomes pessoais caso reto", "gente oq são pronomes caso reto",
+        "po oq são pronomes pessoais caso reto", "pô oq são pronomes caso reto", "poxa oq são pronomes pessoais caso reto",
+        "caramba oq são pronomes caso reto", "caraca oq são pronomes pessoais caso reto", "nossa oq são pronomes caso reto",
+        "eita oq são pronomes pessoais caso reto", "opa oq são pronomes caso reto", "uai oq são pronomes pessoais caso reto",
+        "oxe oq são pronomes caso reto", "ué oq são pronomes pessoais caso reto", "bah oq são pronomes caso reto",
+        "na moral oq são pronomes pessoais caso reto", "na boa oq são pronomes caso reto", "de boa oq são pronomes pessoais caso reto",
+        "sério oq são pronomes caso reto", "real oq são pronomes pessoais caso reto", "tipo oq são pronomes caso reto",
+        "então oq são pronomes pessoais caso reto", "ent oq são pronomes caso reto", "mas oq são pronomes pessoais caso reto",
+        "tá mas oq são pronomes caso reto", "ta mas oq são pronomes pessoais caso reto", "ok mas oq são pronomes caso reto",
+        "beleza mas oq são pronomes pessoais caso reto", "blz mas oq são pronomes caso reto", "bom oq são pronomes pessoais caso reto",
+        "enfim oq são pronomes caso reto", "resumindo oq são pronomes pessoais caso reto", "basicamente oq são pronomes caso reto",
+        "professor oq são pronomes pessoais caso reto", "prof oq são pronomes caso reto", "mestre oq são pronomes pessoais caso reto",
+        "pessoal oq são pronomes caso reto", "galera oq são pronomes pessoais caso reto", "turma oq são pronomes caso reto",
+        "nego oq são pronomes pessoais caso reto", "povo oq são pronomes caso reto", "geral oq são pronomes pessoais caso reto",
+        "alguém sabe oq são pronomes caso reto", "ngm sabe oq são pronomes pessoais caso reto", "ninguém sabe oq são pronomes caso reto",
+        "vc sabe oq são pronomes pessoais caso reto", "você sabe oq são pronomes caso reto", "tu sabe oq são pronomes pessoais caso reto",
+        "cê sabe oq são pronomes caso reto", "vocês sabem oq são pronomes pessoais caso reto", "vcs sabem oq são pronomes caso reto",
+        "quem sabe oq são pronomes pessoais caso reto", "qm sabe oq são pronomes caso reto", "qual é dos pronomes pessoais caso reto",
+        "qual a dos pronomes caso reto", "qual eh a dos pronomes pessoais caso reto", "qual é a parada dos pronomes caso reto",
+        "qual a parada dos pronomes pessoais caso reto", "qual eh o conceito de pronomes caso reto",
+        "qual é o conceito de pronomes pessoais caso reto", "qual o conceito de pronomes caso reto",
+        "define pronomes pessoais caso reto", "define pronomes caso reto aí", "define pronomes pessoais caso reto pra mim",
+        "conceito de pronomes caso reto", "conceito pronomes pessoais caso reto", "significado pronomes caso reto",
+        "explicação de pronomes pessoais caso reto", "explicação pronomes caso reto", "definição pronomes pessoais caso reto",
+        "os pronomes pessoais caso reto são oq", "os pronomes caso reto oq são", "esses pronomes pessoais caso reto são oq",
+        "essa parada de pronomes caso reto é oq", "esse negócio de pronomes pessoais caso reto é oq", "essa coisa de pronomes caso reto é oq",
+        
+        "eu tu ele nós vós eles", "eu você ele nós vocês eles", "eu tu ele ela nós vós eles elas",
+        "eu você ele ela nós vocês eles elas", "quais são eu tu ele", "quais são eu você ele",
+        "lista pronomes caso reto", "lista pronomes pessoais caso reto", "todos pronomes caso reto",
+        "todos pronomes pessoais caso reto", "exemplos pronomes caso reto", "exemplos pronomes pessoais caso reto"
+      ],
+      "responses": [
+        "Pronomes pessoais do caso reto são: eu, tu, ele, ela, nós, vós, eles, elas. Eles substituem os nomes e funcionam como sujeito da oração.",
+        "São palavras que substituem as pessoas do discurso: eu (1ª pessoa singular), tu/você (2ª pessoa), ele/ela (3ª pessoa), nós (1ª pessoa plural), vós/vocês (2ª pessoa plural), eles/elas (3ª pessoa plural)."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_reto_quem",
+      "patterns": [
+        "quem usa pronomes pessoais caso reto", "quem precisa de pronomes caso reto", "quem estuda pronomes pessoais caso reto",
+        "quem ensina pronomes caso reto", "quem aprende pronomes pessoais caso reto", "quem sabe pronomes caso reto",
+        "quem entende pronomes pessoais caso reto", "quem domina pronomes caso reto", "quem manja pronomes pessoais caso reto",
+        "quem curte pronomes caso reto", "quem gosta de pronomes pessoais caso reto", "quem ama pronomes caso reto",
+        "quem odeia pronomes pessoais caso reto", "quem detesta pronomes caso reto", "quem tem dificuldade com pronomes pessoais caso reto",
+        "quem se enrola com pronomes caso reto", "quem tem facilidade com pronomes pessoais caso reto", "quem pega rápido pronomes caso reto",
+        "quem se confunde com pronomes pessoais caso reto", "quem erra pronomes caso reto", "quem acerta pronomes pessoais caso reto",
+        "quem decora pronomes caso reto", "quem memoriza pronomes pessoais caso reto", "quem esquece pronomes caso reto",
+        "todo mundo usa pronomes pessoais caso reto", "qualquer um precisa pronomes caso reto", "geral usa pronomes pessoais caso reto",
+        
+        "qm usa pronomes pessoais caso reto", "qm precisa pronomes caso reto", "qm estuda pronomes pessoais caso reto", "qm ensina pronomes caso reto",
+        "qm aprende pronomes pessoais caso reto", "qm sabe pronomes caso reto", "qm entende pronomes pessoais caso reto", "qm domina pronomes caso reto",
+        "qm manja pronomes pessoais caso reto", "qm curte pronomes caso reto", "qm gosta pronomes pessoais caso reto", "qm ama pronomes caso reto",
+        "qm odeia pronomes pessoais caso reto", "qm detesta pronomes caso reto", "qm tem dificuldade pronomes pessoais caso reto",
+        "qm se enrola pronomes caso reto", "qm tem facilidade pronomes pessoais caso reto", "qm pega rápido pronomes caso reto",
+        "qm se confunde pronomes pessoais caso reto", "qm erra pronomes caso reto", "qm acerta pronomes pessoais caso reto",
+        "qm decora pronomes caso reto", "qm memoriza pronomes pessoais caso reto", "qm esquece pronomes caso reto",
+        "td mundo usa pronomes pessoais caso reto", "todo mundo usa pronomes caso reto", "qq um precisa pronomes pessoais caso reto",
+        "qualquer um precisa pronomes caso reto", "geral usa pronomes pessoais caso reto", "nego usa pronomes caso reto",
+        "o povo usa pronomes pessoais caso reto", "a galera usa pronomes caso reto", "turma usa pronomes pessoais caso reto",
+        "pessoal usa pronomes caso reto", "molecada usa pronomes pessoais caso reto", "gurizada usa pronomes caso reto",
+        "rapaziada usa pronomes pessoais caso reto", "cambada usa pronomes caso reto", "corja usa pronomes pessoais caso reto",
+        "eu uso pronomes caso reto", "vc usa pronomes pessoais caso reto", "você usa pronomes caso reto", "tu usa pronomes pessoais caso reto",
+        "cê usa pronomes caso reto", "ele usa pronomes pessoais caso reto", "ela usa pronomes caso reto", "nós usamos pronomes pessoais caso reto",
+        "vcs usam pronomes caso reto", "vocês usam pronomes pessoais caso reto", "eles usam pronomes caso reto", "elas usam pronomes pessoais caso reto",
+        "brasileiro usa pronomes caso reto", "br usa pronomes pessoais caso reto", "gringo usa pronomes caso reto",
+        "português usa pronomes pessoais caso reto", "pt usa pronomes caso reto", "professor usa pronomes pessoais caso reto",
+        "prof usa pronomes caso reto", "aluno usa pronomes pessoais caso reto", "estudante usa pronomes caso reto",
+        "criança usa pronomes pessoais caso reto", "adulto usa pronomes caso reto", "velho usa pronomes pessoais caso reto",
+        "jovem usa pronomes caso reto", "adolescente usa pronomes pessoais caso reto", "teen usa pronomes caso reto",
+        "menino usa pronomes pessoais caso reto", "menina usa pronomes caso reto", "moleque usa pronomes pessoais caso reto"
+      ],
+      "responses": [
+        "Toda pessoa que fala português usa pronomes pessoais do caso reto para se referir a si mesma e aos outros.",
+        "Qualquer um que queira se comunicar em português precisa conhecer estes pronomes básicos."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_reto_onde",
+      "patterns": [
+        "onde ficam os pronomes pessoais caso reto", "onde tão os pronomes caso reto", "onde aparecem os pronomes pessoais caso reto",
+        "onde encontra pronomes caso reto", "onde usa pronomes pessoais caso reto", "onde aplica pronomes caso reto",
+        "onde estuda pronomes pessoais caso reto", "onde aprende pronomes caso reto", "onde ensina pronomes pessoais caso reto",
+        "onde vê pronomes caso reto", "onde acha pronomes pessoais caso reto", "onde localiza pronomes caso reto",
+        "onde identifica pronomes pessoais caso reto", "onde reconhece pronomes caso reto", "onde percebe pronomes pessoais caso reto",
+        "onde nota pronomes caso reto", "onde observa pronomes pessoais caso reto", "onde moram pronomes caso reto",
+        "de onde vêm pronomes pessoais caso reto", "pra onde vão pronomes caso reto", "por onde passam pronomes pessoais caso reto",
+        "em que lugar ficam pronomes caso reto", "em qual posição tão pronomes pessoais caso reto", "em que parte aparecem pronomes caso reto",
+        "na frase onde ficam pronomes pessoais caso reto", "na oração onde tão pronomes caso reto", "no texto onde aparecem pronomes pessoais caso reto",
+        "no livro onde encontra pronomes caso reto", "na escola onde ensina pronomes pessoais caso reto", "em casa onde pratica pronomes caso reto",
+        
+        "aonde ficam pronomes pessoais caso reto", "aonde ta pronomes caso reto", "aonde tá pronomes pessoais caso reto", "aonde aparecem pronomes caso reto",
+        "aonde encontra pronomes pessoais caso reto", "aonde usa pronomes caso reto", "aonde aplica pronomes pessoais caso reto",
+        "kd os pronomes pessoais caso reto", "cadê os pronomes caso reto", "kd pronomes pessoais caso reto", "cadê pronomes caso reto",
+        "onde q ficam pronomes caso reto", "onde q ta pronomes pessoais caso reto", "onde q tá pronomes caso reto",
+        "onde q aparecem pronomes pessoais caso reto", "onde q encontra pronomes caso reto", "onde q usa pronomes pessoais caso reto",
+        "aonde q ficam pronomes caso reto", "aonde q ta pronomes pessoais caso reto", "aonde q tá pronomes caso reto",
+        "aonde q aparecem pronomes pessoais caso reto", "aonde q encontra pronomes caso reto", "aonde q usa pronomes pessoais caso reto",
+        "em q lugar ficam pronomes caso reto", "em q posição ta pronomes pessoais caso reto", "em q parte aparecem pronomes caso reto",
+        "na frase aonde ficam pronomes pessoais caso reto", "na oração aonde ta pronomes caso reto", "no texto aonde aparecem pronomes pessoais caso reto",
+        "no livro aonde encontra pronomes caso reto", "na escola aonde ensina pronomes pessoais caso reto", "em casa aonde pratica pronomes caso reto",
+        "no começo da frase pronomes pessoais caso reto", "no meio da frase pronomes caso reto", "no fim da frase pronomes pessoais caso reto",
+        "antes do verbo pronomes caso reto", "depois do verbo pronomes pessoais caso reto", "junto com verbo pronomes caso reto",
+        "como sujeito pronomes pessoais caso reto", "na posição de sujeito pronomes caso reto", "funcionando como sujeito pronomes pessoais caso reto"
+      ],
+      "responses": [
+        "Os pronomes pessoais do caso reto ficam na posição de sujeito da oração, geralmente antes do verbo.",
+        "Aparecem em conversas, textos, livros e qualquer comunicação em português, sempre como sujeito da frase."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_reto_cujo",
+      "patterns": [
+        "pronomes cuja função é importante", "palavras cujo nome são pronomes caso reto", "classe cuja denominação são pronomes pessoais caso reto",
+        "categoria cujo título são pronomes caso reto", "elementos cujo papel são pronomes pessoais caso reto", "componentes cuja função são pronomes caso reto",
+        "termos cujo significado são pronomes pessoais caso reto", "vocábulos cujo conceito são pronomes caso reto", "expressões cujo valor são pronomes pessoais caso reto",
+        "matéria cujo conteúdo são pronomes caso reto", "disciplina cujo foco são pronomes pessoais caso reto", "assunto cujo tema são pronomes caso reto",
+        "livro cujo título menciona pronomes pessoais caso reto", "texto cujo assunto trata pronomes caso reto", "aula cuja matéria ensina pronomes pessoais caso reto",
+        "curso cujo programa inclui pronomes caso reto", "professor cujo expertise são pronomes pessoais caso reto", "aluno cuja dúvida envolve pronomes caso reto",
+        "pessoa cujo interesse são pronomes pessoais caso reto", "sistema cujo funcionamento usa pronomes caso reto", "método cujo processo emprega pronomes pessoais caso reto",
+        "língua cuja base são pronomes caso reto", "idioma cujos pilares incluem pronomes pessoais caso reto", "comunicação cuja essência tem pronomes caso reto",
+        "frase cuja estrutura precisa pronomes pessoais caso reto", "oração cujo sujeito são pronomes caso reto", "gramática cujas regras governam pronomes pessoais caso reto"
+      ],
+      "responses": [
+        "Os pronomes pessoais do caso reto são palavras cuja função principal é substituir nomes e exercer papel de sujeito.",
+        "São termos cujas características indicam pessoa do discurso e número na comunicação."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_reto_qual",
+      "patterns": [
+        "quais são os pronomes pessoais caso reto", "qual pronome caso reto usar", "qual pronome pessoal caso reto escolher",
+        "qual tipo de pronomes caso reto", "qual categoria de pronomes pessoais caso reto", "qual classe de pronomes caso reto",
+        "qual função dos pronomes pessoais caso reto", "qual papel dos pronomes caso reto", "qual importância dos pronomes pessoais caso reto",
+        "qual diferença entre pronomes caso reto", "qual melhor pronome pessoal caso reto", "qual mais usado pronomes caso reto",
+        "qual mais comum pronomes pessoais caso reto", "qual mais importante pronomes caso reto", "qual exemplo de pronomes pessoais caso reto",
+        "qual conceito de pronomes caso reto", "qual definição de pronomes pessoais caso reto", "qual explicação de pronomes caso reto",
+        "em qual situação usar pronomes pessoais caso reto", "para qual ocasião servem pronomes caso reto", "em qual momento aplicar pronomes pessoais caso reto",
+        "qual maneira de usar pronomes caso reto", "qual jeito de aplicar pronomes pessoais caso reto", "qual forma de empregar pronomes caso reto",
+        "qual pronome serve pra primeira pessoa", "qual pronome é pra segunda pessoa", "qual pronome é pra terceira pessoa",
+        
+        "q são os pronomes pessoais caso reto", "q pronome caso reto usar", "q pronome pessoal caso reto escolher", "q tipo pronomes caso reto",
+        "q categoria pronomes pessoais caso reto", "q classe pronomes caso reto", "q função dos pronomes pessoais caso reto", "q papel pronomes caso reto",
+        "q importância pronomes pessoais caso reto", "q diferença pronomes caso reto", "q melhor pronome pessoal caso reto",
+        "q mais usado pronomes caso reto", "q mais comum pronomes pessoais caso reto", "q exemplo pronomes caso reto", "q conceito pronomes pessoais caso reto",
+        "q definição pronomes caso reto", "q explicação pronomes pessoais caso reto", "em q situação usar pronomes caso reto",
+        "pra q ocasião servem pronomes pessoais caso reto", "em q momento aplicar pronomes caso reto", "q maneira usar pronomes pessoais caso reto",
+        "q jeito aplicar pronomes caso reto", "q forma empregar pronomes pessoais caso reto", "q pronome serve pra primeira pessoa",
+        "q pronome eh pra segunda pessoa", "q pronome é pra terceira pessoa", "quais eh os pronomes pessoais caso reto",
+        "quais eh pronomes caso reto", "qual eh tipo pronomes pessoais caso reto", "qual eh categoria pronomes caso reto",
+        "qual eh classe pronomes pessoais caso reto", "qual eh função pronomes caso reto", "qual eh papel pronomes pessoais caso reto",
+        "lista completa pronomes caso reto", "todos pronomes pessoais caso reto", "pronomes caso reto completos",
+        "eu tu ele quais mais", "eu você ele quais outros", "primeira pessoa qual pronome", "segunda pessoa qual pronome", "terceira pessoa qual pronome"
+      ],
+      "responses": [
+        "Os pronomes pessoais do caso reto são: EU (1ª pessoa singular), TU/VOCÊ (2ª pessoa singular), ELE/ELA (3ª pessoa singular), NÓS (1ª pessoa plural), VÓS/VOCÊS (2ª pessoa plural), ELES/ELAS (3ª pessoa plural).",
+        "Use EU para se referir a você mesmo, TU/VOCÊ para quem está ouvindo, ELE/ELA para quem não está na conversa, e suas formas plurais para grupos."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_reto_quanto",
+      "patterns": [
+        "quantos pronomes pessoais caso reto existem", "quantos pronomes caso reto têm no português", "quantas formas de pronomes pessoais caso reto",
+        "quanto tempo pra aprender pronomes caso reto", "quanto demora pra entender pronomes pessoais caso reto", "quanto leva pra dominar pronomes caso reto",
+        "quantas horas estudando pronomes pessoais caso reto", "quantos dias com pronomes caso reto", "quantas semanas praticando pronomes pessoais caso reto",
+        "quantas pessoas sabem pronomes caso reto", "quantos alunos estudam pronomes pessoais caso reto", "quantos professores ensinam pronomes caso reto",
+        "quantos tipos de pronomes pessoais caso reto", "quantas classificações de pronomes caso reto", "quantos pronomes numa frase",
+        "quantos pronomes pessoais caso reto por parágrafo", "quantos pronomes caso reto no texto", "quanto representa os pronomes pessoais caso reto",
+        "quantas vezes usa pronomes caso reto por dia", "quantas variações de pronomes pessoais caso reto", "quantas pessoas gramaticais existem",
+        
+        "qts pronomes pessoais caso reto existem", "qtos pronomes caso reto existem", "qts pronomes pessoais caso reto tem português",
+        "qtos pronomes caso reto tem português", "qtas formas pronomes pessoais caso reto", "qto tempo pra aprender pronomes caso reto",
+        "qto demora entender pronomes pessoais caso reto", "qto leva dominar pronomes caso reto", "qtas horas estudando pronomes pessoais caso reto",
+        "qtos dias com pronomes caso reto", "qtas semanas praticando pronomes pessoais caso reto", "qtas pessoas sabem pronomes caso reto",
+        "qtos alunos estudam pronomes pessoais caso reto", "qtos professores ensinam pronomes caso reto", "qtos tipos pronomes pessoais caso reto",
+        "qtas classificações pronomes caso reto", "qtos pronomes numa frase", "qtos pronomes pessoais caso reto parágrafo",
+        "qtos pronomes caso reto texto", "qto representa pronomes pessoais caso reto", "qtas vezes usa pronomes caso reto dia",
+        "qtas variações pronomes pessoais caso reto", "qtas pessoas gramaticais existem", "quantos eh pronomes pessoais caso reto existem",
+        "quantas eh formas pronomes caso reto", "quanto eh tempo aprender pronomes pessoais caso reto", "quantas eh pessoas sabem pronomes caso reto",
+        "quantos eh tipos pronomes pessoais caso reto", "são quantos pronomes caso reto", "tem quantos pronomes pessoais caso reto",
+        "existem quantos pronomes caso reto", "ao todo quantos pronomes pessoais caso reto", "no total quantos pronomes caso reto"
+      ],
+      "responses": [
+        "São 8 pronomes pessoais do caso reto: eu, tu, ele, ela, nós, vós, eles, elas. Representam as 3 pessoas do discurso no singular e plural.",
+        "Existem 3 pessoas gramaticais (1ª, 2ª e 3ª) com suas formas no singular e plural, totalizando 8 pronomes."
+      ]
+    },
+    {
+      "intent": "o_que_e_pronomes_pessoais_caso_reto_como",
+      "patterns": [
+        "como funcionam os pronomes pessoais caso reto", "como usar pronomes caso reto", "como aplicar pronomes pessoais caso reto",
+        "como estudar pronomes caso reto", "como aprender pronomes pessoais caso reto", "como entender pronomes caso reto",
+        "como dominar pronomes pessoais caso reto", "como ensinar pronomes caso reto", "como explicar pronomes pessoais caso reto",
+        "como identificar pronomes caso reto", "como reconhecer pronomes pessoais caso reto", "como achar pronomes caso reto",
+        "como encontrar pronomes pessoais caso reto", "como memorizar pronomes caso reto", "como decorar pronomes pessoais caso reto",
+        "como praticar pronomes caso reto", "como melhorar nos pronomes pessoais caso reto", "como classificar pronomes caso reto",
+        "como analisar pronomes pessoais caso reto", "como corrigir pronomes caso reto", "como evitar erro em pronomes pessoais caso reto",
+        "como não errar pronomes caso reto", "como acertar pronomes pessoais caso reto", "como usar certo pronomes caso reto",
+        "de que forma usar pronomes pessoais caso reto", "de que maneira aplicar pronomes caso reto", "de que jeito utilizar pronomes pessoais caso reto",
+        
+        "cm funcionam pronomes pessoais caso reto", "cm usar pronomes caso reto", "cm aplicar pronomes pessoais caso reto", "cm estudar pronomes caso reto",
+        "cm aprender pronomes pessoais caso reto", "cm entender pronomes caso reto", "cm dominar pronomes pessoais caso reto", "cm ensinar pronomes caso reto",
+        "cm explicar pronomes pessoais caso reto", "cm identificar pronomes caso reto", "cm reconhecer pronomes pessoais caso reto", "cm achar pronomes caso reto",
+        "cm encontrar pronomes pessoais caso reto", "cm memorizar pronomes caso reto", "cm decorar pronomes pessoais caso reto", "cm praticar pronomes caso reto",
+        "cm melhorar pronomes pessoais caso reto", "cm classificar pronomes caso reto", "cm analisar pronomes pessoais caso reto", "cm corrigir pronomes caso reto",
+        "cm evitar erro pronomes pessoais caso reto", "cm não errar pronomes caso reto", "cm acertar pronomes pessoais caso reto", "cm usar certo pronomes caso reto",
+        "de q forma usar pronomes pessoais caso reto", "de q maneira aplicar pronomes caso reto", "de q jeito utilizar pronomes pessoais caso reto",
+        "como eh funcionam pronomes caso reto", "como eh usar pronomes pessoais caso reto", "como eh aplicar pronomes caso reto",
+        "como eh estudar pronomes pessoais caso reto", "como eh aprender pronomes caso reto", "como eh entender pronomes pessoais caso reto",
+        "como q funcionam pronomes caso reto", "como q usar pronomes pessoais caso reto", "como q aplicar pronomes caso reto",
+        "como q estudar pronomes pessoais caso reto", "como q aprender pronomes caso reto", "como q entender pronomes pessoais caso reto",
+        "como faz pra usar pronomes caso reto", "como faz pra aprender pronomes pessoais caso reto", "como faz pra entender pronomes caso reto",
+        "como faz pra dominar pronomes pessoais caso reto", "cm faz pra usar pronomes caso reto", "cm faz pra aprender pronomes pessoais caso reto",
+        "cm faz pra entender pronomes caso reto", "cm faz pra dominar pronomes pessoais caso reto", "como é que funcionam pronomes caso reto",
+        "como é q funcionam pronomes pessoais caso reto", "como eh q funcionam pronomes caso reto", "cm eh que funcionam pronomes pessoais caso reto",
+        "cm é que funcionam pronomes caso reto", "cm é q funcionam pronomes pessoais caso reto", "como diabos funcionam pronomes caso reto",
+        "cm diabos funcionam pronomes pessoais caso reto", "como raios usar pronomes caso reto", "cm raios usar pronomes pessoais caso reto",
+        "como assim pronomes caso reto", "cm assim pronomes pessoais caso reto", "como é isso de pronomes caso reto",
+        "cm é isso de pronomes pessoais caso reto", "como que são pronomes caso reto", "cm que são pronomes pessoais caso reto",
+        "como mexer com pronomes caso reto", "cm mexer com pronomes pessoais caso reto", "como lidar com pronomes caso reto",
+        "cm lidar com pronomes pessoais caso reto", "como se virar com pronomes caso reto", "cm se virar com pronomes pessoais caso reto",
+        "quando usar eu", "quando usar tu", "quando usar ele", "quando usar ela", "quando usar nós", "quando usar vós", "quando usar eles", "quando usar elas",
+        "quando usar você", "quando usar vocês", "cm saber qual pronome usar", "como saber qual pronome pessoal caso reto usar"
+      ],
+      "responses": [
+        "Os pronomes pessoais do caso reto funcionam substituindo nomes na posição de sujeito: EU falo, TU falas, ELE fala, NÓS falamos, VÓS falais, ELES falam.",
+        "Use EU para se referir a você mesmo, TU/VOCÊ para quem escuta, ELE/ELA para quem não está presente, e as formas plurais para grupos."
+      ]
+    }
+  ]
+}

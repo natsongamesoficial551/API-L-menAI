@@ -1,0 +1,464 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_colombia",
+      "patterns": [
+        "o que é colombia",
+        "o que é a colombia", 
+        "oq é colombia",
+        "oq é a colombia",
+        "o que seria colombia",
+        "o que seria a colombia",
+        "oq seria colombia",
+        "oq seria a colombia",
+        "o que significa colombia",
+        "oq significa colombia",
+        "o que representa colombia",
+        "oq representa colombia",
+        "defina colombia",
+        "define colombia",
+        "conceito de colombia",
+        "colombia definição",
+        "definição da colombia",
+        "significado de colombia",
+        "me explique o que é colombia",
+        "me explica oq é colombia",
+        "explique o que é colombia",
+        "explica oq é colombia"
+      ],
+      "responses": [
+        "A Colômbia é um país sul-americano que abriga povos originários amazônicos como os Tikuna, Yucuna e Uitoto, que vivem da pesca, agricultura e coleta com cultura própria e espiritualidade ligada à natureza.",
+        "Colômbia representa uma nação onde habitam povos ancestrais da Amazônia: Tikuna, Yucuna e Uitoto, que mantêm tradições milenares baseadas em práticas sustentáveis e conexão espiritual com a floresta.",
+        "É um país sul-americano que possui territórios amazônicos habitados pelos povos originários Tikuna, Yucuna e Uitoto, preservando culturas tradicionais e modos de vida integrados à natureza.",
+        "Colômbia significa uma nação que abriga grupos étnicos ancestrais como Tikuna, Yucuna e Uitoto na região amazônica, mantendo espiritualidade natural e práticas de pesca, agricultura e coleta."
+      ]
+    },
+    {
+      "intent": "o_que_e_equador",
+      "patterns": [
+        "o que é equador",
+        "o que é o equador", 
+        "oq é equador",
+        "oq é o equador",
+        "o que seria equador",
+        "o que seria o equador",
+        "oq seria equador",
+        "oq seria o equador",
+        "o que significa equador",
+        "oq significa equador",
+        "o que representa equador",
+        "oq representa equador",
+        "defina equador",
+        "define equador",
+        "conceito de equador",
+        "equador definição",
+        "definição do equador",
+        "significado de equador",
+        "me explique o que é equador",
+        "me explica oq é equador",
+        "explique o que é equador",
+        "explica oq é equador"
+      ],
+      "responses": [
+        "O Equador é um país sul-americano que abriga povos originários amazônicos como os Achuar, Shuar, Kichwa e Huaorani, que vivem da pesca, agricultura e coleta com cultura própria e espiritualidade ligada à natureza.",
+        "Equador representa uma nação onde habitam povos ancestrais da Amazônia: Achuar, Shuar, Kichwa e Huaorani, que mantêm tradições milenares baseadas em práticas sustentáveis e conexão espiritual com a floresta.",
+        "É um país sul-americano que possui territórios amazônicos habitados pelos povos originários Achuar, Shuar, Kichwa e Huaorani, preservando culturas tradicionais e modos de vida integrados à natureza.",
+        "Equador significa uma nação que abriga grupos étnicos ancestrais como Achuar, Shuar, Kichwa e Huaorani na região amazônica, mantendo espiritualidade natural e práticas de pesca, agricultura e coleta."
+      ]
+    },
+    {
+      "intent": "quais_colombia",
+      "patterns": [
+        "quais povos da colombia",
+        "quais são os povos da colombia",
+        "quais tribos da colombia",
+        "quais são as tribos da colombia",
+        "quais etnias da colombia",
+        "quais são as etnias da colombia",
+        "quais características da colombia",
+        "quais são as características da colombia",
+        "quais tradições da colombia",
+        "quais são as tradições da colombia",
+        "quais culturas da colombia",
+        "quais são as culturas da colombia"
+      ],
+      "responses": [
+        "Na Colômbia habitam os povos originários Tikuna, Yucuna e Uitoto, que vivem da pesca, agricultura e coleta, mantendo cultura própria e espiritualidade ligada à natureza amazônica.",
+        "A Colômbia possui as etnias amazônicas Tikuna, Yucuna e Uitoto, grupos ancestrais que preservam tradições milenares baseadas em práticas sustentáveis e conexão espiritual com a floresta.",
+        "Os povos colombianos da Amazônia são Tikuna, Yucuna e Uitoto, que mantêm culturas tradicionais, espiritualidade natural e sobrevivem através da pesca, agricultura e coleta.",
+        "Na região amazônica colombiana encontramos os grupos Tikuna, Yucuna e Uitoto, povos originários com culturas próprias e modos de vida integrados ao ambiente natural."
+      ]
+    },
+    {
+      "intent": "quais_equador",
+      "patterns": [
+        "quais povos do equador",
+        "quais são os povos do equador",
+        "quais tribos do equador",
+        "quais são as tribos do equador",
+        "quais etnias do equador",
+        "quais são as etnias do equador",
+        "quais características do equador",
+        "quais são as características do equador",
+        "quais tradições do equador",
+        "quais são as tradições do equador",
+        "quais culturas do equador",
+        "quais são as culturas do equador"
+      ],
+      "responses": [
+        "No Equador habitam os povos originários Achuar, Shuar, Kichwa e Huaorani, que vivem da pesca, agricultura e coleta, mantendo cultura própria e espiritualidade ligada à natureza amazônica.",
+        "O Equador possui as etnias amazônicas Achuar, Shuar, Kichwa e Huaorani, grupos ancestrais que preservam tradições milenares baseadas em práticas sustentáveis e conexão espiritual com a floresta.",
+        "Os povos equatorianos da Amazônia são Achuar, Shuar, Kichwa e Huaorani, que mantêm culturas tradicionais, espiritualidade natural e sobrevivem através da pesca, agricultura e coleta.",
+        "Na região amazônica equatoriana encontramos os grupos Achuar, Shuar, Kichwa e Huaorani, povos originários com culturas próprias e modos de vida integrados ao ambiente natural."
+      ]
+    },
+    {
+      "intent": "quem_colombia",
+      "patterns": [
+        "quem são os povos da colombia",
+        "quem vive na colombia",
+        "quem habita a colombia",
+        "quem mora na colombia amazonica",
+        "quem são os tikuna",
+        "quem são os yucuna",
+        "quem são os uitoto",
+        "quem são as tribos da colombia",
+        "quem são os indígenas da colombia",
+        "quem são os indigenas da colombia",
+        "quem protege a cultura na colombia",
+        "quem preserva tradições na colombia"
+      ],
+      "responses": [
+        "Na Colômbia vivem os povos originários Tikuna, Yucuna e Uitoto, grupos ancestrais que habitam a região amazônica mantendo culturas tradicionais e espiritualidade ligada à natureza.",
+        "São os Tikuna, Yucuna e Uitoto que habitam a Amazônia colombiana, povos indígenas que vivem da pesca, agricultura e coleta, preservando saberes ancestrais e cultura própria.",
+        "Os habitantes originários da Colômbia amazônica são os povos Tikuna, Yucuna e Uitoto, etnias milenares que mantêm tradições sustentáveis e conexão espiritual com a floresta.",
+        "Na região colombiana da Amazônia moram os grupos étnicos Tikuna, Yucuna e Uitoto, povos nativos que preservam culturas únicas e espiritualidade integrada ao meio ambiente."
+      ]
+    },
+    {
+      "intent": "quem_equador",
+      "patterns": [
+        "quem são os povos do equador",
+        "quem vive no equador",
+        "quem habita o equador",
+        "quem mora no equador amazonico",
+        "quem são os achuar",
+        "quem são os shuar",
+        "quem são os kichwa",
+        "quem são os huaorani",
+        "quem são as tribos do equador",
+        "quem são os indígenas do equador",
+        "quem são os indigenas do equador",
+        "quem protege a cultura no equador",
+        "quem preserva tradições no equador"
+      ],
+      "responses": [
+        "No Equador vivem os povos originários Achuar, Shuar, Kichwa e Huaorani, grupos ancestrais que habitam a região amazônica mantendo culturas tradicionais e espiritualidade ligada à natureza.",
+        "São os Achuar, Shuar, Kichwa e Huaorani que habitam a Amazônia equatoriana, povos indígenas que vivem da pesca, agricultura e coleta, preservando saberes ancestrais e cultura própria.",
+        "Os habitantes originários do Equador amazônico são os povos Achuar, Shuar, Kichwa e Huaorani, etnias milenares que mantêm tradições sustentáveis e conexão espiritual com a floresta.",
+        "Na região equatoriana da Amazônia moram os grupos étnicos Achuar, Shuar, Kichwa e Huaorani, povos nativos que preservam culturas únicas e espiritualidade integrada ao meio ambiente."
+      ]
+    },
+    {
+      "intent": "onde_aonde_colombia",
+      "patterns": [
+        "onde fica a colombia",
+        "onde fica colombia",
+        "aonde fica a colombia",
+        "aonde fica colombia",
+        "onde estão os povos da colombia",
+        "onde vivem os tikuna",
+        "onde vivem os yucuna",
+        "onde vivem os uitoto",
+        "onde se localiza a colombia",
+        "onde se localiza colombia",
+        "localização da colombia",
+        "localização de colombia",
+        "em que lugar fica a colombia",
+        "em q lugar fica a colombia",
+        "situação da colombia",
+        "posição da colombia"
+      ],
+      "responses": [
+        "A Colômbia fica na América do Sul e em sua região amazônica vivem os povos originários Tikuna, Yucuna e Uitoto, que habitam territórios florestais tradicionais.",
+        "Localiza-se no norte da América do Sul, onde na parte amazônica colombiana encontramos os povos Tikuna, Yucuna e Uitoto mantendo culturas ancestrais em suas terras.",
+        "A Colômbia está situada na região norte sul-americana, abrigando em sua área amazônica os grupos étnicos Tikuna, Yucuna e Uitoto em territórios tradicionais florestais.",
+        "Encontra-se no continente sul-americano, possuindo territórios amazônicos onde habitam os povos originários Tikuna, Yucuna e Uitoto em suas terras ancestrais."
+      ]
+    },
+    {
+      "intent": "onde_aonde_equador",
+      "patterns": [
+        "onde fica o equador",
+        "onde fica equador",
+        "aonde fica o equador",
+        "aonde fica equador",
+        "onde estão os povos do equador",
+        "onde vivem os achuar",
+        "onde vivem os shuar",
+        "onde vivem os kichwa",
+        "onde vivem os huaorani",
+        "onde se localiza o equador",
+        "onde se localiza equador",
+        "localização do equador",
+        "localização de equador",
+        "em que lugar fica o equador",
+        "em q lugar fica o equador",
+        "situação do equador",
+        "posição do equador"
+      ],
+      "responses": [
+        "O Equador fica na América do Sul e em sua região amazônica vivem os povos originários Achuar, Shuar, Kichwa e Huaorani, que habitam territórios florestais tradicionais.",
+        "Localiza-se no oeste da América do Sul, onde na parte amazônica equatoriana encontramos os povos Achuar, Shuar, Kichwa e Huaorani mantendo culturas ancestrais em suas terras.",
+        "O Equador está situado na região oeste sul-americana, abrigando em sua área amazônica os grupos étnicos Achuar, Shuar, Kichwa e Huaorani em territórios tradicionais florestais.",
+        "Encontra-se no continente sul-americano, possuindo territórios amazônicos onde habitam os povos originários Achuar, Shuar, Kichwa e Huaorani em suas terras ancestrais."
+      ]
+    },
+    {
+      "intent": "como_colombia",
+      "patterns": [
+        "como é a colombia",
+        "como é colombia",
+        "como vivem na colombia",
+        "como são os povos da colombia",
+        "como é a cultura da colombia",
+        "como é a vida na colombia amazonica",
+        "como sobrevivem na colombia",
+        "como trabalham na colombia",
+        "modo de vida na colombia",
+        "jeito da colombia",
+        "características da colombia"
+      ],
+      "responses": [
+        "Na Colômbia os povos originários Tikuna, Yucuna e Uitoto vivem da pesca, agricultura e coleta, mantendo cultura própria e espiritualidade ligada à natureza amazônica.",
+        "A vida na Colômbia amazônica é baseada em tradições ancestrais: os povos Tikuna, Yucuna e Uitoto praticam agricultura sustentável, pesca e coleta com conexão espiritual à floresta.",
+        "Na região colombiana da Amazônia, grupos como Tikuna, Yucuna e Uitoto sobrevivem através de práticas tradicionais sustentáveis, mantendo culturas próprias e espiritualidade natural.",
+        "A Colômbia amazônica se caracteriza pelos povos Tikuna, Yucuna e Uitoto que trabalham com pesca, agricultura e coleta, preservando modos de vida ancestrais integrados à natureza."
+      ]
+    },
+    {
+      "intent": "como_equador",
+      "patterns": [
+        "como é o equador",
+        "como é equador",
+        "como vivem no equador",
+        "como são os povos do equador",
+        "como é a cultura do equador",
+        "como é a vida no equador amazonico",
+        "como sobrevivem no equador",
+        "como trabalham no equador",
+        "modo de vida no equador",
+        "jeito do equador",
+        "características do equador"
+      ],
+      "responses": [
+        "No Equador os povos originários Achuar, Shuar, Kichwa e Huaorani vivem da pesca, agricultura e coleta, mantendo cultura própria e espiritualidade ligada à natureza amazônica.",
+        "A vida no Equador amazônico é baseada em tradições ancestrais: os povos Achuar, Shuar, Kichwa e Huaorani praticam agricultura sustentável, pesca e coleta com conexão espiritual à floresta.",
+        "Na região equatoriana da Amazônia, grupos como Achuar, Shuar, Kichwa e Huaorani sobrevivem através de práticas tradicionais sustentáveis, mantendo culturas próprias e espiritualidade natural.",
+        "O Equador amazônico se caracteriza pelos povos Achuar, Shuar, Kichwa e Huaorani que trabalham com pesca, agricultura e coleta, preservando modos de vida ancestrais integrados à natureza."
+      ]
+    },
+    {
+      "intent": "por_que_porque_colombia",
+      "patterns": [
+        "por que a colombia é importante",
+        "pq a colombia é importante",
+        "por que preservar a colombia",
+        "pq preservar a colombia",
+        "porque proteger a colombia",
+        "pq proteger a colombia",
+        "por que estudar a colombia",
+        "pq estudar a colombia",
+        "porque valorizar a colombia",
+        "pq valorizar a colombia"
+      ],
+      "responses": [
+        "A Colômbia é importante porque abriga povos originários como Tikuna, Yucuna e Uitoto que preservam conhecimentos ancestrais, culturas únicas e práticas sustentáveis na Amazônia.",
+        "É fundamental preservar a Colômbia pois mantém etnias milenares (Tikuna, Yucuna, Uitoto) que conservam sabedoria tradicional sobre a floresta e espiritualidade natural.",
+        "Sua importância decorre de abrigar grupos étnicos ancestrais que mantêm culturas tradicionais, conhecimentos sobre biodiversidade e práticas sustentáveis de sobrevivência.",
+        "É essencial porque representa diversidade cultural através dos povos Tikuna, Yucuna e Uitoto, que são guardiões de saberes ancestrais e técnicas sustentáveis amazônicas."
+      ]
+    },
+    {
+      "intent": "por_que_porque_equador",
+      "patterns": [
+        "por que o equador é importante",
+        "pq o equador é importante",
+        "por que preservar o equador",
+        "pq preservar o equador",
+        "porque proteger o equador",
+        "pq proteger o equador",
+        "por que estudar o equador",
+        "pq estudar o equador",
+        "porque valorizar o equador",
+        "pq valorizar o equador"
+      ],
+      "responses": [
+        "O Equador é importante porque abriga povos originários como Achuar, Shuar, Kichwa e Huaorani que preservam conhecimentos ancestrais, culturas únicas e práticas sustentáveis na Amazônia.",
+        "É fundamental preservar o Equador pois mantém etnias milenares (Achuar, Shuar, Kichwa, Huaorani) que conservam sabedoria tradicional sobre a floresta e espiritualidade natural.",
+        "Sua importância decorre de abrigar grupos étnicos ancestrais que mantêm culturas tradicionais, conhecimentos sobre biodiversidade e práticas sustentáveis de sobrevivência.",
+        "É essencial porque representa diversidade cultural através dos povos Achuar, Shuar, Kichwa e Huaorani, que são guardiões de saberes ancestrais e técnicas sustentáveis amazônicas."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_colombia",
+      "patterns": [
+        "para que serve a colombia",
+        "pra que serve a colombia",
+        "para que existe a colombia",
+        "pra que existe a colombia",
+        "para que proteger a colombia",
+        "pra que proteger a colombia",
+        "para que preservar a colombia",
+        "pra que preservar a colombia"
+      ],
+      "responses": [
+        "A Colômbia serve para preservar povos originários como Tikuna, Yucuna e Uitoto, mantendo conhecimentos ancestrais, culturas tradicionais e práticas sustentáveis amazônicas.",
+        "Existe para abrigar etnias milenares que conservam sabedoria sobre a floresta, espiritualidade natural e técnicas sustentáveis de sobrevivência na região amazônica.",
+        "Serve como lar de grupos étnicos que mantêm culturas únicas, conhecimentos sobre biodiversidade e exemplos de vida harmônica com a natureza.",
+        "Sua função é proteger povos ancestrais que preservam tradições milenares, saberes sobre plantas medicinais e formas sustentáveis de viver na floresta."
+      ]
+    },
+    {
+      "intent": "para_que_pra_que_equador",
+      "patterns": [
+        "para que serve o equador",
+        "pra que serve o equador",
+        "para que existe o equador",
+        "pra que existe o equador",
+        "para que proteger o equador",
+        "pra que proteger o equador",
+        "para que preservar o equador",
+        "pra que preservar o equador"
+      ],
+      "responses": [
+        "O Equador serve para preservar povos originários como Achuar, Shuar, Kichwa e Huaorani, mantendo conhecimentos ancestrais, culturas tradicionais e práticas sustentáveis amazônicas.",
+        "Existe para abrigar etnias milenares que conservam sabedoria sobre a floresta, espiritualidade natural e técnicas sustentáveis de sobrevivência na região amazônica.",
+        "Serve como lar de grupos étnicos que mantêm culturas únicas, conhecimentos sobre biodiversidade e exemplos de vida harmônica com a natureza.",
+        "Sua função é proteger povos ancestrais que preservam tradições milenares, saberes sobre plantas medicinais e formas sustentáveis de viver na floresta."
+      ]
+    },
+    {
+      "intent": "quando_colombia",
+      "patterns": [
+        "quando surgiu a colombia",
+        "qdo surgiu a colombia",
+        "quando apareceram os povos da colombia",
+        "qdo apareceram os povos da colombia",
+        "quando existem os povos da colombia",
+        "qdo existem os povos da colombia",
+        "quando se formaram os povos da colombia",
+        "qdo se formaram os povos da colombia"
+      ],
+      "responses": [
+        "Os povos da Colômbia como Tikuna, Yucuna e Uitoto existem há milhares de anos na região amazônica, sendo habitantes ancestrais que preservam culturas milenares.",
+        "Na Colômbia, grupos como Tikuna, Yucuna e Uitoto surgiram há milênios, mantendo tradições ancestrais e sendo os verdadeiros donos originais dessas terras.",
+        "Os povos colombianos da Amazônia existem desde tempos imemoriais, muito antes da formação do país, preservando culturas e conhecimentos ancestrais há milhares de anos.",
+        "Formaram-se ao longo de milhares de anos como habitantes nativos da região, desenvolvendo culturas próprias e espiritualidade ligada à floresta desde épocas remotas."
+      ]
+    },
+    {
+      "intent": "quando_equador",
+      "patterns": [
+        "quando surgiu o equador",
+        "qdo surgiu o equador",
+        "quando apareceram os povos do equador",
+        "qdo apareceram os povos do equador",
+        "quando existem os povos do equador",
+        "qdo existem os povos do equador",
+        "quando se formaram os povos do equador",
+        "qdo se formaram os povos do equador"
+      ],
+      "responses": [
+        "Os povos do Equador como Achuar, Shuar, Kichwa e Huaorani existem há milhares de anos na região amazônica, sendo habitantes ancestrais que preservam culturas milenares.",
+        "No Equador, grupos como Achuar, Shuar, Kichwa e Huaorani surgiram há milênios, mantendo tradições ancestrais e sendo os verdadeiros donos originais dessas terras.",
+        "Os povos equatorianos da Amazônia existem desde tempos imemoriais, muito antes da formação do país, preservando culturas e conhecimentos ancestrais há milhares de anos.",
+        "Formaram-se ao longo de milhares de anos como habitantes nativos da região, desenvolvendo culturas próprias e espiritualidade ligada à floresta desde épocas remotas."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_colombia",
+      "patterns": [
+        "quantos povos tem na colombia",
+        "qtos povos tem na colombia",
+        "quantas tribos tem na colombia",
+        "qtas tribos tem na colombia",
+        "quantas etnias tem na colombia",
+        "qtas etnias tem na colombia",
+        "quantos são os povos da colombia",
+        "qtos são os povos da colombia",
+        "quantos tikuna tem",
+        "qtos yucuna tem",
+        "quantos uitoto tem",
+        "qtos uitoto tem"
+      ],
+      "responses": [
+        "Na Colômbia amazônica destacam-se 3 povos originários principais: Tikuna, Yucuna e Uitoto, cada um com suas comunidades e aldeias distribuídas pela região florestal.",
+        "A Colômbia possui grupos étnicos como Tikuna, Yucuna e Uitoto na Amazônia, totalizando diversas comunidades que mantêm culturas tradicionais e espiritualidade natural.",
+        "Existem povos como Tikuna, Yucuna e Uitoto na região amazônica colombiana, formando várias aldeias e comunidades que preservam saberes ancestrais.",
+        "A Amazônia colombiana abriga etnias como Tikuna, Yucuna e Uitoto, grupos que se dividem em múltiplas comunidades mantendo tradições milenares."
+      ]
+    },
+    {
+      "intent": "quantos_quantas_equador",
+      "patterns": [
+        "quantos povos tem no equador",
+        "qtos povos tem no equador",
+        "quantas tribos tem no equador",
+        "qtas tribos tem no equador",
+        "quantas etnias tem no equador",
+        "qtas etnias tem no equador",
+        "quantos são os povos do equador",
+        "qtos são os povos do equador",
+        "quantos achuar tem",
+        "qtos shuar tem",
+        "quantos kichwa tem",
+        "qtos huaorani tem"
+      ],
+      "responses": [
+        "No Equador amazônico destacam-se 4 povos originários principais: Achuar, Shuar, Kichwa e Huaorani, cada um com suas comunidades e aldeias distribuídas pela região florestal.",
+        "O Equador possui grupos étnicos como Achuar, Shuar, Kichwa e Huaorani na Amazônia, totalizando diversas comunidades que mantêm culturas tradicionais e espiritualidade natural.",
+        "Existem povos como Achuar, Shuar, Kichwa e Huaorani na região amazônica equatoriana, formando várias aldeias e comunidades que preservam saberes ancestrais.",
+        "A Amazônia equatoriana abriga etnias como Achuar, Shuar, Kichwa e Huaorani, grupos que se dividem em múltiplas comunidades mantendo tradições milenares."
+      ]
+    },
+    {
+      "intent": "sera_que_colombia",
+      "patterns": [
+        "será que a colombia tem povos originários",
+        "será q a colombia tem povos originarios",
+        "será que existem povos na colombia",
+        "será q existem povos na colombia",
+        "será que a colombia é importante",
+        "será q a colombia é importante",
+        "será que preservam cultura na colombia",
+        "será q preservam cultura na colombia"
+      ],
+      "responses": [
+        "Sim, definitivamente a Colômbia tem povos originários: na região amazônica vivem os Tikuna, Yucuna e Uitoto, mantendo culturas ancestrais e espiritualidade natural.",
+        "Com certeza existem povos na Colômbia e são extremamente importantes: preservam conhecimentos milenares, vivem de forma sustentável e mantêm tradições únicas.",
+        "Certamente a Colômbia abriga grupos como Tikuna, Yucuna e Uitoto que conservam culturas próprias, espiritualidade ligada à natureza e práticas ancestrais há milhares de anos.",
+        "Sim, são povos reais e vitais: mantêm tradições únicas, conhecimentos sobre a floresta e práticas sustentáveis, sendo guardiões ancestrais da Amazônia colombiana."
+      ]
+    },
+    {
+      "intent": "sera_que_equador",
+      "patterns": [
+        "será que o equador tem povos originários",
+        "será q o equador tem povos originarios",
+        "será que existem povos no equador",
+        "será q existem povos no equador",
+        "será que o equador é importante",
+        "será q o equador é importante",
+        "será que preservam cultura no equador",
+        "será q preservam cultura no equador"
+      ],
+      "responses": [
+        "Sim, definitivamente o Equador tem povos originários: na região amazônica vivem os Achuar, Shuar, Kichwa e Huaorani, mantendo culturas ancestrais e espiritualidade natural.",
+        "Com certeza existem povos no Equador e são extremamente importantes: preservam conhecimentos milenares, vivem de forma sustentável e mantêm tradições únicas.",
+        "Certamente o Equador abriga grupos como Achuar, Shuar, Kichwa e Huaorani que conservam culturas próprias, espiritualidade ligada à natureza e práticas ancestrais há milhares de anos.",
+        "Sim, são povos reais e vitais: mantêm tradições únicas, conhecimentos sobre a floresta e práticas sustentáveis, sendo guardiões ancestrais da Amazônia equatoriana."
+      ]
+    }
+  ]
+}
