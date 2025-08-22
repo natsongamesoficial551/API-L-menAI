@@ -1,0 +1,232 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_ciencia_que",
+      "patterns": [
+        "o que é ciência", "o que foi ciência", "o que significa ciência", "o que quer dizer ciência",
+        "que negócio é esse de ciência", "que história é essa de ciência", "que parada é ciência",
+        "que coisa é ciência mesmo", "que diabos é ciência", "que raios é ciência",
+        "afinal o que é ciência", "mas o que é ciência", "então o que é ciência",
+        "cara o que é ciência", "mano o que é ciência", "véi o que é ciência",
+        "me explica o que é ciência", "me conta o que é ciência", "me fala o que é ciência",
+        "explica aí o que é ciência", "conta aí o que é ciência", "fala aí o que é ciência",
+        "qual é a da ciência", "qual é a história da ciência", "qual é a parada da ciência",
+        "como assim ciência", "tipo assim o que é ciência", "quer dizer o que é ciência",
+        "pô o que é ciência", "poxa o que é ciência", "caramba o que é ciência",
+        "nossa o que é ciência", "eita o que é ciência", "opa o que é ciência",
+        "rapaz o que é ciência", "cara de pau o que é ciência", "sem brincadeira o que é ciência",
+        "de verdade o que é ciência", "sério mesmo o que é ciência", "real o que é ciência",
+        "na moral o que é ciência", "na boa o que é ciência", "numa boa o que é ciência",
+        "tá mas o que é ciência", "ok mas o que é ciência", "beleza mas o que é ciência",
+        "hmm o que é ciência", "bom o que é ciência", "enfim o que é ciência",
+        "resumindo o que é ciência", "basicamente o que é ciência", "fundamentalmente o que é ciência",
+        "professor o que é ciência", "mestre o que é ciência", "doutor o que é ciência",
+        "gente o que é ciência", "pessoal o que é ciência", "galera o que é ciência",
+        "oxe o que é ciência", "uai o que é ciência", "ué o que é ciência",
+        "bah o que é ciência", "tche o que é ciência", "capaz o que é ciência",
+        "caraca o que é ciência", "puts o que é ciência", "putz o que é ciência",
+        "bicho o que é ciência", "meu o que é ciência", "brother o que é ciência",
+        "parceiro o que é ciência", "companheiro o que é ciência", "amigão o que é ciência",
+        "maluco o que é ciência", "doido o que é ciência", "chefia o que é ciência",
+        "patrão o que é ciência", "chefe o que é ciência", "moleque o que é ciência",
+        "playboy o que é ciência", "mauricinho o que é ciência", "burgues o que é ciência",
+        "favelado o que é ciência", "carioca o que é ciência", "fluminense o que é ciência",
+        
+        "oq é ciência", "oque é ciência", "q é ciência",
+        "ciência é oq", "ciência oq é", "ciência é q", "ciência q é",
+        "é ciência msm", "eh ciência msm", "é ciência memo",
+        "q eh ciência", "que eh ciência", "oq significa ciência", "q significa ciência",
+        "oq quer dizer ciência", "q quer dizer ciência", "me explica oq é ciência",
+        "me fala oq é ciência", "me conta oq é ciência", "explica oq é ciência",
+        "fala oq é ciência", "conta oq é ciência", "cara oq é ciência",
+        "mano oq é ciência", "vei oq é ciência", "bicho oq é ciência",
+        "rapaz oq é ciência", "gente oq é ciência", "po oq é ciência",
+        "conceito de ciência", "conceito ciência", "significado ciência",
+        "explicação de ciência", "explicação ciência", "definição ciência",
+        "conhecimento científico", "método científico", "saber científico"
+      ],
+      "responses": [
+        "A Ciência é um SISTEMA DE CONHECIMENTO baseado na observação, experimentação e análise racional da natureza e sociedade. No século XIX teve grande desenvolvimento com descobertas revolucionárias: eletricidade, telefone, automóvel, locomotiva a vapor. Características: MÉTODO CIENTÍFICO rigoroso, comprovação experimental, objetividade, leis universais e busca pela VERDADE através da razão.",
+        "É o CONJUNTO DE CONHECIMENTOS obtidos através de métodos sistemáticos de investigação da realidade. Século XIX foi época de ouro: invenções que mudaram o mundo (luz elétrica, telégrafo, medicina moderna). Princípios fundamentais: observação empírica, experimentação controlada, RACIONALIDADE, verificação e formulação de teorias que explicam os fenômenos naturais e sociais."
+      ]
+    },
+    {
+      "intent": "o_que_e_ciencia_quando",
+      "patterns": [
+        "quando surgiu ciência", "quando apareceu ciência", "quando começou ciência",
+        "quando foi criada ciência", "quando se desenvolveu ciência", "quando ciência foi inventada",
+        "em que época surgiu ciência", "em que período apareceu ciência", "em que tempo começou ciência",
+        "que ano surgiu ciência", "que século surgiu ciência", "que época surgiu ciência",
+        "quando ciência se popularizou", "quando ciência ficou famosa", "quando ciência se espalhou",
+        "quando começou ser usada ciência", "quando ciência virou comum", "quando ciência se estabeleceu",
+        "desde quando existe ciência", "há quanto tempo existe ciência", "faz quanto tempo surgiu ciência",
+        "quando ciência chegou ao brasil", "quando brasil começou usar ciência", "quando ciência brasileira começou",
+        "em que momento histórico surgiu ciência", "em que contexto surgiu ciência", "em qual fase surgiu ciência",
+        "quando ciência moderna começou", "quando revolução científica aconteceu", "quando método científico surgiu",
+        "século XIX e ciência", "quando grande boom científico", "quando explosão científica",
+        "quando idade da ciência", "quando era científica", "quando período científico",
+        "quando descobertas científicas", "quando invenções científicas", "quando progresso científico",
+        
+        "qdo surgiu ciência", "qdo apareceu ciência", "qdo começou ciência",
+        "q ano surgiu ciência", "q século surgiu ciência", "q época surgiu ciência",
+        "origem da ciência", "história da ciência", "evolução da ciência", "desenvolvimento ciência",
+        "antiguidade e ciência", "idade média e ciência", "renascimento e ciência",
+        "iluminismo e ciência", "positivismo e ciência", "modernidade e ciência"
+      ],
+      "responses": [
+        "A Ciência moderna surgiu no SÉCULO XVII com a Revolução Científica (Galileu, Newton), mas teve seu GRANDE BOOM no século XIX (1800-1900). Foi a era das descobertas revolucionárias: eletricidade, telefone (1876), automóvel, locomotiva a vapor, telégrafo. No Brasil, chegou com a vinda da Família Real (1808) e se consolidou com as faculdades e institutos de pesquisa.",
+        "Desenvolveu-se gradualmente desde a ANTIGUIDADE (gregos), passou pelo Renascimento (séculos XV-XVI), mas explodiu no SÉCULO XIX com a industrialização. Período de ouro: 1850-1900, com invenções que transformaram o mundo - luz elétrica, medicina moderna, química, física. Foi quando a ciência se tornou FORÇA MOTRIZ do progresso e da modernidade."
+      ]
+    },
+    {
+      "intent": "o_que_e_ciencia_onde",
+      "patterns": [
+        "onde surgiu ciência", "onde apareceu ciência", "onde começou ciência",
+        "onde foi criada ciência", "onde se desenvolveu ciência", "onde ciência foi inventada",
+        "em que lugar surgiu ciência", "em que local apareceu ciência", "em que região começou ciência",
+        "em que país surgiu ciência", "em que nação apareceu ciência", "em qual território começou ciência",
+        "onde ciência se popularizou", "onde ciência ficou famosa", "onde ciência se espalhou",
+        "onde mais se usa ciência", "onde ciência é mais comum", "onde ciência é mais popular",
+        "onde estudar ciência", "onde aprender ciência", "onde ensinar ciência",
+        "onde ciência brasileira surgiu", "onde começou ciência no brasil", "onde ciência nacional começou",
+        "centros científicos mundo", "polos científicos", "capitais da ciência",
+        "universidades científicas", "institutos de pesquisa", "laboratórios científicos",
+        "onde fica maior centro científico", "onde concentra mais cientistas", "onde mais pesquisa científica",
+        
+        "aonde surgiu ciência", "aonde apareceu ciência", "aonde começou ciência",
+        "em q lugar surgiu ciência", "em q país surgiu ciência", "em qual território começou ciência",
+        "grécia e ciência", "europa e ciência", "inglaterra e ciência", "frança e ciência",
+        "alemanha e ciência", "eua e ciência", "brasil e ciência", "rio de janeiro ciência",
+        "são paulo e ciência", "minas gerais e ciência", "universidades brasileiras"
+      ],
+      "responses": [
+        "A Ciência moderna surgiu na EUROPA: Inglaterra (Revolução Industrial), França (Iluminismo), Alemanha (universidades). No século XIX, centros principais: PARIS, LONDRES, BERLIM, depois EUA. No Brasil: Rio de Janeiro (Museu Nacional 1818), São Paulo (USP), Minas Gerais (Escola de Minas), expandindo para todo país com universidades e institutos de pesquisa.",
+        "Desenvolveu-se inicialmente na GRÉCIA ANTIGA, renasceu na Europa (Renascimento), explodiu na INGLATERRA (Revolução Industrial século XIX). Principais polos científicos: Paris, Londres, Berlim, depois Boston, Nova York. No Brasil: começou no RIO DE JANEIRO (capital imperial), expandiu para São Paulo, Minas, Rio Grande do Sul, criando a REDE CIENTÍFICA NACIONAL."
+      ]
+    },
+    {
+      "intent": "o_que_e_ciencia_quem",
+      "patterns": [
+        "quem criou ciência", "quem inventou ciência", "quem desenvolveu ciência",
+        "quem foram os primeiros a usar ciência", "quem começou ciência", "quem fundou ciência",
+        "quem são os grandes mestres ciência", "quem são mestres da ciência", "quem são principais ciência",
+        "quem usa ciência", "quem aplica ciência", "quem faz ciência",
+        "quem são cientistas famosos", "quem são grandes cientistas", "quem são cientistas importantes",
+        "quem foi galileu", "quem foi newton", "quem foi darwin", "quem foi einstein",
+        "quem foi edison", "quem foi tesla", "quem foi pasteur", "quem foi mendel",
+        "quem são cientistas brasileiros", "quem faz ciência no brasil", "quem são pesquisadores brasileiros",
+        "quem são inventores famosos", "quem criou grandes invenções", "quem revolucionou ciência",
+        "quem mudou mundo com ciência", "quem transformou sociedade ciência", "quem impactou humanidade ciência",
+        
+        "qm criou ciência", "qm inventou ciência", "qm desenvolveu ciência",
+        "qm foram primeiros ciência", "qm começou ciência", "qm fundou ciência",
+        "qm são grandes mestres ciência", "qm são mestres ciência", "qm são principais ciência",
+        "qm usa ciência", "qm aplica ciência", "qm faz ciência",
+        "cientistas famosos", "grandes cientistas", "mestres da ciência", "gênios científicos",
+        "inovadores científicos", "pioneiros científicos", "revolucionários científicos"
+      ],
+      "responses": [
+        "Pioneiros da ciência moderna: GALILEU GALILEI (método experimental), ISAAC NEWTON (física), CHARLES DARWIN (evolução). Século XIX: THOMAS EDISON (luz elétrica), NIKOLA TESLA (eletricidade), LOUIS PASTEUR (medicina), GREGOR MENDEL (genética). No Brasil: OSWALDO CRUZ (saúde pública), CARLOS CHAGAS (medicina tropical), CÉSAR LATTES (física).",
+        "Grandes nomes da ciência: ARISTÓTELES (filosofia natural), GALILEU (astronomia), NEWTON (leis universais), DARWIN (teoria da evolução), EINSTEIN (relatividade). Inventores do século XIX: EDISON, BELL (telefone), MORSE (telégrafo), SANTOS DUMONT (aviação - brasileiro!). Cientistas brasileiros: VITAL BRAZIL (soros), BERTHA LUTZ (biologia), JOÃO CHRISTÓVÃO CARDOSO (medicina)."
+      ]
+    },
+    {
+      "intent": "o_que_e_ciencia_por_que",
+      "patterns": [
+        "por que existe ciência", "por que foi criada ciência", "por que surgiu ciência",
+        "por que ciência é importante", "por que ciência é necessária", "por que ciência é útil",
+        "por que usar ciência", "por que aplicar ciência", "por que estudar ciência",
+        "motivos da ciência", "razões da ciência", "causas da ciência",
+        "fatores que levaram à ciência", "o que causou ciência", "o que motivou ciência",
+        "por que humanos fazem ciência", "por que sociedade precisa ciência", "por que mundo precisa ciência",
+        "vantagens da ciência", "benefícios da ciência", "importância da ciência",
+        "finalidade da ciência", "objetivo da ciência", "propósito da ciência",
+        "para que serve ciência", "qual função da ciência", "qual utilidade da ciência",
+        "por que ciência mudou mundo", "por que ciência revolucionou sociedade", "por que ciência transformou vida",
+        
+        "pq existe ciência", "pq foi criada ciência", "pq surgiu ciência",
+        "pq ciência é importante", "pq ciência é necessária", "pq ciência é útil",
+        "pq usar ciência", "pq aplicar ciência", "pq estudar ciência",
+        "motivos ciência", "razões ciência", "causas ciência",
+        "pq humanos fazem ciência", "pq sociedade precisa ciência", "pq mundo precisa ciência",
+        "vantagens ciência", "benefícios ciência", "importância ciência",
+        "finalidade ciência", "objetivo ciência", "propósito ciência"
+      ],
+      "responses": [
+        "A Ciência existe para ENTENDER E TRANSFORMAR o mundo: explicar fenômenos naturais, resolver problemas práticos, melhorar a vida humana. No século XIX, motivada pela necessidade de progresso industrial e social. Objetivos: curar doenças, criar tecnologias, aumentar produtividade, expandir conhecimento. É a FERRAMENTA mais eficaz para dominar a natureza e construir civilização.",
+        "Surgiu pela CURIOSIDADE HUMANA e necessidade prática: compreender leis da natureza, prever fenômenos, controlar ambiente, solucionar problemas. Século XIX mostrou seu poder: medicina salvou vidas, máquinas aumentaram produção, comunicação conectou mundo. A ciência é essencial para PROGRESSO, DESENVOLVIMENTO e melhoria das condições de vida da humanidade."
+      ]
+    },
+    {
+      "intent": "o_que_e_ciencia_como",
+      "patterns": [
+        "como funciona ciência", "como é feita ciência", "como se aplica ciência",
+        "como é estrutura da ciência", "como é organizada ciência", "como é construída ciência",
+        "como identificar ciência", "como reconhecer ciência", "como saber se é ciência",
+        "como usar ciência", "como aplicar ciência", "como desenvolver ciência",
+        "como estudar ciência", "como aprender ciência", "como ensinar ciência",
+        "como ciência funciona", "como ciência opera", "como ciência atua",
+        "como é processo da ciência", "como é método da ciência", "como é sistema da ciência",
+        "como ciência descobre coisas", "como ciência inventa", "como ciência cria conhecimento",
+        "como fazer pesquisa científica", "como conduzir experimento", "como validar teoria científica",
+        
+        "cm funciona ciência", "cm é feita ciência", "cm se aplica ciência",
+        "cm é estrutura ciência", "cm é organizada ciência", "cm é construída ciência",
+        "cm identificar ciência", "cm reconhecer ciência", "cm saber se é ciência",
+        "cm usar ciência", "cm aplicar ciência", "cm desenvolver ciência",
+        "de que forma funciona ciência", "de que maneira é feita ciência", "de que jeito se aplica ciência",
+        "processo da ciência", "metodologia científica", "sistema científico",
+        "mecanismo científico", "funcionamento científico", "operação científica"
+      ],
+      "responses": [
+        "A Ciência funciona pelo MÉTODO CIENTÍFICO: observação da realidade, formulação de hipóteses, experimentação controlada, análise de resultados, conclusões baseadas em evidências. Processo rigoroso: questionamento, investigação sistemática, teste de teorias, revisão por pares. No século XIX: esse método gerou invenções revolucionárias como telefone, eletricidade, medicina moderna.",
+        "Opera através de ETAPAS SISTEMÁTICAS: identificação do problema, pesquisa bibliográfica, hipótese, experimento, coleta de dados, análise estatística, conclusão, publicação. Características fundamentais: objetividade, reprodutibilidade, verificabilidade, racionalidade. A ciência do século XIX aplicou esse método para criar TECNOLOGIAS que transformaram a sociedade: locomotiva, telégrafo, luz elétrica."
+      ]
+    },
+    {
+      "intent": "o_que_e_ciencia_areas",
+      "patterns": [
+        "áreas da ciência", "tipos de ciência", "campos da ciência",
+        "divisões da ciência", "ramos da ciência", "setores da ciência",
+        "especialidades científicas", "disciplinas científicas", "matérias científicas",
+        "quais são as ciências", "que tipos de ciência existem", "quais áreas científicas",
+        "classificação das ciências", "categorias científicas", "grupos científicos",
+        "ciências exatas", "ciências biológicas", "ciências humanas",
+        "física química matemática", "medicina biologia", "história sociologia psicologia",
+        "engenharia tecnologia", "astronomia geologia", "economia direito",
+        
+        "areas da ciência", "tipos de ciência", "campos da ciência",
+        "divisões da ciência", "ramos da ciência", "setores da ciência",
+        "quais ciências existem", "que ciências tem", "principais ciências",
+        "ciência exata", "ciência biológica", "ciência humana",
+        "ciência da natureza", "ciência social", "ciência aplicada"
+      ],
+      "responses": [
+        "Principais áreas científicas: CIÊNCIAS EXATAS (Matemática, Física, Química), CIÊNCIAS BIOLÓGICAS (Medicina, Biologia, Farmácia), CIÊNCIAS HUMANAS (História, Sociologia, Psicologia), CIÊNCIAS APLICADAS (Engenharia, Tecnologia). No século XIX: física criou eletricidade, química desenvolveu medicamentos, medicina combateu epidemias, engenharia construiu ferrovias.",
+        "Classificação tradicional: CIÊNCIAS DA NATUREZA (Física, Química, Biologia, Astronomia, Geologia), CIÊNCIAS FORMAIS (Matemática, Lógica), CIÊNCIAS SOCIAIS (Economia, Sociologia, Antropologia, Direito). Século XIX foi época dourada: cada área teve descobertas revolucionárias que criaram o MUNDO MODERNO com suas invenções e teorias científicas."
+      ]
+    },
+    {
+      "intent": "o_que_e_ciencia_tecnologia_modernidade",
+      "patterns": [
+        "ciência tecnologia modernidade", "ciência e tecnologia", "ciência e modernidade",
+        "tecnologia e modernidade", "modernidade científica", "modernidade tecnológica",
+        "progresso científico tecnológico", "avanço científico tecnológico", "desenvolvimento científico tecnológico",
+        "revolução científica tecnológica", "transformação científica tecnológica", "mudança científica tecnológica",
+        "impacto da ciência na modernidade", "influência da tecnologia na modernidade", "papel da ciência na modernidade",
+        "ciência moderna tecnologia", "tecnologia moderna ciência", "modernidade e progresso científico",
+        "século XIX ciência tecnologia", "descobertas científicas século XIX", "invenções século XIX",
+        "luz elétrica automóvel telefone", "telégrafo locomotiva vapor", "modernidade século XIX",
+        "descompasso social tecnológico", "avanços sociais tecnológicos", "desilusão modernidade",
+        
+        "ciência e tecnologia", "tecnologia e ciência", "modernidade científica", "progresso tecnológico",
+        "revolução industrial", "era das máquinas", "idade da ciência", "boom tecnológico",
+        "descobertas revolucionárias", "invenções transformadoras", "progresso material"
+      ],
+      "responses": [
+        "A SEGUNDA METADE DO SÉCULO XIX foi época de revolução científico-tecnológica: descobertas científicas geraram invenções que mudaram o mundo - LUZ ELÉTRICA (Edison), AUTOMÓVEL, TELEFONE (Bell), TELÉGRAFO (Morse), LOCOMOTIVA A VAPOR. Essa modernidade criou descompasso: avanços tecnológicos >>> avanços sociais, gerando desilusão que virou TEMA RECORRENTE na prosa realista.",
+        "Período de MODERNIDADE CIENTÍFICA (1850-1900): ciência aplicada criou tecnologias revolucionárias que transformaram sociedade. Invenções principais: eletricidade, comunicações, transportes, medicina moderna. Porém, o progresso material não trouxe progresso social equivalente - surgiu desilusão com a modernidade que influenciou LITERATURA REALISTA, mostrando contradições entre progresso técnico e problemas sociais."
+      ]
+    }
+  ]
+}

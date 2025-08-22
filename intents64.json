@@ -1,0 +1,256 @@
+{
+  "intents": [
+    {
+      "intent": "o_que_e_tecnologia_que",
+      "patterns": [
+        "o que é tecnologia", "o que foi tecnologia", "o que significa tecnologia", "o que quer dizer tecnologia",
+        "que negócio é esse de tecnologia", "que história é essa de tecnologia", "que parada é tecnologia",
+        "que coisa é tecnologia mesmo", "que diabos é tecnologia", "que raios é tecnologia",
+        "afinal o que é tecnologia", "mas o que é tecnologia", "então o que é tecnologia",
+        "cara o que é tecnologia", "mano o que é tecnologia", "véi o que é tecnologia",
+        "me explica o que é tecnologia", "me conta o que é tecnologia", "me fala o que é tecnologia",
+        "explica aí o que é tecnologia", "conta aí o que é tecnologia", "fala aí o que é tecnologia",
+        "qual é a da tecnologia", "qual é a história da tecnologia", "qual é a parada da tecnologia",
+        "como assim tecnologia", "tipo assim o que é tecnologia", "quer dizer o que é tecnologia",
+        "pô o que é tecnologia", "poxa o que é tecnologia", "caramba o que é tecnologia",
+        "nossa o que é tecnologia", "eita o que é tecnologia", "opa o que é tecnologia",
+        "rapaz o que é tecnologia", "cara de pau o que é tecnologia", "sem brincadeira o que é tecnologia",
+        "de verdade o que é tecnologia", "sério mesmo o que é tecnologia", "real o que é tecnologia",
+        "na moral o que é tecnologia", "na boa o que é tecnologia", "numa boa o que é tecnologia",
+        "tá mas o que é tecnologia", "ok mas o que é tecnologia", "beleza mas o que é tecnologia",
+        "hmm o que é tecnologia", "bom o que é tecnologia", "enfim o que é tecnologia",
+        "resumindo o que é tecnologia", "basicamente o que é tecnologia", "fundamentalmente o que é tecnologia",
+        "professor o que é tecnologia", "mestre o que é tecnologia", "doutor o que é tecnologia",
+        "gente o que é tecnologia", "pessoal o que é tecnologia", "galera o que é tecnologia",
+        "oxe o que é tecnologia", "uai o que é tecnologia", "ué o que é tecnologia",
+        "bah o que é tecnologia", "tche o que é tecnologia", "capaz o que é tecnologia",
+        "caraca o que é tecnologia", "puts o que é tecnologia", "putz o que é tecnologia",
+        "bicho o que é tecnologia", "meu o que é tecnologia", "brother o que é tecnologia",
+        "parceiro o que é tecnologia", "companheiro o que é tecnologia", "amigão o que é tecnologia",
+        "maluco o que é tecnologia", "doido o que é tecnologia", "chefia o que é tecnologia",
+        "patrão o que é tecnologia", "chefe o que é tecnologia", "moleque o que é tecnologia",
+        "playboy o que é tecnologia", "mauricinho o que é tecnologia", "burgues o que é tecnologia",
+        "favelado o que é tecnologia", "carioca o que é tecnologia", "fluminense o que é tecnologia",
+        "zona sul o que é tecnologia", "zona norte o que é tecnologia", "subúrbio o que é tecnologia",
+        "favela o que é tecnologia", "comunidade o que é tecnologia", "periferia o que é tecnologia",
+        
+        "oq é tecnologia", "oque é tecnologia", "q é tecnologia",
+        "tecnologia é oq", "tecnologia oq é", "tecnologia é q", "tecnologia q é",
+        "é tecnologia msm", "eh tecnologia msm", "é tecnologia memo",
+        "q eh tecnologia", "que eh tecnologia", "oq significa tecnologia", "q significa tecnologia",
+        "oq quer dizer tecnologia", "q quer dizer tecnologia", "me explica oq é tecnologia",
+        "me fala oq é tecnologia", "me conta oq é tecnologia", "explica oq é tecnologia",
+        "fala oq é tecnologia", "conta oq é tecnologia", "cara oq é tecnologia",
+        "mano oq é tecnologia", "vei oq é tecnologia", "bicho oq é tecnologia",
+        "rapaz oq é tecnologia", "gente oq é tecnologia", "po oq é tecnologia",
+        "conceito de tecnologia", "conceito tecnologia", "significado tecnologia",
+        "explicação de tecnologia", "explicação tecnologia", "definição tecnologia",
+        "inovação tecnológica", "revolução tecnológica", "progresso tecnológico"
+      ],
+      "responses": [
+        "Tecnologia é a APLICAÇÃO PRÁTICA DO CONHECIMENTO CIENTÍFICO para criar ferramentas, máquinas e sistemas que resolvem problemas humanos. No século XIX, explodiu com invenções revolucionárias: LUZ ELÉTRICA (Edison), TELEFONE (Bell), AUTOMÓVEL, LOCOMOTIVA A VAPOR, TELÉGRAFO. Características: inovação constante, transformação da sociedade, PROGRESSO MATERIAL e mudança no modo de viver das pessoas.",
+        "É o CONJUNTO DE TÉCNICAS, MÉTODOS E PROCESSOS usados para criar produtos e serviços que melhoram a vida humana. Segunda metade do século XIX foi era dourada: descobertas científicas geraram tecnologias que mudaram o mundo - eletricidade, comunicação à distância, transporte rápido. Objetivo principal: FACILITAR A VIDA, aumentar produtividade e dominar as forças da natureza."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnologia_quando",
+      "patterns": [
+        "quando surgiu tecnologia", "quando apareceu tecnologia", "quando começou tecnologia",
+        "quando foi criada tecnologia", "quando se desenvolveu tecnologia", "quando tecnologia foi inventada",
+        "em que época surgiu tecnologia", "em que período apareceu tecnologia", "em que tempo começou tecnologia",
+        "que ano surgiu tecnologia", "que século surgiu tecnologia", "que época surgiu tecnologia",
+        "quando tecnologia se popularizou", "quando tecnologia ficou famosa", "quando tecnologia se espalhou",
+        "quando começou ser usada tecnologia", "quando tecnologia virou comum", "quando tecnologia se estabeleceu",
+        "desde quando existe tecnologia", "há quanto tempo existe tecnologia", "faz quanto tempo surgiu tecnologia",
+        "quando tecnologia chegou ao brasil", "quando brasil começou usar tecnologia", "quando tecnologia brasileira começou",
+        "em que momento histórico surgiu tecnologia", "em que contexto surgiu tecnologia", "em qual fase surgiu tecnologia",
+        "quando tecnologia moderna começou", "quando revolução tecnológica aconteceu", "quando boom tecnológico",
+        "século XIX e tecnologia", "quando grande salto tecnológico", "quando explosão tecnológica",
+        "quando idade da tecnologia", "quando era tecnológica", "quando período tecnológico",
+        "quando invenções revolucionárias", "quando descobertas tecnológicas", "quando progresso tecnológico acelerou",
+        "quando máquinas mudaram mundo", "quando industrialização começou", "quando modernidade tecnológica",
+        "quando primeira revolução industrial", "quando segunda revolução industrial", "quando era das máquinas",
+        "quando vapor eletricidade", "quando telefone telégrafo", "quando luz elétrica surgiu",
+        "quando automóvel foi inventado", "quando locomotiva apareceu", "quando comunicação à distância começou",
+        "1800 tecnologia", "1850 tecnologia", "1870 tecnologia", "1880 tecnologia", "1900 tecnologia",
+        "edison tesla bell", "santos dumont tecnologia", "inventores século XIX",
+        "revolução industrial brasil", "modernização brasileira", "progresso nacional",
+        
+        "qdo surgiu tecnologia", "qdo apareceu tecnologia", "qdo começou tecnologia",
+        "q ano surgiu tecnologia", "q século surgiu tecnologia", "q época surgiu tecnologia",
+        "origem da tecnologia", "história da tecnologia", "evolução da tecnologia", "desenvolvimento tecnologia",
+        "pré-história e tecnologia", "antiguidade e tecnologia", "idade média e tecnologia",
+        "renascimento e tecnologia", "iluminismo e tecnologia", "modernidade e tecnologia"
+      ],
+      "responses": [
+        "A Tecnologia existe desde a PRÉ-HISTÓRIA (pedra lascada, fogo), mas teve seu GRANDE BOOM na segunda metade do século XIX (1850-1900). Foi a era das invenções revolucionárias: eletricidade, telefone (1876), automóvel, telégrafo (1844), locomotiva a vapor. No Brasil, chegou com a MODERNIZAÇÃO do Império (1850-1889) e se acelerou na República, transformando completamente a sociedade.",
+        "Desenvolveu-se gradualmente desde as PRIMEIRAS FERRAMENTAS humanas, mas explodiu no SÉCULO XIX com a Revolução Industrial. Período dourado: 1850-1900, quando ciência se transformou em tecnologia prática. Invenções que mudaram o mundo: LUZ ELÉTRICA (Edison 1879), TELEFONE (Bell 1876), AUTOMÓVEL (Benz 1885). Foi quando a tecnologia se tornou FORÇA TRANSFORMADORA da civilização moderna."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnologia_onde",
+      "patterns": [
+        "onde surgiu tecnologia", "onde apareceu tecnologia", "onde começou tecnologia",
+        "onde foi criada tecnologia", "onde se desenvolveu tecnologia", "onde tecnologia foi inventada",
+        "em que lugar surgiu tecnologia", "em que local apareceu tecnologia", "em que região começou tecnologia",
+        "em que país surgiu tecnologia", "em que nação apareceu tecnologia", "em qual território começou tecnologia",
+        "onde tecnologia se popularizou", "onde tecnologia ficou famosa", "onde tecnologia se espalhou",
+        "onde mais se usa tecnologia", "onde tecnologia é mais comum", "onde tecnologia é mais popular",
+        "onde estudar tecnologia", "onde aprender tecnologia", "onde ensinar tecnologia",
+        "onde tecnologia brasileira surgiu", "onde começou tecnologia no brasil", "onde tecnologia nacional começou",
+        "centros tecnológicos mundo", "polos tecnológicos", "capitais da tecnologia",
+        "fábricas tecnológicas", "indústrias tecnológicas", "empresas de tecnologia",
+        "onde fica maior centro tecnológico", "onde concentra mais tecnologia", "onde mais inovação tecnológica",
+        "silicon valley", "vale do silício", "centros de inovação",
+        "parques tecnológicos", "incubadoras tecnológicas", "laboratórios de tecnologia",
+        "universidades tecnológicas", "institutos de tecnologia", "escolas técnicas",
+        
+        "aonde surgiu tecnologia", "aonde apareceu tecnologia", "aonde começou tecnologia",
+        "em q lugar surgiu tecnologia", "em q país surgiu tecnologia", "em qual território começou tecnologia",
+        "inglaterra e tecnologia", "europa e tecnologia", "frança e tecnologia", "alemanha e tecnologia",
+        "eua e tecnologia", "japão e tecnologia", "china e tecnologia", "brasil e tecnologia", 
+        "rio de janeiro tecnologia", "são paulo e tecnologia", "minas gerais e tecnologia",
+        "campinas tecnologia", "florianópolis tecnologia", "recife tecnologia"
+      ],
+      "responses": [
+        "A Tecnologia moderna surgiu na INGLATERRA (Revolução Industrial), depois se espalhou pela Europa: França, Alemanha, EUA. Centros principais século XIX: LONDRES (máquinas), PARIS (invenções), BERLIM (química), depois NOVA YORK, BOSTON. No Brasil: começou no RIO DE JANEIRO (capital), São Paulo (indústria), Minas Gerais (mineração), criando polos tecnológicos nacionais.",
+        "Desenvolveu-se inicialmente na EUROPA (Inglaterra, França, Alemanha), explodiu nos EUA no século XIX, depois se globalizou. Principais centros: MANCHESTER (têxtil), DETROIT (automóvel), MENLO PARK (Edison). No Brasil: RIO DE JANEIRO (modernização imperial), SÃO PAULO (industrialização), hoje expandido para Campinas, Florianópolis, Recife - formando ECOSSISTEMA TECNOLÓGICO nacional."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnologia_quem",
+      "patterns": [
+        "quem criou tecnologia", "quem inventou tecnologia", "quem desenvolveu tecnologia",
+        "quem foram os primeiros a usar tecnologia", "quem começou tecnologia", "quem fundou tecnologia",
+        "quem são os grandes mestres tecnologia", "quem são mestres da tecnologia", "quem são principais tecnologia",
+        "quem usa tecnologia", "quem aplica tecnologia", "quem faz tecnologia",
+        "quem são inventores famosos", "quem são grandes inventores", "quem são inventores importantes",
+        "quem foi edison", "quem foi tesla", "quem foi bell", "quem foi morse",
+        "quem foi santos dumont", "quem foi watt", "quem foi ford", "quem foi marconi",
+        "quem são inventores brasileiros", "quem faz tecnologia no brasil", "quem são inovadores brasileiros",
+        "quem são criadores de tecnologia", "quem revolucionou tecnologia", "quem mudou mundo com tecnologia",
+        "quem transformou sociedade tecnologia", "quem impactou humanidade tecnologia", "quem inovou mais tecnologia",
+        "engenheiros famosos", "cientistas inventores", "gênios da tecnologia",
+        "empreendedores tecnológicos", "visionários tecnológicos", "pioneiros tecnológicos",
+        
+        "qm criou tecnologia", "qm inventou tecnologia", "qm desenvolveu tecnologia",
+        "qm foram primeiros tecnologia", "qm começou tecnologia", "qm fundou tecnologia",
+        "qm são grandes mestres tecnologia", "qm são mestres tecnologia", "qm são principais tecnologia",
+        "qm usa tecnologia", "qm aplica tecnologia", "qm faz tecnologia",
+        "inventores famosos", "grandes inventores", "mestres da tecnologia", "gênios tecnológicos",
+        "inovadores tecnológicos", "pioneiros tecnológicos", "revolucionários tecnológicos"
+      ],
+      "responses": [
+        "Grandes inventores da era tecnológica: THOMAS EDISON (luz elétrica, fonógrafo), NIKOLA TESLA (eletricidade), ALEXANDER GRAHAM BELL (telefone), SAMUEL MORSE (telégrafo), HENRY FORD (automóvel em massa). Brasileiro destaque: SANTOS DUMONT (aviação - primeiro voo público mundial). Esses gênios criaram tecnologias que TRANSFORMARAM a civilização moderna.",
+        "Pioneiros da tecnologia moderna: JAMES WATT (máquina a vapor), EDISON (1.093 patentes!), TESLA (corrente alternada), BELL (comunicação), MARCONI (rádio). No Brasil: SANTOS DUMONT (14-Bis), VITAL BRAZIL (biotecnologia), LANDELL DE MOURA (transmissão sem fio). Esses VISIONÁRIOS criaram as bases tecnológicas do mundo contemporâneo com suas invenções revolucionárias."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnologia_por_que",
+      "patterns": [
+        "por que existe tecnologia", "por que foi criada tecnologia", "por que surgiu tecnologia",
+        "por que tecnologia é importante", "por que tecnologia é necessária", "por que tecnologia é útil",
+        "por que usar tecnologia", "por que aplicar tecnologia", "por que desenvolver tecnologia",
+        "motivos da tecnologia", "razões da tecnologia", "causas da tecnologia",
+        "fatores que levaram à tecnologia", "o que causou tecnologia", "o que motivou tecnologia",
+        "por que humanos criam tecnologia", "por que sociedade precisa tecnologia", "por que mundo precisa tecnologia",
+        "vantagens da tecnologia", "benefícios da tecnologia", "importância da tecnologia",
+        "finalidade da tecnologia", "objetivo da tecnologia", "propósito da tecnologia",
+        "para que serve tecnologia", "qual função da tecnologia", "qual utilidade da tecnologia",
+        "por que tecnologia mudou mundo", "por que tecnologia revolucionou sociedade", "por que tecnologia transformou vida",
+        "necessidade da tecnologia", "urgência da tecnologia", "demanda por tecnologia",
+        "evolução tecnológica", "progresso tecnológico", "avanço tecnológico",
+        
+        "pq existe tecnologia", "pq foi criada tecnologia", "pq surgiu tecnologia",
+        "pq tecnologia é importante", "pq tecnologia é necessária", "pq tecnologia é útil",
+        "pq usar tecnologia", "pq aplicar tecnologia", "pq desenvolver tecnologia",
+        "motivos tecnologia", "razões tecnologia", "causas tecnologia",
+        "pq humanos criam tecnologia", "pq sociedade precisa tecnologia", "pq mundo precisa tecnologia",
+        "vantagens tecnologia", "benefícios tecnologia", "importância tecnologia",
+        "finalidade tecnologia", "objetivo tecnologia", "propósito tecnologia"
+      ],
+      "responses": [
+        "A Tecnologia existe para RESOLVER PROBLEMAS HUMANOS e facilitar a vida: aumentar produtividade, melhorar comunicação, acelerar transporte, curar doenças, dominar forças naturais. No século XIX, motivada pela NECESSIDADE DE PROGRESSO: industrialização exigia máquinas eficientes, sociedade demandava conforto. Objetivo principal: transformar conhecimento científico em SOLUÇÕES PRÁTICAS para a humanidade.",
+        "Surgiu pela NECESSIDADE HUMANA de superar limitações físicas e ambientais: comunicar à distância, viajar rapidamente, trabalhar com menos esforço, viver mais confortavelmente. Século XIX mostrou seu poder transformador: máquinas aumentaram produção, eletricidade iluminou cidades, telefone conectou pessoas. A tecnologia é FERRAMENTA ESSENCIAL para evolução da civilização e melhoria da qualidade de vida."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnologia_como",
+      "patterns": [
+        "como funciona tecnologia", "como é feita tecnologia", "como se aplica tecnologia",
+        "como é estrutura da tecnologia", "como é organizada tecnologia", "como é construída tecnologia",
+        "como identificar tecnologia", "como reconhecer tecnologia", "como saber se é tecnologia",
+        "como usar tecnologia", "como aplicar tecnologia", "como desenvolver tecnologia",
+        "como estudar tecnologia", "como aprender tecnologia", "como dominar tecnologia",
+        "como tecnologia funciona", "como tecnologia opera", "como tecnologia atua",
+        "como é processo da tecnologia", "como é criação da tecnologia", "como é inovação tecnológica",
+        "como tecnologia evolui", "como tecnologia se desenvolve", "como tecnologia progride",
+        "como fazer inovação tecnológica", "como criar nova tecnologia", "como inventar tecnologia",
+        "processo de desenvolvimento tecnológico", "metodologia tecnológica", "sistema tecnológico",
+        
+        "cm funciona tecnologia", "cm é feita tecnologia", "cm se aplica tecnologia",
+        "cm é estrutura tecnologia", "cm é organizada tecnologia", "cm é construída tecnologia",
+        "cm identificar tecnologia", "cm reconhecer tecnologia", "cm saber se é tecnologia",
+        "cm usar tecnologia", "cm aplicar tecnologia", "cm desenvolver tecnologia",
+        "de que forma funciona tecnologia", "de que maneira é feita tecnologia", "de que jeito se aplica tecnologia",
+        "processo da tecnologia", "metodologia tecnológica", "sistema tecnológico",
+        "mecanismo tecnológico", "funcionamento tecnológico", "operação tecnológica"
+      ],
+      "responses": [
+        "A Tecnologia funciona através do CICLO DE INOVAÇÃO: identificação de problema, pesquisa científica, desenvolvimento de solução, teste e refinamento, produção em massa, aplicação prática. No século XIX: necessidade de luz → pesquisa elétrica → lâmpada de Edison → iluminação pública. Processo: CIÊNCIA gera conhecimento → TECNOLOGIA cria aplicações → SOCIEDADE se transforma.",
+        "Opera pelo PROCESSO DE ENGENHARIA: análise de necessidades, projeto técnico, construção de protótipo, testes de funcionamento, otimização, produção industrial, distribuição social. Exemplo século XIX: telefone de Bell surgiu da necessidade de comunicação à distância, usando conhecimentos de acústica e eletricidade. Tecnologia é PONTE entre descoberta científica e solução prática dos problemas humanos."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnologia_tipos",
+      "patterns": [
+        "tipos de tecnologia", "tipos tecnologia", "variedades de tecnologia",
+        "categorias de tecnologia", "classificação de tecnologia", "divisões da tecnologia",
+        "áreas da tecnologia", "campos da tecnologia", "setores tecnológicos",
+        "especialidades tecnológicas", "ramos tecnológicos", "segmentos tecnológicos",
+        "quais tipos de tecnologia existem", "que tipos de tecnologia tem", "quais tecnologias existem",
+        "principais tecnologias", "grandes tecnologias", "tecnologias importantes",
+        "tecnologia de comunicação", "tecnologia de transporte", "tecnologia médica",
+        "tecnologia industrial", "tecnologia agrícola", "tecnologia militar",
+        "tecnologia de informação", "biotecnologia", "nanotecnologia",
+        "tecnologia digital", "tecnologia analógica", "tecnologia mecânica",
+        "tecnologia elétrica", "tecnologia eletrônica", "tecnologia nuclear",
+        
+        "tipos tecnologia", "variedades tecnologia", "categorias tecnologia", "áreas tecnologia",
+        "campos tecnologia", "setores tecnologia", "ramos tecnologia", "segmentos tecnologia",
+        "tecnologias existentes", "principais tecnologias", "grandes tecnologias",
+        "classificação tecnológica", "divisão tecnológica", "organização tecnológica"
+      ],
+      "responses": [
+        "Principais tipos de tecnologia: COMUNICAÇÃO (telefone, telégrafo, rádio), TRANSPORTE (locomotiva, automóvel, navio a vapor), ENERGIA (eletricidade, máquina a vapor), PRODUÇÃO (máquinas industriais, linha de montagem), MEDICINA (raios-X, anestesia, vacinas). Século XIX criou bases de todas essas categorias que REVOLUCIONARAM a sociedade moderna.",
+        "Classificação tecnológica fundamental: TECNOLOGIAS DE BASE (vapor, eletricidade), APLICADAS (telefone, automóvel), INDUSTRIAIS (máquinas, fábricas), SOCIAIS (educação, saúde). No século XIX: cada categoria teve avanços revolucionários - comunicação conectou o mundo, transporte encurtou distâncias, medicina salvou vidas, indústria aumentou produção. Todas integradas no SISTEMA TECNOLÓGICO moderno."
+      ]
+    },
+    {
+      "intent": "o_que_e_tecnologia_ciencia_modernidade",
+      "patterns": [
+        "tecnologia ciência modernidade", "ciência tecnologia modernidade", "modernidade tecnológica científica",
+        "relação ciência tecnologia", "ligação tecnologia ciência", "conexão ciência tecnologia",
+        "ciência aplicada tecnologia", "tecnologia baseada ciência", "conhecimento científico tecnológico",
+        "revolução científica tecnológica", "progresso científico tecnológico", "avanço tecnológico científico",
+        "modernidade século XIX", "era da tecnologia", "época das invenções",
+        "descobertas viram tecnologia", "ciência vira tecnologia", "laboratório vira fábrica",
+        "pesquisa vira produto", "teoria vira prática", "conhecimento vira aplicação",
+        "impacto tecnológico sociedade", "transformação tecnológica social", "mudança tecnológica cultural",
+        "progresso material século XIX", "modernização tecnológica", "industrialização tecnológica",
+        "descompasso tecnológico social", "avanços desiguais", "contradições da modernidade",
+        "desilusão com progresso", "crítica ao progresso", "problemas da modernidade",
+        "literatura e tecnologia", "realismo e modernidade", "arte e progresso tecnológico",
+        "sociedade industrial", "civilização tecnológica", "mundo moderno tecnológico",
+        
+        "ciência e tecnologia", "tecnologia e ciência", "modernidade científica", "progresso tecnológico",
+        "revolução industrial", "era das máquinas", "idade da tecnologia", "boom tecnológico",
+        "descobertas viraram invenções", "laboratório virou fábrica", "teoria virou máquina"
+      ],
+      "responses": [
+        "A SEGUNDA METADE DO SÉCULO XIX marcou a união perfeita entre CIÊNCIA E TECNOLOGIA: descobertas científicas se transformaram rapidamente em invenções práticas. Eletricidade (ciência) → luz elétrica (tecnologia), acústica → telefone, termodinâmica → máquinas. Essa MODERNIDADE TECNOLÓGICA criou descompasso: progresso material acelerado × problemas sociais persistentes, gerando desilusão que inspirou a LITERATURA REALISTA.",
+        "Período de REVOLUÇÃO CIENTÍFICO-TECNOLÓGICA (1850-1900): laboratórios viraram fábricas, teorias viraram máquinas, pesquisa virou produto. Exemplos: estudos elétricos de Faraday → invenções de Edison; pesquisa acústica → telefone de Bell. Essa modernidade trouxe PROGRESSO MATERIAL sem equivalente progresso social, criando contradições que se tornaram tema central da prosa realista - crítica aos avanços desiguais da civilização industrial."
+      ]
+    }
+  ]
+}
